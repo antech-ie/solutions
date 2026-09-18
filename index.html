@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Antech Solutions – Under Construction</title>
+  <meta name="description" content="Antech Solutions – our new site is under construction.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --orange: #eb7d30;
+      --orange-dark: #d96a1f;
+      --navy: #003388;
+      --blue: #2ea3f2;
+      --text: #333;
+      --muted: #666;
+      --bg: #f7f7f7;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html, body { height: 100%; }
+    body {
+      font-family: 'Open Sans', Arial, sans-serif;
+      color: var(--text);
+      background: var(--bg);
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+    .topbar { height: 6px; background: linear-gradient(90deg, var(--orange), var(--orange-dark)); }
+    header {
+      background: #fff;
+      box-shadow: 0 1px 0 rgba(0,0,0,.08);
+      padding: 12px 24px;
+    }
+    header .inner { max-width: 1080px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; }
+    header img { height: 64px; width: auto; display: block; }
+    header nav a {
+      color: var(--text); text-decoration: none; font-weight: 600; font-size: 14px;
+      text-transform: uppercase; letter-spacing: .5px;
+    }
+    header nav a:hover { color: var(--orange); }
+
+    main {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 64px 16px;
+      background:
+        radial-gradient(circle at 85% 20%, rgba(46,163,242,.10), transparent 45%),
+        radial-gradient(circle at 10% 90%, rgba(235,125,48,.12), transparent 45%),
+        var(--bg);
+    }
+    .card {
+      background: #fff;
+      max-width: 720px;
+      width: 100%;
+      padding: 56px 48px;
+      border-top: 4px solid var(--orange);
+      box-shadow: 0 10px 30px rgba(0,0,0,.08);
+      text-align: center;
+    }
+    .badge {
+      display: inline-block;
+      background: rgba(235,125,48,.12);
+      color: var(--orange-dark);
+      font-weight: 700; font-size: 12px; letter-spacing: 1.5px; text-transform: uppercase;
+      padding: 6px 14px; border-radius: 20px; margin-bottom: 24px;
+    }
+    h1 { font-size: 40px; font-weight: 700; color: var(--navy); line-height: 1.2; margin-bottom: 16px; }
+    h1 span { color: var(--orange); }
+    p.lead { font-size: 18px; font-weight: 300; color: var(--muted); line-height: 1.7; margin-bottom: 32px; }
+    .progress { height: 6px; background: #eee; border-radius: 3px; overflow: hidden; margin: 0 auto 36px; max-width: 360px; }
+    .progress div {
+      height: 100%; width: 40%;
+      background: linear-gradient(90deg, var(--orange), var(--blue));
+      border-radius: 3px;
+      animation: slide 2.2s ease-in-out infinite;
+    }
+    @keyframes slide { 0% { transform: translateX(-100%); } 100% { transform: translateX(250%); } }
+    @media (prefers-reduced-motion: reduce) { .progress div { animation: none; width: 60%; } }
+    .btn {
+      display: inline-block; background: var(--orange); color: #fff; text-decoration: none;
+      font-weight: 600; padding: 14px 32px; border-radius: 3px; transition: background .2s;
+    }
+    .btn:hover { background: var(--orange-dark); }
+    .contacts {
+      display: grid; grid-template-columns: 1fr 1fr; gap: 24px;
+      margin-top: 40px; padding-top: 32px; border-top: 1px solid #eee; text-align: left;
+    }
+    .contacts h3 { font-size: 14px; text-transform: uppercase; letter-spacing: 1px; color: var(--orange); margin-bottom: 8px; }
+    .contacts p { font-size: 15px; line-height: 1.7; color: var(--muted); }
+    .contacts a { color: var(--navy); text-decoration: none; }
+    .contacts a:hover { color: var(--orange); }
+
+    footer { background: #222; color: #aaa; font-size: 13px; text-align: center; padding: 20px 16px; }
+    footer a { color: #fff; text-decoration: none; }
+    footer a:hover { color: var(--orange); }
+
+    @media (max-width: 600px) {
+      header img { height: 48px; }
+      .card { padding: 40px 24px; }
+      h1 { font-size: 30px; }
+      p.lead { font-size: 16px; }
+      .contacts { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <div class="topbar"></div>
+  <header>
+    <div class="inner">
+      <a href="https://antech.ie"><img src="assets/logo.png" alt="Antech"></a>
+      <nav><a href="https://antech.ie">antech.ie</a></nav>
+    </div>
+  </header>
+
+  <main>
+    <div class="card">
+      <span class="badge">Under construction</span>
+      <h1>Something new is <span>on the way</span></h1>
+      <p class="lead">We're building this site right now. Please check back soon. In the meantime, you can find us at our main website.</p>
+      <div class="progress" aria-hidden="true"><div></div></div>
+      <a class="btn" href="https://antech.ie">Visit antech.ie</a>
+
+      <div class="contacts">
+        <div>
+          <h3>Ireland</h3>
+          <p>Tel: <a href="tel:+35351392391">+353 (0)51 392 391</a><br>
+             <a href="mailto:info@antech.ie">info@antech.ie</a></p>
+        </div>
+        <div>
+          <h3>United Kingdom</h3>
+          <p>Tel: <a href="tel:+442034689813">+44 (0)20 346 898 13</a><br>
+             <a href="mailto:info@antechsolutions.co.uk">info@antechsolutions.co.uk</a></p>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    &copy; <span id="y">2026</span> Antech &middot; <a href="https://antech.ie">antech.ie</a>
+  </footer>
+  <script>document.getElementById('y').textContent = new Date().getFullYear();</script>
+</body>
+</html>
