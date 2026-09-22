@@ -1,0 +1,313 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Education & Academia | Antech Solutions</title>
+<meta name="description" content="Analytical solutions for teaching, research, field analysis, method development and applied process research from Antech Solutions.">
+<style>
+:root{
+  --navy:#111820; --navy2:#162736; --ink:#15202b; --muted:#607080;
+  --blue:#1383c6; --cyan:#1383c6; --orange:#f58220; --orange-dark:#d96c10;
+  --pale:#f5f7f9; --line:#dde3e8; --white:#fff; --warm:#f5f7f9; --max:1180px; --r:20px;
+}
+*{box-sizing:border-box} html{scroll-behavior:smooth}
+body{margin:0;font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",Arial,sans-serif;color:var(--ink);background:#fff;line-height:1.55}
+a{color:inherit}.wrap{max-width:var(--max);margin:auto;padding:0 28px}
+.top{position:sticky;top:0;z-index:20;background:rgba(255,255,255,.94);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
+.nav{height:76px;display:flex;align-items:center;justify-content:space-between;gap:28px}
+.brand{font-weight:850;letter-spacing:.02em;color:var(--navy);font-size:22px;text-decoration:none}
+.brand small{font-weight:500;color:var(--blue);margin-left:8px}
+.links{display:flex;align-items:center;gap:24px;font-size:14px;font-weight:700}
+.links a{text-decoration:none}.btn{display:inline-flex;align-items:center;justify-content:center;border-radius:999px;padding:13px 20px;text-decoration:none;font-weight:800;border:1px solid transparent;transition:.2s}
+.btn.primary{background:var(--blue);color:#fff}.btn.primary:hover{background:#11689e;transform:translateY(-1px)}
+.btn.ghost{border-color:#b8cad3;background:#fff;color:var(--navy)}
+.hero{position:relative;overflow:hidden;background:linear-gradient(135deg,#f7fafc 0%,#fff 45%,#f6fbff 100%);color:var(--ink)}
+.hero .wrap{min-height:610px;display:grid;grid-template-columns:1.05fr .95fr;gap:58px;align-items:center;padding-top:70px;padding-bottom:70px}
+.kicker{font-size:13px;letter-spacing:.16em;text-transform:uppercase;font-weight:850;color:#77d5df;margin-bottom:17px}
+h1{font-size:clamp(44px,6vw,72px);line-height:.98;letter-spacing:-3.4px;margin:0 0 24px;max-width:850px;color:var(--ink)}
+.hero p{font-size:20px;color:#536373;max-width:690px;margin:0 0 30px}
+.hero-actions{display:flex;gap:12px;flex-wrap:wrap}.hero .btn.ghost{background:#fff;border-color:#cfd7df;color:#24313d}
+.hero-art{position:relative;min-height:420px}
+.orbit{position:absolute;border:1px solid rgba(19,131,198,.18);border-radius:50%}
+.o1{inset:15px}.o2{inset:70px}.o3{inset:125px}
+.instrument{position:absolute;background:linear-gradient(145deg,#fdfefe,#dfe9ed);box-shadow:0 28px 55px rgba(0,0,0,.25);border-radius:18px;color:var(--navy);padding:22px;border:1px solid rgba(255,255,255,.7)}
+.instrument b{display:block;font-size:22px}.instrument span{font-size:12px;color:#58707f;font-weight:700}
+.i1{width:230px;height:175px;left:35px;top:70px;transform:rotate(-5deg)}
+.i2{width:205px;height:155px;right:18px;top:155px;transform:rotate(5deg)}
+.screen{height:58px;border-radius:8px;background:linear-gradient(135deg,#1b5273,#32a7b6);margin-top:18px}
+.section{padding:92px 0}.section.alt{background:var(--warm)}
+.eyebrow{font-size:12px;font-weight:850;letter-spacing:.16em;text-transform:uppercase;color:var(--blue);margin-bottom:12px}
+h2{font-size:clamp(34px,4vw,52px);line-height:1.06;letter-spacing:-.035em;color:var(--navy);margin:0 0 18px}
+.lead{font-size:19px;color:var(--muted);max-width:780px;margin:0 0 42px}
+.pillars{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.card{border:1px solid var(--line);border-radius:var(--r);padding:28px;background:#fff;box-shadow:0 8px 30px rgba(21,50,70,.05)}
+.card .num{font-size:12px;font-weight:900;color:var(--blue);letter-spacing:.12em}.card h3{font-size:22px;color:var(--navy);margin:12px 0 8px}.card p{margin:0;color:var(--muted)}
+.journey{display:grid;grid-template-columns:repeat(5,1fr);gap:0;border:1px solid var(--line);border-radius:22px;overflow:hidden;background:#fff}
+.step{padding:26px 22px;min-height:225px;border-right:1px solid var(--line)}.step:last-child{border-right:0}
+.step strong{display:block;color:var(--blue);font-size:12px;margin-bottom:42px}.step h3{font-size:19px;margin:0 0 9px;color:var(--navy)}.step p{font-size:14px;color:var(--muted);margin:0}
+.feature-grid{display:grid;grid-template-columns:1fr 1fr;gap:22px}
+.product{border-radius:24px;overflow:hidden;border:1px solid var(--line);background:#fff;display:grid;grid-template-columns:.78fr 1.22fr;min-height:330px}
+.product-visual{background:linear-gradient(145deg,#e8f1f3,#f9fbfb);display:flex;align-items:center;justify-content:center;padding:25px}
+.machine{width:80%;max-width:190px;aspect-ratio:1/.85;background:linear-gradient(145deg,#fff,#d9e3e7);border:1px solid #c9d5da;border-radius:14px;box-shadow:0 18px 32px rgba(24,55,70,.13);position:relative}
+.machine:after{content:"";position:absolute;left:15%;right:15%;top:20%;height:28%;border-radius:6px;background:linear-gradient(135deg,#143c58,#31a4b4)}
+.product-copy{padding:30px}.tag{font-size:11px;letter-spacing:.12em;font-weight:900;color:var(--blue)}.product h3{font-size:28px;margin:8px 0 10px;color:var(--navy)}.product p{color:var(--muted);margin:0 0 18px}.product ul{padding-left:18px;color:#425462;font-size:14px}.product a{color:var(--blue);font-weight:800;text-decoration:none}
+.portable{display:grid;grid-template-columns:1fr 1fr;gap:22px;margin-top:22px}.portable .card{padding:34px}
+.progression{background:var(--navy);color:#fff;border-radius:28px;padding:48px;display:grid;grid-template-columns:.9fr 1.1fr;gap:45px;align-items:center}
+.progression h2{color:#fff}.progression .lead{color:#c8dbe5;margin-bottom:0}.process-items{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.process{padding:22px;border:1px solid rgba(255,255,255,.18);border-radius:16px;background:rgba(255,255,255,.06)}.process b{font-size:20px}.process p{font-size:14px;color:#c8dbe5;margin:6px 0 0}
+.consult{display:grid;grid-template-columns:1.1fr .9fr;gap:22px}
+.offer{background:linear-gradient(135deg,#eaf6f7,#f8fbfb);border-radius:26px;padding:42px;border:1px solid #d2e6e9}.offer h2{font-size:40px}
+.checks{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:28px 0}.check{background:#fff;border:1px solid var(--line);border-radius:14px;padding:16px;font-size:14px}.check b{display:block;color:var(--navy)}
+.form{background:#fff;border:1px solid var(--line);border-radius:26px;padding:36px;box-shadow:0 12px 40px rgba(20,50,70,.08)}
+label{display:block;font-size:12px;font-weight:850;color:var(--navy);margin:14px 0 6px}input,select,textarea{width:100%;border:1px solid #cbd8de;border-radius:10px;padding:12px 13px;font:inherit;background:#fff}textarea{min-height:110px;resize:vertical}
+.form .btn{width:100%;margin-top:18px;border:0;cursor:pointer}.note{font-size:12px;color:#77858f;margin-top:12px}
+footer{background:#0c1218;color:#c7d6df;padding:34px 0}.foot{display:flex;justify-content:space-between;gap:24px;align-items:center}.foot b{color:#fff}.foot a{color:#c7d6df;text-decoration:none;margin-left:18px}
+@media(max-width:900px){
+ .links a:not(.btn){display:none}.hero .wrap{grid-template-columns:1fr;min-height:auto}.hero-art{min-height:330px}
+ .pillars,.feature-grid,.portable{grid-template-columns:1fr}.journey{grid-template-columns:1fr}.step{border-right:0;border-bottom:1px solid var(--line);min-height:auto}.step strong{margin-bottom:12px}
+ .product{grid-template-columns:1fr}.product-visual{min-height:220px}.progression,.consult{grid-template-columns:1fr}.process-items{grid-template-columns:1fr 1fr}
+}
+@media(max-width:560px){
+ .wrap{padding:0 19px}.nav{height:68px}.brand small{display:none}.section{padding:68px 0}.hero .wrap{padding-top:54px;padding-bottom:54px}
+ h1{font-size:43px}.hero p{font-size:17px}.hero-art{min-height:270px}.i1{left:5px;top:40px;width:185px;height:145px}.i2{right:0;top:120px;width:165px;height:130px}
+ .progression{padding:30px 22px}.process-items,.checks{grid-template-columns:1fr}.offer,.form{padding:28px 22px}.foot{display:block}.foot div:last-child{margin-top:12px}.foot a{margin:0 14px 0 0}
+}
+
+.ref-topbar{background:#111820;color:#e8edf2;font-size:14px;padding:9px 0}
+.ref-topbar .wrap{display:flex;justify-content:space-between;gap:20px;align-items:center}
+.ref-topbar a{color:#e8edf2;text-decoration:none}
+.brandlock{display:flex;align-items:center;gap:22px;min-width:300px}
+.antech-brand{display:flex;flex-direction:column;align-items:center;justify-content:center}
+.antech-logo-img{display:block;width:150px;height:auto;max-height:52px;object-fit:contain}
+.antech-tagline{font-size:11px;font-weight:800;letter-spacing:.04em;color:#5c6b78;white-space:nowrap;text-align:center;margin-top:4px}
+.divider{height:34px;width:1px;background:#d8dee4}
+.bruker-logo{position:relative;width:122px;height:48px;display:grid;place-items:center}
+.bruker-logo svg{position:absolute;inset:0;width:100%;height:100%}
+.bruker-word{font-weight:900;letter-spacing:-1px;font-size:21px;z-index:1;color:#111}
+.btn.primary{background:var(--orange)!important;color:#fff;box-shadow:0 10px 24px rgba(245,130,32,.28)}
+.btn.primary:hover{background:var(--orange-dark)!important}
+.kicker,.eyebrow{color:var(--blue)}
+.card .num,.step strong,.tag{color:var(--blue)}
+.product a,.portable a{color:var(--blue)!important}
+.offer{background:linear-gradient(135deg,#fff8f2,#f3faff)}
+.check{border-color:#e2e9ee}
+@media(max-width:620px){
+ .ref-topbar .wrap{justify-content:center}.ref-topbar span:last-child{display:none}
+ .brandlock{gap:12px;min-width:auto}.antech-logo-img{width:118px}.antech-tagline{display:none}
+ .bruker-logo{width:96px}.divider{height:26px}
+}
+
+
+.photo-hero{min-height:470px;display:flex;align-items:center;justify-content:center}
+.hero-photo{width:100%;height:440px;object-fit:cover;border-radius:24px;box-shadow:0 20px 50px rgba(18,32,46,.16);border:1px solid #e1e8ed}
+.hero-product-float{position:absolute;right:-18px;bottom:10px;width:265px;background:rgba(255,255,255,.96);border:1px solid #e1e8ed;border-radius:18px;padding:14px;box-shadow:0 18px 42px rgba(18,32,46,.18)}
+.hero-product-float img{width:100%;height:125px;object-fit:contain;display:block}
+.hero-product-float span{display:block;color:#41515f;font-size:12px;font-weight:800;line-height:1.35;margin-top:6px}
+.real-product{background:linear-gradient(145deg,#f4f7f9,#fff)}
+.real-product img{width:94%;height:240px;object-fit:contain;display:block}
+.visual-applications{background:#fff}
+.photo-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.photo-story{overflow:hidden;border:1px solid var(--line);border-radius:22px;background:#fff;box-shadow:0 10px 30px rgba(20,35,50,.06)}
+.photo-story img{width:100%;height:245px;object-fit:cover;display:block}
+.photo-story>div{padding:22px}.photo-story span{font-size:11px;letter-spacing:.1em;font-weight:900;color:var(--blue)}
+.photo-story h3{font-size:21px;color:var(--navy);margin:7px 0 7px}.photo-story p{font-size:14px;color:var(--muted);margin:0}
+.visual-card{overflow:hidden;padding:0!important}.visual-card>img{width:100%;height:230px;object-fit:cover;display:block;margin-bottom:0}
+.visual-card>.tag,.visual-card>h3,.visual-card>p{margin-left:28px;margin-right:28px}.visual-card>.tag{margin-top:25px}.visual-card>p:last-child{margin-bottom:28px}
+.progression-photo{position:relative;overflow:hidden;background:
+ linear-gradient(90deg,rgba(17,24,32,.97) 0%,rgba(17,24,32,.92) 45%,rgba(17,24,32,.73) 100%),var(--pilot) center/cover no-repeat}
+@media(max-width:900px){.photo-grid{grid-template-columns:1fr}.hero-product-float{right:10px}.real-product img{height:220px}}
+@media(max-width:560px){.hero-photo{height:330px}.hero-product-float{position:relative;right:auto;bottom:auto;width:90%;margin:-70px auto 0}.photo-hero{display:block}.photo-story img{height:220px}}
+
+</style>
+</head>
+<body>
+<div class="ref-topbar">
+ <div class="wrap"><span>Ireland <a href="tel:+35351383775">051 383775</a></span><span><a href="mailto:richard@antech.ie">richard@antech.ie</a></span></div>
+</div>
+<header class="top">
+ <div class="wrap nav">
+  <div class="brandlock">
+   <div class="antech-brand">
+    <a href="https://antech.ie/" aria-label="Visit Antech.ie"><img class="antech-logo-img" alt="Antech" src="data:image/webp;base64,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MjgwRDE4QkZERDdGQjdDQkQzRDVEMEQ2NDgxMEE5IiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjUyREQ3QzU2RUY2ODExRTlCMzQzREVDMUZCREM3MTNFIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjUyREQ3QzU1RUY2ODExRTlCMzQzREVDMUZCREM3MTNFIiB4bXA6Q3JlYXRvclRvb2w9IkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE5IChXaW5kb3dzKSI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjZEMTYyOTFBRDJGMzExRTlCRkZBODc5QzFEMzY3RUFFIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjZEMTYyOTFCRDJGMzExRTlCRkZBODc5QzFEMzY3RUFFIi8+IDxkYzpjcmVhdG9yPiA8cmRmOlNlcT4gPHJkZjpsaT5GaXJtYTwvcmRmOmxpPiA8L3JkZjpTZXE+IDwvZGM6Y3JlYXRvcj4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4A"></a>
+    <div class="antech-tagline">Analyse | Understand | Optimise</div>
+   </div>
+   <span class="divider"></span>
+   <div class="bruker-logo" aria-label="Bruker">
+    <svg aria-hidden="true" viewBox="0 0 122 48"><ellipse cx="61" cy="24" fill="none" rx="52" ry="14" stroke="#1383c6" stroke-width="2.8" transform="rotate(24 61 24)"></ellipse><ellipse cx="61" cy="24" fill="none" rx="52" ry="14" stroke="#1383c6" stroke-width="2.8" transform="rotate(-24 61 24)"></ellipse><circle cx="21" cy="11" fill="#1383c6" r="4.3"></circle><circle cx="102" cy="36" fill="#1383c6" r="4.3"></circle></svg>
+    <span class="bruker-word">BRUKER</span>
+   </div>
+  </div>
+  <nav class="links">
+   <a href="#journey">Academic journey</a><a href="#solutions">Solutions</a><a href="#review">Consultation</a>
+   <a class="btn primary" href="#review">Discuss your programme</a>
+  </nav>
+ </div>
+</header>
+
+<main>
+<section class="hero">
+ <div class="wrap">
+  <div>
+   <div class="eyebrow"><span style="width:9px;height:9px;background:#f58220;border-radius:50%;display:inline-block;margin-right:8px"></span>Education & Academia</div>
+   <h1>From practical learning to applied research.</h1>
+   <p>Build analytical capability around how your students learn, how your researchers work and where your programme needs to go next — from accessible laboratory spectroscopy to field analysis, method development and process research.</p>
+   <div class="hero-actions"><a class="btn primary" href="#review">Discuss your programme</a><a class="btn ghost" href="#solutions">Explore solutions</a></div>
+  </div>
+  <div class="hero-art photo-hero" aria-label="Student using analytical instrumentation in an academic laboratory">
+      <img class="hero-photo" src="https://www.johnstown.pitt.edu/sites/default/files/UVvis.jpeg" alt="Student using spectroscopy instrumentation in a university laboratory">
+      <div class="hero-product-float"><img src="https://www.bruker.com/en/products-and-solutions/infrared-and-raman/ft-nir-spectrometers/mpa-ii-multi-purpose-analyzer/_jcr_content/root/herostage/desktopImage.coreimg.82.1920.png/1764628241941/banner-mpa-iii-ft-nir-spectrometer-bruker.png" alt="Bruker MPA III FT-NIR spectrometer"><span>Flexible FT-NIR for teaching, research &amp; method development</span></div>
+     </div>
+    </div>
+</section>
+
+<section class="section">
+ <div class="wrap">
+  <div class="eyebrow">Build capability, not just a lab</div>
+  <h2>One analytical pathway can support teaching, research and future collaboration.</h2>
+  <p class="lead">The right platform should fit today's module or project without closing off tomorrow's research. Antech helps academic teams map users, samples and analytical depth before selecting instrumentation.</p>
+  <div class="pillars">
+   <article class="card"><div class="num">01 · TEACH</div><h3>Make spectroscopy practical</h3><p>Give students hands-on experience with rapid, non-destructive analytical techniques and guided workflows that connect theory with real samples.</p></article>
+   <article class="card"><div class="num">02 · RESEARCH</div><h3>Support changing questions</h3><p>Move from routine measurements into quantitative calibration, chemometrics, method development and varied sample types as research evolves.</p></article>
+   <article class="card"><div class="num">03 · APPLY</div><h3>Bridge lab and process</h3><p>Extend analytical work into field, pilot and process environments — building experience relevant to industrial research and PAT.</p></article>
+  </div>
+ </div>
+</section>
+
+<section id="journey" class="section alt">
+ <div class="wrap">
+  <div class="eyebrow">The academic journey</div>
+  <h2>Start with the learning outcome. Build toward the research opportunity.</h2>
+  <p class="lead">Rather than treating every instrument as a separate purchase, map the capability your department or facility needs across its full journey.</p>
+  <div class="journey">
+   <div class="step"><strong>01</strong><h3>Teaching & practical learning</h3><p>Accessible workflows for spectroscopy fundamentals, sample measurement and interpretation.</p></div>
+   <div class="step"><strong>02</strong><h3>Flexible research & shared facilities</h3><p>Broader sample handling and adaptable analytical capability across users and projects.</p></div>
+   <div class="step"><strong>03</strong><h3>Portable & field analysis</h3><p>Take measurements to samples across agriculture, materials, chemistry and field research.</p></div>
+   <div class="step"><strong>04</strong><h3>Method development</h3><p>Develop calibration models, classification methods and quantitative analytical workflows.</p></div>
+   <div class="step"><strong>05</strong><h3>Applied & process research</h3><p>Move from offline analysis toward pilot-scale, process monitoring and industry collaboration.</p></div>
+  </div>
+ </div>
+</section>
+
+
+<section class="section visual-applications">
+ <div class="wrap">
+  <div class="eyebrow">Learning beyond the instrument</div>
+  <h2>Analytical science across the academic environment.</h2>
+  <p class="lead">From hands-on practical classes to field studies and pilot-scale process research, spectroscopy can support a progression from learning the technique to applying it to real analytical questions.</p>
+  <div class="photo-grid">
+   <article class="photo-story"><img src="https://www.johnstown.pitt.edu/sites/default/files/UVvis.jpeg" alt="University student using analytical instrumentation"><div><span>TEACHING LABS</span><h3>Hands-on analytical learning</h3><p>Give students direct experience of sample measurement, spectra and analytical interpretation.</p></div></article>
+   <article class="photo-story"><img src="https://engineering.ucdavis.edu/sites/g/files/dgvnsk2151/files/styles/sf_landscape_4x3/public/media/images/54781427492_55d56b5d6a_k.jpg?h=a1e1a043&itok=UdryQJ-y" alt="Researcher using a handheld analyser during field research"><div><span>FIELD RESEARCH</span><h3>Take analysis to the sample</h3><p>Extend analytical projects beyond the laboratory into agriculture, environmental and applied field research.</p></div></article>
+   <article class="photo-story"><img src="https://images.squarespace-cdn.com/content/v1/69581c5712c943765209b3a8/61eb43b9-03ae-4f05-81d8-147d329b38b2/Pilot%2BPlant.png" alt="University chemical engineering pilot plant"><div><span>APPLIED RESEARCH</span><h3>Connect laboratory methods to process research</h3><p>Build a pathway toward pilot-scale monitoring, PAT concepts and industry-facing research.</p></div></article>
+  </div>
+ </div>
+</section>
+<section id="solutions" class="section">
+ <div class="wrap">
+  <div class="eyebrow">Core FT-NIR platforms</div>
+  <h2>Two strong foundations for academic spectroscopy.</h2>
+  <p class="lead">MPA III provides broad sampling flexibility for research and method development; TANGO II makes routine FT-NIR approachable for teaching and shared environments.</p>
+  <div class="feature-grid">
+   <article class="product">
+    <div class="product-visual real-product"><img src="https://www.bruker.com/en/products-and-solutions/infrared-and-raman/ft-nir-spectrometers/mpa-ii-multi-purpose-analyzer/_jcr_content/root/herostage/desktopImage.coreimg.82.1920.png/1764628241941/banner-mpa-iii-ft-nir-spectrometer-bruker.png" alt="Bruker MPA III FT-NIR spectrometer"></div>
+    <div class="product-copy"><div class="tag">MPA III · FLEXIBLE RESEARCH & SHARED FACILITIES</div><h3>One platform. Multiple research directions.</h3>
+     <p>A modular FT-NIR platform for laboratories that need flexibility across liquids, solids and semi-solids, routine work and sophisticated method development.</p>
+     <ul><li>Multiple sampling approaches</li><li>Quantitative and qualitative method development</li><li>Suitable for laboratory and factory-floor research</li></ul>
+     <a href="https://www.bruker.com/en/products-and-solutions/infrared-and-raman/ft-nir-spectrometers/mpa-ii-multi-purpose-analyzer.html">Explore MPA III ↗</a>
+    </div>
+   </article>
+   <article class="product">
+    <div class="product-visual real-product"><img src="https://www.bruker.com/en/products-and-solutions/infrared-and-raman/ft-nir-spectrometers/tango-ft-nir-spectrometer/_jcr_content/root/herostage/desktopImage.coreimg.82.1920.png/1764631622627/tango-ii-600px.png" alt="Bruker TANGO II FT-NIR spectrometer"></div>
+    <div class="product-copy"><div class="tag">TANGO II · TEACHING & ROUTINE ANALYSIS</div><h3>Make FT-NIR easier to learn and use.</h3>
+     <p>Compact and designed for intuitive operation, TANGO II supports users with different experience levels and is well suited to routine teaching and shared laboratory workflows.</p>
+     <ul><li>Guided, intuitive operation</li><li>Options for liquids or solids and semi-solids</li><li>Compact footprint for teaching environments</li></ul>
+     <a href="https://www.bruker.com/en/products-and-solutions/infrared-and-raman/ft-nir-spectrometers/tango-ft-nir-spectrometer.html">Explore TANGO II ↗</a>
+    </div>
+   </article>
+  </div>
+
+  <div class="portable">
+   <article class="card visual-card"><img src="https://engineering.ucdavis.edu/sites/g/files/dgvnsk2151/files/styles/sf_landscape_4x3/public/media/images/54781427492_55d56b5d6a_k.jpg?h=a1e1a043&itok=UdryQJ-y" alt="Handheld spectroscopy used in field research"><div class="tag">MICRONIR ONSITE-W · PORTABLE NIR</div><h3>Take the measurement to the sample.</h3><p>Wireless, compact handheld NIR for rapid, non-destructive material analysis in field and applied research. Useful across agriculture, food, polymers, chemicals and pharmaceutical materials.</p><p style="margin-top:18px"><a href="https://antech.ie/micronir-onsite-viavi-nir/" style="color:var(--blue);font-weight:800;text-decoration:none">Explore MicroNIR OnSite-W ↗</a></p></article>
+   <article class="card visual-card"><img src="https://www.johnstown.pitt.edu/sites/default/files/UVvis.jpeg" alt="Hands-on spectroscopy in an academic laboratory"><div class="tag">PROGENY · HANDHELD RAMAN</div><h3>Bring material identification into the practical.</h3><p>Handheld Raman provides a complementary spectroscopy route for material identification and applied projects, helping students and researchers connect analytical science with real-world identification workflows.</p><p style="margin-top:18px"><a href="https://antech.ie/cgmp-raw-material-verification-progeny-by-rigaku/" style="color:var(--blue);font-weight:800;text-decoration:none">Explore Progeny ↗</a></p></article>
+  </div>
+ </div>
+</section>
+
+<section class="section alt">
+ <div class="wrap">
+  <div class="progression progression-photo" style="--pilot:url(&quot;https://images.squarespace-cdn.com/content/v1/69581c5712c943765209b3a8/61eb43b9-03ae-4f05-81d8-147d329b38b2/Pilot%2BPlant.png&quot;)">
+   <div><div class="kicker">From lab to process</div><h2>Give applied research somewhere to go next.</h2><p class="lead">For programmes moving into PAT, pilot-scale studies or industry collaboration, Bruker's process FT-NIR platforms extend the analytical journey beyond the benchtop.</p></div>
+   <div class="process-items">
+    <div class="process"><b>MATRIX-F II</b><p>Process FT-NIR platform using probes and sensor heads for monitoring beyond the laboratory.</p></div>
+    <div class="process"><b>BEAM</b><p>Single-point FT-NIR analyser for process-control and applied monitoring research.</p></div>
+    <div class="process"><b>Method transfer</b><p>Build understanding of the path from laboratory calibration toward process application.</p></div>
+    <div class="process"><b>Industry relevance</b><p>Expose students and researchers to analytical approaches used in manufacturing and PAT environments.</p></div>
+   </div>
+  </div>
+ </div>
+</section>
+
+<section class="section">
+ <div class="wrap">
+  <div class="eyebrow">Before choosing an instrument</div><h2>Map the programme first.</h2>
+  <p class="lead">A useful academic platform starts with six practical questions.</p>
+  <div class="pillars">
+   <article class="card"><div class="num">01</div><h3>Define the users</h3><p>Undergraduates, postgraduates, researchers, technicians, external partners or a shared mix?</p></article>
+   <article class="card"><div class="num">02</div><h3>Map the samples</h3><p>Liquids, powders, tablets, agricultural materials, polymers, chemicals or live process streams?</p></article>
+   <article class="card"><div class="num">03</div><h3>Set the learning depth</h3><p>Routine measurement, qualitative identification, quantitative calibration, chemometrics or process control?</p></article>
+  </div>
+  <div class="pillars" style="margin-top:18px">
+   <article class="card"><div class="num">04</div><h3>Plan the journey</h3><p>Should the platform stay in the lab or support fieldwork, pilot plants and industry collaboration?</p></article>
+   <article class="card"><div class="num">05</div><h3>Understand access</h3><p>Is this dedicated to one group or expected to serve multiple departments and research projects?</p></article>
+   <article class="card"><div class="num">06</div><h3>Design for later</h3><p>What new methods, applications or collaborations should the investment be able to support?</p></article>
+  </div>
+ </div>
+</section>
+
+<section id="review" class="section alt">
+ <div class="wrap consult">
+  <div class="offer">
+   <div class="eyebrow">Education & Research Review</div>
+   <h2>Shape an instrument pathway around your programme, facility or research direction.</h2>
+   <p>A focused discussion with Antech to connect teaching goals, sample types, user groups and future research plans to an appropriate spectroscopy platform.</p>
+   <div class="checks">
+    <div class="check"><b>Teaching need</b>Concepts, class sizes and practical outcomes.</div>
+    <div class="check"><b>Research range</b>Departments, sample types, methods and shared users.</div>
+    <div class="check"><b>Growth path</b>Fieldwork, calibration, pilot scale and collaboration.</div>
+    <div class="check"><b>Platform fit</b>Where MPA III, TANGO II, MicroNIR, Progeny, MATRIX-F II or BEAM adds value.</div>
+   </div>
+   <a class="btn primary" href="mailto:richard@antech.ie?subject=Education%20%26%20Research%20Review">Discuss your programme</a>
+  </div>
+  <form class="form" onsubmit="return sendAcademicEmail(event)">
+   <div class="eyebrow">Education & Academia</div><h3 style="font-size:28px;margin:0;color:var(--navy)">Tell us where your students and research need to go next.</h3>
+   <p style="color:var(--muted)">A short outline is enough to start.</p>
+   <label for="name">Name</label><input id="name" required>
+   <label for="institution">Institution</label><input id="institution" required>
+   <label for="email">Email</label><input id="email" type="email" required>
+   <label for="focus">Primary area of interest</label>
+   <select id="focus"><option>Teaching laboratory</option><option>Shared research facility</option><option>Portable / field analysis</option><option>Method development</option><option>Process / PAT research</option><option>Not sure yet</option></select>
+   <label for="message">What would you like the platform to support?</label><textarea id="message"></textarea>
+   <button class="btn primary" type="submit">Request an Academic Consultation</button>
+   <div class="note">Submitting opens your email client addressed to Richard at Antech.</div>
+  </form>
+ </div>
+</section>
+</main>
+
+<footer><div class="wrap foot"><div><b>Antech Solutions</b> &nbsp; Analyse | Understand | Optimise</div><div><a href="mailto:richard@antech.ie">richard@antech.ie</a><a href="tel:+35351383775">051 383775</a><a href="https://antech.ie/privacy-policy/">Privacy</a></div></div></footer>
+
+<script>
+function sendAcademicEmail(e){
+ e.preventDefault();
+ const g=id=>document.getElementById(id).value;
+ const subject=encodeURIComponent("Education & Research Review — "+g("institution"));
+ const body=encodeURIComponent(
+  "Name: "+g("name")+"\nInstitution: "+g("institution")+"\nEmail: "+g("email")+
+  "\nPrimary area: "+g("focus")+"\n\nWhat the platform should support:\n"+g("message")
+ );
+ window.location.href="mailto:richard@antech.ie?subject="+subject+"&body="+body;
+ return false;
+}
+</script>
+</body>
+</html>
