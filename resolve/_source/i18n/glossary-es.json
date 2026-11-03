@@ -1,0 +1,41 @@
+{
+  "locale": "es",
+  "review": "AI-authored scientific and marketing terminology review; not certified native or regulatory approval.",
+  "terms": {
+    "HPLC": "HPLC",
+    "Mobile phase": "Fase móvil",
+    "Mobile-phase recycling": "Reciclaje de la fase móvil",
+    "Isocratic elution": "Elución isocrática",
+    "Gradient elution": "Elución en gradiente",
+    "Acetonitrile": "Acetonitrilo",
+    "Methanol": "Metanol",
+    "Analyte": "Analito",
+    "Chromatographic separation": "Separación cromatográfica",
+    "Retention time": "Tiempo de retención",
+    "Peak area": "Área de pico",
+    "Resolution": "Resolución",
+    "System suitability": "Aptitud del sistema",
+    "Detector signal": "Señal del detector",
+    "Waste diversion": "Desvío a residuos",
+    "Method validation": "Validación del método",
+    "Analytical performance": "Rendimiento analítico",
+    "GMP": "GMP",
+    "Audit trail": "Pista de auditoría",
+    "Hazardous solvent waste": "Residuos peligrosos de disolventes",
+    "Carbon dioxide equivalent (CO₂e)": "Dióxido de carbono equivalente (CO₂e)",
+    "Return on investment": "Retorno de la inversión",
+    "Payback period": "Plazo de recuperación de la inversión",
+    "Measured routing recovery": "Recuperación medida del flujo dirigido",
+    "Net fresh-demand reduction": "Reducción neta de la demanda de fase móvil fresca",
+    "Net waste reduction": "Reducción neta de residuos"
+  },
+  "scientificRules": [
+    "Conservar las cifras, la precisión, las unidades, las referencias y EUR sin conversión.",
+    "Distinguir la recuperación medida del flujo de las reducciones netas anuales modelizadas de fase móvil fresca y residuos.",
+    "El reciclaje dirige fase móvil adecuada para su reutilización; no la purifica ni la destila.",
+    "Distinguir la línea base cromatográfica de la referencia de cálculo, y la estabilidad analítica de la sostenibilidad ambiental.",
+    "La capacidad liberada del personal no constituye automáticamente ahorro de nómina.",
+    "Las estimaciones de CO₂e dependen de factores y límites de cálculo verificados; no equivalen a emisiones medidas.",
+    "Los registros operativos no demuestran por sí solos validación analítica, certificación ni cumplimiento GMP."
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "sourceLocale": "en",
+  "productNames": [
+    "ReSolve™",
+    "Antech"
+  ],
+  "currency": "EUR; no conversion",
+  "scientificRules": [
+    "Preserve numerical precision, source measurements, units and references.",
+    "Preserve distinctions between measured evidence, modelled outcomes and planning assumptions.",
+    "All original source PDFs remain English-language scientific records.",
+    "Do not add certification, regulatory approval or universal validation claims."
+  ],
+  "terms": {
+    "HPLC": "High-performance liquid chromatography; preserve the established acronym.",
+    "Mobile phase": "Prepared liquid mixture pumped through the chromatographic system; not merely its neat-solvent ingredients.",
+    "Mobile-phase recycling": "Routing suitable prepared mobile phase back for reuse; does not mean purification or solvent distillation.",
+    "Isocratic elution": "Elution with a constant mobile-phase composition throughout the run; the intended application boundary.",
+    "Gradient elution": "Elution with changing mobile-phase composition; outside the stated ReSolve application scope.",
+    "Acetonitrile": "Chromatographic solvent; ACN abbreviation remains an invariant when used.",
+    "Methanol": "Chromatographic solvent; MeOH abbreviation remains an invariant when used.",
+    "Analyte": "Chemical component being measured in an analytical sample.",
+    "Chromatographic separation": "Separation of sample components through the chromatographic system.",
+    "Retention time": "Time from injection to elution of the selected analyte peak; preserve numeric measurement and unit.",
+    "Peak area": "Integrated detector response over a chromatographic peak; preserve original measurement precision.",
+    "Resolution": "Chromatographic separation between peaks; not display resolution.",
+    "System suitability": "Checks establishing that the analytical system meets the method’s agreed performance criteria.",
+    "Detector signal": "Measured detector output used to control routing, subject to assessed signal thresholds and timing.",
+    "Waste diversion": "Sending detected fractions and configured margins to waste; do not imply net annual waste prevention.",
+    "Method validation": "Documented assessment against intended analytical requirements; method-specific, never universal product certification.",
+    "Analytical performance": "Performance against selected method criteria such as retention time, peak area, peak shape and suitability.",
+    "GMP": "Good Manufacturing Practice. Preserve acronym; do not imply ReSolve is certified or grants compliance.",
+    "Audit trail": "Traceable record of events or changes; operating records and analytical validation are distinct evidence types.",
+    "Hazardous solvent waste": "Solvent-containing hazardous waste within the stated reporting boundary, including final disposal where relevant.",
+    "Carbon dioxide equivalent (CO₂e)": "Common greenhouse-gas reporting unit. The model’s source factors are locked assumptions pending verification; not measured emissions.",
+    "Return on investment": "Investment metric based on stated costs and benefits; gross material savings are not automatically net investment returns.",
+    "Payback period": "Time until modelled net cash benefits recover initial investment under stated assumptions; may be not reached.",
+    "Measured routing recovery": "Recovered flow divided by routed flow in the evaluated method. The study value is distinct from annual net fresh-demand or waste reduction assumptions.",
+    "Net fresh-demand reduction": "Separate planning input for reduced fresh prepared mobile phase. Include top-ups, losses and final disposal in site balances.",
+    "Net waste reduction": "Separate planning input for prevented waste; not the routing-recovery rate or an extra repeated-reuse multiplier."
+  },
+  "terminologyReferences": [
+    {
+      "concept": "Isocratic elution",
+      "url": "https://goldbook.iupac.org/terms/view/09896",
+      "use": "Constant mobile-phase composition; phrased in our own words."
+    },
+    {
+      "concept": "Gradient elution",
+      "url": "https://goldbook.iupac.org/terms/view/G02670",
+      "use": "Changing composition during elution; outside current product scope."
+    },
+    {
+      "concept": "Mobile phase",
+      "url": "https://goldbook.iupac.org/terms/view/M03952",
+      "use": "Terminology reference for elution chromatography."
+    }
+  ],
+  "translationDisambiguation": {
+    "Sustainability versus stability": "Environmental sustainability is distinct from chromatographic/analytical stability. Hindi uses सततता for environmental sustainability and स्थिरता for analytical stability; source-context checks must preserve this distinction."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "locale": "nl",
+  "terms": {
+    "HPLC": "HPLC — hogeprestatievloeistofchromatografie",
+    "Mobile phase": "mobiele fase",
+    "Mobile-phase recycling": "recycling van de mobiele fase door geschikte stroom terug te voeren voor hergebruik",
+    "Isocratic elution": "isocratische elutie",
+    "Gradient elution": "gradiëntelutie",
+    "Acetonitrile": "acetonitril",
+    "Methanol": "methanol",
+    "Analyte": "analyt",
+    "Chromatographic separation": "chromatografische scheiding",
+    "Retention time": "retentietijd",
+    "Peak area": "piekoppervlakte",
+    "Resolution": "chromatografische resolutie",
+    "System suitability": "systeemgeschiktheid",
+    "Detector signal": "detectorsignaal",
+    "Waste diversion": "afvoer van fracties naar afval",
+    "Method validation": "methodevalidatie",
+    "Analytical performance": "analytische prestaties",
+    "GMP": "GMP — goede fabricagepraktijken",
+    "Audit trail": "audittrail",
+    "Hazardous solvent waste": "gevaarlijk oplosmiddelafval",
+    "Carbon dioxide equivalent (CO₂e)": "koolstofdioxide-equivalent (CO₂e)",
+    "Return on investment": "rendement op investering (ROI)",
+    "Payback period": "terugverdientijd",
+    "Measured routing recovery": "gemeten terugwinning van de gerouteerde stroom",
+    "Net fresh-demand reduction": "nettovermindering van de vraag naar verse mobiele fase",
+    "Net waste reduction": "nettovermindering van afval"
+  },
+  "reviewStatus": "AI-authored Dutch scientific and marketing review completed; qualified native-speaking technical review recommended before production release.",
+  "scientificRulesSource": "glossary-en.json",
+  "scientificDisambiguation": {
+    "Analytical stability": "analytische stabiliteit; niet milieuduurzaamheid",
+    "Environmental sustainability": "milieuduurzaamheid",
+    "Baseline": "basislijn bij detectorsignalen; uitgangssituatie bij scenariovergelijkingen",
+    "Routing": "selecteren en terugvoeren van geschikte mobiele fase; geen zuivering",
+    "Person-hours": "persoonsuren; beschikbare capaciteit is geen automatische loonbesparing"
+  }
+}

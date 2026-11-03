@@ -1,0 +1,130 @@
+{
+  "description": "Product names, acronyms, source attribution and technical invariants excluded from prose translation. Numeric-only nodes are also invariant. Expand only with documented justification.",
+  "strings": [
+    "ANTECH SOLUTIONS",
+    "Antech",
+    "Mikhail Nilov / Pexels ↗",
+    "Pavel Danilyuk / Pexels ↗",
+    "Potting et al., PBL (2017)",
+    "QA",
+    "ReSolve",
+    "ReSolve™",
+    "Tiger Lily / Pexels ↗",
+    "info@antech.ie"
+  ],
+  "excludedProgramTokens": [
+    "ArrowLeft",
+    "ArrowRight",
+    "Content-Type",
+    "EUR",
+    "End",
+    "Enter",
+    "HPLC",
+    "HPLCs",
+    "Home",
+    "POST",
+    "Submission failed",
+    "Y",
+    "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share",
+    "k",
+    "mL/min",
+    "pilot-form-status error",
+    "pilot-form-status success",
+    "t CO₂e",
+    "use strict"
+  ],
+  "dynamicMarkupFragments": [
+    {
+      "source": "Payback",
+      "raw": "\" font-size=\"13\" font-weight=\"700\" fill=\"#073e60\">Payback",
+      "contexts": [
+        {
+          "kind": "js-literal",
+          "document": "index.html#return-chart-calculation",
+          "line": 151
+        }
+      ]
+    },
+    {
+      "source": "Cumulative investment returns. Simple payback",
+      "raw": "\" role=\"img\" aria-label=\"Cumulative investment returns. Simple payback",
+      "contexts": [
+        {
+          "kind": "js-literal",
+          "document": "index.html#return-chart-calculation",
+          "line": 151
+        }
+      ]
+    },
+    {
+      "source": "Investment versus benefit.",
+      "raw": "\" role=\"img\" aria-label=\"Investment versus benefit.",
+      "contexts": [
+        {
+          "kind": "js-literal",
+          "document": "index.html#investment-benefit-calculation",
+          "line": 157
+        }
+      ]
+    },
+    {
+      "source": "Injection",
+      "raw": "\" tabindex=\"0\" role=\"button\" aria-label=\"Injection",
+      "contexts": [
+        {
+          "kind": "js-literal",
+          "document": "index.html#script-16",
+          "line": 151
+        }
+      ]
+    },
+    {
+      "source": "Break-even €0",
+      "raw": "\" text-anchor=\"end\" font-size=\"12\" fill=\"#526b7b\">Break-even €0",
+      "contexts": [
+        {
+          "kind": "js-html-text",
+          "document": "index.html#return-chart-calculation:literal@151",
+          "line": 1,
+          "path": ""
+        }
+      ]
+    },
+    {
+      "source": "Year",
+      "raw": "\" text-anchor=\"middle\" font-size=\"13\" fill=\"#073e60\">Year",
+      "contexts": [
+        {
+          "kind": "js-literal",
+          "document": "index.html#investment-benefit-calculation",
+          "line": 157
+        }
+      ]
+    },
+    {
+      "source": "Time since installation (months)",
+      "raw": "\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#073e60\">Time since installation (months)",
+      "contexts": [
+        {
+          "kind": "js-html-text",
+          "document": "index.html#return-chart-calculation:literal@151",
+          "line": 1,
+          "path": ""
+        }
+      ]
+    },
+    {
+      "source": "Cumulative net value (€)",
+      "raw": ") rotate(-90)\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#073e60\">Cumulative net value (€)",
+      "contexts": [
+        {
+          "kind": "js-html-text",
+          "document": "index.html#return-chart-calculation:literal@151",
+          "line": 1,
+          "path": ""
+        }
+      ]
+    }
+  ],
+  "supplementalCorrections": "Six live-diagnostic display strings are translated for every locale in supplemental-messages.json; the frozen 1429-key translator catalog is retained."
+}

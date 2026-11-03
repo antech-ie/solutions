@@ -1,0 +1,52 @@
+{
+  "locale": "zh-CN",
+  "sourceGlossary": "glossary-en.json",
+  "terms": {
+    "HPLC": "高效液相色谱（HPLC）",
+    "Mobile phase": "流动相",
+    "Mobile-phase recycling": "流动相循环回用",
+    "Isocratic elution": "等度洗脱",
+    "Gradient elution": "梯度洗脱",
+    "Acetonitrile": "乙腈",
+    "Methanol": "甲醇",
+    "Analyte": "分析物",
+    "Chromatographic separation": "色谱分离",
+    "Retention time": "保留时间",
+    "Peak area": "峰面积",
+    "Resolution": "分离度",
+    "System suitability": "系统适用性",
+    "Detector signal": "检测器信号",
+    "Waste diversion": "将选定流出液分流至废液",
+    "Method validation": "方法验证",
+    "Analytical performance": "分析性能",
+    "GMP": "药品生产质量管理规范（GMP）",
+    "Audit trail": "审计追踪",
+    "Hazardous solvent waste": "危险溶剂废液",
+    "Carbon dioxide equivalent (CO₂e)": "二氧化碳当量（CO₂e）",
+    "Return on investment": "投资回报率",
+    "Payback period": "投资回收期",
+    "Measured routing recovery": "实测回流回收率",
+    "Net fresh-demand reduction": "新鲜流动相需求净减少量（比例输入时指净减少比例）",
+    "Net waste reduction": "废液净减少量（比例输入时指净减少比例）"
+  },
+  "reviewStatus": "AI scientific and marketing language review completed across 1429 entries and eight profiles; not certified native or legal/regulatory approval.",
+  "scientificRules": [
+    "Preserve numerical precision, source measurements, units and references.",
+    "Preserve distinctions between measured evidence, modelled outcomes and planning assumptions.",
+    "All original source PDFs remain English-language scientific records.",
+    "Do not add certification, regulatory approval or universal validation claims."
+  ],
+  "terminologyReferences": [
+    "https://goldbook.iupac.org/terms/view/09896",
+    "https://goldbook.iupac.org/terms/view/G02670",
+    "https://goldbook.iupac.org/terms/view/M03952"
+  ],
+  "translationDisambiguation": {
+    "Baseline flow": "基线区间流出液，指检测信号处于符合回用条件的基线区间时流出的流动相；不得将流量这个速率量与流动液体混同。",
+    "Peak fractions": "峰区流出液；流路切换不是纯化或蒸馏。",
+    "Waste prevention": "源头减废、减少废液产生或废液减少量；避免生硬的“预防废液”。",
+    "Analytical stability versus sustainability": "分析稳定性与环境可持续性须明确区分。",
+    "Staff capacity": "人员可用工时及其估算价值，不等同于实际薪酬节省。",
+    "Nondetection": "未检出不代表绝对不存在；原报告未注明 LC/MS 检出限。"
+  }
+}

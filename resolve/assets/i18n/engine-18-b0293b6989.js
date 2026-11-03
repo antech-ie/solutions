@@ -1,0 +1,1 @@
+addEventListener("message",e=>{const f=document.getElementById("client-report-frame");if(f&&e.source===f.contentWindow&&e.data?.type==="resolve-report-height"&&Number.isFinite(e.data.height)){f.style.height=Math.min(30000,Math.max(500,e.data.height+4))+"px";}});

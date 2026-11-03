@@ -1,0 +1,16 @@
+{
+  "en": {"REDUCE":"REDUCE","REUSE":"REUSE","YOUR INPUTS":"YOUR INPUTS","unit":"unit","units":"units","€/unit":"€/unit"},
+  "es": {"REDUCE":"REDUCIR","REUSE":"REUTILIZAR","YOUR INPUTS":"SUS DATOS","unit":"unidad","units":"unidades","€/unit":"€/unidad"},
+  "fr": {"REDUCE":"RÉDUIRE","REUSE":"RÉUTILISER","YOUR INPUTS":"VOS DONNÉES","unit":"unité","units":"unités","€/unit":"€/unité"},
+  "de": {"REDUCE":"REDUZIEREN","REUSE":"WIEDERVERWENDEN","YOUR INPUTS":"IHRE EINGABEN","unit":"Gerät","units":"Geräte","€/unit":"€/Gerät"},
+  "pl": {"REDUCE":"OGRANICZAJ","REUSE":"UŻYWAJ PONOWNIE","YOUR INPUTS":"TWOJE DANE","unit":"urządzenie","units":"urządzenia","€/unit":"€/urządzenie"},
+  "it": {"REDUCE":"RIDURRE","REUSE":"RIUTILIZZARE","YOUR INPUTS":"I SUOI DATI","unit":"unità","units":"unità","€/unit":"€/unità"},
+  "nl": {"REDUCE":"VERMINDEREN","REUSE":"HERGEBRUIKEN","YOUR INPUTS":"UW INVOER","unit":"apparaat","units":"apparaten","€/unit":"€/apparaat"},
+  "pt-BR": {"REDUCE":"REDUZIR","REUSE":"REUTILIZAR","YOUR INPUTS":"SEUS DADOS","unit":"unidade","units":"unidades","€/unit":"€/unidade"},
+  "zh-CN": {"REDUCE":"减量","REUSE":"再利用","YOUR INPUTS":"您的输入","unit":"台","units":"台","€/unit":"€/台"},
+  "ja": {"REDUCE":"削減","REUSE":"再使用","YOUR INPUTS":"入力条件","unit":"台","units":"台","€/unit":"€/台"},
+  "ko": {"REDUCE":"감량","REUSE":"재사용","YOUR INPUTS":"입력 조건","unit":"대","units":"대","€/unit":"€/대"},
+  "hi": {"REDUCE":"कम करें","REUSE":"पुनः उपयोग करें","YOUR INPUTS":"आपके इनपुट","unit":"इकाई","units":"इकाइयाँ","€/unit":"€/इकाई"},
+  "tr": {"REDUCE":"AZALT","REUSE":"YENİDEN KULLAN","YOUR INPUTS":"GİRDİLERİNİZ","unit":"ünite","units":"ünite","€/unit":"€/ünite"},
+  "ar": {"REDUCE":"التقليل","REUSE":"إعادة الاستخدام","YOUR INPUTS":"مدخلاتك","unit":"وحدة","units":"وحدات","€/unit":"€/وحدة"}
+}

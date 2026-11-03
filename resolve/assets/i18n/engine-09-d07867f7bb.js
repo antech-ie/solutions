@@ -1,0 +1,1 @@
+(()=>{const header=document.querySelector('.sticky-brand-navigation');const resize=()=>document.documentElement.style.setProperty('--sticky-header-height',(header.getBoundingClientRect().height+16)+'px');new ResizeObserver(resize).observe(header);resize();})();
