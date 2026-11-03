@@ -7,7 +7,7 @@
   hero.tabIndex = -1;
   const changePerspective=document.querySelector('.rv-change-perspective');
   const brochureArt={
-    quality:['laboratory-vials.webp','Laboratory analyst working with sample vials beside an analytical instrument','Laboratory workflow image from the ReSolve product brochure.','photo'],
+    quality:['resolve-installed-on-hplc.webp','ReSolve controller and switching valve installed on a Waters HPLC system','ReSolve alongside a Waters HPLC system. Installation photograph; assess your own configuration.','photo'],
     sustainability:['routing-diagram.webp','Official ReSolve brochure artwork showing the HPLC system, branded controller, recovery return and waste path','ReSolve recovery flow. Select the artwork to enlarge. ReSolve routes mobile phase; it does not purify it. Method-specific assessment is required.','flow'],
     procurement:['controller.webp','ReSolve controller illustration showing a detector trace and recycling status','Product display illustration. Values shown are not method settings.','controller'],
     'supply-chain':['routing-diagram.webp','Brochure flow schematic linking the HPLC system, detector, ReSolve and return or waste paths','Illustrative flow path. ReSolve selects flow for reuse; it does not purify it.','flow'],
@@ -20,12 +20,15 @@
     const figure=document.getElementById('rv-route-art');
     if(!figure)return;
     const key=document.querySelector('.view-tabs [aria-selected="true"]').id.replace('nav-','');
+    const videoJump=document.getElementById('rv-video-jump');
+    if(videoJump)videoJump.href='#rv-video-'+key;
     if(figure.dataset.perspective===key)return;
     const [file,alt,caption,kind]=brochureArt[key];
     figure.dataset.perspective=key;figure.dataset.kind=kind;
-    document.getElementById('rv-route-art-image').src='assets/brochure/'+file;
+    const artSource='assets/'+(key==='quality'?'':'brochure/')+file;
+    document.getElementById('rv-route-art-image').src=artSource;
     document.getElementById('rv-route-art-image').alt=alt;
-    document.getElementById('rv-route-art-link').href='assets/brochure/'+file;
+    document.getElementById('rv-route-art-link').href=artSource;
     document.getElementById('rv-route-art-caption').textContent=caption;
   }
   updateBrochureArt();
@@ -79,5 +82,20 @@
     const active=tabs.find(t=>'#'+t.getAttribute('aria-controls')===location.hash);
     if(active&&active.getAttribute('aria-selected')!=='true')active.click();
   });
+  // Load the YouTube player only after a visitor chooses to play it.
+  const stopVideos=()=>document.querySelectorAll('.rv-video-player').forEach(player=>{
+    player.querySelector('iframe')?.remove();
+    const button=player.querySelector('.rv-video-play');if(button)button.hidden=false;
+  });
+  document.querySelectorAll('.rv-video-play').forEach(button=>button.addEventListener('click',()=>{
+    stopVideos();
+    const iframe=document.createElement('iframe');
+    iframe.src='https://www.youtube-nocookie.com/embed/I9TrFC4wMxU?autoplay=1&rel=0';
+    iframe.title='Introducing ReSolve | The HPLC Mobile Phase Recycler';
+    iframe.allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share';
+    iframe.referrerPolicy='strict-origin-when-cross-origin';iframe.allowFullscreen=true;
+    button.hidden=true;button.parentElement.append(iframe);iframe.focus();
+  }));
+  tabs.forEach(tab=>tab.addEventListener('click',stopVideos));
   if(location.hash && location.hash!=='#view-quality' && tabs.some(t=>'#'+t.getAttribute('aria-controls')===location.hash))navigate();
 })();
