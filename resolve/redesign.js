@@ -25,7 +25,7 @@
     if(figure.dataset.perspective===key)return;
     const [file,alt,caption,kind]=brochureArt[key];
     figure.dataset.perspective=key;figure.dataset.kind=kind;
-    const artSource='assets/'+(key==='quality'?'':'brochure/')+file;
+    const artSource='/resolve/assets/'+(key==='quality'?'':'brochure/')+file;
     document.getElementById('rv-route-art-image').src=artSource;
     document.getElementById('rv-route-art-image').alt=alt;
     document.getElementById('rv-route-art-link').href=artSource;
