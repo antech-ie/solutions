@@ -1,0 +1,37 @@
+/* Arabic layout only. Scientific coordinates, source images and engine data are never mirrored. */
+html[dir="rtl"] { font-family:Tahoma,Arial,sans-serif; }
+html[dir="rtl"] body { direction:rtl; text-align:right; font-family:Tahoma,Arial,sans-serif!important; }
+html[dir="rtl"] h1,html[dir="rtl"] h2,html[dir="rtl"] h3,html[dir="rtl"] h4,
+html[dir="rtl"] p,html[dir="rtl"] .eyebrow,html[dir="rtl"] .rv-kicker,
+html[dir="rtl"] button,html[dir="rtl"] label,html[dir="rtl"] figcaption { letter-spacing:normal!important; }
+html[dir="rtl"] h1 { line-height:1.45!important; }
+html[dir="rtl"] h2,html[dir="rtl"] h3 { line-height:1.5!important; }
+html[dir="rtl"] p,html[dir="rtl"] li { line-height:1.9; }
+html[dir="rtl"] button,html[dir="rtl"] input,html[dir="rtl"] select,html[dir="rtl"] textarea { font-family:Tahoma,Arial,sans-serif; }
+html[dir="rtl"] input[type="email"],html[dir="rtl"] input[type="number"],
+html[dir="rtl"] input[inputmode="decimal"],html[dir="rtl"] input[inputmode="numeric"],
+html[dir="rtl"] #pilotHplc { direction:ltr; text-align:left; unicode-bidi:isolate; }
+html[dir="rtl"] input[type="range"] { direction:ltr; }
+html[dir="rtl"] input[type="text"],html[dir="rtl"] textarea { unicode-bidi:plaintext; }
+html[dir="rtl"] table { direction:rtl; }
+html[dir="rtl"] th,html[dir="rtl"] td { text-align:start; unicode-bidi:plaintext; }
+html[dir="rtl"] caption { text-align:right!important; }
+html[dir="rtl"] svg { direction:ltr; unicode-bidi:isolate; }
+html[dir="rtl"] svg text { font-family:Tahoma,Arial,sans-serif; letter-spacing:normal; }
+html[dir="rtl"] .rv-language-globe,html[dir="rtl"] .rv-language-chevron { direction:inherit; }
+html[dir="rtl"] .rv-language-card-arrow { transform:scaleX(-1); }
+html[dir="rtl"] .rv-utility>span { margin-left:0; margin-right:20px; }
+html[dir="rtl"] .rv-route-intro .scope-note,html[dir="rtl"] .scope-note,
+html[dir="rtl"] .rv-chart-scroll-hint { border-left:0!important; border-right:2px solid var(--rv-orange,#bd3e18)!important; padding-left:0!important; padding-right:14px!important; }
+html[dir="rtl"] .rv-paper-copy ul { padding-left:0!important; padding-right:20px!important; }
+html[dir="rtl"] ul,html[dir="rtl"] ol { padding-inline-start:24px; padding-inline-end:0; }
+html[dir="rtl"] .rv-evidence-strip>div,html[dir="rtl"] .rv-evidence-strip>p { border-left:0; border-right:1px solid var(--rv-line,#dce4e9); }
+html[dir="rtl"] .rv-evidence-strip>:first-child { padding-left:28px; padding-right:0; border-right:0; }
+html[dir="rtl"] #resolve-site #perspectives.rv-perspective-cards .view-tabs>button[role="tab"] { text-align:right!important; }
+html[dir="rtl"] #resolve-site .view-panel .calc-range-control output { text-align:right!important; unicode-bidi:plaintext; }
+html[dir="rtl"] .rv-brand>span,html[dir="rtl"] .business-case-nav,html[dir="rtl"] #resolvePilotForm label { text-align:right; }
+html[dir="rtl"] .rv-sample-values table caption { text-align:right; }
+html[dir="rtl"] [data-resolve-number]::after { unicode-bidi:plaintext; }
+html[dir="rtl"] #mock-dialog { text-align:right; }
+html[dir="rtl"] #close-mock { float:left; }
+@media(max-width:599px){html[dir="rtl"] .rv-utility>span{margin-right:0}html[dir="rtl"] .rv-evidence-strip>div,html[dir="rtl"] .rv-evidence-strip>p{border-right:0}}

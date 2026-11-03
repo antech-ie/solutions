@@ -1,0 +1,1 @@
+document.querySelectorAll(".business-case-nav a").forEach(a=>a.addEventListener("click",e=>{e.preventDefault();document.querySelector(a.getAttribute("href")).scrollIntoView({behavior:"instant",block:"start"});}));
