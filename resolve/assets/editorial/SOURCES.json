@@ -1,0 +1,113 @@
+{
+  "use": "Contextual stock photography only. The people, laboratories and records pictured are not presented as Antech staff, ReSolve installations, clients or study evidence.",
+  "photos": [
+    {
+      "id": "8851456",
+      "photographer": "Mikhail Nilov",
+      "source_url": "https://www.pexels.com/photo/woman-in-white-long-sleeve-shirt-using-computer-8851456/",
+      "sourceAsset": "editorial-photo-sources/8851456.avif",
+      "download_url": "https://images.pexels.com/photos/8851456/pexels-photo-8851456.jpeg?auto=compress&w=600",
+      "sourceSHA256": "1843a93f8d1bde585069b57f8c3c705f7e028fd23dbc264e0de69c8d55388cff",
+      "licence": "Pexels License",
+      "licence_url": "https://www.pexels.com/license/",
+      "checked": "2026-11-03",
+      "asset": "assets/editorial/8851456.webp",
+      "pixels": [
+        600,
+        900
+      ],
+      "bytes": 26918,
+      "sha256": "8cd2621ec2f6fdcdd684de1ee7e27f96e269c0d0a4346df41c69cce11be8613e"
+    },
+    {
+      "id": "8851457",
+      "photographer": "Mikhail Nilov",
+      "source_url": "https://www.pexels.com/photo/team-of-scientists-working-together-8851457/",
+      "sourceAsset": "editorial-photo-sources/8851457.avif",
+      "download_url": "https://images.pexels.com/photos/8851457/pexels-photo-8851457.jpeg?auto=compress&w=1260&h=750&dpr=1",
+      "sourceSHA256": "ec3bb8d5d53c5f6fe402023d92ca9834eaecc16bb230fb7b14e884e23f1fc6d0",
+      "licence": "Pexels License",
+      "licence_url": "https://www.pexels.com/license/",
+      "checked": "2026-11-03",
+      "asset": "assets/editorial/8851457.webp",
+      "pixels": [
+        1124,
+        750
+      ],
+      "bytes": 39462,
+      "sha256": "6413f7ba9e3339890c8d6e902a3ce0665617e7892515c469bac12ac6057728bb"
+    },
+    {
+      "id": "8851721",
+      "photographer": "Mikhail Nilov",
+      "source_url": "https://www.pexels.com/photo/scientists-experimenting-inside-the-laboratory-8851721/",
+      "sourceAsset": "editorial-photo-sources/8851721.avif",
+      "download_url": "https://images.pexels.com/photos/8851721/pexels-photo-8851721.jpeg?auto=compress&w=1260&h=750&dpr=1",
+      "sourceSHA256": "9deddd8e76c9cb5f2c43d74c184aaff087d6f51fdb4a2b3609e4e331b87bfbfe",
+      "licence": "Pexels License",
+      "licence_url": "https://www.pexels.com/license/",
+      "checked": "2026-11-03",
+      "asset": "assets/editorial/8851721.webp",
+      "pixels": [
+        500,
+        750
+      ],
+      "bytes": 27636,
+      "sha256": "267ee3f468dd7a630569c9d7fccadfc910c9d5a931076b1113a47c115e3c83de"
+    },
+    {
+      "id": "8851453",
+      "photographer": "Mikhail Nilov",
+      "source_url": "https://www.pexels.com/photo/a-man-and-a-woman-working-inside-a-laboratory-8851453/",
+      "sourceAsset": "editorial-photo-sources/8851453.avif",
+      "download_url": "https://images.pexels.com/photos/8851453/pexels-photo-8851453.jpeg?auto=compress&w=1260&h=750&dpr=1",
+      "sourceSHA256": "8b94a8e10106dee8c89fce70535ad1a3c1f48879b220c30f15054c9a06b936de",
+      "licence": "Pexels License",
+      "licence_url": "https://www.pexels.com/license/",
+      "checked": "2026-11-03",
+      "asset": "assets/editorial/8851453.webp",
+      "pixels": [
+        500,
+        750
+      ],
+      "bytes": 34804,
+      "sha256": "8d315c070d29f00eb9f217d855aca617a8d2195456c777e76369cb3556d63cde"
+    },
+    {
+      "id": "7869003",
+      "photographer": "Pavel Danilyuk",
+      "source_url": "https://www.pexels.com/photo/person-holding-paper-and-pencil-7869003/",
+      "sourceAsset": "editorial-photo-sources/7869003.avif",
+      "download_url": "https://images.pexels.com/photos/7869003/pexels-photo-7869003.jpeg?auto=compress&w=1260&h=750&dpr=1",
+      "sourceSHA256": "e71a4e28062c2ef628810e245317128393643a393549d824aa952974f0a0bfbb",
+      "licence": "Pexels License",
+      "licence_url": "https://www.pexels.com/license/",
+      "checked": "2026-11-03",
+      "asset": "assets/editorial/7869003.webp",
+      "pixels": [
+        1123,
+        750
+      ],
+      "bytes": 64616,
+      "sha256": "cf7ac91629847875207fc0968801c124b9cd3d05c3769386f1e5fc03028880a9"
+    },
+    {
+      "id": "4483941",
+      "photographer": "Tiger Lily",
+      "source_url": "https://www.pexels.com/photo/worker-in-a-warehouse-4483941/",
+      "sourceAsset": "editorial-photo-sources/4483941.avif",
+      "download_url": "https://images.pexels.com/photos/4483941/pexels-photo-4483941.jpeg?auto=compress&w=1260&h=750&dpr=1",
+      "sourceSHA256": "b26480859d1a0f25243f43383aa8c2a42a9ab180ae168315411b721350af0a91",
+      "licence": "Pexels License",
+      "licence_url": "https://www.pexels.com/license/",
+      "checked": "2026-11-03",
+      "asset": "assets/editorial/4483941.webp",
+      "pixels": [
+        1125,
+        750
+      ],
+      "bytes": 64810,
+      "sha256": "69ed8ff7ff4ce17258e8e18b81d0d0a446f6300a8b9338bc83573236243bbda1"
+    }
+  ]
+}
