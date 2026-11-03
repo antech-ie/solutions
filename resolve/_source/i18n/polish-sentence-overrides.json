@@ -1,0 +1,126 @@
+{
+  "Two separate evidence sets answer different questions: the PMBrc / SETU study informs analytical review; the Agilent sequence and ReSolve™ records document the evaluated operation.": {
+    "text": "Dwa odrębne zestawy danych odpowiadają na różne pytania: {0} służy ocenie analitycznej, natomiast sekwencja Agilent i zapisy ReSolve™ dokumentują ocenianą eksploatację.",
+    "slots": {
+      "0": "badanie PMBrc / SETU"
+    }
+  },
+  "ReSolve routes selected mobile phase; it does not purify it. Detector-to-valve delay, peak margins, sample matrix and the reuse period require method-specific assessment.": {
+    "text": "{0} Opóźnienie między detektorem a zaworem, marginesy czasowe wokół pików, matryca próbki i okres ponownego użycia wymagają oceny dla konkretnej metody.",
+    "slots": {
+      "0": "ReSolve kieruje przepływem wybranej fazy ruchomej; nie oczyszcza jej."
+    }
+  },
+  "See the signal. Follow the route.": {
+    "text": "Obserwuj sygnał. Śledź drogę przepływu."
+  },
+  "Recover the baseline. Divert the peaks.": {
+    "text": "Zawracaj odpowiednie frakcje przepływu pomiędzy pikami. {0}",
+    "slots": {
+      "0": "Frakcje pików kieruj do odpadów."
+    }
+  },
+  "Real methods. Recovery data. Chromatograms.": {
+    "text": "Rzeczywiste metody. Dane o odzysku. Chromatogramy."
+  },
+  "See ReSolve in action.": {
+    "text": "Zobacz ReSolve w działaniu."
+  },
+  "The example below models the opportunity. Site reporting should use measured changes and confirmed emission factors. GHG Protocol classification ↗": {
+    "text": "Poniższy przykład przedstawia modelowany potencjał. Do raportowania w zakładzie należy stosować zmierzone zmiany i potwierdzone współczynniki emisji. {0}",
+    "slots": {
+      "0": "Klasyfikacja GHG Protocol ↗"
+    }
+  },
+  "Framework: Potting et al., PBL (2017) . Sector context informed by the supplied CIRCULÉIRE presentation.": {
+    "text": "Podstawa: {0}. Kontekst sektora opracowano na podstawie dostarczonej prezentacji CIRCULÉIRE."
+  },
+  "Source: EPA national hazardous waste statistics ; solvent figure and category description transcribed from the supplied CIRCULÉIRE slide.": {
+    "text": "Źródło: {0}. Dane dotyczące rozpuszczalników i opis kategorii przepisano z dostarczonego slajdu CIRCULÉIRE.",
+    "slots": {
+      "0": "krajowe statystyki EPA dotyczące odpadów niebezpiecznych"
+    }
+  },
+  "Cumulative prevention · one year": {
+    "text": "Skumulowana redukcja — okres: {0}"
+  },
+  "Material cost avoided · one year": {
+    "text": "Oszczędność kosztów materiałowych — okres: {0}"
+  },
+  "conversion · one year": {
+    "text": "Przeliczenie — okres: {0}"
+  },
+  "Evidence boundary: Planning defaults are 80% net fresh-demand reduction and 80% net waste reduction, entered separately. Neither is a measured site result. The study’s 94.4809% routing recovery is evidence for the tested method, not the annual savings input. Repeated reuse is not an extra multiplier.": {
+    "text": "{0} Domyślnie przyjęto dwa odrębne założenia planistyczne: redukcję netto zużycia świeżej fazy o 80% i redukcję netto ilości odpadów o 80%. Żadne z nich nie jest zmierzonym wynikiem zakładu. Zmierzony w badaniu odzysk kierowanego przepływu 94.4809% dotyczy testowanej metody i nie jest daną wejściową do obliczania rocznych oszczędności. Wielokrotnego użycia nie uwzględnia się jako dodatkowego mnożnika.",
+    "slots": {
+      "0": "Granice interpretacji danych:"
+    }
+  },
+  "Global trade context: UNCTAD, Review of Maritime Transport 2025 ↗ . Laboratory implications should be assessed against your own supply network.": {
+    "text": "Kontekst handlu światowego: {0}. Wpływ na laboratorium należy ocenić w odniesieniu do własnej sieci dostaw."
+  },
+  "EUR per tonne · values transcribed from the supplied CIRCULÉIRE slide citing Methanex. Methanex posted pricing . Commodity contract prices are not analytical-grade invoice prices and are not used in this calculator.": {
+    "text": "EUR za tonę · Wartości przepisano z dostarczonego slajdu CIRCULÉIRE, który powołuje się na Methanex. {0}. Kontraktowe ceny surowców nie są cenami fakturowymi odczynników o czystości analitycznej i nie są używane w tym kalkulatorze.",
+    "slots": {
+      "0": "Ceny publikowane przez Methanex"
+    }
+  },
+  "What this means for supply planning: lower demand can support longer stock coverage or a lower replenishment requirement. The appropriate stock policy depends on measured use, lead-time variability and your required service level.": {
+    "text": "{0} Mniejsze zapotrzebowanie może wydłużyć okres pracy pokrywany przez zapas lub ograniczyć potrzebę jego uzupełniania. Właściwa polityka zapasów zależy od zmierzonego zużycia, zmienności terminów dostaw i wymaganego poziomu obsługi.",
+    "slots": {
+      "0": "Znaczenie dla planowania dostaw:"
+    }
+  },
+  "Sources: GHG Protocol calculation guidance · ISO 14001 · ISO 14051 · ISO greenhouse-gas standards .": {
+    "text": "Źródła: {0} · {1} · {2} · {3}.",
+    "slots": {
+      "0": "wytyczne obliczeniowe GHG Protocol",
+      "3": "normy ISO dotyczące gazów cieplarnianych"
+    }
+  },
+  "Investment returns: units = labs × included HPLCs per lab. Initial investment = units × (equipment + installation). Annual net operating cash saving = material saving + disposal saving − annual support. Net benefit over N years = N × annual net saving − initial investment. ROI = net benefit ÷ initial investment. NPV = −initial investment + sum of annual net saving ÷ (1 + discount rate)^year. Upfront payment occurs at year 0; operating cash flows occur at each year end. Simple payback assumes evenly accruing monthly savings. Labour capacity value is excluded from cash returns.": {
+    "text": "{0} liczba urządzeń = liczba laboratoriów × liczba uwzględnionych HPLC na laboratorium. Nakład początkowy = liczba urządzeń × (koszt sprzętu + instalacji). Roczne oszczędności pieniężne netto z eksploatacji = oszczędności materiałowe + oszczędności utylizacji − roczny koszt wsparcia. Korzyść netto przez N lat = N × roczne oszczędności netto − nakład początkowy. ROI = korzyść netto ÷ nakład początkowy. NPV = −nakład początkowy + suma rocznych oszczędności netto ÷ (1 + stopa dyskontowa)^rok. Płatność początkowa następuje w roku 0, a przepływy operacyjne — na koniec każdego roku. Prosty okres zwrotu zakłada równomierne miesięczne oszczędności. Wyniki pieniężne nie uwzględniają wartości czasu personelu dostępnego na inne zadania.",
+    "slots": {
+      "0": "Zwrot z inwestycji:"
+    }
+  },
+  "Salary conversion assumption: 2,080 paid hours per analyst per year (40 hours/week × 52 weeks). This fixed assumption converts annual salary into a value per preparation person-hour; it is separate from laboratory operating weeks. Employer contributions and benefits are excluded.": {
+    "text": "{0} 2,080 płatnych godzin pracy analityka rocznie (40 godzin/tydzień × 52 tygodnie). To stałe założenie służy do przeliczenia rocznego wynagrodzenia na koszt osobogodziny przygotowania fazy ruchomej. Jest niezależne od liczby tygodni pracy laboratorium. Nie uwzględnia składek pracodawcy ani świadczeń pracowniczych.",
+    "slots": {
+      "0": "Założenie przeliczenia kosztu pracy:"
+    }
+  },
+  "People time: annual preparation person-hours = person-hours per lab per operating week × labs × operating weeks/year. Hours released = baseline hours × the separate preparation-time reduction. Labour cost and capacity value = the relevant person-hours ÷ annual paid hours per analyst × annual salary. Three-year values = annual values × 3. Staff capacity value is excluded from material/disposal savings, cumulative cost charts and ROI.": {
+    "text": "{0} roczny nakład pracy przy przygotowaniu w osobogodzinach = osobogodziny na laboratorium i tydzień pracy × liczba laboratoriów × tygodnie pracy/rok. Zaoszczędzone godziny = bazowy nakład godzin × odrębna redukcja czasu przygotowania. Koszt pracy i wartość czasu dostępnego na inne zadania = odpowiednia liczba osobogodzin ÷ roczna liczba płatnych godzin analityka × roczne wynagrodzenie. Wartości trzyletnie = wartości roczne × 3. Wartość czasu personelu nie jest uwzględniona w oszczędnościach materiałowych i utylizacyjnych, wykresach skumulowanych kosztów ani ROI.",
+    "slots": {
+      "0": "Czas personelu:"
+    }
+  },
+  "Annual baseline demand: labs × HPLC systems per lab × flow (mL/min) × 60 × hours/day × days/week × weeks/year ÷ 1,000. Monthly demand = annual demand ÷ 12.": {
+    "text": "{0} liczba laboratoriów × liczba systemów HPLC na laboratorium × przepływ (mL/min) × 60 × godziny/dzień × dni/tydzień × tygodnie/rok ÷ 1,000. Zapotrzebowanie miesięczne = zapotrzebowanie roczne ÷ 12.",
+    "slots": {
+      "0": "Roczne bazowe zapotrzebowanie:"
+    }
+  },
+  "Fresh mobile phase avoided: annual baseline demand × assumed net fresh-demand reduction. Waste avoided = baseline waste × the separate net waste-reduction input. Recycled-flow totals and reuse counts are not added to either result.": {
+    "text": "{0} roczne bazowe zapotrzebowanie × założona redukcja netto zapotrzebowania na świeżą fazę. Redukcja ilości odpadów = bazowa ilość odpadów × odrębnie wprowadzona redukcja netto ilości odpadów. Do żadnego z wyników nie dodaje się sum zawróconego przepływu ani liczby cykli ponownego użycia.",
+    "slots": {
+      "0": "Ograniczenie zużycia świeżej fazy ruchomej:"
+    }
+  },
+  "Annual material cost avoided: avoided litres × prepared mobile-phase material cost per litre.": {
+    "text": "{0} objętość fazy ruchomej, której nie trzeba zużyć, w litrach × koszt materiałowy litra przygotowanej fazy ruchomej.",
+    "slots": {
+      "0": "Roczna oszczędność kosztów materiałowych:"
+    }
+  },
+  "Leadership decision: Confirm method suitability and site costs, measure analyst time released, then prioritise deployment where the combined operational and financial value is strongest.": {
+    "text": "{0} Potwierdź przydatność metody i koszty w zakładzie, zmierz zaoszczędzony czas analityków, a następnie nadaj priorytet wdrożeniom o największej łącznej wartości operacyjnej i finansowej.",
+    "slots": {
+      "0": "Decyzja kierownictwa:"
+    }
+  },
+  "Your details will be sent to Antech so we can respond to your enquiry. If the form fails, email info@antech.ie .": {
+    "text": "Twoje dane zostaną przekazane Antech, abyśmy mogli odpowiedzieć na zapytanie. Jeśli formularz nie zadziała, napisz na {0}."
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "See ReSolve in action.": {
+    "es": {
+      "text": "Vea ReSolve en acción."
+    },
+    "fr": {
+      "text": "Découvrez ReSolve en action."
+    },
+    "de": {
+      "text": "Erleben Sie ReSolve in Aktion."
+    },
+    "it": {
+      "text": "Guarda ReSolve in azione."
+    },
+    "nl": {
+      "text": "Bekijk ReSolve in actie."
+    },
+    "pt-BR": {
+      "text": "Veja o ReSolve em ação."
+    },
+    "zh-CN": {
+      "text": "观看 ReSolve 的实际运行。"
+    },
+    "ja": {
+      "text": "ReSolve の動作を見る。"
+    },
+    "ko": {
+      "text": "ReSolve의 작동 모습을 확인하세요."
+    },
+    "hi": {
+      "text": "ReSolve को काम करते हुए देखें।"
+    },
+    "tr": {
+      "text": "ReSolve’u çalışırken izleyin."
+    },
+    "ar": {
+      "text": "شاهد ReSolve أثناء العمل."
+    }
+  },
+  "Recover the baseline. Divert the peaks.": {
+    "es": {
+      "text": "Recupere el flujo de la línea base. {0}",
+      "slots": {
+        "0": "Desvíe las fracciones de los picos hacia los residuos."
+      }
+    },
+    "fr": {
+      "text": "Récupérez le flux de ligne de base. {0}",
+      "slots": {
+        "0": "Dirigez les fractions des pics vers les déchets."
+      }
+    },
+    "de": {
+      "text": "Den Basislinienfluss zurückführen. {0}",
+      "slots": {
+        "0": "Peakfraktionen zum Abfall ableiten."
+      }
+    },
+    "it": {
+      "text": "Recupera il flusso di linea di base. {0}",
+      "slots": {
+        "0": "Devia ai rifiuti le frazioni dei picchi."
+      }
+    },
+    "nl": {
+      "text": "Hergebruik de stroom buiten de pieken. {0}",
+      "slots": {
+        "0": "Voer de piekfracties af als afval."
+      }
+    },
+    "pt-BR": {
+      "text": "Recupere o fluxo da linha de base. {0}",
+      "slots": {
+        "0": "Desvie as frações dos picos para o descarte."
+      }
+    },
+    "zh-CN": {
+      "text": "回用基线区间的流动相。{0}",
+      "slots": {
+        "0": "将色谱峰馏分导向废液。"
+      }
+    },
+    "ja": {
+      "text": "ベースライン区間の移動相を回収。{0}",
+      "slots": {
+        "0": "ピーク画分は廃液へ。"
+      }
+    },
+    "ko": {
+      "text": "베이스라인 구간의 이동상을 회수하세요. {0}",
+      "slots": {
+        "0": "피크 분획은 폐액으로 보내세요."
+      }
+    },
+    "hi": {
+      "text": "बेसलाइन वाले हिस्से का मोबाइल फेज़ वापस लें। {0}",
+      "slots": {
+        "0": "पीक वाले अंशों को अपशिष्ट में भेजें।"
+      }
+    },
+    "tr": {
+      "text": "Baz çizgisi bölgesindeki akışı geri kazanın. {0}",
+      "slots": {
+        "0": "Pik fraksiyonlarını atığa yönlendirin."
+      }
+    },
+    "ar": {
+      "text": "استرجع تدفق منطقة خط الأساس. {0}",
+      "slots": {
+        "0": "وجّه أجزاء القمم إلى النفايات."
+      }
+    }
+  },
+  "Two separate evidence sets answer different questions: the PMBrc / SETU study informs analytical review; the Agilent sequence and ReSolve™ records document the evaluated operation.": {
+    "fr": {
+      "text": "Deux ensembles de données distincts répondent à des questions différentes : {0} éclaire l’évaluation analytique ; la séquence Agilent et les enregistrements ReSolve™ documentent le fonctionnement évalué.",
+      "slots": {
+        "0": "l’étude PMBrc / SETU"
+      }
+    },
+    "pt-BR": {
+      "text": "Dois conjuntos de evidências distintos respondem a perguntas diferentes: {0} apoia a avaliação analítica; a sequência Agilent e os registros do ReSolve™ documentam a operação avaliada.",
+      "slots": {
+        "0": "o estudo PMBrc / SETU"
+      }
+    },
+    "zh-CN": {
+      "text": "两组独立证据分别回答不同的问题：{0}为分析性能审查提供参考；Agilent 序列和 ReSolve™ 记录则记载了评估期间的运行情况。",
+      "slots": {
+        "0": "PMBrc / SETU 研究"
+      }
+    },
+    "ja": {
+      "text": "2つの独立したエビデンスは、それぞれ異なる問いに答えます。{0}は分析面での評価に役立ち、Agilent のシーケンスと ReSolve™ の記録は評価対象の運用を記録しています。",
+      "slots": {
+        "0": "PMBrc / SETU の研究"
+      }
+    },
+    "ko": {
+      "text": "서로 구분되는 두 근거 자료는 서로 다른 질문에 답합니다. {0}는 분석 성능 검토에 참고가 되며, Agilent 시퀀스와 ReSolve™ 기록은 평가된 운용 내용을 문서화합니다.",
+      "slots": {
+        "0": "PMBrc / SETU 연구"
+      }
+    },
+    "hi": {
+      "text": "साक्ष्य के दो अलग समूह अलग-अलग प्रश्नों के उत्तर देते हैं: {0} विश्लेषणात्मक समीक्षा में मदद करता है; Agilent अनुक्रम और ReSolve™ रिकॉर्ड मूल्यांकित संचालन को दर्ज करते हैं।",
+      "slots": {
+        "0": "PMBrc / SETU अध्ययन"
+      }
+    }
+  },
+  "Your details will be sent to Antech so we can respond to your enquiry. If the form fails, email info@antech.ie .": {
+    "es": {
+      "text": "Sus datos se enviarán a Antech para que podamos responder a su consulta. Si el formulario no funciona, escriba a {0}."
+    },
+    "fr": {
+      "text": "Vos coordonnées seront envoyées à Antech afin que nous puissions répondre à votre demande. Si le formulaire ne fonctionne pas, écrivez à {0}."
+    },
+    "de": {
+      "text": "Ihre Angaben werden an Antech gesendet, damit wir Ihre Anfrage beantworten können. Falls das Formular nicht funktioniert, schreiben Sie an {0}."
+    },
+    "it": {
+      "text": "I tuoi dati saranno inviati ad Antech per rispondere alla tua richiesta. Se il modulo non funziona, scrivi a {0}."
+    },
+    "nl": {
+      "text": "Uw gegevens worden naar Antech gestuurd zodat wij uw aanvraag kunnen beantwoorden. Werkt het formulier niet, mail dan naar {0}."
+    },
+    "pt-BR": {
+      "text": "Seus dados serão enviados à Antech para que possamos responder à sua consulta. Se o formulário não funcionar, envie um e-mail para {0}."
+    },
+    "zh-CN": {
+      "text": "您的信息将发送给 Antech，以便我们回复您的咨询。如果无法通过表单提交，请发送邮件至 {0}。"
+    },
+    "ja": {
+      "text": "お問い合わせへの回答のため、入力内容を Antech に送信します。フォームから送信できない場合は、{0}までメールでご連絡ください。"
+    },
+    "ko": {
+      "text": "문의에 답변할 수 있도록 입력하신 정보를 Antech에 전송합니다. 양식으로 전송되지 않으면 {0}로 이메일을 보내 주세요."
+    },
+    "hi": {
+      "text": "आपकी पूछताछ का उत्तर देने के लिए आपकी जानकारी Antech को भेजी जाएगी। फ़ॉर्म से जानकारी भेजने में समस्या हो तो {0} पर ईमेल करें।"
+    },
+    "tr": {
+      "text": "Bilgi talebinizi yanıtlayabilmemiz için bilgileriniz Antech’e gönderilecektir. Form çalışmazsa {0} adresine e-posta gönderin."
+    },
+    "ar": {
+      "text": "ستُرسل بياناتك إلى Antech حتى نتمكن من الرد على استفسارك. إذا تعذّر إرسال النموذج، يُرجى مراسلتنا على {0}."
+    }
+  }
+}

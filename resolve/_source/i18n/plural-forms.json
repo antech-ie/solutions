@@ -1,0 +1,266 @@
+{
+  "en": {
+    "unit": {
+      "one": "unit",
+      "other": "units"
+    },
+    "year": {
+      "one": "year",
+      "other": "years"
+    },
+    "month": {
+      "one": "month",
+      "other": "months"
+    },
+    "lab": {
+      "one": "lab",
+      "other": "labs"
+    }
+  },
+  "es": {
+    "unit": {
+      "one": "unidad",
+      "other": "unidades"
+    },
+    "year": {
+      "one": "año",
+      "other": "años"
+    },
+    "month": {
+      "one": "mes",
+      "other": "meses"
+    },
+    "lab": {
+      "one": "laboratorio",
+      "other": "laboratorios"
+    }
+  },
+  "fr": {
+    "unit": {
+      "one": "unité",
+      "other": "unités"
+    },
+    "year": {
+      "one": "an",
+      "other": "ans"
+    },
+    "month": {
+      "one": "mois",
+      "other": "mois"
+    },
+    "lab": {
+      "one": "laboratoire",
+      "other": "laboratoires"
+    }
+  },
+  "de": {
+    "unit": {
+      "one": "Gerät",
+      "other": "Geräte"
+    },
+    "year": {
+      "one": "Jahr",
+      "other": "Jahre"
+    },
+    "month": {
+      "one": "Monat",
+      "other": "Monate"
+    },
+    "lab": {
+      "one": "Labor",
+      "other": "Labore"
+    }
+  },
+  "pl": {
+    "unit": {
+      "one": "urządzenie",
+      "few": "urządzenia",
+      "many": "urządzeń",
+      "other": "urządzenia"
+    },
+    "year": {
+      "one": "rok",
+      "few": "lata",
+      "many": "lat",
+      "other": "roku"
+    },
+    "month": {
+      "one": "miesiąc",
+      "few": "miesiące",
+      "many": "miesięcy",
+      "other": "miesiąca"
+    },
+    "lab": {
+      "one": "laboratorium",
+      "few": "laboratoria",
+      "many": "laboratoriów",
+      "other": "laboratorium"
+    }
+  },
+  "it": {
+    "unit": {
+      "one": "unità",
+      "other": "unità"
+    },
+    "year": {
+      "one": "anno",
+      "other": "anni"
+    },
+    "month": {
+      "one": "mese",
+      "other": "mesi"
+    },
+    "lab": {
+      "one": "laboratorio",
+      "other": "laboratori"
+    }
+  },
+  "nl": {
+    "unit": {
+      "one": "apparaat",
+      "other": "apparaten"
+    },
+    "year": {
+      "one": "jaar",
+      "other": "jaar"
+    },
+    "month": {
+      "one": "maand",
+      "other": "maanden"
+    },
+    "lab": {
+      "one": "laboratorium",
+      "other": "laboratoria"
+    }
+  },
+  "pt-BR": {
+    "unit": {
+      "one": "unidade",
+      "other": "unidades"
+    },
+    "year": {
+      "one": "ano",
+      "other": "anos"
+    },
+    "month": {
+      "one": "mês",
+      "other": "meses"
+    },
+    "lab": {
+      "one": "laboratório",
+      "other": "laboratórios"
+    }
+  },
+  "zh-CN": {
+    "unit": {
+      "other": "台"
+    },
+    "year": {
+      "other": "年"
+    },
+    "month": {
+      "other": "个月"
+    },
+    "lab": {
+      "other": "个实验室"
+    }
+  },
+  "ja": {
+    "unit": {
+      "other": "台"
+    },
+    "year": {
+      "other": "年"
+    },
+    "month": {
+      "other": "か月"
+    },
+    "lab": {
+      "other": "試験室"
+    }
+  },
+  "ko": {
+    "unit": {
+      "other": "대"
+    },
+    "year": {
+      "other": "년"
+    },
+    "month": {
+      "other": "개월"
+    },
+    "lab": {
+      "other": "개 실험실"
+    }
+  },
+  "hi": {
+    "unit": {
+      "one": "इकाई",
+      "other": "इकाइयाँ"
+    },
+    "year": {
+      "one": "वर्ष",
+      "other": "वर्ष"
+    },
+    "month": {
+      "one": "महीना",
+      "other": "महीने"
+    },
+    "lab": {
+      "one": "प्रयोगशाला",
+      "other": "प्रयोगशालाएँ"
+    }
+  },
+  "tr": {
+    "unit": {
+      "one": "ünite",
+      "other": "ünite"
+    },
+    "year": {
+      "one": "yıl",
+      "other": "yıl"
+    },
+    "month": {
+      "one": "ay",
+      "other": "ay"
+    },
+    "lab": {
+      "one": "laboratuvar",
+      "other": "laboratuvar"
+    }
+  },
+  "ar": {
+    "unit": {
+      "zero": "وحدات",
+      "one": "وحدة",
+      "two": "وحدتان",
+      "few": "وحدات",
+      "many": "وحدةً",
+      "other": "وحدة"
+    },
+    "year": {
+      "zero": "سنوات",
+      "one": "سنة",
+      "two": "سنتان",
+      "few": "سنوات",
+      "many": "سنةً",
+      "other": "سنة"
+    },
+    "month": {
+      "zero": "أشهر",
+      "one": "شهر",
+      "two": "شهران",
+      "few": "أشهر",
+      "many": "شهرًا",
+      "other": "شهر"
+    },
+    "lab": {
+      "zero": "مختبرات",
+      "one": "مختبر",
+      "two": "مختبران",
+      "few": "مختبرات",
+      "many": "مختبرًا",
+      "other": "مختبر"
+    }
+  }
+}

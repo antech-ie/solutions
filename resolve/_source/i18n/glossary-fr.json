@@ -1,0 +1,40 @@
+{
+  "locale": "fr",
+  "review": "Révision scientifique et marketing rédigée par IA ; aucune certification linguistique, juridique ou réglementaire. Une relecture technique francophone qualifiée est recommandée avant publication.",
+  "terms": {
+    "HPLC": "HPLC",
+    "Mobile phase": "Phase mobile",
+    "Mobile-phase recycling": "Recyclage de la phase mobile",
+    "Isocratic elution": "Élution isocratique",
+    "Gradient elution": "Élution en gradient",
+    "Acetonitrile": "Acétonitrile",
+    "Methanol": "Méthanol",
+    "Analyte": "Analyte",
+    "Chromatographic separation": "Séparation chromatographique",
+    "Retention time": "Temps de rétention",
+    "Peak area": "Aire du pic",
+    "Resolution": "Résolution",
+    "System suitability": "Aptitude du système (critères propres à la méthode)",
+    "Detector signal": "Signal du détecteur",
+    "Waste diversion": "Dérivation vers les déchets",
+    "Method validation": "Validation de la méthode",
+    "Analytical performance": "Performances analytiques",
+    "GMP": "GMP",
+    "Audit trail": "Piste d’audit",
+    "Hazardous solvent waste": "Déchets dangereux de solvants",
+    "Carbon dioxide equivalent (CO₂e)": "Équivalent dioxyde de carbone (CO₂e)",
+    "Return on investment": "Retour sur investissement",
+    "Payback period": "Délai de récupération de l’investissement",
+    "Measured routing recovery": "Taux de récupération mesuré du flux acheminé",
+    "Net fresh-demand reduction": "Réduction nette des besoins en phase mobile fraîche",
+    "Net waste reduction": "Réduction nette des déchets",
+    "Waste density": "Masse volumique des déchets (kg/L)"
+  },
+  "scientificRules": [
+    "Le recyclage correspond au renvoi sélectif de phase mobile pour réutilisation ; il ne signifie ni purification ni distillation.",
+    "La ligne de base chromatographique est distincte de la situation de référence opérationnelle.",
+    "La stabilité analytique est distincte de la durabilité environnementale.",
+    "Préserver les mesures, les unités, la précision, les EUR et le périmètre isocratique de chaque méthode.",
+    "Distinguer le taux de récupération mesuré, les réductions annuelles nettes modélisées et la capacité du personnel libérée."
+  ]
+}

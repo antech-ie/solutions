@@ -1,0 +1,42 @@
+{
+  "locale": "it",
+  "review": "Revisione linguistica scientifica e commerciale redatta da IA; non costituisce approvazione madrelingua certificata né valutazione legale o regolatoria.",
+  "terms": {
+    "HPLC": "HPLC",
+    "Mobile phase": "Fase mobile",
+    "Mobile-phase recycling": "Riciclo della fase mobile",
+    "Isocratic elution": "Eluizione isocratica",
+    "Gradient elution": "Eluizione a gradiente",
+    "Acetonitrile": "Acetonitrile",
+    "Methanol": "Metanolo",
+    "Analyte": "Analita",
+    "Chromatographic separation": "Separazione cromatografica",
+    "Retention time": "Tempo di ritenzione",
+    "Peak area": "Area del picco",
+    "Resolution": "Risoluzione",
+    "System suitability": "Idoneità del sistema",
+    "Detector signal": "Segnale del rivelatore",
+    "Waste diversion": "Deviazione delle frazioni verso i rifiuti",
+    "Method validation": "Validazione del metodo",
+    "Analytical performance": "Prestazioni analitiche",
+    "GMP": "GMP",
+    "Audit trail": "Audit trail (registro cronologico tracciabile degli eventi)",
+    "Hazardous solvent waste": "Rifiuti pericolosi contenenti solventi",
+    "Carbon dioxide equivalent (CO₂e)": "Anidride carbonica equivalente (CO₂e)",
+    "Return on investment": "Ritorno sull’investimento",
+    "Payback period": "Tempo di recupero dell’investimento",
+    "Measured routing recovery": "Recupero misurato del flusso instradato",
+    "Net fresh-demand reduction": "Riduzione netta del fabbisogno di fase mobile fresca",
+    "Net waste reduction": "Riduzione netta dei rifiuti"
+  },
+  "register": "Tu nelle CTA e nelle istruzioni interattive; infinito impersonale nelle procedure e nelle checklist tecniche.",
+  "translationNotes": {
+    "Mobile-phase recycling": "Riciclo selettivo mediante instradamento della fase mobile idonea al riutilizzo; non purificazione né distillazione.",
+    "Flow rate": "Portata quando espressa come volume per unità di tempo; flusso per il percorso fisico.",
+    "Throughput": "Volume instradato; può includere ricircoli e non coincide con la riduzione netta annua.",
+    "Source vial": "Vial di origine; non suggerisce che il contenitore stesso venga riciclato.",
+    "Baseline": "Linea di base nel cromatogramma; riferimento per i consumi e i modelli economici.",
+    "Business case": "Business case; evitare il calco caso aziendale.",
+    "Carbon estimates": "Riduzione stimata di CO₂e; fattori del modello e confini di rendicontazione sempre espliciti."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "locale": "pl",
+  "terms": {
+    "HPLC": "HPLC — wysokosprawna chromatografia cieczowa",
+    "Mobile phase": "faza ruchoma",
+    "Mobile-phase recycling": "recyrkulacja fazy ruchomej",
+    "Isocratic elution": "elucja izokratyczna",
+    "Gradient elution": "elucja gradientowa",
+    "Acetonitrile": "acetonitryl",
+    "Methanol": "metanol",
+    "Analyte": "analit",
+    "Chromatographic separation": "rozdzielanie chromatograficzne",
+    "Retention time": "czas retencji",
+    "Peak area": "pole powierzchni piku",
+    "Resolution": "rozdzielczość chromatograficzna",
+    "System suitability": "przydatność układu",
+    "Detector signal": "sygnał detektora",
+    "Waste diversion": "kierowanie frakcji do odpadów",
+    "Method validation": "walidacja metody",
+    "Analytical performance": "parametry analityczne",
+    "GMP": "GMP — Dobra Praktyka Wytwarzania",
+    "Audit trail": "ścieżka audytu",
+    "Hazardous solvent waste": "niebezpieczne odpady rozpuszczalnikowe",
+    "Carbon dioxide equivalent (CO₂e)": "ekwiwalent dwutlenku węgla (CO₂e)",
+    "Return on investment": "zwrot z inwestycji",
+    "Payback period": "okres zwrotu",
+    "Measured routing recovery": "zmierzony udział przepływu zawróconego do obiegu",
+    "Net fresh-demand reduction": "redukcja netto zapotrzebowania na świeżą fazę ruchomą",
+    "Net waste reduction": "redukcja netto ilości odpadów"
+  },
+  "reviewStatus": "Qualified native-speaking pharmaceutical reviewer required before production release.",
+  "scientificRulesSource": "glossary-en.json"
+}

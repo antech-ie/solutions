@@ -1,0 +1,7 @@
+/* Keep the five legacy calculation source cells machine-readable while showing locale numbers. */
+[data-resolve-number] { font-size: 0 !important; }
+[data-resolve-number]::after {
+  content: attr(data-resolve-number);
+  font-size: var(--rv-number-size, 1rem);
+  unicode-bidi: isolate;
+}

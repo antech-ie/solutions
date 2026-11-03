@@ -1,0 +1,16 @@
+{
+  "en": {"prefix":"Keep your mobile phase ","emphasis":"working.","suffix":""},
+  "es": {"prefix":"Mantenga su fase móvil ","emphasis":"en uso.","suffix":""},
+  "fr": {"prefix":"Gardez votre phase mobile ","emphasis":"en service.","suffix":""},
+  "de": {"prefix":"Halten Sie Ihre mobile Phase ","emphasis":"in Betrieb.","suffix":""},
+  "pl": {"prefix":"Korzystaj z fazy ruchomej ","emphasis":"dłużej.","suffix":""},
+  "it": {"prefix":"Mantieni la tua fase mobile ","emphasis":"in uso.","suffix":""},
+  "nl": {"prefix":"Houd uw mobiele fase ","emphasis":"aan het werk.","suffix":""},
+  "pt-BR": {"prefix":"Mantenha sua fase móvel ","emphasis":"em uso.","suffix":""},
+  "zh-CN": {"prefix":"让您的流动相","emphasis":"持续发挥作用。","suffix":""},
+  "ja": {"prefix":"移動相を","emphasis":"引き続き活用。","suffix":""},
+  "ko": {"prefix":"이동상을 ","emphasis":"계속 활용하세요.","suffix":""},
+  "hi": {"prefix":"अपने मोबाइल फेज़ का ","emphasis":"उपयोग जारी रखें।","suffix":""},
+  "tr": {"prefix":"Mobil fazınızı ","emphasis":"kullanımda tutun.","suffix":""},
+  "ar": {"prefix":"أبقِ طورك المتحرك ","emphasis":"قيد الاستخدام.","suffix":""}
+}

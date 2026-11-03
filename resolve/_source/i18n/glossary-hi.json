@@ -1,0 +1,56 @@
+{
+  "locale": "hi",
+  "sourceGlossary": "glossary-en.json",
+  "terms": {
+    "HPLC": "उच्च प्रदर्शन द्रव क्रोमैटोग्राफी (HPLC)",
+    "Mobile phase": "मोबाइल फेज़",
+    "Mobile-phase recycling": "मोबाइल फेज़ का पुनर्चक्रण",
+    "Isocratic elution": "आइसोक्रेटिक एल्यूशन",
+    "Gradient elution": "ग्रेडिएंट एल्यूशन",
+    "Acetonitrile": "एसीटोनाइट्राइल",
+    "Methanol": "मेथनॉल",
+    "Analyte": "विश्लेष्य",
+    "Chromatographic separation": "क्रोमैटोग्राफिक पृथक्करण",
+    "Retention time": "रिटेंशन समय",
+    "Peak area": "पीक क्षेत्रफल",
+    "Resolution": "विभेदन",
+    "System suitability": "सिस्टम उपयुक्तता",
+    "Detector signal": "डिटेक्टर संकेत",
+    "Waste diversion": "अपशिष्ट की ओर प्रवाह मोड़ना",
+    "Method validation": "विश्लेषण विधि का सत्यापन",
+    "Analytical performance": "विश्लेषणात्मक प्रदर्शन",
+    "GMP": "उत्तम विनिर्माण पद्धति (GMP)",
+    "Audit trail": "ऑडिट ट्रेल",
+    "Hazardous solvent waste": "खतरनाक विलायक अपशिष्ट",
+    "Carbon dioxide equivalent (CO₂e)": "कार्बन डाइऑक्साइड समतुल्य (CO₂e)",
+    "Return on investment": "निवेश पर प्रतिफल",
+    "Payback period": "निवेश-वसूली अवधि",
+    "Measured routing recovery": "मापा गया प्रवाह-पुनर्प्राप्ति अनुपात",
+    "Net fresh-demand reduction": "ताज़े मोबाइल फेज़ की मांग में शुद्ध कमी",
+    "Net waste reduction": "अपशिष्ट में शुद्ध कमी",
+    "Traceability": "अनुरेखणीयता",
+    "Eligible baseline flow": "पात्र बेसलाइन प्रवाह",
+    "Peak fractions": "पीक वाले अंश",
+    "Detection limit": "पहचान की सीमा"
+  },
+  "reviewStatus": "AI-authored complete scientific and marketing language review; not certified native-speaker, legal or regulatory approval.",
+  "scientificRules": [
+    "Preserve numerical precision, source measurements, units and references.",
+    "Preserve distinctions between measured evidence, modelled outcomes and planning assumptions.",
+    "All original source PDFs remain English-language scientific records.",
+    "Do not add certification, regulatory approval or universal validation claims.",
+    "Routing selects prepared mobile phase for return and reuse; it does not purify it.",
+    "LC/MS non-detection is method-specific; detection limits are not specified in the report.",
+    "Environmental sustainability uses सततता; analytical stability uses स्थिरता."
+  ],
+  "terminologyReferences": [
+    "https://goldbook.iupac.org/terms/view/09896",
+    "https://goldbook.iupac.org/terms/view/G02670",
+    "https://goldbook.iupac.org/terms/view/M03952"
+  ],
+  "terminologyDistinctions": {
+    "Environmental sustainability": "सततता",
+    "Analytical stability": "विश्लेषणात्मक स्थिरता",
+    "Note": "पर्यावरणीय सततता और विश्लेषणात्मक स्थिरता अलग अवधारणाएँ हैं। पर्यावरणीय रिपोर्टिंग में सततता तथा बेसलाइन, रिटेंशन समय और विश्लेषणात्मक प्रदर्शन के संदर्भ में स्थिरता प्रयोग करें।"
+  }
+}
