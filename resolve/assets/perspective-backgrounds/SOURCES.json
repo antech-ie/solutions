@@ -1,0 +1,61 @@
+{
+  "note": "Source and licence metadata supplied with the user-selected image archive; photographs are contextual stock illustrations.",
+  "photos": [
+    {
+      "file": "quality.webp",
+      "photographer": "Yuri Shkoda",
+      "source_url": "https://www.pexels.com/photo/vials-in-a-chromatograph-10514991/",
+      "licence": "Pexels License",
+      "licence_url": "https://www.pexels.com/license/"
+    },
+    {
+      "file": "sustainability.webp",
+      "photographer": "Markus Winkler",
+      "source_url": "https://www.pexels.com/photo/close-up-photo-of-plastic-barrels-2786527/",
+      "licence": "Pexels License",
+      "licence_url": "https://www.pexels.com/license/"
+    },
+    {
+      "file": "procurement.webp",
+      "photographer": "Tima Miroshnichenko",
+      "source_url": "https://www.pexels.com/photo/medical-equipments-in-the-laboratory-9574454/",
+      "licence": "Pexels License",
+      "licence_url": "https://www.pexels.com/license/"
+    },
+    {
+      "file": "supply-chain.webp",
+      "photographer": "Tiger Lily",
+      "source_url": "https://www.pexels.com/photo/shelves-on-a-warehouse-4483608/",
+      "licence": "Pexels License",
+      "licence_url": "https://www.pexels.com/license/"
+    },
+    {
+      "file": "value.webp",
+      "photographer": "Mikhail Nilov",
+      "source_url": "https://www.pexels.com/photo/woman-in-white-long-sleeve-shirt-using-computer-8851456/",
+      "licence": "Pexels License",
+      "licence_url": "https://www.pexels.com/license/"
+    },
+    {
+      "file": "research.webp",
+      "photographer": "Thirdman",
+      "source_url": "https://www.pexels.com/photo/close-up-of-clear-test-tubes-in-a-laboratory-8940480/",
+      "licence": "Pexels License",
+      "licence_url": "https://www.pexels.com/license/"
+    },
+    {
+      "file": "reports.webp",
+      "photographer": "RDNE Stock project",
+      "source_url": "https://www.pexels.com/photo/a-graph-on-printed-paper-7947754/",
+      "licence": "Pexels License",
+      "licence_url": "https://www.pexels.com/license/"
+    },
+    {
+      "file": "across.webp",
+      "photographer": "Tima Miroshnichenko",
+      "source_url": "https://www.pexels.com/photo/medical-professional-using-computer-9574482/",
+      "licence": "Pexels License",
+      "licence_url": "https://www.pexels.com/license/"
+    }
+  ]
+}
