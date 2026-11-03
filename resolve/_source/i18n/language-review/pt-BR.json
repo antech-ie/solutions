@@ -1,0 +1,589 @@
+{
+  "locale": "pt-BR",
+  "agent": "/root/language_pt_br",
+  "status": "reviewed",
+  "reviewedKeys": 1429,
+  "reviewedProfiles": [
+    "quality",
+    "sustainability",
+    "procurement",
+    "supply-chain",
+    "value",
+    "research",
+    "reports",
+    "across"
+  ],
+  "reviewBasis": "AI-authored complete Brazilian Portuguese scientific and professional marketing review against all 1,429 English values, all 35 final English semantic alignments, the eight assembled profile contexts, headings, inline blocks, forms, reports, supplemental labels and SEO.",
+  "changedEntries": 88,
+  "changes": [
+    {
+      "sourceKey": "% net fresh reduction /",
+      "before": "% de redução líquida de fase nova /",
+      "after": "% de redução líquida da demanda de fase móvel nova /"
+    },
+    {
+      "sourceKey": "1 lab × 10 HPLCs × 1 mL/min × 60 min × 16 h/day × 5 days/week × 48 weeks/year = 2,304 L/year. Three years = 6,912 L baseline. Fresh demand avoided and waste prevented each use a separate 80% net reduction assumption. Material cost = €100/L. No growth, inflation or discounting is applied. These are cumulative three-year figures.",
+      "before": "1 laboratório × 10 HPLCs × 1 mL/min × 60 min × 16 h/dia × 5 dias/semana × 48 semanas/ano = 2,304 L/ano. Três anos = 6,912 L de referência. A demanda de fase nova evitada e os resíduos prevenidos usam hipóteses separadas de redução líquida de 80%. Custo de material = €100/L. Sem crescimento, inflação ou desconto. São valores acumulados de três anos.",
+      "after": "1 laboratório × 10 HPLCs × 1 mL/min × 60 min × 16 h/dia × 5 dias/semana × 48 semanas/ano = 2,304 L/ano. Três anos = 6,912 L de referência. A demanda de fase móvel nova evitada e os resíduos evitados usam hipóteses separadas de redução líquida de 80%. Custo de material = €100/L. Sem crescimento, inflação ou desconto. São valores acumulados de três anos."
+    },
+    {
+      "sourceKey": "1.0 mL/min, isocratic / UV 230 nm",
+      "before": "1.0 mL/min, isocrático / UV 230 nm",
+      "after": "1.0 mL/min, eluição isocrática / UV 230 nm"
+    },
+    {
+      "sourceKey": "25 records paired with audit starts and finishes on 5 May 2026.",
+      "before": "25 registros pareados com inícios e términos da auditoria em 5 de maio de 2026.",
+      "after": "25 registros de medição associados a eventos de início e término na trilha de auditoria em 5 de maio de 2026."
+    },
+    {
+      "sourceKey": "29.09 t CO₂e modelled reduction opportunity",
+      "before": "29.09 t CO₂e de oportunidade de redução modelada",
+      "after": "Oportunidade modelada de redução de 29.09 t CO₂e"
+    },
+    {
+      "sourceKey": "80 sample injections per sequence, plus 13 standards and 3 blanks. Retention, area, peak shape and resolution are reported.",
+      "before": "80 injeções de amostras por sequência, mais 13 padrões e 3 brancos. Retenção, área, formato do pico e resolução são informados.",
+      "after": "80 injeções de amostras por sequência, mais 13 padrões e 3 brancos. São apresentados os resultados de tempo de retenção, área e formato do pico e resolução."
+    },
+    {
+      "sourceKey": "A fixed one-lab example over three years. Select Model Your Own Scenario to model your laboratories.",
+      "before": "Um exemplo fixo de um laboratório ao longo de três anos. Selecione Modele seu próprio cenário para representar seus laboratórios.",
+      "after": "Um exemplo fixo de um laboratório ao longo de três anos. Selecione Modele seu próprio cenário para modelar seus laboratórios."
+    },
+    {
+      "sourceKey": "Agilent 1260 DAD · 5–6 May 2026. Select a range, then hover, tap or focus an injection to inspect its recorded volumes.",
+      "before": "Agilent 1260 DAD · 5–6 de maio de 2026. Selecione um intervalo e passe o cursor, toque ou dê foco a uma injeção para consultar os volumes registrados.",
+      "after": "Agilent 1260 DAD · 5–6 de maio de 2026. Selecione um intervalo e passe o cursor sobre uma injeção, toque nela ou selecione-a pelo teclado para consultar os volumes registrados."
+    },
+    {
+      "sourceKey": "All 25 records are paired with audit starts and finishes. Record 9 retains a one-second difference: summary start 15:06:21; audit start 15:06:20.",
+      "before": "Todos os 25 registros estão pareados com inícios e términos da auditoria. O registro 9 mantém uma diferença de um segundo: início no resumo 15:06:21; início na auditoria 15:06:20.",
+      "after": "Todos os 25 registros estão associados a eventos de início e término das medições na trilha de auditoria. O registro 9 mantém uma diferença de um segundo: início no resumo 15:06:21; início na trilha de auditoria 15:06:20."
+    },
+    {
+      "sourceKey": "All labs use the same systems-per-lab count, operating schedule and per-system flow. Disposal cost avoided is calculated from prevented waste volume × disposal cost per litre. Preparation time is valued separately at your entered staff cost; it is not included in material and disposal savings. Equipment, service, consumables and implementation costs are not deducted, in the gross savings figures. The financial projection separately deducts equipment, installation and annual support to calculate net cash, ROI, payback and NPV.",
+      "before": "Todos os laboratórios usam a mesma quantidade de sistemas por laboratório, jornada operacional e vazão por sistema. O custo de descarte evitado é calculado pelo volume de resíduos prevenidos × custo de descarte por litro. O tempo de preparo é valorizado separadamente pelo custo de pessoal informado; não integra as economias de material e descarte. Equipamento, manutenção, consumíveis e implementação não são deduzidos das economias brutas. A projeção financeira deduz separadamente equipamento, instalação e suporte anual para calcular caixa líquido, ROI, prazo de retorno e VPL.",
+      "after": "Todos os laboratórios usam a mesma quantidade de sistemas por laboratório, jornada operacional e vazão por sistema. O custo de descarte evitado é calculado pelo volume de resíduos evitados × custo de descarte por litro. O valor do tempo de preparo é calculado separadamente com o custo de pessoal informado; não integra as economias de material e descarte. As economias brutas não deduzem custos de equipamento, assistência técnica, consumíveis ou implementação. A projeção financeira deduz os custos informados de equipamento, instalação e suporte anual para calcular as estimativas de caixa líquido, ROI, prazo de retorno e VPL. Avalie separadamente quaisquer outros custos específicos da unidade."
+    },
+    {
+      "sourceKey": "Analytical comparison, injection records and approved method assessment.",
+      "before": "Comparação analítica, registros de injeções e avaliação do método aprovado.",
+      "after": "Comparação analítica, registros de injeções e avaliação aprovada do método."
+    },
+    {
+      "sourceKey": "Annual cost avoided",
+      "before": "Custo anual evitado",
+      "after": "Custo anual evitado estimado"
+    },
+    {
+      "sourceKey": "Annual gross salary per analyst. Default €30,000/year; employer contributions and benefits are excluded. Preparation time is valued from annual salary using the paid-hours assumption in Calculation method.",
+      "before": "Salário bruto anual por analista. Padrão de €30,000/ano; encargos e benefícios do empregador não incluídos. O tempo de preparo é valorizado pelo salário anual usando a hipótese de horas remuneradas em Método de cálculo.",
+      "after": "Salário bruto anual por analista. Valor padrão de €30,000/ano; encargos e benefícios pagos pelo empregador não incluídos. O valor do tempo de preparo é calculado a partir do salário anual usando a hipótese de horas remuneradas em Método de cálculo."
+    },
+    {
+      "sourceKey": "Apply the planning reductions below to compare the same workload today and with ReSolve.",
+      "before": "Aplique as reduções de planejamento abaixo para comparar a mesma carga de trabalho hoje e com ReSolve.",
+      "after": "Aplique as hipóteses de redução abaixo para comparar a mesma carga de trabalho hoje e com ReSolve."
+    },
+    {
+      "sourceKey": "At 80% lower demand, unchanged usable stock could cover 5× as many operating days. A conditional arithmetic ratio, not a measured service improvement; ingredient mix, expiry and reserves still apply.",
+      "before": "Com demanda 80% menor, o mesmo estoque utilizável poderia cobrir 5× mais dias operacionais. É uma relação aritmética condicional, não uma melhoria de serviço medida; composição, validade e reservas continuam aplicáveis.",
+      "after": "Com demanda 80% menor, o mesmo estoque utilizável poderia cobrir 5× o número de dias de operação. É uma relação aritmética condicional, não uma melhoria de serviço medida; composição, validade e reservas continuam aplicáveis."
+    },
+    {
+      "sourceKey": "Audit finish",
+      "before": "Término da auditoria",
+      "after": "Término na trilha de auditoria"
+    },
+    {
+      "sourceKey": "Audit start",
+      "before": "Início da auditoria",
+      "after": "Início na trilha de auditoria"
+    },
+    {
+      "sourceKey": "Both lines start after the upfront equipment and installation payment. Cash payback assumes savings accrue evenly through the year. NPV uses year-end cash flows discounted at 10%; segments join the annual valuation points. Staff capacity value is excluded from cash returns.",
+      "before": "As duas linhas começam após o pagamento inicial de equipamento e instalação. O retorno de caixa pressupõe economias distribuídas uniformemente ao longo do ano. O VPL usa fluxos de caixa de fim de ano descontados a 10%; os segmentos ligam os pontos anuais de avaliação. O valor da capacidade de pessoal é excluído dos retornos de caixa.",
+      "after": "As duas linhas começam após o pagamento inicial de equipamento e instalação. O prazo de retorno de caixa pressupõe economias distribuídas uniformemente ao longo do ano. O VPL usa fluxos de caixa de fim de ano à taxa de desconto selecionada (10% por padrão); os segmentos ligam os pontos anuais de avaliação. O valor da capacidade de pessoal é excluído dos retornos de caixa."
+    },
+    {
+      "sourceKey": "Build a case with your own workload and costs",
+      "before": "Monte um caso com sua carga de trabalho e custos",
+      "after": "Monte um caso de negócio com sua carga de trabalho e seus custos"
+    },
+    {
+      "sourceKey": "Build one business case, together.",
+      "before": "Construam juntos um único caso de negócio.",
+      "after": "Construa um caso de negócio em conjunto."
+    },
+    {
+      "sourceKey": "CO₂ reduction",
+      "before": "Redução de CO₂",
+      "after": "Redução estimada de CO₂e"
+    },
+    {
+      "sourceKey": "CO₂:",
+      "before": "CO₂:",
+      "after": "CO₂e estimado:"
+    },
+    {
+      "sourceKey": "Combined, when equal litres are prevented",
+      "before": "Combinado, quando volumes iguais em litros são prevenidos",
+      "after": "Combinado, quando são evitados volumes iguais em litros"
+    },
+    {
+      "sourceKey": "Conclusion · analytical performance maintained",
+      "before": "Conclusão · desempenho analítico mantido",
+      "after": "Conclusão do estudo · desempenho analítico mantido nas condições do método avaliado"
+    },
+    {
+      "sourceKey": "Connect demand prevention to purchasing",
+      "before": "Conecte a prevenção da demanda às compras",
+      "after": "Relacione a redução da demanda às compras"
+    },
+    {
+      "sourceKey": "Divert the peaks.",
+      "before": "Desvie os picos.",
+      "after": "Desvie as frações dos picos para descarte."
+    },
+    {
+      "sourceKey": "Enter annual salary to value released time.",
+      "before": "Informe o salário anual para valorizar o tempo liberado.",
+      "after": "Informe o salário anual para calcular o valor do tempo liberado."
+    },
+    {
+      "sourceKey": "Estimate production and waste-treatment emissions separately from the litres prevented.",
+      "before": "Estime as emissões de produção e tratamento de resíduos separadamente dos litros prevenidos.",
+      "after": "Estime separadamente as emissões da produção e do tratamento de resíduos com base nos litros evitados."
+    },
+    {
+      "sourceKey": "Estimated hazardous waste prevented",
+      "before": "Resíduos perigosos estimados prevenidos",
+      "after": "Estimativa de resíduos perigosos evitados"
+    },
+    {
+      "sourceKey": "Example opportunity—subject to validation at each site. The fixed example uses an 80% reduction assumption; 80%+ is not a measured purchasing result. Associated carbon estimates use supplied factors pending verification.",
+      "before": "Oportunidade ilustrativa — sujeita à validação em cada unidade. O exemplo fixo pressupõe redução de 80%; 80%+ não é um resultado medido de compras. As estimativas de carbono associadas usam fatores fornecidos, pendentes de verificação.",
+      "after": "O exemplo fixo pressupõe uma redução líquida de 80% na demanda de fase móvel nova e nos resíduos. São hipóteses de planejamento, não resultados medidos de compras. As estimativas de carbono associadas usam fatores fornecidos que exigem verificação."
+    },
+    {
+      "sourceKey": "Fewer fresh mobile-phase preparations can reduce opportunities for weighing, mixing and pH-adjustment errors.",
+      "before": "Menos preparos de fase móvel nova podem reduzir as oportunidades de erros de pesagem, mistura e ajuste de pH.",
+      "after": "Preparar fase móvel nova com menor frequência pode reduzir as oportunidades de erros de pesagem, mistura e ajuste de pH."
+    },
+    {
+      "sourceKey": "Fixed example: 1 lab · 10 HPLCs · 1 mL/min per HPLC · 16 hours/day · 5 days/week · 48 weeks/year · 80% net fresh and waste reduction · €100/L prepared mobile phase.",
+      "before": "Exemplo fixo: 1 laboratório · 10 HPLCs · 1 mL/min por HPLC · 16 horas/dia · 5 dias/semana · 48 semanas/ano · redução líquida de 80% da fase nova e dos resíduos · €100/L de fase móvel preparada.",
+      "after": "Exemplo fixo: 1 laboratório · 10 HPLCs · 1 mL/min por HPLC · 16 horas/dia · 5 dias/semana · 48 semanas/ano · redução líquida de 80% da demanda de fase móvel nova e dos resíduos · €100/L de fase móvel preparada."
+    },
+    {
+      "sourceKey": "Fresh requirement falls from 6,912 L to 1,382.4 L over three years; 5× theoretical coverage at unchanged usable stock.",
+      "before": "A necessidade de fase nova cai de 6,912 L para 1,382.4 L em três anos; cobertura teórica 5× maior com o mesmo estoque utilizável.",
+      "after": "A necessidade de fase nova cai de 6,912 L para 1,382.4 L em três anos; cobertura teórica equivalente a 5× a original com o mesmo estoque utilizável."
+    },
+    {
+      "sourceKey": "Geopolitical tensions, conflict, changing trade policies and disruption to major shipping routes are making global supply chains more uncertain. Rerouting, volatile freight costs and unpredictable lead times make replenishment harder to plan.",
+      "before": "Tensões geopolíticas, conflitos, mudanças nas políticas comerciais e interrupções de rotas marítimas importantes aumentam a incerteza das cadeias globais. Desvios de rota, custos de frete voláteis e prazos imprevisíveis dificultam o planejamento da reposição.",
+      "after": "Tensões geopolíticas, conflitos, mudanças nas políticas comerciais e interrupções em rotas marítimas importantes podem dificultar o planejamento da reposição. Avalie a exposição na sua própria rede de fornecedores, nas rotas de transporte e na política de estoque."
+    },
+    {
+      "sourceKey": "Hazardous waste prevented",
+      "before": "Resíduos perigosos prevenidos",
+      "after": "Estimativa de resíduos perigosos evitados"
+    },
+    {
+      "sourceKey": "Ibuprofen tailing",
+      "before": "Cauda do pico de ibuprofeno",
+      "after": "Fator de cauda do pico de ibuprofeno"
+    },
+    {
+      "sourceKey": "Independent evaluation by PMBrc / SETU, commissioned by Antech.",
+      "before": "Avaliação independente de PMBrc / SETU, encomendada pela Antech.",
+      "after": "Avaliação independente realizada pelo PMBrc / SETU, encomendada pela Antech."
+    },
+    {
+      "sourceKey": "Independent evaluation by PMBrc / SETU, commissioned by Antech. Published 22 July 2026.",
+      "before": "Avaliação independente de PMBrc / SETU, encomendada pela Antech. Publicada em 22 de julho de 2026.",
+      "after": "Avaliação independente realizada pelo PMBrc / SETU, encomendada pela Antech. Publicada em 22 de julho de 2026."
+    },
+    {
+      "sourceKey": "Keep suitable mobile phase in productive use and prevent waste at its source.",
+      "before": "Mantenha a fase móvel adequada em uso produtivo e previna resíduos na origem.",
+      "after": "Mantenha a fase móvel adequada em uso produtivo e evite a geração de resíduos na origem."
+    },
+    {
+      "sourceKey": "Less fresh mobile phase connects laboratory capacity, purchasing cost, supply resilience and sustainability. Analytical integrity and traceable records underpin the business case.",
+      "before": "Menos fase móvel nova conecta capacidade laboratorial, custos de compras, resiliência de suprimentos e sustentabilidade. Integridade analítica e registros rastreáveis sustentam o caso de negócio.",
+      "after": "Reduzir a demanda de fase móvel nova conecta capacidade laboratorial, custos de compras, resiliência de suprimentos e sustentabilidade. Integridade analítica e registros rastreáveis sustentam o caso de negócio."
+    },
+    {
+      "sourceKey": "Less purchased. Less discarded.",
+      "before": "Menos comprado. Menos descartado.",
+      "after": "Menos compras. Menos descarte."
+    },
+    {
+      "sourceKey": "Lower delivery and waste-collection demand may reduce transport emissions. Transportation is excluded from the figures shown and requires route, shipment-weight and transport-factor data.",
+      "before": "Menor demanda por entregas e coleta de resíduos pode reduzir emissões do transporte. Transporte não está incluído nos valores apresentados e exige dados de rota, peso das remessas e fatores de transporte.",
+      "after": "Uma menor demanda por entregas e coletas de resíduos pode reduzir as emissões do transporte. O transporte não está incluído nos valores apresentados e exige dados de rota, peso das remessas e fatores de emissão do transporte."
+    },
+    {
+      "sourceKey": "Lower demand. A clearer purchasing case.",
+      "before": "Menor demanda. Um caso de compras mais claro.",
+      "after": "Menor demanda. Uma justificativa de compras mais clara."
+    },
+    {
+      "sourceKey": "Lower fresh mobile-phase demand and waste generation can reduce bottle changes, transfers and waste handling.",
+      "before": "Menor demanda de fase móvel nova e geração de resíduos podem reduzir trocas de frascos, transferências e manuseio de resíduos.",
+      "after": "A redução da demanda de fase móvel nova e da geração de resíduos pode diminuir as trocas de frascos, as transferências e o manuseio de resíduos."
+    },
+    {
+      "sourceKey": "Maintain analytical results and process integrity as mobile phase is recycled.",
+      "before": "Mantenha os resultados analíticos e a integridade do processo durante a reciclagem da fase móvel.",
+      "after": "Avalie o desempenho analítico e os controles do processo ao reutilizar a fase móvel."
+    },
+    {
+      "sourceKey": "Maintain your analytical standards while reducing fresh mobile-phase preparation.",
+      "before": "Mantenha seus padrões analíticos reduzindo o preparo de fase móvel nova.",
+      "after": "Avalie o reúso de fase móvel segundo seus requisitos analíticos."
+    },
+    {
+      "sourceKey": "Make the carbon contribution visible.",
+      "before": "Torne visível a contribuição de carbono.",
+      "after": "Torne visível a contribuição para a redução de emissões."
+    },
+    {
+      "sourceKey": "Make the continuity case measurable",
+      "before": "Torne mensurável o caso de continuidade",
+      "after": "Torne mensuráveis os benefícios para a continuidade."
+    },
+    {
+      "sourceKey": "Matched comparison",
+      "before": "Comparação equivalente",
+      "after": "Comparação pareada"
+    },
+    {
+      "sourceKey": "N/A · zero upfront investment",
+      "before": "N/A · investimento inicial zero",
+      "after": "Não se aplica · investimento inicial zero"
+    },
+    {
+      "sourceKey": "No difference in baseline noise/stability was observed. LC/MS found neither analyte in the recycled phase; the source reports waste-phase concentrations of 1,440 ng/mL paracetamol and 530 ng/mL ibuprofen.",
+      "before": "Não se observou diferença no ruído/estabilidade da linha de base. LC/MS não encontrou nenhum dos analitos na fase reciclada; a fonte informa concentrações na fase de descarte de 1,440 ng/mL de paracetamol e 530 ng/mL de ibuprofeno.",
+      "after": "Para o método avaliado, não se observou diferença no ruído ou na estabilidade da linha de base. A análise por LC/MS não detectou paracetamol nem ibuprofeno na fase reciclada; o relatório não especifica limites de detecção. A fonte informa concentrações na fase de descarte de 1,440 ng/mL de paracetamol e 530 ng/mL de ibuprofeno."
+    },
+    {
+      "sourceKey": "No payback",
+      "before": "Sem retorno",
+      "after": "Investimento não recuperado"
+    },
+    {
+      "sourceKey": "No payback at these inputs",
+      "before": "Sem retorno com estes dados",
+      "after": "Investimento não recuperado com estes dados"
+    },
+    {
+      "sourceKey": "One laboratory · measurable prevention over time",
+      "before": "Um laboratório · prevenção mensurável ao longo do tempo",
+      "after": "Um laboratório · prevenção modelada ao longo do tempo"
+    },
+    {
+      "sourceKey": "PRIMARY CARBON OPPORTUNITY",
+      "before": "PRINCIPAL OPORTUNIDADE DE CARBONO",
+      "after": "PRINCIPAL OPORTUNIDADE DE REDUÇÃO DE EMISSÕES"
+    },
+    {
+      "sourceKey": "Paracetamol tailing",
+      "before": "Cauda do pico de paracetamol",
+      "after": "Fator de cauda do pico de paracetamol"
+    },
+    {
+      "sourceKey": "Planning defaults are 80% net fresh-demand reduction and 80% net waste reduction, entered separately. Neither is a measured site result. The study’s 94.4809% routing recovery is evidence for the tested method, not the annual savings input. Repeated reuse is not an extra multiplier.",
+      "before": "Os padrões de planejamento são redução líquida de 80% da demanda de fase nova e redução líquida de 80% dos resíduos, informadas separadamente. Nenhum é um resultado medido da unidade. A recuperação de fluxo direcionado de 94.4809% no estudo é evidência para o método testado, não o parâmetro de economia anual. O reúso repetido não é um multiplicador adicional.",
+      "after": "Os valores padrão de planejamento são redução líquida de 80% da demanda de fase móvel nova e redução líquida de 80% dos resíduos, informadas separadamente. Nenhum deles é um resultado medido da unidade. A recuperação medida do fluxo direcionado de 94.4809% no estudo é evidência para o método testado, não o parâmetro de economia anual. O reúso repetido não é um multiplicador adicional."
+    },
+    {
+      "sourceKey": "Preparation labour value represents staff time valued at the entered annual salary and annual paid hours. Releasing time does not automatically reduce payroll: the cash-cost comparison includes materials and disposal only. Equipment, implementation, additional operating costs and transport are excluded. Production and treatment CO₂e use the model’s supplied factors; this is a scenario, not a verified footprint.",
+      "before": "O valor da mão de obra do preparo representa o tempo de pessoal valorizado pelo salário anual e pelas horas anuais remuneradas informados. Liberar tempo não reduz automaticamente a folha salarial: a comparação de custos de caixa inclui somente materiais e descarte. Equipamento, implementação, custos operacionais adicionais e transporte não estão incluídos. CO₂e de produção e tratamento usa os fatores fornecidos do modelo; é um cenário, não uma pegada verificada.",
+      "after": "O valor da mão de obra de preparo representa o tempo de pessoal avaliado com base no salário anual informado e nas horas anuais remuneradas. Liberar tempo não reduz automaticamente a folha salarial: a comparação de custos de caixa inclui somente materiais e descarte. Equipamento, implementação, custos operacionais adicionais e transporte não estão incluídos. As estimativas de CO₂e da produção e do tratamento usam os fatores fornecidos para o modelo; este é um cenário, não uma pegada verificada."
+    },
+    {
+      "sourceKey": "Prevent waste at the point of use",
+      "before": "Previna resíduos no ponto de uso",
+      "after": "Evite a geração de resíduos no ponto de uso"
+    },
+    {
+      "sourceKey": "Price exposure is real. Lower demand limits the volume exposed.",
+      "before": "A exposição a preços é real. Menor demanda limita o volume exposto.",
+      "after": "Menor demanda limita o volume exposto a mudanças de preços."
+    },
+    {
+      "sourceKey": "Prices exclude VAT. Support is €120 per month (€1,440 per year).",
+      "before": "Preços sem IVA. O suporte custa €120 por mês (€1,440 por ano).",
+      "after": "Os preços indicativos não incluem IVA. O suporte padrão é de €120 por mês (€1,440 por ano); use a cotação aplicável ao seu cenário."
+    },
+    {
+      "sourceKey": "Projected financial results depend on your net material and waste reductions. The net cash, ROI and NPV rows deduct the entered equipment, installation and support costs. Gross savings rows and cumulative impact charts remain before investment costs.",
+      "before": "Os resultados financeiros projetados dependem das reduções líquidas de materiais e resíduos. As linhas de caixa líquido, ROI e VPL deduzem os custos informados de equipamento, instalação e suporte. As linhas de economia bruta e os gráficos de impacto acumulado permanecem antes dos custos de investimento.",
+      "after": "Os resultados financeiros projetados dependem das reduções líquidas de materiais e resíduos. As linhas de caixa líquido, ROI e VPL deduzem os custos informados de equipamento, instalação e suporte. As linhas de economia bruta e os gráficos de impacto acumulado não deduzem os custos de investimento. Avalie separadamente quaisquer outros custos específicos da unidade."
+    },
+    {
+      "sourceKey": "ReSolve™ draws 0.4 W from the HPLC. Any electricity savings from reduced mobile-phase preparation remain to be measured.",
+      "before": "ReSolve™ consome 0.4 W do HPLC. Eventuais economias de eletricidade decorrentes de menor preparo de fase móvel ainda precisam ser medidas.",
+      "after": "A documentação do produto informa que o ReSolve™ consome 0.4 W do HPLC. Eventuais economias de eletricidade decorrentes do menor preparo de fase móvel ainda precisam ser medidas."
+    },
+    {
+      "sourceKey": "ReSolve™ recycles prepared mobile phase for reuse within isocratic HPLC workflows.",
+      "before": "ReSolve™ recicla fase móvel preparada para reúso em fluxos HPLC isocráticos.",
+      "after": "ReSolve™ retorna a fase móvel preparada selecionada para reúso em fluxos HPLC isocráticos adequados."
+    },
+    {
+      "sourceKey": "ReSolve™ recycles prepared mobile phase within the isocratic HPLC workflow. The circular opportunity is to reduce fresh input and prevent hazardous waste while maintaining the analytical requirements of the method.",
+      "before": "ReSolve™ recicla fase móvel preparada no fluxo HPLC isocrático. A oportunidade circular é reduzir a entrada de fase nova e prevenir resíduos perigosos, mantendo os requisitos analíticos do método.",
+      "after": "ReSolve™ recicla fase móvel preparada no fluxo HPLC isocrático. A oportunidade circular é reduzir a entrada de fase nova e evitar a geração de resíduos perigosos, mantendo os requisitos analíticos do método."
+    },
+    {
+      "sourceKey": "ReSolve™ | HPLC Mobile-Phase Recycling | Antech",
+      "before": "ReSolve™ | Reciclagem de fase móvel HPLC | Antech",
+      "after": "ReSolve™ | Reciclagem de fase móvel em HPLC isocrática | Antech"
+    },
+    {
+      "sourceKey": "Recover the baseline.",
+      "before": "Recupere o fluxo da linha de base.",
+      "after": "Retorne o fluxo elegível da linha de base."
+    },
+    {
+      "sourceKey": "Recycle prepared mobile phase within isocratic HPLC workflows, with a clear evidence trail from laboratory activity to waste, cost and estimated carbon prevention.",
+      "before": "Recicle fase móvel preparada em fluxos HPLC isocráticos, com uma trilha clara de evidências da atividade laboratorial à prevenção de resíduos, custos e carbono estimado.",
+      "after": "Recicle fase móvel preparada em fluxos HPLC isocráticos, com uma trilha clara de evidências que relacione a atividade laboratorial à prevenção de resíduos, aos custos evitados e à redução estimada de emissões."
+    },
+    {
+      "sourceKey": "Reduce hazardous waste and CO₂ emissions. Capture the metrics across your labs.",
+      "before": "Reduza resíduos perigosos e emissões de CO₂. Registre os indicadores nos seus laboratórios.",
+      "after": "Avalie a prevenção de resíduos perigosos e estime as reduções de CO₂e nos seus laboratórios."
+    },
+    {
+      "sourceKey": "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.",
+      "before": "Reduza custos de solventes laboratoriais em 80%+ e diminua emissões do Escopo 3.",
+      "after": "Explore a redução dos custos de fase móvel e modele o impacto no Escopo 3."
+    },
+    {
+      "sourceKey": "Reduce recurring laboratory costs, release analytical capacity and quantify waste and carbon reductions across your laboratory network.",
+      "before": "Reduza custos laboratoriais recorrentes, libere capacidade analítica e quantifique reduções de resíduos e carbono em sua rede de laboratórios.",
+      "after": "Explore os custos recorrentes, a capacidade dos analistas e as possíveis reduções de resíduos e carbono em sua rede de laboratórios."
+    },
+    {
+      "sourceKey": "Review relevance",
+      "before": "Relevância para a análise",
+      "after": "Relevância para a avaliação"
+    },
+    {
+      "sourceKey": "Source reports duration 012.00.",
+      "before": "A fonte informa duração de 012.00.",
+      "after": "A fonte informa a duração como 012.00."
+    },
+    {
+      "sourceKey": "Start with fresh input and waste prevented for the same acceptable analytical workload. Reuse is the means; verified net reduction is the outcome.",
+      "before": "Comece pela entrada de fase nova e pelos resíduos prevenidos para a mesma carga analítica aceitável. O reúso é o meio; a redução líquida verificada é o resultado.",
+      "after": "Comece pela entrada de fase nova e pelos resíduos evitados para a mesma carga analítica aceitável. O reúso é o meio; a redução líquida verificada é o resultado."
+    },
+    {
+      "sourceKey": "Target material exposure",
+      "before": "Direcione a análise da exposição a materiais",
+      "after": "Avalie a exposição ao risco de fornecimento de materiais"
+    },
+    {
+      "sourceKey": "The study reports equivalent chromatographic performance between the two sequences and no adverse impact from using the recycled mobile phase in Sequence 2.",
+      "before": "O estudo informa desempenho cromatográfico equivalente entre as duas sequências e nenhum impacto adverso do uso de fase reciclada na Sequência 2.",
+      "after": "Para o método avaliado, o estudo informa desempenho cromatográfico equivalente entre as duas sequências e nenhum impacto adverso do uso de fase móvel reciclada na Sequência 2."
+    },
+    {
+      "sourceKey": "This table scrolls horizontally. Swipe or focus it and use the arrow keys to read every column.",
+      "before": "Esta tabela permite rolagem horizontal. Deslize ou dê foco a ela e use as setas para ler todas as colunas.",
+      "after": "Esta tabela permite rolagem horizontal. Deslize ou selecione-a pelo teclado e use as teclas de seta para ler todas as colunas."
+    },
+    {
+      "sourceKey": "Total hands-on time across all staff in one lab during one operating week. Two people working for one hour = 2 person-hours. Do not multiply by HPLC count; the calculator scales this by labs and operating weeks.",
+      "before": "Tempo ativo total de todos os funcionários de um laboratório em uma semana operacional. Duas pessoas trabalhando por uma hora = 2 pessoas-hora. Não multiplique pela quantidade de HPLCs; a calculadora escala esse valor por laboratórios e semanas operacionais.",
+      "after": "Tempo ativo total de toda a equipe de um laboratório em uma semana de operação. Duas pessoas trabalhando por uma hora = 2 pessoas-hora. Não multiplique pela quantidade de HPLCs; a calculadora ajusta esse valor pelo número de laboratórios e de semanas de operação."
+    },
+    {
+      "sourceKey": "Translate prevented fresh preparation into each solvent and ingredient required. Compare actual purchasing over a matched period.",
+      "before": "Converta o preparo novo evitado em cada solvente e ingrediente necessário. Compare compras reais em um período equivalente.",
+      "after": "Converta a redução do preparo de fase móvel nova nas quantidades correspondentes de cada solvente e ingrediente. Compare as compras reais em um período equivalente."
+    },
+    {
+      "sourceKey": "Turn measured prevention into a business case.",
+      "before": "Transforme a prevenção medida em um caso de negócio.",
+      "after": "Monte um caso de negócio com as hipóteses do seu laboratório."
+    },
+    {
+      "sourceKey": "Use your laboratory numbers, operating schedule and costs to model reduced solvent demand, cost avoided and CO₂ reduction over three years.",
+      "before": "Use o número de laboratórios, a jornada e os custos para modelar menor demanda de solventes, custos evitados e redução de CO₂ em três anos.",
+      "after": "Use o número de laboratórios, a jornada operacional e os custos para modelar a redução da demanda de fase móvel nova, os custos evitados e as reduções estimadas de CO₂e em três anos."
+    },
+    {
+      "sourceKey": "Validate this business case",
+      "before": "Valide este caso de negócio",
+      "after": "Revise este caso de negócio"
+    },
+    {
+      "sourceKey": "Validate this business case with Antech",
+      "before": "Valide este caso de negócio com a Antech",
+      "after": "Revise este caso de negócio com a Antech"
+    },
+    {
+      "sourceKey": "Waste prevented",
+      "before": "Resíduos prevenidos",
+      "after": "Estimativa de resíduos evitados"
+    },
+    {
+      "sourceKey": "Waste prevented and remaining waste together show the full baseline. Tonnes assume 1 kg/L; confirm actual density.",
+      "before": "Resíduos prevenidos e remanescentes mostram juntos a referência completa. Toneladas pressupõem 1 kg/L; confirme a densidade real.",
+      "after": "Resíduos evitados e remanescentes mostram juntos a referência completa. Toneladas pressupõem 1 kg/L; confirme a densidade real."
+    },
+    {
+      "sourceKey": "What the investment delivers",
+      "before": "O que o investimento entrega",
+      "after": "O que seu cenário estima"
+    },
+    {
+      "sourceKey": "annual baseline demand × assumed net fresh-demand reduction. Waste avoided = baseline waste × the separate net waste-reduction input. Recycled-flow totals and reuse counts are not added to either result.",
+      "before": "demanda anual de referência × redução líquida pressuposta da demanda nova. Resíduos evitados = resíduos de referência × parâmetro separado de redução líquida de resíduos. Totais de fluxo reciclado e contagens de reúso não são adicionados a nenhum resultado.",
+      "after": "demanda anual de referência × hipótese de redução líquida da demanda de fase móvel nova. Resíduos evitados = resíduos de referência × parâmetro separado de redução líquida de resíduos. Totais de fluxo reciclado e contagens de reúso não são adicionados a nenhum resultado."
+    },
+    {
+      "sourceKey": "✓ Technical conclusion: analytical performance maintained",
+      "before": "✓ Conclusão técnica: desempenho analítico mantido",
+      "after": "✓ Conclusão do estudo: desempenho analítico mantido nas condições do método avaliado"
+    }
+  ],
+  "sourceAlignment": {
+    "1 labs": "1 laboratório",
+    "25 records paired with audit starts and finishes on 5 May 2026.": "25 registros de medição associados a eventos de início e término na trilha de auditoria em 5 de maio de 2026.",
+    "All 25 records are paired with audit starts and finishes. Record 9 retains a one-second difference: summary start 15:06:21; audit start 15:06:20.": "Todos os 25 registros estão associados a eventos de início e término das medições na trilha de auditoria. O registro 9 mantém uma diferença de um segundo: início no resumo 15:06:21; início na trilha de auditoria 15:06:20.",
+    "All labs use the same systems-per-lab count, operating schedule and per-system flow. Disposal cost avoided is calculated from prevented waste volume × disposal cost per litre. Preparation time is valued separately at your entered staff cost; it is not included in material and disposal savings. Equipment, service, consumables and implementation costs are not deducted, in the gross savings figures. The financial projection separately deducts equipment, installation and annual support to calculate net cash, ROI, payback and NPV.": "Todos os laboratórios usam a mesma quantidade de sistemas por laboratório, jornada operacional e vazão por sistema. O custo de descarte evitado é calculado pelo volume de resíduos evitados × custo de descarte por litro. O valor do tempo de preparo é calculado separadamente com o custo de pessoal informado; não integra as economias de material e descarte. As economias brutas não deduzem custos de equipamento, assistência técnica, consumíveis ou implementação. A projeção financeira deduz os custos informados de equipamento, instalação e suporte anual para calcular as estimativas de caixa líquido, ROI, prazo de retorno e VPL. Avalie separadamente quaisquer outros custos específicos da unidade.",
+    "Annual cost avoided": "Custo anual evitado estimado",
+    "Both lines start after the upfront equipment and installation payment. Cash payback assumes savings accrue evenly through the year. NPV uses year-end cash flows discounted at 10%; segments join the annual valuation points. Staff capacity value is excluded from cash returns.": "As duas linhas começam após o pagamento inicial de equipamento e instalação. O prazo de retorno de caixa pressupõe economias distribuídas uniformemente ao longo do ano. O VPL usa fluxos de caixa de fim de ano à taxa de desconto selecionada (10% por padrão); os segmentos ligam os pontos anuais de avaliação. O valor da capacidade de pessoal é excluído dos retornos de caixa.",
+    "CO₂ reduction": "Redução estimada de CO₂e",
+    "CO₂:": "CO₂e estimado:",
+    "Conclusion · analytical performance maintained": "Conclusão do estudo · desempenho analítico mantido nas condições do método avaliado",
+    "Example opportunity—subject to validation at each site. The fixed example uses an 80% reduction assumption; 80%+ is not a measured purchasing result. Associated carbon estimates use supplied factors pending verification.": "O exemplo fixo pressupõe uma redução líquida de 80% na demanda de fase móvel nova e nos resíduos. São hipóteses de planejamento, não resultados medidos de compras. As estimativas de carbono associadas usam fatores fornecidos que exigem verificação.",
+    "Geopolitical tensions, conflict, changing trade policies and disruption to major shipping routes are making global supply chains more uncertain. Rerouting, volatile freight costs and unpredictable lead times make replenishment harder to plan.": "Tensões geopolíticas, conflitos, mudanças nas políticas comerciais e interrupções em rotas marítimas importantes podem dificultar o planejamento da reposição. Avalie a exposição na sua própria rede de fornecedores, nas rotas de transporte e na política de estoque.",
+    "Hazardous waste prevented": "Estimativa de resíduos perigosos evitados",
+    "Maintain analytical results and process integrity as mobile phase is recycled.": "Avalie o desempenho analítico e os controles do processo ao reutilizar a fase móvel.",
+    "Maintain your analytical standards while reducing fresh mobile-phase preparation.": "Avalie o reúso de fase móvel segundo seus requisitos analíticos.",
+    "One laboratory · measurable prevention over time": "Um laboratório · prevenção modelada ao longo do tempo",
+    "Price exposure is real. Lower demand limits the volume exposed.": "Menor demanda limita o volume exposto a mudanças de preços.",
+    "Prices exclude VAT. Support is €120 per month (€1,440 per year).": "Os preços indicativos não incluem IVA. O suporte padrão é de €120 por mês (€1,440 por ano); use a cotação aplicável ao seu cenário.",
+    "Projected financial results depend on your net material and waste reductions. The net cash, ROI and NPV rows deduct the entered equipment, installation and support costs. Gross savings rows and cumulative impact charts remain before investment costs.": "Os resultados financeiros projetados dependem das reduções líquidas de materiais e resíduos. As linhas de caixa líquido, ROI e VPL deduzem os custos informados de equipamento, instalação e suporte. As linhas de economia bruta e os gráficos de impacto acumulado não deduzem os custos de investimento. Avalie separadamente quaisquer outros custos específicos da unidade.",
+    "ReSolve™ draws 0.4 W from the HPLC. Any electricity savings from reduced mobile-phase preparation remain to be measured.": "A documentação do produto informa que o ReSolve™ consome 0.4 W do HPLC. Eventuais economias de eletricidade decorrentes do menor preparo de fase móvel ainda precisam ser medidas.",
+    "ReSolve™ recycles prepared mobile phase for reuse within isocratic HPLC workflows.": "ReSolve™ retorna a fase móvel preparada selecionada para reúso em fluxos HPLC isocráticos adequados.",
+    "Recover the baseline.": "Retorne o fluxo elegível da linha de base.",
+    "Divert the peaks.": "Desvie as frações dos picos para descarte.",
+    "Reduce hazardous waste and CO₂ emissions. Capture the metrics across your labs.": "Avalie a prevenção de resíduos perigosos e estime as reduções de CO₂e nos seus laboratórios.",
+    "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.": "Explore a redução dos custos de fase móvel e modele o impacto no Escopo 3.",
+    "Reduce recurring laboratory costs, release analytical capacity and quantify waste and carbon reductions across your laboratory network.": "Explore os custos recorrentes, a capacidade dos analistas e as possíveis reduções de resíduos e carbono em sua rede de laboratórios.",
+    "Sequence 2 · 96 injections (Recycled)": "Sequência 2 · 96 injeções (reciclada)",
+    "The study reports equivalent chromatographic performance between the two sequences and no adverse impact from using the recycled mobile phase in Sequence 2.": "Para o método avaliado, o estudo informa desempenho cromatográfico equivalente entre as duas sequências e nenhum impacto adverso do uso de fase móvel reciclada na Sequência 2.",
+    "Turn measured prevention into a business case.": "Monte um caso de negócio com as hipóteses do seu laboratório.",
+    "Use your laboratory numbers, operating schedule and costs to model reduced solvent demand, cost avoided and CO₂ reduction over three years.": "Use o número de laboratórios, a jornada operacional e os custos para modelar a redução da demanda de fase móvel nova, os custos evitados e as reduções estimadas de CO₂e em três anos.",
+    "Validate this business case": "Revise este caso de negócio",
+    "Validate this business case with Antech": "Revise este caso de negócio com a Antech",
+    "Waste prevented": "Estimativa de resíduos evitados",
+    "What the investment delivers": "O que seu cenário estima",
+    "✓ Technical conclusion: analytical performance maintained": "✓ Conclusão do estudo: desempenho analítico mantido nas condições do método avaliado",
+    "No difference in baseline noise/stability was observed. LC/MS found neither analyte in the recycled phase; the source reports waste-phase concentrations of 1,440 ng/mL paracetamol and 530 ng/mL ibuprofen.": "Para o método avaliado, não se observou diferença no ruído ou na estabilidade da linha de base. A análise por LC/MS não detectou paracetamol nem ibuprofeno na fase reciclada; o relatório não especifica limites de detecção. A fonte informa concentrações na fase de descarte de 1,440 ng/mL de paracetamol e 530 ng/mL de ibuprofeno."
+  },
+  "metadata": {
+    "title": "ReSolve™ | Reciclagem de fase móvel em HPLC isocrática | Antech",
+    "description": "Explore o reúso de fase móvel com ReSolve™ em métodos HPLC isocráticos adequados. Analise as evidências, modele custos e resíduos e discuta a avaliação do método."
+  },
+  "blocks": {
+    "Recover the baseline. Divert the peaks.": {
+      "text": "Retorne o fluxo elegível da linha de base. {0}",
+      "slots": {
+        "0": "Desvie as frações dos picos para descarte."
+      }
+    },
+    "Framework: Potting et al., PBL (2017) . Sector context informed by the supplied CIRCULÉIRE presentation.": {
+      "text": "Referencial: {0}. Contexto setorial baseado na apresentação fornecida pela CIRCULÉIRE."
+    },
+    "Source: EPA national hazardous waste statistics ; solvent figure and category description transcribed from the supplied CIRCULÉIRE slide.": {
+      "text": "Fonte: {0}; o valor relativo aos solventes e a descrição da categoria foram transcritos do slide fornecido pela CIRCULÉIRE."
+    },
+    "Global trade context: UNCTAD, Review of Maritime Transport 2025 ↗ . Laboratory implications should be assessed against your own supply network.": {
+      "text": "Contexto do comércio global: {0}. As implicações para o laboratório devem ser avaliadas em relação à sua própria rede de fornecimento."
+    },
+    "EUR per tonne · values transcribed from the supplied CIRCULÉIRE slide citing Methanex. Methanex posted pricing . Commodity contract prices are not analytical-grade invoice prices and are not used in this calculator.": {
+      "text": "EUR por tonelada · valores transcritos do slide fornecido pela CIRCULÉIRE, citando Methanex. {0}. Os preços contratuais de commodities não são preços de compra de reagentes de grau analítico e não são usados nesta calculadora."
+    },
+    "Sources: GHG Protocol calculation guidance · ISO 14001 · ISO 14051 · ISO greenhouse-gas standards .": {
+      "text": "Fontes: {0} · {1} · {2} · {3}."
+    }
+  },
+  "numericExceptions": [
+    {
+      "sourceKey": "Example opportunity—subject to validation at each site. The fixed example uses an 80% reduction assumption; 80%+ is not a measured purchasing result. Associated carbon estimates use supplied factors pending verification.",
+      "before": [
+        "80",
+        "80"
+      ],
+      "after": [
+        "80"
+      ],
+      "reason": "Intentional removal of unsupported 80%+ marketing promise/repeated claim; this is not a source measurement, model input or result."
+    },
+    {
+      "sourceKey": "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.",
+      "before": [
+        "80",
+        "3"
+      ],
+      "after": [
+        "3"
+      ],
+      "reason": "Intentional removal of unsupported 80%+ marketing promise/repeated claim; this is not a source measurement, model input or result."
+    }
+  ],
+  "checks": {
+    "sourceKeysUnchanged": true,
+    "catalogEntries": 1429,
+    "missingKeys": 0,
+    "extraKeys": 0,
+    "finalEnglishSemanticAlignmentsConfirmed": 35,
+    "alreadyAlignedKeys": [
+      "1 labs",
+      "Sequence 2 · 96 injections (Recycled)"
+    ],
+    "numericTokenMismatchesAgainstReviewedEnglish": 0,
+    "numericDifferencesAgainstOriginalSource": 2,
+    "numericDifferencesAreOnlyAuthorisedMarketingClaimRemovals": true,
+    "allSourceMeasurementsAndUnitsPreserved": true,
+    "invalidReplacementCharacters": 0,
+    "originalDOMBlockValidationPassed": true,
+    "wholeBlockSourceKeysApplied": 9,
+    "wholeBlockInstancesApplied": 16,
+    "ownWholeBlockOverridesValidated": 6,
+    "inMemoryAssembledHeadingAssertionsPassed": 5,
+    "eightProfileContextsReviewed": true,
+    "sixSupplementalLabelsReviewedAndRetained": true,
+    "heroReviewedAndRetained": true,
+    "metadataReviewedAndRefined": true,
+    "BrazilianTerminologyAndPoliteVoice": true,
+    "isocraticScopeAndNoPurificationImplied": true,
+    "measuredRoutingSeparateFromAnnualPlanning": true,
+    "analyticalStabilitySeparateFromEnvironmentalSustainability": true,
+    "methodSpecificAnalyticalConclusionAndLCMSDetectionLimitCaveat": true,
+    "staffCapacitySeparateFromPayrollAndCashSavings": true,
+    "grossAndNetCostsAndSiteSpecificCostsQualified": true,
+    "EURWithoutConversion": true,
+    "estimatedCO2eFactorAndBoundaryCaveatsRetained": true,
+    "noCertificationOrRegulatoryComplianceClaim": true,
+    "EnglishSourceDocumentAndVideoLabelsRetained": true,
+    "noBrowserOrProductionDeployment": true
+  },
+  "remainingReview": [
+    "AI-authored review; no certified native-speaker, legal or regulatory approval is claimed.",
+    "Shared build, numeric presentation and browser integration belong to the parent and QA workstreams."
+  ]
+}

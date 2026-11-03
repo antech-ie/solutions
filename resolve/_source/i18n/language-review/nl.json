@@ -1,0 +1,1156 @@
+{
+  "locale": "nl",
+  "agent": "/root/language_nl",
+  "status": "reviewed",
+  "reviewedKeys": 1429,
+  "reviewedProfiles": [
+    "quality",
+    "sustainability",
+    "procurement",
+    "supply-chain",
+    "value",
+    "research",
+    "reports",
+    "across"
+  ],
+  "reviewBasis": "AI-authored Dutch scientific and professional marketing language review of all dictionary entries, assembled profile headings, full inline blocks, form text, report copy, SEO and supplemental labels; English values and all 35 final semantic alignments are authoritative.",
+  "changedEntries": 200,
+  "changes": [
+    {
+      "sourceKey": "% net fresh reduction /",
+      "before": "% nettovermindering verse fase /",
+      "after": "% nettovermindering van de vraag naar verse fase /"
+    },
+    {
+      "sourceKey": "+ labour not entered",
+      "before": "+ arbeid niet ingevoerd",
+      "after": "+ personeelskosten niet ingevoerd"
+    },
+    {
+      "sourceKey": ". Commodity contract prices are not analytical-grade invoice prices and are not used in this calculator.",
+      "before": ". Contractprijzen voor bulkchemicaliën zijn geen factuurprijzen voor analytische kwaliteit en worden niet gebruikt in deze calculator.",
+      "after": ". Contractprijzen voor bulkchemicaliën zijn geen factuurprijzen voor stoffen van analytische kwaliteit en worden niet gebruikt in deze calculator."
+    },
+    {
+      "sourceKey": "1 lab × 10 HPLCs × 1 mL/min × 60 min × 16 h/day × 5 days/week × 48 weeks/year = 2,304 L/year. Three years = 6,912 L baseline. Fresh demand avoided and waste prevented each use a separate 80% net reduction assumption. Material cost = €100/L. No growth, inflation or discounting is applied. These are cumulative three-year figures.",
+      "before": "1 lab × 10 HPLC's × 1 mL/min × 60 min × 16 h/dag × 5 dagen/week × 48 weken/jaar = 2,304 L/jaar. Drie jaar = 6,912 L als uitgangssituatie. Vermeden verse vraag en voorkomen afval gebruiken elk een afzonderlijke aanname van 80% nettovermindering. Materiaalkosten = €100/L. Zonder groei, inflatie of discontering. Dit zijn cumulatieve driejaarscijfers.",
+      "after": "1 lab × 10 HPLC's × 1 mL/min × 60 min × 16 h/dag × 5 dagen/week × 48 weken/jaar = 2,304 L/jaar. Drie jaar = 6,912 L in de uitgangssituatie. Voor de vermeden vraag naar verse mobiele fase en het voorkomen afval geldt elk een afzonderlijke aanname van 80% nettovermindering. Materiaalkosten = €100/L. Er wordt geen groei, inflatie of discontering toegepast. Dit zijn cumulatieve cijfers over drie jaar."
+    },
+    {
+      "sourceKey": "192 injections across two 96-injection sequences; measured study evidence, separate from the operating model.",
+      "before": "192 injecties in twee reeksen van 96 injecties; gemeten onderzoeksbewijs, los van het bedrijfsmodel.",
+      "after": "192 injecties verdeeld over twee reeksen van 96 injecties; gemeten onderzoeksgegevens, los van het operationele rekenmodel."
+    },
+    {
+      "sourceKey": "2,080 paid hours per analyst per year (40 hours/week × 52 weeks). This fixed assumption converts annual salary into a value per preparation person-hour; it is separate from laboratory operating weeks. Employer contributions and benefits are excluded.",
+      "before": "2,080 betaalde uren per analist per jaar (40 uur/week × 52 weken). Deze vaste aanname rekent het jaarsalaris om naar een waarde per voorbereidingspersoonsuur; dit staat los van de bedrijfsweken van het laboratorium. Werkgeverslasten en secundaire arbeidsvoorwaarden zijn uitgesloten.",
+      "after": "2,080 betaalde uren per analist per jaar (40 uur/week × 52 weken). Deze vaste aanname rekent het jaarsalaris om naar een waarde per persoonsuur voor de bereiding; dit staat los van de bedrijfsweken van het laboratorium. Werkgeverslasten en secundaire arbeidsvoorwaarden zijn uitgesloten."
+    },
+    {
+      "sourceKey": "25 records paired with audit starts and finishes on 5 May 2026.",
+      "before": "25 records gekoppeld aan auditstarts en -einden op 5 mei 2026.",
+      "after": "25 meetregistraties gekoppeld aan begin- en eindgebeurtenissen in de audittrail op 5 mei 2026."
+    },
+    {
+      "sourceKey": "29.09 t CO₂e · estimated three-year reduction",
+      "before": "29.09 t CO₂e · geschatte driejaarsvermindering",
+      "after": "29.09 t CO₂e · geschatte vermindering over drie jaar"
+    },
+    {
+      "sourceKey": "37,880 t pharmaceutical-chapter waste; 17,841 t organic solvents, washing liquids and mother liquors",
+      "before": "37,880 t afval uit het farmaceutische hoofdstuk; 17,841 t organische oplosmiddelen, wasvloeistoffen en moederlogen",
+      "after": "37,880 t afval onder het farmaceutische hoofdstuk; 17,841 t organische oplosmiddelen, wasvloeistoffen en moederlogen"
+    },
+    {
+      "sourceKey": "6 May 2026 · 08:54:49 · separate 98-injection operational record",
+      "before": "6 mei 2026 · 08:54:49 · afzonderlijk bedrijfsrecord van 98 injecties",
+      "after": "6 mei 2026 · 08:54:49 · afzonderlijke operationele registratie van 98 injecties"
+    },
+    {
+      "sourceKey": "6,912 L baseline; 1,382.4 L fresh requirement; €552,960 gross material saving",
+      "before": "6,912 L uitgangssituatie; 1,382.4 L verse behoefte; €552,960 bruto materiaalbesparing",
+      "after": "6,912 L in de uitgangssituatie; 1,382.4 L benodigde verse mobiele fase; €552,960 bruto materiaalbesparing"
+    },
+    {
+      "sourceKey": "80 sample injections per sequence, plus 13 standards and 3 blanks. Retention, area, peak shape and resolution are reported.",
+      "before": "80 monsterinjecties per reeks, plus 13 standaarden en 3 blanco's. Retentie, oppervlakte, piekvorm en resolutie zijn gerapporteerd.",
+      "after": "80 monsterinjecties per reeks, plus 13 standaarden en 3 blanco's. Retentietijd, piekoppervlakte, piekvorm en resolutie zijn gerapporteerd."
+    },
+    {
+      "sourceKey": "80% less fresh demand against a three-year baseline of 6,912 L.",
+      "before": "80% minder verse vraag ten opzichte van een driejaarsuitgangssituatie van 6,912 L.",
+      "after": "80% minder vraag naar verse mobiele fase ten opzichte van een uitgangsverbruik van 6,912 L over drie jaar."
+    },
+    {
+      "sourceKey": "98 injections · explore the recycling record",
+      "before": "98 injecties · bekijk het recyclingrecord",
+      "after": "98 injecties · bekijk de recyclingregistratie"
+    },
+    {
+      "sourceKey": "A fixed one-lab example over three years. Select Model Your Own Scenario to model your laboratories.",
+      "before": "Een vast voorbeeld van één lab over drie jaar. Kies Modelleer uw eigen scenario om uw laboratoria te modelleren.",
+      "after": "Een vast voorbeeld van één lab over drie jaar. Kies Modelleer uw eigen scenario om een model voor uw laboratoria op te stellen."
+    },
+    {
+      "sourceKey": "A setting change is visible in the record.",
+      "before": "Een gewijzigde instelling is zichtbaar in het record.",
+      "after": "Een gewijzigde instelling is zichtbaar in de registratie."
+    },
+    {
+      "sourceKey": "Agree baseline consumption, waste boundaries and the records needed to demonstrate prevention.",
+      "before": "Spreek het uitgangsverbruik, de afvalgrenzen en de benodigde registraties voor aantoonbare preventie af.",
+      "after": "Spreek het uitgangsverbruik, de afbakening van afvalstromen en de registraties af die nodig zijn om preventie aan te tonen."
+    },
+    {
+      "sourceKey": "Agree the method, acceptance criteria and change-control requirements before evaluating the wider operating benefits.",
+      "before": "Spreek de methode, acceptatiecriteria en wijzigingsbeheervereisten af voordat u de bredere operationele voordelen beoordeelt.",
+      "after": "Spreek de methode, acceptatiecriteria en vereisten voor wijzigingsbeheer af voordat u de bredere operationele voordelen beoordeelt."
+    },
+    {
+      "sourceKey": "All 25 records are paired with audit starts and finishes. Record 9 retains a one-second difference: summary start 15:06:21; audit start 15:06:20.",
+      "before": "Alle 25 records zijn gekoppeld aan auditstarts en -einden. Record 9 behoudt een verschil van één seconde: samenvattingsstart 15:06:21; auditstart 15:06:20.",
+      "after": "Alle 25 registraties zijn gekoppeld aan begin- en eindgebeurtenissen van metingen in de audittrail. Bij registratie 9 blijft een verschil van één seconde behouden: starttijd in de samenvatting 15:06:21; starttijd in de audittrail 15:06:20."
+    },
+    {
+      "sourceKey": "All labs use the same systems-per-lab count, operating schedule and per-system flow. Disposal cost avoided is calculated from prevented waste volume × disposal cost per litre. Preparation time is valued separately at your entered staff cost; it is not included in material and disposal savings. Equipment, service, consumables and implementation costs are not deducted, in the gross savings figures. The financial projection separately deducts equipment, installation and annual support to calculate net cash, ROI, payback and NPV.",
+      "before": "Alle labs gebruiken hetzelfde aantal systemen per lab, werkschema en debiet per systeem. Vermeden afvoerkosten worden berekend als voorkomen afvalvolume × afvoerkosten per liter. Voorbereidingstijd wordt afzonderlijk gewaardeerd tegen de ingevoerde personeelskosten; deze zit niet in de materiaal- en afvoerbesparingen. Apparatuur, service, verbruiksartikelen en implementatie worden niet afgetrokken van de brutobesparingen. De financiële prognose trekt apparatuur, installatie en jaarlijkse ondersteuning afzonderlijk af voor netto kasstromen, ROI, terugverdientijd en NPV.",
+      "after": "Alle labs gebruiken hetzelfde aantal systemen per lab, hetzelfde werkschema en hetzelfde debiet per systeem. Vermeden afvoerkosten worden berekend als voorkomen afvalvolume × afvoerkosten per liter. Bereidingstijd wordt afzonderlijk gewaardeerd tegen de ingevoerde personeelskosten en is niet inbegrepen in de materiaal- en afvoerbesparingen. Bij de brutobesparingen worden kosten voor apparatuur, service, verbruiksartikelen en implementatie niet afgetrokken. De financiële prognose trekt de ingevoerde kosten voor apparatuur, installatie en jaarlijkse ondersteuning af om de gemodelleerde netto kasstroom, ROI, terugverdientijd en NPV te berekenen. Beoordeel eventuele overige locatiespecifieke kosten afzonderlijk."
+    },
+    {
+      "sourceKey": "Analyst capacity",
+      "before": "Analistencapaciteit",
+      "after": "Beschikbare analistencapaciteit"
+    },
+    {
+      "sourceKey": "Analytical comparison, injection records and approved method assessment.",
+      "before": "Analytische vergelijking, injectieregistraties en beoordeling van de goedgekeurde methode.",
+      "after": "Analytische vergelijking, injectieregistraties en goedgekeurde beoordeling van de methode."
+    },
+    {
+      "sourceKey": "Analytical coverage",
+      "before": "Analytische dekking",
+      "after": "Omvang van de analytische beoordeling"
+    },
+    {
+      "sourceKey": "Analytical performance across sample injections",
+      "before": "Analytische prestaties over monsterinjecties",
+      "after": "Analytische prestaties bij monsterinjecties"
+    },
+    {
+      "sourceKey": "Annual cost avoided",
+      "before": "Vermeden jaarlijkse kosten",
+      "after": "Geschatte vermeden jaarlijkse kosten"
+    },
+    {
+      "sourceKey": "Annual gross salary per analyst. Default €30,000/year; employer contributions and benefits are excluded. Preparation time is valued from annual salary using the paid-hours assumption in Calculation method.",
+      "before": "Bruto jaarsalaris per analist. Standaard €30,000/jaar; werkgeverslasten en secundaire arbeidsvoorwaarden uitgesloten. Voorbereidingstijd wordt gewaardeerd vanuit het jaarsalaris met de betaalde-urenaanname onder Berekeningsmethode.",
+      "after": "Bruto jaarsalaris per analist. Standaard €30,000/jaar; werkgeverslasten en secundaire arbeidsvoorwaarden zijn uitgesloten. Bereidingstijd wordt gewaardeerd op basis van het jaarsalaris en de aanname voor betaalde uren onder Berekeningsmethode."
+    },
+    {
+      "sourceKey": "Apply the planning reductions below to compare the same workload today and with ReSolve.",
+      "before": "Pas de onderstaande planningsverminderingen toe om dezelfde werklast nu en met ReSolve te vergelijken.",
+      "after": "Pas de onderstaande aannames voor vermindering toe om dezelfde werklast in de huidige situatie en met ReSolve te vergelijken."
+    },
+    {
+      "sourceKey": "Approved scope, source records, baseline, measured outcomes and accountable benefit owners.",
+      "before": "Goedgekeurde scope, bronregistraties, uitgangssituatie, gemeten resultaten en verantwoordelijken voor voordelen.",
+      "after": "Goedgekeurde reikwijdte, bronregistraties, uitgangssituatie, gemeten resultaten en verantwoordelijken voor de voordelen."
+    },
+    {
+      "sourceKey": "Approx. number of HPLC systems used for isocratic methods",
+      "before": "Geschat aantal HPLC-systemen gebruikt voor isocratische methoden",
+      "after": "Geschat aantal HPLC-systemen voor isocratische methoden"
+    },
+    {
+      "sourceKey": "Assess method applicability",
+      "before": "Beoordeel methodetoepasbaarheid",
+      "after": "Beoordeel de toepasbaarheid van de methode"
+    },
+    {
+      "sourceKey": "Assess reuse against existing method acceptance criteria, with appropriate validation, change control and traceable operating records supporting deployment.",
+      "before": "Beoordeel hergebruik aan de hand van bestaande methodeacceptatiecriteria, ondersteund door passende validatie, wijzigingsbeheer en traceerbare bedrijfsregistraties.",
+      "after": "Beoordeel hergebruik aan de hand van de bestaande acceptatiecriteria voor de methode. Ondersteun de invoering met passende validatie, wijzigingsbeheer en traceerbare bedrijfsregistraties."
+    },
+    {
+      "sourceKey": "Assumed fresh mobile-phase demand prevented:",
+      "before": "Aangenomen voorkomen vraag naar verse mobiele fase:",
+      "after": "Aangenomen vermindering van de vraag naar verse mobiele fase:"
+    },
+    {
+      "sourceKey": "Audit extracts, change control and site review. Agree actual responsibilities within your organisation.",
+      "before": "Auditfragmenten, wijzigingsbeheer en locatiebeoordeling. Spreek de feitelijke verantwoordelijkheden binnen uw organisatie af.",
+      "after": "Fragmenten uit de audittrail, wijzigingsbeheer en locatiebeoordeling. Spreek de feitelijke verantwoordelijkheden binnen uw organisatie af."
+    },
+    {
+      "sourceKey": "Audit finish",
+      "before": "Auditeinde",
+      "after": "Eindtijd in de audittrail"
+    },
+    {
+      "sourceKey": "Audit start",
+      "before": "Auditstart",
+      "after": "Starttijd in de audittrail"
+    },
+    {
+      "sourceKey": "Audit trail extract",
+      "before": "Audittrailfragment",
+      "after": "Fragment uit de audittrail"
+    },
+    {
+      "sourceKey": "Baseline preparation labour cost",
+      "before": "Voorbereidingsarbeidskosten in uitgangssituatie",
+      "after": "Personeelskosten voor bereiding in de uitgangssituatie"
+    },
+    {
+      "sourceKey": "Baseline preparation person-hours",
+      "before": "Voorbereidingspersoonsuren in uitgangssituatie",
+      "after": "Persoonsuren voor bereiding in de uitgangssituatie"
+    },
+    {
+      "sourceKey": "Both lines start after the upfront equipment and installation payment. Cash payback assumes savings accrue evenly through the year. NPV uses year-end cash flows discounted at 10%; segments join the annual valuation points. Staff capacity value is excluded from cash returns.",
+      "before": "Beide lijnen beginnen na de initiële betaling voor apparatuur en installatie. De terugverdientijd veronderstelt gelijkmatig opgebouwde besparingen gedurende het jaar. NPV gebruikt kasstromen aan het jaareinde met 10% discontering; segmenten verbinden jaarlijkse waarderingspunten. Personeelscapaciteitswaarde is uitgesloten van kasrendementen.",
+      "after": "Beide lijnen beginnen na de initiële betaling voor apparatuur en installatie. De terugverdientijd gaat ervan uit dat de besparingen gelijkmatig over het jaar ontstaan. De NPV gebruikt kasstromen aan het jaareinde tegen de gekozen discontovoet (standaard 10%); de lijnsegmenten verbinden de jaarlijkse waarderingspunten. De waarde van personeelscapaciteit is uitgesloten van de financiële opbrengsten."
+    },
+    {
+      "sourceKey": "Bring together baseline waste, operating records and reviewed conversion factors. This evidence can inform laboratory sustainability initiatives; certification outcomes require separate assessment.",
+      "before": "Breng uitgangsafval, bedrijfsregistraties en beoordeelde omrekenfactoren samen. Dit bewijs kan duurzaamheidsinitiatieven ondersteunen; certificering vereist een afzonderlijke beoordeling.",
+      "after": "Breng afvalgegevens uit de uitgangssituatie, bedrijfsregistraties en beoordeelde omrekenfactoren samen. Deze gegevens kunnen duurzaamheidsinitiatieven van het laboratorium ondersteunen; certificering vereist een afzonderlijke beoordeling."
+    },
+    {
+      "sourceKey": "Build a case with your own workload and costs",
+      "before": "Onderbouw uw case met uw eigen werklast en kosten",
+      "after": "Onderbouw uw businesscase met uw eigen werklast en kosten"
+    },
+    {
+      "sourceKey": "Build resilience with clear operating controls",
+      "before": "Versterk de weerbaarheid met duidelijke bedrijfscontroles",
+      "after": "Versterk de weerbaarheid met duidelijke operationele beheersmaatregelen"
+    },
+    {
+      "sourceKey": "Build the evidence around your methods",
+      "before": "Bouw bewijs op rond uw methoden",
+      "after": "Verzamel onderbouwende gegevens voor uw methoden"
+    },
+    {
+      "sourceKey": "Build your laboratory scenario",
+      "before": "Bouw uw laboratoriumscenario op",
+      "after": "Stel uw laboratoriumscenario op"
+    },
+    {
+      "sourceKey": "CO₂ reduction",
+      "before": "CO₂-reductie",
+      "after": "Geschatte CO₂e-vermindering"
+    },
+    {
+      "sourceKey": "CO₂:",
+      "before": "CO₂:",
+      "after": "Geschatte CO₂e:"
+    },
+    {
+      "sourceKey": "Carbon model: mobile-phase production — 3.69 kg CO₂e/L prepared mobile phase; disposal — 1.57 kg CO₂e/L waste. Does not include transportation CO₂ calculations.",
+      "before": "Koolstofmodel: productie mobiele fase — 3.69 kg CO₂e/L bereide mobiele fase; afvoer — 1.57 kg CO₂e/L afval. Transport-CO₂ is niet inbegrepen.",
+      "after": "Emissiemodel: productie van mobiele fase — 3.69 kg CO₂e/L bereide mobiele fase; afvoer — 1.57 kg CO₂e/L afval. Berekeningen van transportemissies zijn niet inbegrepen."
+    },
+    {
+      "sourceKey": "Commercial fit",
+      "before": "Commerciële aansluiting",
+      "after": "Commerciële geschiktheid"
+    },
+    {
+      "sourceKey": "Complete analytical reconciliation",
+      "before": "Voltooi de analytische reconciliatie",
+      "after": "Voltooi de afstemming met de analytische resultaten"
+    },
+    {
+      "sourceKey": "Conclusion · analytical performance maintained",
+      "before": "Conclusie · analytische prestaties behouden",
+      "after": "Onderzoeksconclusie · analytische prestaties behouden onder de geëvalueerde methodecondities"
+    },
+    {
+      "sourceKey": "Connect demand prevention to purchasing",
+      "before": "Verbind vraagpreventie met inkoop",
+      "after": "Koppel minder materiaalvraag aan inkoop"
+    },
+    {
+      "sourceKey": "Define the implementation case",
+      "before": "Definieer de implementatiecase",
+      "after": "Onderbouw de implementatie"
+    },
+    {
+      "sourceKey": "Detector-to-valve delay, peak margins, sample matrix and the reuse period require method-specific assessment.",
+      "before": "Vertraging tussen detector en klep, piekmarges, monstermatrix en hergebruikperiode vereisen een methodespecifieke beoordeling.",
+      "after": "De vertraging tussen detector en klep, piekmarges, monstermatrix en hergebruiksduur vereisen een methodespecifieke beoordeling."
+    },
+    {
+      "sourceKey": "Discuss your laboratory ↗",
+      "before": "Bespreek uw laboratorium ↗",
+      "after": "Bespreek de behoeften van uw laboratorium ↗"
+    },
+    {
+      "sourceKey": "Disposal subtotal · annual baseline",
+      "before": "Afvoersubtotaal · jaarlijkse uitgangssituatie",
+      "after": "Subtotaal afvoer · jaarlijkse uitgangssituatie"
+    },
+    {
+      "sourceKey": "Divert the peaks.",
+      "before": "Voer de pieken af.",
+      "after": "Voer piekfracties af naar afval."
+    },
+    {
+      "sourceKey": "Each bar shows the cumulative total from the start. Gross material cost avoided uses the whole prepared mobile phase; equipment and implementation costs are not deducted. Carbon uses the agreed mobile-phase factors: 3.69 kg CO₂e/L for production and 1.57 kg CO₂e/L for disposal. Transportation is excluded.",
+      "before": "Elke balk toont het cumulatieve totaal vanaf het begin. Bruto vermeden materiaalkosten gebruiken de volledige bereide mobiele fase; apparatuur en implementatie worden niet afgetrokken. Koolstof gebruikt de afgesproken factoren: 3.69 kg CO₂e/L voor productie en 1.57 kg CO₂e/L voor afvoer. Transport is uitgesloten.",
+      "after": "Elke balk toont het cumulatieve totaal vanaf het begin. Bruto vermeden materiaalkosten worden berekend voor de volledige bereide mobiele fase; apparatuur- en implementatiekosten worden niet afgetrokken. De emissieschatting gebruikt de afgesproken factoren voor mobiele fase: 3.69 kg CO₂e/L voor productie en 1.57 kg CO₂e/L voor afvoer. Transport is uitgesloten."
+    },
+    {
+      "sourceKey": "Enlarge brochure controller example",
+      "before": "Vergroot het controllerbrochurevoorbeeld",
+      "after": "Vergroot het controllervoorbeeld uit de brochure"
+    },
+    {
+      "sourceKey": "Enlarge example injection report from the brochure",
+      "before": "Vergroot het injectierapportvoorbeeld uit de brochure",
+      "after": "Vergroot het voorbeeld van een injectierapport uit de brochure"
+    },
+    {
+      "sourceKey": "Enlarged operational chromatogram",
+      "before": "Vergroot bedrijfskromatogram",
+      "after": "Vergroot chromatogram uit de operationele registratie"
+    },
+    {
+      "sourceKey": "Enter euros for one litre of the complete mixture, including solvent, water and buffer materials. Exclude staff time and disposal; those are entered separately.",
+      "before": "Voer euro's in voor één liter van het volledige mengsel, inclusief oplosmiddel, water en buffermaterialen. Laat personeelstijd en afvoer weg; deze worden afzonderlijk ingevoerd.",
+      "after": "Voer het bedrag in euro in voor één liter van het volledige mengsel, inclusief oplosmiddel, water en buffermaterialen. Personeelstijd en afvoer voert u afzonderlijk in."
+    },
+    {
+      "sourceKey": "Enter preparation costs and people time, then your laboratory workload and disposal costs.",
+      "before": "Voer voorbereidingskosten en personeelstijd in, daarna laboratoriumwerklast en afvoerkosten.",
+      "after": "Voer eerst de bereidingskosten en personeelstijd in, daarna de werklast van het laboratorium en de afvoerkosten."
+    },
+    {
+      "sourceKey": "Enter preparation person-hours in Mobile Phase Preparation to see the people impact.",
+      "before": "Voer voorbereidingspersoonsuren in bij Bereiding mobiele fase om het personeelseffect te zien.",
+      "after": "Voer bij Bereiding mobiele fase de benodigde persoonsuren in om het effect op de personeelscapaciteit te zien."
+    },
+    {
+      "sourceKey": "Enter the variable charge in euros per litre of waste sent for treatment. Exclude fixed collection charges that would remain unchanged.",
+      "before": "Voer de variabele kosten in euro per liter voor verwerking afgevoerd afval in. Sluit vaste ophaalkosten uit die ongewijzigd blijven.",
+      "after": "Voer de variabele verwerkingskosten in euro per liter afgevoerd afval in. Sluit vaste ophaalkosten uit die ongewijzigd blijven."
+    },
+    {
+      "sourceKey": "Enter total hands-on preparation time per lab, across all people and systems. Include weighing, mixing, filtering, degassing and bottle changes; exclude unattended waiting time.",
+      "before": "Voer de totale actieve voorbereidingstijd per lab in, voor alle mensen en systemen samen. Neem wegen, mengen, filtreren, ontgassen en fleswisselingen mee; sluit onbeheerde wachttijd uit.",
+      "after": "Voer de totale actieve bereidingstijd per lab in, voor alle medewerkers en systemen samen. Neem wegen, mengen, filtreren, ontgassen en fleswisselingen mee; sluit wachttijd zonder actieve inzet uit."
+    },
+    {
+      "sourceKey": "Estimate production and waste-treatment emissions separately from the litres prevented.",
+      "before": "Schat productie- en afvalverwerkingsemissies afzonderlijk van de voorkomen liters.",
+      "after": "Schat op basis van de voorkomen liters de emissies van productie en afvalverwerking afzonderlijk."
+    },
+    {
+      "sourceKey": "Estimated CO₂e prevented",
+      "before": "Geschatte voorkomen CO₂e",
+      "after": "Geschatte vermeden CO₂e-uitstoot"
+    },
+    {
+      "sourceKey": "Estimated combined CO₂e",
+      "before": "Geschatte gecombineerde CO₂e",
+      "after": "Geschatte totale CO₂e-uitstoot"
+    },
+    {
+      "sourceKey": "Estimated hazardous waste prevented",
+      "before": "Geschat voorkomen gevaarlijk afval",
+      "after": "Geschatte hoeveelheid voorkomen gevaarlijk afval"
+    },
+    {
+      "sourceKey": "Estimated production + treatment CO₂e",
+      "before": "Geschatte CO₂e van productie + verwerking",
+      "after": "Geschatte CO₂e-uitstoot van productie + verwerking"
+    },
+    {
+      "sourceKey": "Estimated production CO₂e",
+      "before": "Geschatte productie-CO₂e",
+      "after": "Geschatte CO₂e-uitstoot van productie"
+    },
+    {
+      "sourceKey": "Estimated treatment CO₂e",
+      "before": "Geschatte verwerkings-CO₂e",
+      "after": "Geschatte CO₂e-uitstoot van verwerking"
+    },
+    {
+      "sourceKey": "Evaluate a candidate method with Antech",
+      "before": "Beoordeel een geschikte methode met Antech",
+      "after": "Beoordeel een kandidaat-methode met Antech"
+    },
+    {
+      "sourceKey": "Evidence: preparation and handling events against the baseline.",
+      "before": "Bewijs: voorbereidings- en handelingsgebeurtenissen tegenover de uitgangssituatie.",
+      "after": "Bewijs: bereidings- en hanteringshandelingen vergeleken met de uitgangssituatie."
+    },
+    {
+      "sourceKey": "Evidence: purchasing, fresh-input and waste records.",
+      "before": "Bewijs: inkoop-, verse-toevoer- en afvalregistraties.",
+      "after": "Bewijs: registraties van inkoop, verse toevoer en afval."
+    },
+    {
+      "sourceKey": "Example opportunity—subject to validation at each site. The fixed example uses an 80% reduction assumption; 80%+ is not a measured purchasing result. Associated carbon estimates use supplied factors pending verification.",
+      "before": "Voorbeeldmogelijkheid — onder voorbehoud van validatie op elke locatie. Het vaste voorbeeld gebruikt een aanname van 80% vermindering; 80%+ is geen gemeten inkoopresultaat. Bijbehorende koolstofschattingen gebruiken verstrekte factoren die nog geverifieerd moeten worden.",
+      "after": "Het vaste voorbeeld gaat uit van een nettovermindering van 80% in zowel de vraag naar verse mobiele fase als de hoeveelheid afval. Dit zijn planningsaannames, geen gemeten inkoopresultaten. De bijbehorende emissieschattingen gebruiken verstrekte factoren die nog moeten worden geverifieerd."
+    },
+    {
+      "sourceKey": "Explore the 98-injection record",
+      "before": "Bekijk het record van 98 injecties",
+      "after": "Bekijk de registratie van 98 injecties"
+    },
+    {
+      "sourceKey": "Fixed planning assumptions applied to your laboratory baseline. Actual improvements require site validation. Staff capacity value is shown separately from cash savings.",
+      "before": "Vaste planningsaannames toegepast op uw laboratoriumuitgangssituatie. Werkelijke verbeteringen vereisen locatievalidatie. Personeelscapaciteitswaarde wordt afzonderlijk van kasbesparingen getoond.",
+      "after": "Vaste planningsaannames toegepast op de uitgangssituatie van uw laboratorium. Werkelijke verbeteringen vereisen validatie op locatie. De waarde van personeelscapaciteit wordt afzonderlijk van kasbesparingen getoond."
+    },
+    {
+      "sourceKey": "For a separate estimate of material, disposal and carbon savings,",
+      "before": "Voor een afzonderlijke schatting van materiaal-, afvoer- en koolstofbesparingen,",
+      "after": "Voor een afzonderlijke schatting van besparingen op materiaal en afvoer en van emissievermindering,"
+    },
+    {
+      "sourceKey": "For isocratic HPLC methods. Method assessment and agreed operating controls are required; gradient methods are outside scope.",
+      "before": "Voor isocratische HPLC-methoden. Methodebeoordeling en afgesproken bedrijfscontroles zijn vereist; gradiëntmethoden vallen buiten de scope.",
+      "after": "Voor isocratische HPLC-methoden. Methodebeoordeling en afgesproken operationele beheersmaatregelen zijn vereist; gradiëntmethoden vallen buiten de reikwijdte."
+    },
+    {
+      "sourceKey": "For suitable isocratic methods. Confirm method performance and operating controls for your laboratory.",
+      "before": "Voor geschikte isocratische methoden. Bevestig methodeprestaties en bedrijfscontroles voor uw laboratorium.",
+      "after": "Voor geschikte isocratische methoden. Bevestig de methodeprestaties en operationele beheersmaatregelen voor uw laboratorium."
+    },
+    {
+      "sourceKey": "For suitable isocratic methods. Method assessment, validation and agreed operating controls are required.",
+      "before": "Voor geschikte isocratische methoden. Methodebeoordeling, validatie en afgesproken bedrijfscontroles zijn vereist.",
+      "after": "Voor geschikte isocratische methoden. Methodebeoordeling, validatie en afgesproken operationele beheersmaatregelen zijn vereist."
+    },
+    {
+      "sourceKey": "Fresh requirement falls from 6,912 L to 1,382.4 L over three years; 5× theoretical coverage at unchanged usable stock.",
+      "before": "Verse behoefte daalt over drie jaar van 6,912 L naar 1,382.4 L; 5× theoretische dekking bij dezelfde bruikbare voorraad.",
+      "after": "De behoefte aan verse mobiele fase daalt over drie jaar van 6,912 L naar 1,382.4 L; bij dezelfde bruikbare voorraad is de theoretische dekking 5× zo groot."
+    },
+    {
+      "sourceKey": "GHG Protocol Scope 3 Categories 1 and 5, subject to boundary; ISO 14064-1 organisational accounting.",
+      "before": "GHG Protocol Scope 3 categorieën 1 en 5, afhankelijk van afbakening; ISO 14064-1 organisatorische boekhouding.",
+      "after": "GHG Protocol Scope 3, categorieën 1 en 5, afhankelijk van de afbakening; emissieboekhouding op organisatieniveau volgens ISO 14064-1."
+    },
+    {
+      "sourceKey": "Geopolitical tensions, conflict, changing trade policies and disruption to major shipping routes are making global supply chains more uncertain. Rerouting, volatile freight costs and unpredictable lead times make replenishment harder to plan.",
+      "before": "Geopolitieke spanningen, conflicten, veranderend handelsbeleid en verstoringen op belangrijke scheepvaartroutes maken wereldwijde toeleveringsketens onzekerder. Omvaren, wisselende vrachtkosten en onvoorspelbare levertijden bemoeilijken de bevoorradingsplanning.",
+      "after": "Geopolitieke spanningen, conflicten, veranderend handelsbeleid en verstoringen op belangrijke scheepvaartroutes kunnen de bevoorradingsplanning bemoeilijken. Beoordeel de risico’s binnen uw eigen leveranciersnetwerk, transportroutes en voorraadbeleid."
+    },
+    {
+      "sourceKey": "Hazardous waste prevented",
+      "before": "Voorkomen gevaarlijk afval",
+      "after": "Geschatte hoeveelheid voorkomen gevaarlijk afval"
+    },
+    {
+      "sourceKey": "Help insulate your labs against solvent price volatility and supply disruption.",
+      "before": "Help uw labs te beschermen tegen oplosmiddelprijsvolatiliteit en leveringsverstoringen.",
+      "after": "Help uw labs te beschermen tegen wisselende oplosmiddelprijzen en leveringsverstoringen."
+    },
+    {
+      "sourceKey": "Hover a point for the sample number, source vial number and measured value. The vertical axis adjusts to the observed range; it is not an acceptance-limit band. Values retain the precision reported in the appendix.",
+      "before": "Wijs een punt aan voor monsternummer, bronflesjenummer en meetwaarde. De verticale as past zich aan het waargenomen bereik aan; dit is geen acceptatiegrenzenband. Waarden behouden de in de bijlage gerapporteerde precisie.",
+      "after": "Wijs een punt aan om het monsternummer, het nummer van het oorspronkelijke monsterflesje en de meetwaarde te zien. De verticale as past zich aan het waargenomen bereik aan en geeft geen acceptatiegrenzen weer. De waarden behouden de in de bijlage gerapporteerde precisie."
+    },
+    {
+      "sourceKey": "ISO 14051 material-flow cost accounting; subtract implementation and ongoing costs for ROI.",
+      "before": "ISO 14051-materiaalstroomkostenboekhouding; trek implementatie- en doorlopende kosten af voor ROI.",
+      "after": "Materiaalstroomkostenberekening volgens ISO 14051; trek implementatie- en doorlopende kosten af voor de ROI."
+    },
+    {
+      "sourceKey": "ISO 14051 · Material flow cost accounting",
+      "before": "ISO 14051 · Materiaalstroomkostenboekhouding",
+      "after": "ISO 14051 · Materiaalstroomkostenberekening"
+    },
+    {
+      "sourceKey": "ISO 14064-1 · Organisational GHG accounting",
+      "before": "ISO 14064-1 · Organisatorische broeikasgasboekhouding",
+      "after": "ISO 14064-1 · Broeikasgasboekhouding op organisatieniveau"
+    },
+    {
+      "sourceKey": "Indicative investment per unit",
+      "before": "Indicatieve investering per eenheid",
+      "after": "Indicatieve investering per apparaat"
+    },
+    {
+      "sourceKey": "Ingredient demand, usable stock days, lead times and solvent-related testing interruptions.",
+      "before": "Ingrediëntenvraag, bruikbare voorraaddagen, levertijden en oplosmiddelgerelateerde testonderbrekingen.",
+      "after": "Vraag naar ingrediënten, voorraaddekking in dagen, levertijden en oplosmiddelgerelateerde onderbrekingen van analyses."
+    },
+    {
+      "sourceKey": "Inspect the recorded operation",
+      "before": "Inspecteer de vastgelegde bedrijfsvoering",
+      "after": "Bekijk de vastgelegde werking"
+    },
+    {
+      "sourceKey": "Inventory valuation, safety-stock policy and service targets.",
+      "before": "Voorraadwaardering, veiligheidsvoorraadbeleid en servicedoelen.",
+      "after": "Voorraadwaardering, beleid voor veiligheidsvoorraden en serviceniveaudoelen."
+    },
+    {
+      "sourceKey": "Keep the method in control",
+      "before": "Houd de methode beheerst",
+      "after": "Houd de methode onder controle"
+    },
+    {
+      "sourceKey": "Less fresh mobile phase connects laboratory capacity, purchasing cost, supply resilience and sustainability. Analytical integrity and traceable records underpin the business case.",
+      "before": "Minder verse mobiele fase verbindt laboratoriumcapaciteit, inkoopkosten, leveringsweerbaarheid en duurzaamheid. Analytische integriteit en traceerbare registraties onderbouwen de businesscase.",
+      "after": "Een lagere vraag naar verse mobiele fase raakt laboratoriumcapaciteit, inkoopkosten, leveringsweerbaarheid en duurzaamheid. Analytische integriteit en traceerbare registraties onderbouwen de businesscase."
+    },
+    {
+      "sourceKey": "Less mobile-phase preparation and replenishment can free analysts for testing, investigations and method development, increasing available laboratory capacity. Confirm the time released against your current workflow.",
+      "before": "Minder bereiding en aanvulling van mobiele fase kan analisten vrijmaken voor testen, onderzoeken en methodeontwikkeling, waardoor meer laboratoriumcapaciteit beschikbaar komt. Bevestig de vrijgekomen tijd tegenover uw huidige werkproces.",
+      "after": "Minder bereiding en aanvulling van mobiele fase kan analisten vrijmaken voor analyses, onderzoek en methodeontwikkeling, waardoor meer laboratoriumcapaciteit beschikbaar komt. Bevestig hoeveel tijd vrijkomt ten opzichte van uw huidige werkproces."
+    },
+    {
+      "sourceKey": "Less routine preparation, replenishment and handling can release analyst time for testing and investigations.",
+      "before": "Minder routinematige bereiding, aanvulling en handelingen kan analistentijd vrijmaken voor testen en onderzoeken.",
+      "after": "Minder routinematige bereiding, aanvulling en hantering kan analistentijd vrijmaken voor analyses en onderzoek."
+    },
+    {
+      "sourceKey": "Locked carbon factors · whole mobile phase",
+      "before": "Vastgezette koolstoffactoren · volledige mobiele fase",
+      "after": "Vastgelegde emissiefactoren · volledige mobiele fase"
+    },
+    {
+      "sourceKey": "Lower demand. A clearer purchasing case.",
+      "before": "Minder vraag. Een duidelijkere inkoopcase.",
+      "after": "Minder vraag. Een duidelijkere onderbouwing voor inkoop."
+    },
+    {
+      "sourceKey": "Lower material demand can reduce purchasing exposure, ease replenishment pressure and free preparation time. The value spans sustainability, supply chain, procurement and laboratory operations.",
+      "before": "Een lagere materiaalvraag kan de inkoopblootstelling verminderen, bevoorradingsdruk verlichten en voorbereidingstijd vrijmaken. De waarde raakt duurzaamheid, toeleveringsketen, inkoop en laboratoriumbedrijfsvoering.",
+      "after": "Een lagere materiaalvraag kan de blootstelling aan inkooprisico’s verminderen, de bevoorradingsdruk verlichten en bereidingstijd vrijmaken. De voordelen raken duurzaamheid, de toeleveringsketen, inkoop en laboratoriumbedrijfsvoering."
+    },
+    {
+      "sourceKey": "MORE USE FROM EVERY SUITABLE PREPARATION",
+      "before": "MEER GEBRUIK UIT ELKE GESCHIKTE BEREIDING",
+      "after": "BENUT ELKE GESCHIKTE BEREIDING LANGER"
+    },
+    {
+      "sourceKey": "Maintain analytical results and process integrity as mobile phase is recycled.",
+      "before": "Behoud analytische resultaten en procesintegriteit tijdens recycling van mobiele fase.",
+      "after": "Beoordeel de analytische prestaties en procesbeheersing bij hergebruik van mobiele fase."
+    },
+    {
+      "sourceKey": "Maintain your analytical standards while reducing fresh mobile-phase preparation.",
+      "before": "Behoud uw analytische normen en bereid minder verse mobiele fase.",
+      "after": "Beoordeel hergebruik van mobiele fase aan de hand van uw analytische vereisten."
+    },
+    {
+      "sourceKey": "Make the carbon contribution visible.",
+      "before": "Maak de koolstofbijdrage zichtbaar.",
+      "after": "Maak de bijdrage aan emissievermindering zichtbaar."
+    },
+    {
+      "sourceKey": "Make the continuity case measurable",
+      "before": "Maak de continuïteitscase meetbaar",
+      "after": "Maak het effect op de continuïteit meetbaar"
+    },
+    {
+      "sourceKey": "Matches the summary start time for injection 1.",
+      "before": "Komt overeen met de samenvattingsstarttijd van injectie 1.",
+      "after": "Komt overeen met de starttijd van injectie 1 in de samenvatting."
+    },
+    {
+      "sourceKey": "Method evidence",
+      "before": "Methodebewijs",
+      "after": "Onderbouwing van de methode"
+    },
+    {
+      "sourceKey": "Mobile Phase Related Costs",
+      "before": "Kosten rond mobiele fase",
+      "after": "Kosten van mobiele fase"
+    },
+    {
+      "sourceKey": "Mobile-phase mix",
+      "before": "Mengsel mobiele fase",
+      "after": "Samenstelling van de mobiele fase"
+    },
+    {
+      "sourceKey": "Model Your Own Scenario over time",
+      "before": "Modelleer uw eigen scenario door de tijd",
+      "after": "Modelleer uw eigen scenario in de tijd"
+    },
+    {
+      "sourceKey": "More analyst time for testing",
+      "before": "Meer analistentijd voor testen",
+      "after": "Meer analistentijd voor analyses"
+    },
+    {
+      "sourceKey": "Net fresh litres avoided × actual ingredient cost; subtract implementation and ongoing costs for ROI.",
+      "before": "Netto vermeden verse liters × werkelijke ingrediëntkosten; trek implementatie- en doorlopende kosten af voor ROI.",
+      "after": "Netto vermeden liters verse mobiele fase × werkelijke kosten van ingrediënten; trek implementatie- en doorlopende kosten af voor de ROI."
+    },
+    {
+      "sourceKey": "No difference in baseline noise/stability was observed. LC/MS found neither analyte in the recycled phase; the source reports waste-phase concentrations of 1,440 ng/mL paracetamol and 530 ng/mL ibuprofen.",
+      "before": "Er werd geen verschil in basislijnruis/stabiliteit waargenomen. LC/MS vond geen van beide analyten in de gerecyclede fase; de bron vermeldt in de afvalfase 1,440 ng/mL paracetamol en 530 ng/mL ibuprofen.",
+      "after": "Voor de geëvalueerde methode werd geen verschil in basislijnruis of stabiliteit waargenomen. Met LC/MS werd geen paracetamol of ibuprofen in de gerecyclede fase gedetecteerd; het rapport vermeldt geen detectiegrenzen. De bron vermeldt voor de afvalfase concentraties van 1,440 ng/mL paracetamol en 530 ng/mL ibuprofen."
+    },
+    {
+      "sourceKey": "No people-time benefit assumed until hours are entered.",
+      "before": "Geen voordeel in personeelstijd aangenomen totdat uren zijn ingevoerd.",
+      "after": "Er wordt geen voordeel in personeelstijd aangenomen zolang geen uren zijn ingevoerd."
+    },
+    {
+      "sourceKey": "Official ReSolve brochure artwork showing the HPLC system, branded controller, recovery return and waste path",
+      "before": "Officieel ReSolve-brochurebeeld met HPLC-systeem, merkcontroller, terugwinningsretour en afvalroute",
+      "after": "Officiële ReSolve-brochureillustratie met het HPLC-systeem, de ReSolve-controller en de retour- en afvalroutes"
+    },
+    {
+      "sourceKey": "One example lab. See the difference over time.",
+      "before": "Eén voorbeeldlab. Zie het verschil door de tijd.",
+      "after": "Eén voorbeeldlab. Bekijk het verschil in de tijd."
+    },
+    {
+      "sourceKey": "One laboratory · measurable prevention over time",
+      "before": "Eén laboratorium · meetbare preventie door de tijd",
+      "after": "Eén laboratorium · gemodelleerde preventie in de tijd"
+    },
+    {
+      "sourceKey": "Original recorded trace, including sensor, peak and waste-event legend. This individual operational record is separate from the SETU fresh-versus-recycled comparison.",
+      "before": "Oorspronkelijk vastgelegd spoor, inclusief legenda voor sensor, piek en afvalgebeurtenissen. Dit afzonderlijke bedrijfsrecord staat los van de SETU-vergelijking tussen verse en gerecyclede fase.",
+      "after": "Oorspronkelijk vastgelegd chromatogram, inclusief legenda voor sensor, piek en afvalgebeurtenissen. Deze afzonderlijke operationele registratie staat los van de SETU-vergelijking tussen verse en gerecyclede fase."
+    },
+    {
+      "sourceKey": "PRIMARY CARBON OPPORTUNITY",
+      "before": "PRIMAIRE KOOLSTOFMOGELIJKHEID",
+      "after": "PRIMAIR POTENTIEEL VOOR EMISSIEVERMINDERING"
+    },
+    {
+      "sourceKey": "Pharmaceutical-chapter waste −11%",
+      "before": "Afval uit farmaceutisch hoofdstuk −11%",
+      "after": "Afval onder het farmaceutische hoofdstuk −11%"
+    },
+    {
+      "sourceKey": "Planning defaults are 80% net fresh-demand reduction and 80% net waste reduction, entered separately. Neither is a measured site result. The study’s 94.4809% routing recovery is evidence for the tested method, not the annual savings input. Repeated reuse is not an extra multiplier.",
+      "before": "Standaardplanningswaarden zijn 80% nettovermindering van de verse vraag en 80% netto afvalvermindering, afzonderlijk ingevoerd. Geen van beide is een gemeten locatieresultaat. De 94.4809% routeringsterugwinning uit het onderzoek is bewijs voor de geteste methode, geen invoer voor jaarlijkse besparingen. Herhaald hergebruik is geen extra vermenigvuldigingsfactor.",
+      "after": "De standaardplanningswaarden zijn 80% nettovermindering van de vraag naar verse mobiele fase en 80% nettovermindering van afval, afzonderlijk ingevoerd. Geen van beide is een gemeten resultaat op locatie. De in het onderzoek gemeten terugwinning van 94.4809% van de gerouteerde stroom geldt voor de geteste methode en is geen invoer voor jaarlijkse besparingen. Herhaald hergebruik is geen extra vermenigvuldigingsfactor."
+    },
+    {
+      "sourceKey": "Preparation capacity released · person-hours",
+      "before": "Vrijgekomen voorbereidingscapaciteit · persoonsuren",
+      "after": "Vrijgekomen capaciteit voor bereiding · persoonsuren"
+    },
+    {
+      "sourceKey": "Preparation hours and handling events per accepted analytical workload; time demonstrably redeployed.",
+      "before": "Voorbereidingsuren en handelingen per geaccepteerde analytische werklast; aantoonbaar heringezette tijd.",
+      "after": "Bereidingsuren en hanteringshandelingen per geaccepteerde analytische werklast; aantoonbaar voor ander werk ingezette tijd."
+    },
+    {
+      "sourceKey": "Preparation labour cost",
+      "before": "Arbeidskosten bereiding",
+      "after": "Personeelskosten voor bereiding"
+    },
+    {
+      "sourceKey": "Preparation labour value",
+      "before": "Arbeidswaarde bereiding",
+      "after": "Waarde van personeelstijd voor bereiding"
+    },
+    {
+      "sourceKey": "Preparation labour value represents staff time valued at the entered annual salary and annual paid hours. Releasing time does not automatically reduce payroll: the cash-cost comparison includes materials and disposal only. Equipment, implementation, additional operating costs and transport are excluded. Production and treatment CO₂e use the model’s supplied factors; this is a scenario, not a verified footprint.",
+      "before": "De arbeidswaarde voor bereiding is personeelstijd gewaardeerd tegen het ingevoerde jaarsalaris en de jaarlijkse betaalde uren. Tijd vrijmaken verlaagt niet automatisch de loonsom: de kas-kostenvergelijking omvat alleen materialen en afvoer. Apparatuur, implementatie, aanvullende bedrijfskosten en transport zijn uitgesloten. Productie- en verwerkings-CO₂e gebruiken de verstrekte modelfactoren; dit is een scenario, geen geverifieerde voetafdruk.",
+      "after": "De waarde van personeelstijd voor bereiding wordt berekend op basis van het ingevoerde jaarsalaris en de jaarlijkse betaalde uren. Vrijgekomen tijd verlaagt niet automatisch de loonsom: de vergelijking van kasuitgaven omvat alleen materialen en afvoer. Apparatuur, implementatie, aanvullende bedrijfskosten en transport zijn uitgesloten. De geschatte CO₂e-uitstoot van productie en verwerking gebruikt de verstrekte modelfactoren; dit is een scenario, geen geverifieerde voetafdruk."
+    },
+    {
+      "sourceKey": "Preparation people time",
+      "before": "Personeelstijd bereiding",
+      "after": "Personeelstijd voor bereiding"
+    },
+    {
+      "sourceKey": "Preparation person-hours available for other work. Uses your entered weekly hours and separate time-reduction assumption; not automatically a payroll saving.",
+      "before": "Persoonsuren voor bereiding beschikbaar voor ander werk. Gebruikt uw ingevoerde weekuren en afzonderlijke tijdsverminderingsaanname; niet automatisch een loonbesparing.",
+      "after": "Persoonsuren voor bereiding die beschikbaar komen voor ander werk. Gebaseerd op uw ingevoerde weekuren en de afzonderlijke aanname voor tijdsvermindering; dit levert niet automatisch een besparing op loonkosten op."
+    },
+    {
+      "sourceKey": "Preparation subtotal · annual baseline",
+      "before": "Bereidingssubtotaal · jaarlijkse uitgangssituatie",
+      "after": "Subtotaal bereiding · jaarlijkse uitgangssituatie"
+    },
+    {
+      "sourceKey": "Preparation workload",
+      "before": "Bereidingswerklast",
+      "after": "Werklast voor bereiding"
+    },
+    {
+      "sourceKey": "Price & supply exposure",
+      "before": "Prijs- en leveringsblootstelling",
+      "after": "Blootstelling aan prijs- en leveringsrisico’s"
+    },
+    {
+      "sourceKey": "Price exposure",
+      "before": "Prijsblootstelling",
+      "after": "Blootstelling aan prijswijzigingen"
+    },
+    {
+      "sourceKey": "Price exposure is real. Lower demand limits the volume exposed.",
+      "before": "Prijsblootstelling is reëel. Minder vraag beperkt het blootgestelde volume.",
+      "after": "Minder vraag beperkt het volume dat aan prijswijzigingen blootstaat."
+    },
+    {
+      "sourceKey": "Prices exclude VAT. Support is €120 per month (€1,440 per year).",
+      "before": "Prijzen exclusief btw. Ondersteuning kost €120 per maand (€1,440 per jaar).",
+      "after": "Indicatieve prijzen zijn exclusief btw. De standaardkosten voor ondersteuning zijn €120 per maand (€1,440 per jaar); gebruik de toepasselijke offerte in uw scenario."
+    },
+    {
+      "sourceKey": "Projected financial results depend on your net material and waste reductions. The net cash, ROI and NPV rows deduct the entered equipment, installation and support costs. Gross savings rows and cumulative impact charts remain before investment costs.",
+      "before": "Financiële prognoses hangen af van uw netto materiaal- en afvalverminderingen. Netto kas-, ROI- en NPV-rijen trekken de ingevoerde apparatuur-, installatie- en ondersteuningskosten af. Brutobesparingsrijen en cumulatieve effectgrafieken blijven vóór investeringskosten.",
+      "after": "De financiële prognoses hangen af van uw netto materiaal- en afvalverminderingen. Bij de netto kasstroom, ROI en NPV worden de ingevoerde kosten voor apparatuur, installatie en ondersteuning afgetrokken. De brutobesparingen en cumulatieve effectgrafieken zijn berekend vóór aftrek van investeringskosten. Beoordeel eventuele overige locatiespecifieke kosten afzonderlijk."
+    },
+    {
+      "sourceKey": "Purchasing and disposal savings are separate segments of the same total. Staff capacity value is not included.",
+      "before": "Inkoop- en afvoerbesparingen zijn afzonderlijke segmenten van hetzelfde totaal. Personeelscapaciteitswaarde is niet inbegrepen.",
+      "after": "Inkoop- en afvoerbesparingen zijn afzonderlijke delen van hetzelfde totaal. De waarde van personeelscapaciteit is niet inbegrepen."
+    },
+    {
+      "sourceKey": "ReSolve controller example showing a trace and routing status",
+      "before": "ReSolve-controllervoorbeeld met spoor en routeringsstatus",
+      "after": "Voorbeeld van een ReSolve-controller met detectorsignaal en routeringsstatus"
+    },
+    {
+      "sourceKey": "ReSolve™ draws 0.4 W from the HPLC. Any electricity savings from reduced mobile-phase preparation remain to be measured.",
+      "before": "ReSolve™ neemt 0.4 W af van de HPLC. Eventuele elektriciteitsbesparingen door minder bereiding van mobiele fase moeten nog worden gemeten.",
+      "after": "Volgens de productdocumentatie neemt ReSolve™ 0.4 W af van de HPLC. Eventuele elektriciteitsbesparingen door minder bereiding van mobiele fase moeten nog worden gemeten."
+    },
+    {
+      "sourceKey": "ReSolve™ recycles prepared mobile phase for reuse within isocratic HPLC workflows.",
+      "before": "ReSolve™ recyclet bereide mobiele fase voor hergebruik binnen isocratische HPLC-werkprocessen.",
+      "after": "ReSolve™ voert geselecteerde bereide mobiele fase terug voor hergebruik binnen geschikte isocratische HPLC-werkprocessen."
+    },
+    {
+      "sourceKey": "ReSolve™ unit",
+      "before": "ReSolve™-eenheid",
+      "after": "ReSolve™-apparaat"
+    },
+    {
+      "sourceKey": "ReSolve™ | HPLC Mobile-Phase Recycling | Antech",
+      "before": "ReSolve™ | Recycling van HPLC-mobiele fase | Antech",
+      "after": "ReSolve™ | Recycling van mobiele fase bij isocratische HPLC | Antech"
+    },
+    {
+      "sourceKey": "Record 9 has a one-second difference between the summary start and audit start.",
+      "before": "Record 9 heeft een verschil van één seconde tussen de samenvattingsstart en auditstart.",
+      "after": "Bij registratie 9 verschilt de starttijd in de samenvatting één seconde van de starttijd in de audittrail."
+    },
+    {
+      "sourceKey": "Record 9: the summary displays 15:06:21; its filename and audit start event use 15:06:20. Both source values are preserved for review.",
+      "before": "Record 9: de samenvatting toont 15:06:21; de bestandsnaam en auditstartgebeurtenis gebruiken 15:06:20. Beide bronwaarden blijven voor beoordeling behouden.",
+      "after": "Registratie 9: de samenvatting toont 15:06:21; de bestandsnaam en de startgebeurtenis in de audittrail gebruiken 15:06:20. Beide bronwaarden blijven behouden voor beoordeling."
+    },
+    {
+      "sourceKey": "Records 1-25 from a 98-injection run on 5-6 May 2026, using an Agilent 1260 DAD system. The selected records cover 13:19:03 to 18:52:31 on 5 May.",
+      "before": "Records 1-25 uit een reeks van 98 injecties op 5-6 mei 2026 met een Agilent 1260 DAD-systeem. De geselecteerde records beslaan op 5 mei de periode van 13:19:03 tot 18:52:31.",
+      "after": "Records 1-25 uit een reeks van 98 injecties op 5-6 mei 2026 met een Agilent 1260 DAD-systeem. De geselecteerde records beslaan de periode van 13:19:03 tot 18:52:31 op 5 mei."
+    },
+    {
+      "sourceKey": "Recover the baseline.",
+      "before": "Win de basislijn terug.",
+      "after": "Voer geschikte basislijnstroom terug."
+    },
+    {
+      "sourceKey": "Recycle %",
+      "before": "Recycling %",
+      "after": "Recyclingpercentage"
+    },
+    {
+      "sourceKey": "Recycle prepared mobile phase within isocratic HPLC workflows, with a clear evidence trail from laboratory activity to waste, cost and estimated carbon prevention.",
+      "before": "Recycle bereide mobiele fase binnen isocratische HPLC-werkprocessen met een duidelijk bewijsspoor van laboratoriumactiviteit naar afval-, kosten- en geschatte koolstofpreventie.",
+      "after": "Recycle bereide mobiele fase binnen isocratische HPLC-werkprocessen, met traceerbare gegevens die laboratoriumactiviteiten verbinden aan afvalpreventie, kostenbesparingen en geschatte emissievermindering."
+    },
+    {
+      "sourceKey": "Recycling can reduce replenishment interventions and support extended analytical runs.",
+      "before": "Recycling kan bijvulinterventies verminderen en langere analytische analyses ondersteunen.",
+      "after": "Recycling kan het aantal bijvulhandelingen verminderen en langere ononderbroken analysereeksen ondersteunen."
+    },
+    {
+      "sourceKey": "Recycling figures describe recorded flow. Net waste, cost and carbon benefits depend on the operating baseline.",
+      "before": "Recyclingcijfers beschrijven vastgelegde stroom. Netto voordelen voor afval, kosten en koolstof hangen af van de uitgangssituatie.",
+      "after": "Recyclingcijfers beschrijven vastgelegde stroomvolumes. Netto voordelen voor afval, kosten en emissies hangen af van de operationele uitgangssituatie."
+    },
+    {
+      "sourceKey": "Reduce hazardous waste and CO₂ emissions. Capture the metrics across your labs.",
+      "before": "Verminder gevaarlijk afval en CO₂-emissies. Leg de maatstaven vast in uw labs.",
+      "after": "Beoordeel de preventie van gevaarlijk afval en schat CO₂e-verminderingen voor al uw labs."
+    },
+    {
+      "sourceKey": "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.",
+      "before": "Verlaag laboratoriumoplosmiddelkosten met 80%+ en verminder Scope 3-emissies.",
+      "after": "Verken lagere kosten voor mobiele fase en modelleer het effect op Scope 3."
+    },
+    {
+      "sourceKey": "Reduce recurring laboratory costs, release analytical capacity and quantify waste and carbon reductions across your laboratory network.",
+      "before": "Verlaag terugkerende laboratoriumkosten, maak analytische capaciteit vrij en kwantificeer afval- en koolstofverminderingen in uw laboratoriumnetwerk.",
+      "after": "Verken terugkerende kosten, analistencapaciteit en mogelijke afval- en emissieverminderingen binnen uw laboratoriumnetwerk."
+    },
+    {
+      "sourceKey": "Reduce repetitive preparation and handling so analysts can spend more time on higher-value work.",
+      "before": "Verminder herhalende bereiding en handelingen zodat analisten meer tijd aan hoogwaardiger werk kunnen besteden.",
+      "after": "Verminder terugkerende bereiding en hantering zodat analisten meer tijd aan werk met hogere toegevoegde waarde kunnen besteden."
+    },
+    {
+      "sourceKey": "Resource prevention",
+      "before": "Grondstoffenpreventie",
+      "after": "Voorkomen van grondstoffenverbruik"
+    },
+    {
+      "sourceKey": "Review relevance",
+      "before": "Betekenis voor beoordeling",
+      "after": "Belang voor de beoordeling"
+    },
+    {
+      "sourceKey": "Review sample deployment assumptions →",
+      "before": "Beoordeel voorbeeldinzet-aannames →",
+      "after": "Beoordeel de aannames voor de voorbeeldinzet →"
+    },
+    {
+      "sourceKey": "Review the method evidence",
+      "before": "Beoordeel het methodebewijs",
+      "after": "Beoordeel de onderbouwing van de methode"
+    },
+    {
+      "sourceKey": "Separate 80% net waste-reduction assumption. Tonnes use an indicative density of 1 kg/L; confirm the actual mixture density.",
+      "before": "Afzonderlijke aanname van 80% netto afvalvermindering. Tonnen gebruiken een indicatieve dichtheid van 1 kg/L; bevestig de werkelijke mengseldichtheid.",
+      "after": "Afzonderlijke aanname van 80% nettovermindering van afval. De massa in ton is gebaseerd op een indicatieve dichtheid van 1 kg/L; bevestig de werkelijke mengseldichtheid."
+    },
+    {
+      "sourceKey": "Simple payback period",
+      "before": "Eenvoudige terugverdienperiode",
+      "after": "Eenvoudige terugverdientijd"
+    },
+    {
+      "sourceKey": "Source reconciliation",
+      "before": "Bronreconciliatie",
+      "after": "Afstemming met de bronnen"
+    },
+    {
+      "sourceKey": "Study method conditions",
+      "before": "Onderzoeksmethodecondities",
+      "after": "Methodecondities in het onderzoek"
+    },
+    {
+      "sourceKey": "Summary start",
+      "before": "Samenvattingsstart",
+      "after": "Starttijd in de samenvatting"
+    },
+    {
+      "sourceKey": "Supply and contract fit",
+      "before": "Leverings- en contractaansluiting",
+      "after": "Aansluiting op leverings- en contractvoorwaarden"
+    },
+    {
+      "sourceKey": "Supply continuity metric; validate ingredient demand, expiry and stock policy.",
+      "before": "Leveringscontinuïteitsmaatstaf; valideer ingrediëntenvraag, houdbaarheid en voorraadbeleid.",
+      "after": "Maatstaf voor leveringscontinuïteit; valideer de vraag naar ingrediënten, houdbaarheid en het voorraadbeleid."
+    },
+    {
+      "sourceKey": "Supply-chain measure",
+      "before": "Toeleveringsketenmaatstaf",
+      "after": "Maatstaf voor de toeleveringsketen"
+    },
+    {
+      "sourceKey": "Talk to Antech",
+      "before": "Praat met Antech",
+      "after": "Neem contact op met Antech"
+    },
+    {
+      "sourceKey": "Talk to Antech about your isocratic HPLC workflows.",
+      "before": "Praat met Antech over uw isocratische HPLC-werkprocessen.",
+      "after": "Bespreek uw isocratische HPLC-werkprocessen met Antech."
+    },
+    {
+      "sourceKey": "Target material exposure",
+      "before": "Richt u op materiaalblootstelling",
+      "after": "Richt u op materialen met inkooprisico’s"
+    },
+    {
+      "sourceKey": "The Agilent 1260 DAD sequence recorded 1,111.004 mL recycled and 63.533 mL directed to waste on 5–6 May 2026. Percentage calculated from the printed summary totals.",
+      "before": "De Agilent 1260 DAD-reeks registreerde op 5–6 mei 2026 1,111.004 mL gerecycled en 63.533 mL naar afval. Het percentage is berekend uit de afgedrukte samenvattingstotalen.",
+      "after": "De Agilent 1260 DAD-reeks registreerde 1,111.004 mL gerecycled en 63.533 mL naar afval afgevoerd volume op 5–6 mei 2026. Het percentage is berekend uit de afgedrukte samenvattingstotalen."
+    },
+    {
+      "sourceKey": "The combined source reports retention-time variation below 0.35% RSD, peak asymmetry of 0.95-1.15, no reduction in theoretical plate count, and compliance with the stated USP system-suitability tests.",
+      "before": "De gecombineerde bron rapporteert retentietijdvariatie onder 0.35% RSD, piekasymmetrie van 0.95-1.15, geen daling in theoretisch plaatgetal en voldoen aan de vermelde USP-systeemgeschiktheidstests.",
+      "after": "De gecombineerde bron rapporteert een retentietijdvariatie onder 0.35% RSD, een piekasymmetrie van 0.95-1.15, geen daling van het theoretisch plaatgetal en resultaten die voldoen aan de vermelde USP-systeemgeschiktheidstests."
+    },
+    {
+      "sourceKey": "The study reports equivalent chromatographic performance between the two sequences and no adverse impact from using the recycled mobile phase in Sequence 2.",
+      "before": "Het onderzoek rapporteert gelijkwaardige chromatografische prestaties tussen de twee reeksen en geen nadelig effect van gerecyclede mobiele fase in reeks 2.",
+      "after": "Voor de geëvalueerde methode rapporteert het onderzoek gelijkwaardige chromatografische prestaties voor de twee reeksen en geen nadelig effect van het gebruik van gerecyclede mobiele fase in reeks 2."
+    },
+    {
+      "sourceKey": "The supplied report establishes operating volumes and timestamps. Sample identity and chromatographic equivalence have not been independently reconciled. The separate chromatogram for record 89 is outside this subset.",
+      "before": "Het verstrekte rapport legt bedrijfsvolumes en tijdstempels vast. Monsteridentiteit en chromatografische gelijkwaardigheid zijn niet onafhankelijk gereconcilieerd. Het afzonderlijke chromatogram voor record 89 valt buiten deze subset.",
+      "after": "Het verstrekte rapport legt operationele volumes en tijdstempels vast. Monsteridentiteit en chromatografische gelijkwaardigheid zijn niet onafhankelijk met elkaar afgestemd. Het afzonderlijke chromatogram voor registratie 89 valt buiten deze selectie."
+    },
+    {
+      "sourceKey": "These additional figures are transcribed from the supplied presentation; the underlying returns have not been independently reconciled here. They provide sector context and are not inputs to the ReSolve™ calculator.",
+      "before": "Deze aanvullende cijfers zijn overgenomen uit de verstrekte presentatie; de onderliggende opgaven zijn hier niet onafhankelijk gereconcilieerd. Ze geven sectorcontext en zijn geen invoer voor de ReSolve™-calculator.",
+      "after": "Deze aanvullende cijfers zijn overgenomen uit de verstrekte presentatie; de onderliggende opgaven zijn hier niet onafhankelijk gecontroleerd en afgestemd. Ze geven sectorcontext en zijn geen invoer voor de ReSolve™-calculator."
+    },
+    {
+      "sourceKey": "These findings support the use of recycled mobile phase under the method and operating conditions evaluated in the study.",
+      "before": "Deze bevindingen ondersteunen gerecyclede mobiele fase onder de methode- en bedrijfscondities die in het onderzoek zijn geëvalueerd.",
+      "after": "Deze bevindingen ondersteunen het gebruik van gerecyclede mobiele fase onder de in het onderzoek geëvalueerde methode- en bedrijfscondities."
+    },
+    {
+      "sourceKey": "Total including preparation labour",
+      "before": "Totaal inclusief bereidingsarbeid",
+      "after": "Totaal inclusief personeelstijd voor bereiding"
+    },
+    {
+      "sourceKey": "Total including preparation labour value",
+      "before": "Totaal inclusief arbeidswaarde voor bereiding",
+      "after": "Totaal inclusief de waarde van personeelstijd voor bereiding"
+    },
+    {
+      "sourceKey": "Track fewer preparations, bottle changes and waste transfers alongside material reductions.",
+      "before": "Volg minder bereidingen, fleswisselingen en afvaloverdrachten naast materiaalverminderingen.",
+      "after": "Volg naast materiaalverminderingen ook veranderingen in het aantal bereidingen, fleswisselingen en afvaloverdrachten."
+    },
+    {
+      "sourceKey": "Turn measured prevention into a business case.",
+      "before": "Maak gemeten preventie tot een businesscase.",
+      "after": "Bouw een businesscase op met de aannames voor uw laboratorium."
+    },
+    {
+      "sourceKey": "Usable inventory ÷ average daily fresh demand, calculated separately for each constrained ingredient.",
+      "before": "Bruikbare voorraad ÷ gemiddelde dagelijkse verse vraag, afzonderlijk berekend voor elk beperkend ingrediënt.",
+      "after": "Bruikbare voorraad ÷ gemiddelde dagelijkse vraag naar verse toevoer, afzonderlijk berekend voor elk ingrediënt dat de beschikbaarheid beperkt."
+    },
+    {
+      "sourceKey": "Use your laboratory numbers, operating schedule and costs to model reduced solvent demand, cost avoided and CO₂ reduction over three years.",
+      "before": "Gebruik uw laboratoriumaantallen, werkschema en kosten om minder oplosmiddelvraag, vermeden kosten en CO₂-reductie over drie jaar te modelleren.",
+      "after": "Gebruik uw aantallen laboratoria, werkschema en kosten om over drie jaar een lagere vraag naar verse mobiele fase, vermeden kosten en geschatte CO₂e-verminderingen te modelleren."
+    },
+    {
+      "sourceKey": "Validate this business case",
+      "before": "Valideer deze businesscase",
+      "after": "Beoordeel deze businesscase"
+    },
+    {
+      "sourceKey": "Validate this business case with Antech",
+      "before": "Valideer deze businesscase met Antech",
+      "after": "Beoordeel deze businesscase met Antech"
+    },
+    {
+      "sourceKey": "Value by persona matrix; scroll horizontally on small screens",
+      "before": "Waarde-per-perspectiefmatrix; verschuif horizontaal op kleine schermen",
+      "after": "Matrix van waarde per perspectief; verschuif horizontaal op kleine schermen"
+    },
+    {
+      "sourceKey": "Value of preparation capacity released",
+      "before": "Waarde vrijgekomen bereidingscapaciteit",
+      "after": "Waarde van vrijgekomen bereidingscapaciteit"
+    },
+    {
+      "sourceKey": "Waste avoided = baseline waste × the separate net waste-reduction input. Fresh material avoided = baseline fresh demand × the net fresh-demand reduction input. The planning baseline assumes fresh demand and waste each equal eligible pump throughput before recycling. Reconcile site balances, losses and final disposal before claiming measured savings.",
+      "before": "Vermeden afval = uitgangsafval × afzonderlijke netto afvalverminderingsinvoer. Vermeden vers materiaal = verse uitgangsvraag × netto verse-vraagverminderingsinvoer. De planningsuitgangssituatie veronderstelt dat verse vraag en afval elk gelijk zijn aan de geschikte pompdoorvoer vóór recycling. Reconcilieer locatiebalansen, verliezen en uiteindelijke afvoer voordat u gemeten besparingen claimt.",
+      "after": "Vermeden afval = uitgangsafval × afzonderlijke netto afvalverminderingsinvoer. Vermeden vers materiaal = verse uitgangsvraag × netto verse-vraagverminderingsinvoer. De planningsuitgangssituatie veronderstelt dat vraag naar verse mobiele fase en afval elk gelijk zijn aan de geschikte pompdoorvoer vóór recycling. Reconcilieer locatiebalansen, verliezen en uiteindelijke afvoer voordat u gemeten besparingen claimt."
+    },
+    {
+      "sourceKey": "Waste prevented",
+      "before": "Voorkomen afval",
+      "after": "Geschatte hoeveelheid voorkomen afval"
+    },
+    {
+      "sourceKey": "Weeks of operation per year, excluding shutdowns. This also scales the weekly preparation person-hours into annual hours.",
+      "before": "Bedrijfsweken per jaar, exclusief stilleggingen. Dit schaalt ook wekelijkse voorbereidingspersoonsuren naar jaaruren.",
+      "after": "Bedrijfsweken per jaar, exclusief stilstand. Hiermee worden ook de wekelijkse persoonsuren voor bereiding omgerekend naar jaaruren."
+    },
+    {
+      "sourceKey": "What the investment delivers",
+      "before": "Wat de investering oplevert",
+      "after": "Wat uw scenario schat"
+    },
+    {
+      "sourceKey": "Why solvent prevention matters.",
+      "before": "Waarom oplosmiddelpreventie ertoe doet.",
+      "after": "Waarom minder oplosmiddelverbruik ertoe doet."
+    },
+    {
+      "sourceKey": "Year 1 investment includes equipment, installation and the first year of support. Years 2 and 3 include support only. Benefits are gross cash savings before these investment costs; staff capacity value is excluded. Values are undiscounted. The payback and NPV chart below shows the resulting net position.",
+      "before": "Investering in jaar 1 omvat apparatuur, installatie en het eerste ondersteuningsjaar. Jaren 2 en 3 omvatten alleen ondersteuning. Voordelen zijn bruto kasbesparingen vóór deze investeringskosten; personeelscapaciteitswaarde is uitgesloten. Waarden zijn niet gedisconteerd. De terugverdien- en NPV-grafiek hieronder toont de resulterende nettopositie.",
+      "after": "De investering in jaar 1 omvat apparatuur, installatie en het eerste jaar ondersteuning. Jaar 2 en 3 omvatten alleen ondersteuning. Voordelen zijn bruto kasbesparingen vóór deze investeringskosten; de waarde van personeelscapaciteit is uitgesloten. De waarden zijn niet gedisconteerd. De terugverdien- en NPV-grafiek hieronder toont de resulterende nettopositie."
+    },
+    {
+      "sourceKey": "annual baseline demand × assumed net fresh-demand reduction. Waste avoided = baseline waste × the separate net waste-reduction input. Recycled-flow totals and reuse counts are not added to either result.",
+      "before": "jaarlijkse uitgangsvraag × aangenomen nettovermindering verse vraag. Vermeden afval = uitgangsafval × afzonderlijke netto afvalverminderingsinvoer. Gerecyclede stroomtotalen en hergebruikaantallen worden niet bij een van beide resultaten opgeteld.",
+      "after": "jaarlijkse vraag in de uitgangssituatie × aangenomen nettovermindering van de vraag naar verse mobiele fase. Vermeden afval = afval in de uitgangssituatie × afzonderlijk ingevoerde nettovermindering van afval. Totalen van gerecyclede stroom en aantallen keren hergebruik worden bij geen van beide resultaten opgeteld."
+    },
+    {
+      "sourceKey": "annual preparation person-hours = person-hours per lab per operating week × labs × operating weeks/year. Hours released = baseline hours × the separate preparation-time reduction. Labour cost and capacity value = the relevant person-hours ÷ annual paid hours per analyst × annual salary. Three-year values = annual values × 3. Staff capacity value is excluded from material/disposal savings, cumulative cost charts and ROI.",
+      "before": "jaarlijkse voorbereidingspersoonsuren = persoonsuren per lab per bedrijfsweek × labs × bedrijfsweken/jaar. Vrijgekomen uren = uitgangsuren × afzonderlijke voorbereidingstijdvermindering. Arbeidskosten en capaciteitswaarde = relevante persoonsuren ÷ jaarlijkse betaalde uren per analist × jaarsalaris. Driejaarswaarden = jaarwaarden × 3. Personeelscapaciteitswaarde is uitgesloten van materiaal-/afvoerbesparingen, cumulatieve kostengrafieken en ROI.",
+      "after": "jaarlijkse persoonsuren voor bereiding = persoonsuren per lab per bedrijfsweek × labs × bedrijfsweken/jaar. Vrijgekomen uren = uren in de uitgangssituatie × afzonderlijke vermindering van de bereidingstijd. Personeelskosten en capaciteitswaarde = de relevante persoonsuren ÷ jaarlijkse betaalde uren per analist × jaarsalaris. Driejaarswaarden = jaarwaarden × 3. De waarde van personeelscapaciteit is uitgesloten van materiaal- en afvoerbesparingen, cumulatieve kostengrafieken en ROI."
+    },
+    {
+      "sourceKey": "informs analytical review; the Agilent sequence and ReSolve™ records document the evaluated operation.",
+      "before": "informeert de analytische beoordeling; de Agilent-reeks en ReSolve™-registraties documenteren de geëvalueerde bedrijfsvoering.",
+      "after": "ondersteunt de analytische beoordeling; de Agilent-reeks en ReSolve™-registraties documenteren de geëvalueerde werking."
+    },
+    {
+      "sourceKey": "labs × HPLC systems per lab × flow (mL/min) × 60 × hours/day × days/week × weeks/year ÷ 1,000. Monthly demand = annual demand ÷ 12.",
+      "before": "labs × HPLC-systemen per lab × debiet (mL/min) × 60 × uur/dag × dagen/week × weken/jaar ÷ 1,000. Maandvraag = jaarvraag ÷ 12.",
+      "after": "labs × HPLC-systemen per lab × debiet (mL/min) × 60 × uur/dag × dagen/week × weken/jaar ÷ 1,000. Maandelijkse vraag = jaarlijkse vraag ÷ 12."
+    },
+    {
+      "sourceKey": "units = labs × included HPLCs per lab. Initial investment = units × (equipment + installation). Annual net operating cash saving = material saving + disposal saving − annual support. Net benefit over N years = N × annual net saving − initial investment. ROI = net benefit ÷ initial investment. NPV = −initial investment + sum of annual net saving ÷ (1 + discount rate)^year. Upfront payment occurs at year 0; operating cash flows occur at each year end. Simple payback assumes evenly accruing monthly savings. Labour capacity value is excluded from cash returns.",
+      "before": "eenheden = labs × meegenomen HPLC's per lab. Initiële investering = eenheden × (apparatuur + installatie). Jaarlijkse netto operationele kasbesparing = materiaalbesparing + afvoerbesparing − jaarlijkse ondersteuning. Netto voordeel over N jaar = N × jaarlijkse nettobesparing − initiële investering. ROI = netto voordeel ÷ initiële investering. NPV = −initiële investering + som van jaarlijkse nettobesparing ÷ (1 + discontovoet)^jaar. Initiële betaling vindt plaats in jaar 0; operationele kasstromen aan elk jaareinde. Eenvoudige terugverdientijd veronderstelt gelijkmatig opgebouwde maandbesparingen. Arbeidscapaciteitswaarde is uitgesloten van kasrendementen.",
+      "after": "apparaten = labs × meegenomen HPLC's per lab. Initiële investering = apparaten × (apparatuur + installatie). Jaarlijkse netto operationele kasbesparing = materiaalbesparing + afvoerbesparing − jaarlijkse ondersteuning. Netto voordeel over N jaar = N × jaarlijkse nettobesparing − initiële investering. ROI = netto voordeel ÷ initiële investering. NPV = −initiële investering + som van jaarlijkse nettobesparing ÷ (1 + discontovoet)^jaar. De initiële betaling vindt plaats in jaar 0; operationele kasstromen ontstaan aan elk jaareinde. De eenvoudige terugverdientijd gaat uit van gelijkmatig opgebouwde maandelijkse besparingen. De waarde van personeelscapaciteit is uitgesloten van de financiële opbrengsten."
+    },
+    {
+      "sourceKey": "units ·",
+      "before": "eenheden ·",
+      "after": "apparaten ·"
+    },
+    {
+      "sourceKey": "€/unit/year",
+      "before": "€/eenheid/jaar",
+      "after": "€/apparaat/jaar"
+    },
+    {
+      "sourceKey": "✓ Technical conclusion: analytical performance maintained",
+      "before": "✓ Technische conclusie: analytische prestaties behouden",
+      "after": "✓ Onderzoeksconclusie: analytische prestaties behouden onder de geëvalueerde methodecondities"
+    }
+  ],
+  "sourceAlignment": {
+    "1 labs": "1 lab",
+    "25 records paired with audit starts and finishes on 5 May 2026.": "25 meetregistraties gekoppeld aan begin- en eindgebeurtenissen in de audittrail op 5 mei 2026.",
+    "All 25 records are paired with audit starts and finishes. Record 9 retains a one-second difference: summary start 15:06:21; audit start 15:06:20.": "Alle 25 registraties zijn gekoppeld aan begin- en eindgebeurtenissen van metingen in de audittrail. Bij registratie 9 blijft een verschil van één seconde behouden: starttijd in de samenvatting 15:06:21; starttijd in de audittrail 15:06:20.",
+    "All labs use the same systems-per-lab count, operating schedule and per-system flow. Disposal cost avoided is calculated from prevented waste volume × disposal cost per litre. Preparation time is valued separately at your entered staff cost; it is not included in material and disposal savings. Equipment, service, consumables and implementation costs are not deducted, in the gross savings figures. The financial projection separately deducts equipment, installation and annual support to calculate net cash, ROI, payback and NPV.": "Alle labs gebruiken hetzelfde aantal systemen per lab, hetzelfde werkschema en hetzelfde debiet per systeem. Vermeden afvoerkosten worden berekend als voorkomen afvalvolume × afvoerkosten per liter. Bereidingstijd wordt afzonderlijk gewaardeerd tegen de ingevoerde personeelskosten en is niet inbegrepen in de materiaal- en afvoerbesparingen. Bij de brutobesparingen worden kosten voor apparatuur, service, verbruiksartikelen en implementatie niet afgetrokken. De financiële prognose trekt de ingevoerde kosten voor apparatuur, installatie en jaarlijkse ondersteuning af om de gemodelleerde netto kasstroom, ROI, terugverdientijd en NPV te berekenen. Beoordeel eventuele overige locatiespecifieke kosten afzonderlijk.",
+    "Annual cost avoided": "Geschatte vermeden jaarlijkse kosten",
+    "Both lines start after the upfront equipment and installation payment. Cash payback assumes savings accrue evenly through the year. NPV uses year-end cash flows discounted at 10%; segments join the annual valuation points. Staff capacity value is excluded from cash returns.": "Beide lijnen beginnen na de initiële betaling voor apparatuur en installatie. De terugverdientijd gaat ervan uit dat de besparingen gelijkmatig over het jaar ontstaan. De NPV gebruikt kasstromen aan het jaareinde tegen de gekozen discontovoet (standaard 10%); de lijnsegmenten verbinden de jaarlijkse waarderingspunten. De waarde van personeelscapaciteit is uitgesloten van de financiële opbrengsten.",
+    "CO₂ reduction": "Geschatte CO₂e-vermindering",
+    "CO₂:": "Geschatte CO₂e:",
+    "Conclusion · analytical performance maintained": "Onderzoeksconclusie · analytische prestaties behouden onder de geëvalueerde methodecondities",
+    "Example opportunity—subject to validation at each site. The fixed example uses an 80% reduction assumption; 80%+ is not a measured purchasing result. Associated carbon estimates use supplied factors pending verification.": "Het vaste voorbeeld gaat uit van een nettovermindering van 80% in zowel de vraag naar verse mobiele fase als de hoeveelheid afval. Dit zijn planningsaannames, geen gemeten inkoopresultaten. De bijbehorende emissieschattingen gebruiken verstrekte factoren die nog moeten worden geverifieerd.",
+    "Geopolitical tensions, conflict, changing trade policies and disruption to major shipping routes are making global supply chains more uncertain. Rerouting, volatile freight costs and unpredictable lead times make replenishment harder to plan.": "Geopolitieke spanningen, conflicten, veranderend handelsbeleid en verstoringen op belangrijke scheepvaartroutes kunnen de bevoorradingsplanning bemoeilijken. Beoordeel de risico’s binnen uw eigen leveranciersnetwerk, transportroutes en voorraadbeleid.",
+    "Hazardous waste prevented": "Geschatte hoeveelheid voorkomen gevaarlijk afval",
+    "Maintain analytical results and process integrity as mobile phase is recycled.": "Beoordeel de analytische prestaties en procesbeheersing bij hergebruik van mobiele fase.",
+    "Maintain your analytical standards while reducing fresh mobile-phase preparation.": "Beoordeel hergebruik van mobiele fase aan de hand van uw analytische vereisten.",
+    "One laboratory · measurable prevention over time": "Eén laboratorium · gemodelleerde preventie in de tijd",
+    "Price exposure is real. Lower demand limits the volume exposed.": "Minder vraag beperkt het volume dat aan prijswijzigingen blootstaat.",
+    "Prices exclude VAT. Support is €120 per month (€1,440 per year).": "Indicatieve prijzen zijn exclusief btw. De standaardkosten voor ondersteuning zijn €120 per maand (€1,440 per jaar); gebruik de toepasselijke offerte in uw scenario.",
+    "Projected financial results depend on your net material and waste reductions. The net cash, ROI and NPV rows deduct the entered equipment, installation and support costs. Gross savings rows and cumulative impact charts remain before investment costs.": "De financiële prognoses hangen af van uw netto materiaal- en afvalverminderingen. Bij de netto kasstroom, ROI en NPV worden de ingevoerde kosten voor apparatuur, installatie en ondersteuning afgetrokken. De brutobesparingen en cumulatieve effectgrafieken zijn berekend vóór aftrek van investeringskosten. Beoordeel eventuele overige locatiespecifieke kosten afzonderlijk.",
+    "ReSolve™ draws 0.4 W from the HPLC. Any electricity savings from reduced mobile-phase preparation remain to be measured.": "Volgens de productdocumentatie neemt ReSolve™ 0.4 W af van de HPLC. Eventuele elektriciteitsbesparingen door minder bereiding van mobiele fase moeten nog worden gemeten.",
+    "ReSolve™ recycles prepared mobile phase for reuse within isocratic HPLC workflows.": "ReSolve™ voert geselecteerde bereide mobiele fase terug voor hergebruik binnen geschikte isocratische HPLC-werkprocessen.",
+    "Recover the baseline.": "Voer geschikte basislijnstroom terug.",
+    "Divert the peaks.": "Voer piekfracties af naar afval.",
+    "Reduce hazardous waste and CO₂ emissions. Capture the metrics across your labs.": "Beoordeel de preventie van gevaarlijk afval en schat CO₂e-verminderingen voor al uw labs.",
+    "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.": "Verken lagere kosten voor mobiele fase en modelleer het effect op Scope 3.",
+    "Reduce recurring laboratory costs, release analytical capacity and quantify waste and carbon reductions across your laboratory network.": "Verken terugkerende kosten, analistencapaciteit en mogelijke afval- en emissieverminderingen binnen uw laboratoriumnetwerk.",
+    "Sequence 2 · 96 injections (Recycled)": "Reeks 2 · 96 injecties (gerecycled)",
+    "The study reports equivalent chromatographic performance between the two sequences and no adverse impact from using the recycled mobile phase in Sequence 2.": "Voor de geëvalueerde methode rapporteert het onderzoek gelijkwaardige chromatografische prestaties voor de twee reeksen en geen nadelig effect van het gebruik van gerecyclede mobiele fase in reeks 2.",
+    "Turn measured prevention into a business case.": "Bouw een businesscase op met de aannames voor uw laboratorium.",
+    "Use your laboratory numbers, operating schedule and costs to model reduced solvent demand, cost avoided and CO₂ reduction over three years.": "Gebruik uw aantallen laboratoria, werkschema en kosten om over drie jaar een lagere vraag naar verse mobiele fase, vermeden kosten en geschatte CO₂e-verminderingen te modelleren.",
+    "Validate this business case": "Beoordeel deze businesscase",
+    "Validate this business case with Antech": "Beoordeel deze businesscase met Antech",
+    "Waste prevented": "Geschatte hoeveelheid voorkomen afval",
+    "What the investment delivers": "Wat uw scenario schat",
+    "✓ Technical conclusion: analytical performance maintained": "✓ Onderzoeksconclusie: analytische prestaties behouden onder de geëvalueerde methodecondities",
+    "No difference in baseline noise/stability was observed. LC/MS found neither analyte in the recycled phase; the source reports waste-phase concentrations of 1,440 ng/mL paracetamol and 530 ng/mL ibuprofen.": "Voor de geëvalueerde methode werd geen verschil in basislijnruis of stabiliteit waargenomen. Met LC/MS werd geen paracetamol of ibuprofen in de gerecyclede fase gedetecteerd; het rapport vermeldt geen detectiegrenzen. De bron vermeldt voor de afvalfase concentraties van 1,440 ng/mL paracetamol en 530 ng/mL ibuprofen."
+  },
+  "hero": {
+    "prefix": "Houd uw mobiele fase ",
+    "emphasis": "in gebruik.",
+    "suffix": ""
+  },
+  "metadata": {
+    "title": "ReSolve™ | Recycling van mobiele fase bij isocratische HPLC | Antech",
+    "description": "Verken recycling van mobiele fase met ReSolve™ voor geschikte isocratische HPLC-methoden. Beoordeel analytische gegevens, modelleer kosten en afval en bespreek uw methode."
+  },
+  "supplemental": {
+    "REDUCE": "VERMINDEREN",
+    "REUSE": "HERGEBRUIKEN",
+    "YOUR INPUTS": "UW INVOER",
+    "unit": "apparaat",
+    "units": "apparaten",
+    "€/unit": "€/apparaat"
+  },
+  "blocks": {
+    "Recover the baseline. Divert the peaks.": {
+      "text": "Voer geschikte basislijnstroom terug. {0}",
+      "slots": {
+        "0": "Voer piekfracties af naar afval."
+      }
+    },
+    "Two separate evidence sets answer different questions: the PMBrc / SETU study informs analytical review; the Agilent sequence and ReSolve™ records document the evaluated operation.": {
+      "text": "Twee afzonderlijke soorten bewijs beantwoorden verschillende vragen: het {0} ondersteunt de analytische beoordeling; de Agilent-reeks en ReSolve™-registraties documenteren de geëvalueerde werking."
+    },
+    "Framework: Potting et al., PBL (2017) . Sector context informed by the supplied CIRCULÉIRE presentation.": {
+      "text": "Kader: {0}. De sectorcontext is gebaseerd op de aangeleverde CIRCULÉIRE-presentatie."
+    },
+    "Source: EPA national hazardous waste statistics ; solvent figure and category description transcribed from the supplied CIRCULÉIRE slide.": {
+      "text": "Bron: {0}; het cijfer voor oplosmiddelen en de categoriebeschrijving zijn overgenomen uit de aangeleverde CIRCULÉIRE-dia."
+    },
+    "Global trade context: UNCTAD, Review of Maritime Transport 2025 ↗ . Laboratory implications should be assessed against your own supply network.": {
+      "text": "Context van de wereldhandel: {0}. Beoordeel de gevolgen voor het laboratorium op basis van uw eigen toeleveringsnetwerk."
+    },
+    "EUR per tonne · values transcribed from the supplied CIRCULÉIRE slide citing Methanex. Methanex posted pricing . Commodity contract prices are not analytical-grade invoice prices and are not used in this calculator.": {
+      "text": "EUR per ton · waarden overgenomen uit de aangeleverde CIRCULÉIRE-dia met Methanex als bron. {0}. Contractprijzen voor bulkchemicaliën zijn geen factuurprijzen voor stoffen van analytische kwaliteit en worden niet gebruikt in deze calculator."
+    },
+    "Sources: GHG Protocol calculation guidance · ISO 14001 · ISO 14051 · ISO greenhouse-gas standards .": {
+      "text": "Bronnen: {0} · {1} · {2} · {3}."
+    },
+    "Your details will be sent to Antech so we can respond to your enquiry. If the form fails, email info@antech.ie .": {
+      "text": "Uw gegevens worden naar Antech gestuurd zodat wij uw aanvraag kunnen beantwoorden. Werkt het formulier niet, mail dan naar {0}."
+    }
+  },
+  "numericExceptions": [
+    {
+      "sourceKey": "Example opportunity—subject to validation at each site. The fixed example uses an 80% reduction assumption; 80%+ is not a measured purchasing result. Associated carbon estimates use supplied factors pending verification.",
+      "before": [
+        "80",
+        "80"
+      ],
+      "after": [
+        "80"
+      ],
+      "reason": "Intentional removal of unsupported 80%+ marketing promise/repeated claim; this is not a source measurement, model input or result."
+    },
+    {
+      "sourceKey": "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.",
+      "before": [
+        "80",
+        "3"
+      ],
+      "after": [
+        "3"
+      ],
+      "reason": "Intentional removal of unsupported 80%+ marketing promise/repeated claim; this is not a source measurement, model input or result."
+    }
+  ],
+  "checks": {
+    "sourceKeysUnchanged": true,
+    "all35EnglishAlignmentsReviewed": true,
+    "allSourceMeasurementsUnchanged": true,
+    "methodSpecificEvidenceSeparateFromAnnualAssumptions": true,
+    "staffCapacitySeparateFromCashSavings": true,
+    "EURNoConversion": true,
+    "carbonEstimatesQualified": true,
+    "noCertificationOrRegulatoryApprovalClaim": true,
+    "analyticalStabilityDistinctFromEnvironmentalSustainability": true,
+    "originalEnglishDocumentsAndVideoLabelled": true,
+    "politeVoiceConsistent": true,
+    "noProductionDeployment": true,
+    "validUTF8JSON": true,
+    "nonemptyValues": 1429,
+    "exactSourceKeySet": true,
+    "numericSequencesMatchFinalEnglishValues": true,
+    "numericDifferencesFromOriginalSourceKeys": 2,
+    "numericExceptionsOnlyApprovedMarketingRemovals": true,
+    "allInlineSlotsValidatedAgainstOriginalDOM": true,
+    "effectiveBlockDefinitionsValidated": 9,
+    "effectiveBlockOccurrencesValidated": 16,
+    "assembledHeadingsAndInlineTextRechecked": true,
+    "browserNotUsed": true
+  },
+  "remainingReview": [
+    "AI-authored review, not certified native-speaker or legal/regulatory approval. Production release should receive qualified Dutch technical-language review.",
+    "Shared numeric presentation is managed centrally; source measurement strings and precision remain unchanged in this locale."
+  ]
+}

@@ -1,0 +1,1329 @@
+{
+  "locale": "ja",
+  "agent": "/root/language_ja",
+  "status": "reviewed",
+  "reviewedKeys": 1429,
+  "reviewedProfiles": [
+    "quality",
+    "sustainability",
+    "procurement",
+    "supply-chain",
+    "value",
+    "research",
+    "reports",
+    "across"
+  ],
+  "reviewBasis": "AI-authored Japanese scientific and marketing review: all 1,429 stable key/value entries read in full; all eight assembled profile panels, headings, inline sentences, forms, SEO, supplemental labels and report strings reviewed against the final English values.",
+  "changedEntries": 230,
+  "changes": [
+    {
+      "sourceKey": ". Commodity contract prices are not analytical-grade invoice prices and are not used in this calculator.",
+      "before": "。コモディティの契約価格は分析グレード試薬の請求価格ではなく、この計算には使用しません。",
+      "after": "。一般工業用原料の契約価格は分析グレード試薬の実際の購入価格とは異なるため、この計算には使用しません。"
+    },
+    {
+      "sourceKey": ". Laboratory implications should be assessed against your own supply network.",
+      "before": "。試験室への影響は、ご自身の供給網に基づいて評価してください。",
+      "after": "。試験室への影響は、お客様の供給網に照らして評価してください。"
+    },
+    {
+      "sourceKey": "192 injections across two 96-injection sequences; measured study evidence, separate from the operating model.",
+      "before": "2 つの 96 回注入シーケンス、合計 192 回の注入。運用モデルとは別の、実測された研究エビデンスです。",
+      "after": "2 つのシーケンスでそれぞれ 96 回、合計 192 回の注入を実施しました。運用モデルとは別の、研究で実測されたエビデンスです。"
+    },
+    {
+      "sourceKey": "2,080 paid hours per analyst per year (40 hours/week × 52 weeks). This fixed assumption converts annual salary into a value per preparation person-hour; it is separate from laboratory operating weeks. Employer contributions and benefits are excluded.",
+      "before": "分析担当者 1 人当たり年間 2,080 有給時間（40 時間/週 × 52 週）。この固定仮定により、年収を調製作業の人時単価に換算します。試験室の稼働週数とは別です。雇用主負担金と福利厚生費は含みません。",
+      "after": "分析担当者 1 人当たりの年間所定労働時間を 2,080 時間（40 時間/週 × 52 週）とする固定仮定です。これにより年収から調製作業の人時単価を求めます。試験室の稼働週数とは別に扱い、雇用主負担金と福利厚生費は含みません。"
+    },
+    {
+      "sourceKey": "25 records paired with audit starts and finishes on 5 May 2026.",
+      "before": "2026 年 5 月 5 日の監査開始・終了イベントと対応する 25 件の記録。",
+      "after": "2026 年 5 月 5 日の監査証跡にある測定開始・終了イベントと照合した、25 件の測定記録。"
+    },
+    {
+      "sourceKey": "30% less preparation/handling time: example assumption. Absolute hours require a measured baseline.",
+      "before": "調製・取扱時間を 30% 削減：例示の仮定。絶対時間には実測基準値が必要です。",
+      "after": "調製・取扱時間を 30% 削減する例示仮定です。削減時間を算出するには、基準となる実測時間が必要です。"
+    },
+    {
+      "sourceKey": "80 sample injections per sequence, plus 13 standards and 3 blanks. Retention, area, peak shape and resolution are reported.",
+      "before": "各シーケンスは試料 80 回のほか、標準液 13 回とブランク 3 回を含みます。保持時間、面積、ピーク形状、分離度が報告されています。",
+      "after": "各シーケンスでは試料を 80 回、標準液を 13 回、ブランクを 3 回注入しました。保持時間、ピーク面積、ピーク形状、分離度が報告されています。"
+    },
+    {
+      "sourceKey": "A fixed one-lab example over three years. Select Model Your Own Scenario to model your laboratories.",
+      "before": "1 試験室を対象とする 3 年間の固定例。「独自のシナリオをモデル化」を選択して、ご自身の試験室を試算してください。",
+      "after": "1 試験室を対象とする 3 年間の固定例です。「独自のシナリオをモデル化」を選択して、お客様の試験室の条件で試算してください。"
+    },
+    {
+      "sourceKey": "ANALYSED INJECTIONS",
+      "before": "解析した注入",
+      "after": "解析対象の注入"
+    },
+    {
+      "sourceKey": "Account for the full balance",
+      "before": "物料収支全体を把握",
+      "after": "物質収支全体を把握"
+    },
+    {
+      "sourceKey": "Agilent 1260 DAD · 5–6 May 2026. Select a range, then hover, tap or focus an injection to inspect its recorded volumes.",
+      "before": "Agilent 1260 DAD · 2026 年 5 月 5–6 日。範囲を選び、注入にポインターを合わせる、タップする、またはフォーカスして記録体積を確認してください。",
+      "after": "Agilent 1260 DAD · 2026 年 5 月 5–6 日。範囲を選択してから、各注入の表示にポインターを合わせるか、タップまたはフォーカスして、記録された体積を確認してください。"
+    },
+    {
+      "sourceKey": "Agree baseline consumption, waste boundaries and the records needed to demonstrate prevention.",
+      "before": "基準消費量、廃液の算定範囲、発生抑制を示すために必要な記録を合意してください。",
+      "after": "基準となる消費量、廃液の算定範囲、発生抑制を示すために必要な記録について合意してください。"
+    },
+    {
+      "sourceKey": "Agree the method, acceptance criteria and change-control requirements before evaluating the wider operating benefits.",
+      "before": "広範な運用便益を評価する前に、分析法、判定基準、変更管理要件を合意してください。",
+      "after": "運用面の幅広い便益を評価する前に、分析法、判定基準、変更管理要件について合意してください。"
+    },
+    {
+      "sourceKey": "Align laboratory demand with purchasing and site inventory plans. Review whether lower consumption can reduce order frequency, urgent orders or stockholding.",
+      "before": "試験室の需要を購買・拠点在庫計画と連携します。消費削減によって発注頻度、緊急発注、在庫保有量を減らせるか確認してください。",
+      "after": "試験室の需要を購買計画・拠点の在庫計画に反映します。消費量を減らすことで、発注頻度、緊急発注、在庫保有量を減らせるかを確認してください。"
+    },
+    {
+      "sourceKey": "All 25 records are paired with audit starts and finishes. Record 9 retains a one-second difference: summary start 15:06:21; audit start 15:06:20.",
+      "before": "25 件すべてが監査開始・終了イベントと対応しています。記録 9 には 1 秒の差が残っています：集計開始 15:06:21、監査開始 15:06:20。",
+      "after": "25 件すべての測定記録を、監査証跡にある測定開始・終了イベントと照合しています。記録 9 には 1 秒の差が残っています。集計レポート上の開始は 15:06:21、監査証跡上の開始は 15:06:20 です。"
+    },
+    {
+      "sourceKey": "All labs use the same systems-per-lab count, operating schedule and per-system flow. Disposal cost avoided is calculated from prevented waste volume × disposal cost per litre. Preparation time is valued separately at your entered staff cost; it is not included in material and disposal savings. Equipment, service, consumables and implementation costs are not deducted, in the gross savings figures. The financial projection separately deducts equipment, installation and annual support to calculate net cash, ROI, payback and NPV.",
+      "before": "全試験室で、試験室当たりのシステム数、稼働スケジュール、システム当たり流量を共通とします。回避処分費は抑制した廃液量 × 1 L 当たり処分費で計算します。調製時間は入力した人件費により別途評価し、材料費・処分費削減には含めません。削減総額から設備、サービス、消耗品、導入費は差し引いていません。財務予測では設備、設置、年間サポート費を別途差し引き、純キャッシュ、ROI、回収期間、NPV を計算します。",
+      "after": "すべての試験室で、試験室当たりのシステム数、稼働スケジュール、システム当たり流量を共通とします。処分費削減額は、抑制した廃液量 × 1 L 当たり処分費で計算します。調製時間は入力した人件費を基に別途金額換算し、材料費・処分費の削減額には含めません。削減総額からは、設備、保守、消耗品、導入費を差し引いていません。財務予測では、入力した設備、設置、年間サポート費を差し引き、モデル上の純キャッシュ、ROI、投資回収期間、NPV を算出します。拠点固有のその他の費用は別途評価してください。"
+    },
+    {
+      "sourceKey": "Analytical acceptance and controlled change; no certification inferred.",
+      "before": "分析上の受入れと管理された変更。認証を意味しません。",
+      "after": "分析上の判定と変更管理のための資料です。認証を意味するものではありません。"
+    },
+    {
+      "sourceKey": "Analytical integrity",
+      "before": "分析の完全性",
+      "after": "分析の信頼性"
+    },
+    {
+      "sourceKey": "Analytical integrity · PMBrc / SETU white paper",
+      "before": "分析の完全性 · PMBrc / SETU ホワイトペーパー",
+      "after": "分析の信頼性 · PMBrc / SETU ホワイトペーパー"
+    },
+    {
+      "sourceKey": "Annual cost avoided",
+      "before": "年間回避費用",
+      "after": "推定年間費用削減額"
+    },
+    {
+      "sourceKey": "Annual cost avoided × 3 · constant workload and unit costs",
+      "before": "年間回避費用 × 3 · 作業量と単価は一定",
+      "after": "年間費用削減額 × 3 · 作業量と単価は一定"
+    },
+    {
+      "sourceKey": "Annual gross salary per analyst. Default €30,000/year; employer contributions and benefits are excluded. Preparation time is valued from annual salary using the paid-hours assumption in Calculation method.",
+      "before": "分析担当者 1 人当たりの年間給与総額。初期値 €30,000/年。雇用主負担金と福利厚生費は除外。調製時間は「計算方法」の有給時間仮定を用い、年収から評価します。",
+      "after": "分析担当者 1 人当たりの年間給与総額です。初期値は €30,000/年で、雇用主負担金と福利厚生費は含みません。調製時間の価値は、「計算方法」の年間所定労働時間の仮定を用いて年収から算出します。"
+    },
+    {
+      "sourceKey": "Annual material cost avoided:",
+      "before": "年間回避材料費：",
+      "after": "年間材料費削減額："
+    },
+    {
+      "sourceKey": "Applicability, permit conditions and implementation dates require site-specific review. The supplied slide also identifies proposed legislative changes; proposed dates are not presented here as enacted requirements.",
+      "before": "適用範囲、許可条件、実施日は拠点別の確認が必要です。提供されたスライドには法改正案も含まれており、提案日程を施行済み要件として示してはいません。",
+      "after": "適用範囲、許可条件、実施時期は拠点ごとに確認する必要があります。提供されたスライドには法改正案も含まれますが、提案段階の日程を施行済みの要件として示してはいません。"
+    },
+    {
+      "sourceKey": "Approved scope, source records, baseline, measured outcomes and accountable benefit owners.",
+      "before": "承認範囲、原記録、基準値、実測結果、責任を持つ便益管理者。",
+      "after": "承認済みの範囲、原記録、基準値、実測結果、各便益に責任を持つ担当者。"
+    },
+    {
+      "sourceKey": "Assess equipment service, consumables, spares and the ability to return to the approved fresh-mobile-phase workflow. Include these dependencies in the continuity plan.",
+      "before": "設備サービス、消耗品、予備品、承認済みの新しい移動相の手順に戻せる能力を評価し、これらの依存要素を継続計画に含めてください。",
+      "after": "装置の保守、消耗品、予備品、および新しい移動相を使用する承認済みの手順に戻せるかを評価してください。これらの要件を事業継続計画に含めてください。"
+    },
+    {
+      "sourceKey": "Audit extracts, change control and site review. Agree actual responsibilities within your organisation.",
+      "before": "監査抜粋、変更管理、拠点レビュー。組織内で実際の責任分担を合意してください。",
+      "after": "監査証跡の抜粋、変更管理、拠点でのレビュー。組織内の実際の責任分担について合意してください。"
+    },
+    {
+      "sourceKey": "Audit finish",
+      "before": "監査終了",
+      "after": "監査証跡上の測定終了"
+    },
+    {
+      "sourceKey": "Audit start",
+      "before": "監査開始",
+      "after": "監査証跡上の測定開始"
+    },
+    {
+      "sourceKey": "Availability can depend on markets beyond the laboratory.",
+      "before": "供給の可用性は試験室外の市場にも左右されます。",
+      "after": "供給状況は、試験室以外の市場動向にも左右されます。"
+    },
+    {
+      "sourceKey": "Both lines start after the upfront equipment and installation payment. Cash payback assumes savings accrue evenly through the year. NPV uses year-end cash flows discounted at 10%; segments join the annual valuation points. Staff capacity value is excluded from cash returns.",
+      "before": "両曲線は、設備・設置の初期支払い後から始まります。現金回収では年間を通じて均等に削減が生じると仮定します。NPV は年末キャッシュフローを 10% で割り引き、線分で各年の評価点を結びます。人員余力の価値は現金リターンから除外します。",
+      "after": "両曲線は、設備・設置の初期費用を支払った後の値から始まります。投資回収期間は、年間を通じて均等に削減効果が生じると仮定します。NPV は、選択した割引率（初期値 10%）で年末キャッシュフローを割り引き、各年の評価点を線分で結びます。人員の余力の価値は、現金リターンには含めません。"
+    },
+    {
+      "sourceKey": "Bring a candidate isocratic method, its mobile-phase composition and your existing acceptance criteria. Use these to agree the fresh-versus-recycled comparison and the records your team needs for its assessment.",
+      "before": "候補となるアイソクラティック分析法、移動相組成、既存の判定基準をご用意ください。新しい移動相と再利用移動相の比較方法、および評価に必要な記録を合意するために使用します。",
+      "after": "候補となるアイソクラティック分析法、移動相組成、既存の判定基準をご用意ください。これらを基に、新しい移動相と再利用移動相の比較方法、および評価に必要な記録について合意します。"
+    },
+    {
+      "sourceKey": "Build a case with your own workload and costs",
+      "before": "ご自身の作業量と費用で導入根拠を構築",
+      "after": "お客様の業務量と費用で導入の事業性を評価"
+    },
+    {
+      "sourceKey": "Build one business case, together.",
+      "before": "共通の事業性評価を一緒に構築。",
+      "after": "共通の事業性評価を、一緒に。"
+    },
+    {
+      "sourceKey": "Build resilience as supply chains become harder to predict",
+      "before": "予測が難しくなるサプライチェーンへの耐性を高める",
+      "after": "サプライチェーンの不確実性に備える"
+    },
+    {
+      "sourceKey": "Build resilience with clear operating controls",
+      "before": "明確な運用管理で耐性を高める",
+      "after": "明確な運用管理で供給リスクに備える"
+    },
+    {
+      "sourceKey": "Build your business case",
+      "before": "事業性評価を構築",
+      "after": "導入の事業性を評価"
+    },
+    {
+      "sourceKey": "CO₂ reduction",
+      "before": "CO₂ 削減",
+      "after": "推定 CO₂e 削減量"
+    },
+    {
+      "sourceKey": "CO₂:",
+      "before": "CO₂：",
+      "after": "推定 CO₂e："
+    },
+    {
+      "sourceKey": "Calculated reuse",
+      "before": "計算再利用量",
+      "after": "算出された再利用量"
+    },
+    {
+      "sourceKey": "Capacity and process-performance review; retain time-study evidence.",
+      "before": "余力とプロセス性能を確認し、時間調査の根拠を保持してください。",
+      "after": "業務の余力とプロセス性能を確認し、作業時間調査の根拠を保持してください。"
+    },
+    {
+      "sourceKey": "Capacity released, avoided spend and inventory released are distinct benefits. Do not add them together without checking their financial treatment.",
+      "before": "解放された余力、回避支出、削減在庫は別個の便益です。財務上の取扱いを確認せずに合算しないでください。",
+      "after": "創出される業務の余力、支出の削減、在庫の削減は、それぞれ別の便益です。財務上の扱いを確認せずに合算しないでください。"
+    },
+    {
+      "sourceKey": "Capacity value released:",
+      "before": "解放された余力の価値：",
+      "after": "創出される業務の余力の価値："
+    },
+    {
+      "sourceKey": "Combined, when equal litres are prevented",
+      "before": "抑制量が同じ L 数の場合の合計",
+      "after": "同じ体積の削減を仮定した場合の合計"
+    },
+    {
+      "sourceKey": "Commercial fit",
+      "before": "商業条件への適合",
+      "after": "取引条件の適合性"
+    },
+    {
+      "sourceKey": "Compare fresh input for the same acceptable analytical workload, including initial fills, top-ups and cleaning.",
+      "before": "初期充填、補充、洗浄を含め、同じ許容分析作業量に必要な新規投入を比較します。",
+      "after": "初期充填、補充、洗浄を含め、判定基準を満たす同じ分析業務量に必要な新規投入量を比較します。"
+    },
+    {
+      "sourceKey": "Complete analytical reconciliation",
+      "before": "分析上の照合を完了",
+      "after": "分析結果と原記録の照合を完了"
+    },
+    {
+      "sourceKey": "Conclusion · analytical performance maintained",
+      "before": "結論 · 分析性能を維持",
+      "after": "研究の結論 · 評価した分析法条件下で分析性能を維持"
+    },
+    {
+      "sourceKey": "Confirm eligible methods, operating schedules and site costs before establishing the value of wider deployment.",
+      "before": "広範な導入の価値を確定する前に、対象分析法、稼働スケジュール、現場費用を確認してください。",
+      "after": "導入拡大の価値を判断する前に、対象分析法、稼働スケジュール、拠点での費用を確認してください。"
+    },
+    {
+      "sourceKey": "Confirm method suitability and site costs, measure analyst time released, then prioritise deployment where the combined operational and financial value is strongest.",
+      "before": "分析法適合性と現場費用を確認し、解放される分析担当者の時間を測定して、運用・財務の総合価値が最も高い導入を優先します。",
+      "after": "分析法の適合性と拠点での費用を確認し、他業務に使える分析担当者の時間を測定します。そのうえで、運用面と財務面を合わせた価値が最も高い拠点から導入を優先します。"
+    },
+    {
+      "sourceKey": "Confirm service, consumables, implementation and contract terms. Support the investment owner with a transparent cost base.",
+      "before": "サービス、消耗品、導入、契約条件を確認します。透明な費用基盤で投資責任者を支援します。",
+      "after": "保守、消耗品、導入、契約の条件を確認します。費用の内訳を明確にし、投資責任者の判断を支援します。"
+    },
+    {
+      "sourceKey": "Connect analytical integrity, laboratory capacity, cost, supply resilience and circularity in one evidence-led business case.",
+      "before": "分析の完全性、試験室余力、費用、供給耐性、循環性を、エビデンスに基づく一つの事業性評価につなげます。",
+      "after": "分析の信頼性、試験室の余力、費用、供給の安定性、循環利用を、エビデンスに基づく一つの事業性評価につなげます。"
+    },
+    {
+      "sourceKey": "Connect physical material flows with monetary values. Allocate material losses, system and waste-management costs before treating this as a full MFCA assessment.",
+      "before": "物理的なマテリアルフローを金額に結び付けます。完全な MFCA 評価とみなす前に、材料損失、システム費、廃棄物管理費を配分してください。",
+      "after": "物質の流れを金額に結び付けます。正式な MFCA 評価として扱う前に、材料損失、システム費用、廃棄物管理費を配分してください。"
+    },
+    {
+      "sourceKey": "Continue exploring",
+      "before": "探索を続ける",
+      "after": "さらに詳しく見る"
+    },
+    {
+      "sourceKey": "Cost avoided",
+      "before": "回避費用",
+      "after": "費用削減額"
+    },
+    {
+      "sourceKey": "Cost avoided = whole prepared mobile-phase litres avoided × prepared mobile-phase material cost per litre. ReSolve™, implementation, disposal and labour costs are excluded.",
+      "before": "回避費用 = 使用を回避した調製済み移動相全体の L 数 × 調製済み移動相の L 当たり材料費。ReSolve™、導入、処分、人件費は含みません。",
+      "after": "費用削減額 = 使用を回避した調製済み移動相全体の L 数 × 調製済み移動相の L 当たり材料費。ReSolve™ の装置費、導入費、処分費、人件費は含みません。"
+    },
+    {
+      "sourceKey": "Cumulative totals over",
+      "before": "期間内の累計",
+      "after": "累計 · 対象期間："
+    },
+    {
+      "sourceKey": "Cumulative totals through year",
+      "before": "年末までの累計",
+      "after": "累計 · 対象年："
+    },
+    {
+      "sourceKey": "Cumulative totals through year 3",
+      "before": "3 年目までの累計",
+      "after": "3 年目末までの累計"
+    },
+    {
+      "sourceKey": "Define the implementation case",
+      "before": "導入の根拠を定義",
+      "after": "導入の事業性を整理"
+    },
+    {
+      "sourceKey": "Define the number of labs and the operating schedule per HPLC. The calculator combines these inputs to calculate total usage across all labs.",
+      "before": "試験室数と HPLC 当たりの稼働スケジュールを定義します。計算器は入力を組み合わせ、全試験室の総使用量を求めます。",
+      "after": "試験室数と HPLC 当たりの稼働スケジュールを設定してください。計算ツールがこれらの入力値から、全試験室の総使用量を算出します。"
+    },
+    {
+      "sourceKey": "Different population and period from BPCI. The trends must not be combined.",
+      "before": "BPCI とは対象集団と期間が異なります。傾向を合算してはいけません。",
+      "after": "BPCI とは対象集団と期間が異なります。両者の傾向をまとめて扱わないでください。"
+    },
+    {
+      "sourceKey": "Disposal cost avoided",
+      "before": "回避処分費",
+      "after": "処分費削減額"
+    },
+    {
+      "sourceKey": "Divert the peaks.",
+      "before": "ピークを廃液へ。",
+      "after": "ピーク画分を廃液側へ送る。"
+    },
+    {
+      "sourceKey": "Download the source summary ↓ PDF",
+      "before": "原集計をダウンロード ↓ PDF",
+      "after": "元の集計レポートをダウンロード ↓ PDF"
+    },
+    {
+      "sourceKey": "ELIGIBLE BASELINE FLOW → RETURN FOR REUSE",
+      "before": "対象ベースライン流 → 戻して再利用",
+      "after": "再利用に適したベースライン流 → 戻して再利用"
+    },
+    {
+      "sourceKey": "Each bar shows the cumulative total from the start. Gross material cost avoided uses the whole prepared mobile phase; equipment and implementation costs are not deducted. Carbon uses the agreed mobile-phase factors: 3.69 kg CO₂e/L for production and 1.57 kg CO₂e/L for disposal. Transportation is excluded.",
+      "before": "各棒は開始時点からの累積合計を示します。回避材料費総額は調製済み移動相全体に基づき、設備・導入費を差し引いていません。炭素計算には合意済み移動相係数、製造 3.69 kg CO₂e/L、処分 1.57 kg CO₂e/L を使用します。輸送は除外します。",
+      "after": "各棒は開始時点からの累積合計を示します。材料費削減総額は調製済み移動相全体に基づき、設備・導入費を差し引いていません。炭素計算には合意済み移動相係数、製造 3.69 kg CO₂e/L、処分 1.57 kg CO₂e/L を使用します。輸送は除外します。"
+    },
+    {
+      "sourceKey": "Eligible baseline flow → reservoir",
+      "before": "対象ベースライン流 → リザーバー",
+      "after": "再利用に適したベースライン流 → リザーバー"
+    },
+    {
+      "sourceKey": "End of year",
+      "before": "年末",
+      "after": "年末時点 · 対象年："
+    },
+    {
+      "sourceKey": "Enter annual salary to value released time.",
+      "before": "解放される時間の価値を計算するには年収を入力してください。",
+      "after": "他業務に使える時間の価値を算出するには、年収を入力してください。"
+    },
+    {
+      "sourceKey": "Enter euros for one litre of the complete mixture, including solvent, water and buffer materials. Exclude staff time and disposal; those are entered separately.",
+      "before": "溶媒、水、緩衝液材料を含む混合液全体 1 L のユーロ材料費を入力します。人員時間と処分費は別入力のため除外してください。",
+      "after": "溶媒、水、緩衝液の材料費を含む、混合液全体 1 L 当たりの費用をユーロで入力してください。作業時間と処分費は別途入力するため、ここには含めません。"
+    },
+    {
+      "sourceKey": "Enter preparation costs and people time, then your laboratory workload and disposal costs.",
+      "before": "調製費と人員時間を入力してから、試験室作業量と処分費を入力してください。",
+      "after": "調製費と作業時間を入力してから、試験室の業務量と処分費を入力してください。"
+    },
+    {
+      "sourceKey": "Enter preparation person-hours in Mobile Phase Preparation to see the people impact.",
+      "before": "人員への効果を見るには、「移動相調製」に調製人時を入力してください。",
+      "after": "作業時間への影響を見るには、「移動相の調製」に調製作業の人時を入力してください。"
+    },
+    {
+      "sourceKey": "Enter the number of labs, systems per lab and operating details to estimate prepared mobile-phase material cost avoided. Then explore the value for each persona.",
+      "before": "試験室数、試験室当たりシステム数、運用条件を入力し、調製済み移動相の回避材料費を推計します。各部門にとっての価値もご確認ください。",
+      "after": "試験室数、試験室当たりシステム数、運用条件を入力し、調製済み移動相の材料費削減額を推計します。各部門にとっての価値もご確認ください。"
+    },
+    {
+      "sourceKey": "Enter total hands-on preparation time per lab, across all people and systems. Include weighing, mixing, filtering, degassing and bottle changes; exclude unattended waiting time.",
+      "before": "各試験室の全人員・全システムにおける調製実作業時間の合計を入力します。秤量、混合、ろ過、脱気、ボトル交換を含め、無人の待ち時間は除外してください。",
+      "after": "各試験室の全担当者・全システムにおける調製の実作業時間を合計して入力してください。秤量、混合、ろ過、脱気、ボトル交換を含め、担当者が作業を行わない待ち時間は除外します。"
+    },
+    {
+      "sourceKey": "Enter your current preparation hours and annual salary here. The preparation-time saving is applied below, under “What changes with ReSolve™”.",
+      "before": "現在の調製時間と年収を入力してください。調製時間の削減率は、下の「ReSolve™ による変化」で適用します。",
+      "after": "現在の調製時間と年収を入力してください。調製時間の削減率は、下の「試験室で変わること」で適用します。"
+    },
+    {
+      "sourceKey": "Estimate production and waste-treatment emissions separately from the litres prevented.",
+      "before": "製造と廃液処理の排出を、抑制した L 数とは別に推計します。",
+      "after": "削減した体積を基に、製造と廃液処理に由来する排出量をそれぞれ推計します。"
+    },
+    {
+      "sourceKey": "Evidence for sustainability",
+      "before": "持続可能性を裏付けるエビデンス",
+      "after": "持続可能性への取り組みを裏付けるエビデンス"
+    },
+    {
+      "sourceKey": "Example opportunity—subject to validation at each site. The fixed example uses an 80% reduction assumption; 80%+ is not a measured purchasing result. Associated carbon estimates use supplied factors pending verification.",
+      "before": "各拠点での検証を要する機会の例。固定例は 80% 削減を仮定し、80%+ は実測購買結果ではありません。関連する炭素推計には、検証待ちの提供係数を用います。",
+      "after": "この固定例では、新しい移動相の需要と廃液の純削減率を 80% と仮定しています。これは計画上の仮定であり、購買実績の測定結果ではありません。関連する炭素排出量の推計には提供された係数を使用しており、係数の検証が必要です。"
+    },
+    {
+      "sourceKey": "Existing example assumption, not measured. If baseline preparation takes H hours, potential time released is 0.3 × H. No absolute hours or labour saving claimed without a time study.",
+      "before": "既存の例示仮定であり実測ではありません。基準調製に H 時間かかる場合、解放できる時間は 0.3 × H です。時間調査なしに絶対時間や人件費削減を主張しません。",
+      "after": "例示の仮定であり、実測結果ではありません。基準となる調製時間が H 時間の場合、他業務に使える時間は 0.3 × H です。作業時間調査を行わずに、具体的な時間や人件費の削減を示すものではありません。"
+    },
+    {
+      "sourceKey": "Explore ReSolve from your perspective.",
+      "before": "ご自身の視点から ReSolve を探索。",
+      "after": "ご担当分野から ReSolve を見る。"
+    },
+    {
+      "sourceKey": "Explore ReSolve in your language",
+      "before": "ご希望の言語で ReSolve を探索",
+      "after": "ご希望の言語で ReSolve を見る"
+    },
+    {
+      "sourceKey": "Explore ReSolve mobile-phase reuse for isocratic HPLC methods: laboratory capacity, hazardous-waste prevention, research and your business case.",
+      "before": "アイソクラティック HPLC の移動相再利用を探索：試験室余力、有害廃液発生抑制、研究、事業性評価。",
+      "after": "アイソクラティック HPLC 分析法における ReSolve の移動相再利用をご紹介します。試験室の余力、有害廃液の発生抑制、研究資料、導入の事業性をご確認ください。"
+    },
+    {
+      "sourceKey": "Explore ReSolve™ for your laboratory",
+      "before": "試験室向け ReSolve™ を探索",
+      "after": "試験室での ReSolve™ 活用を検討"
+    },
+    {
+      "sourceKey": "Explore four evaluation reports, including the independent SETU study and anonymised client records.",
+      "before": "独立 SETU 研究と匿名化顧客記録を含む、4 件の評価レポートを確認できます。",
+      "after": "独立した SETU の研究と匿名化した顧客記録を含む、4 件の評価レポートをご確認ください。"
+    },
+    {
+      "sourceKey": "Explore the recorded results and supporting evidence from four evaluations.",
+      "before": "4 件の評価における記録結果と裏付けエビデンスを探索します。",
+      "after": "4 件の評価で記録された結果と、その裏付けとなるエビデンスをご確認ください。"
+    },
+    {
+      "sourceKey": "FROM SIGNAL TO REVIEWABLE RECORDS",
+      "before": "信号からレビュー可能な記録へ",
+      "after": "信号から、確認・評価できる記録へ"
+    },
+    {
+      "sourceKey": "Factors supplied and locked for this model on 20 October 2026; supporting source documentation to be confirmed.",
+      "before": "このモデルの係数は 2026 年 10 月 20 日に提供・固定されました。裏付け出典文書は確認予定です。",
+      "after": "このモデルの係数は 2026 年 10 月 20 日に提供され、固定されています。根拠となる出典文書は今後確認が必要です。"
+    },
+    {
+      "sourceKey": "Fixed planning assumptions applied to your laboratory baseline. Actual improvements require site validation. Staff capacity value is shown separately from cash savings.",
+      "before": "固定の計画仮定を試験室の基準に適用します。実際の改善には現場検証が必要です。人員余力の価値は現金削減額と別に表示します。",
+      "after": "固定の計画仮定を試験室の基準に適用します。実際の改善には現場検証が必要です。人員の余力の価値は現金削減額と別に表示します。"
+    },
+    {
+      "sourceKey": "For a separate estimate of material, disposal and carbon savings,",
+      "before": "材料費、処分費、炭素の削減を別途推計するには、",
+      "after": "材料費・処分費・炭素排出の削減を別途試算するには、"
+    },
+    {
+      "sourceKey": "For laboratories dependent on internationally sourced solvents, these pressures can translate into delayed deliveries, urgent purchasing and greater pressure on safety stocks. The exposure depends on the solvent, supplier and transport route.",
+      "before": "海外調達溶媒に依存する試験室では、これらの圧力が納入遅延、緊急購買、安全在庫への圧力につながります。影響は溶媒、供給元、輸送ルートにより異なります。",
+      "after": "海外から調達する溶媒に依存する試験室では、こうした要因が納入遅延、緊急発注、安全在庫への負担につながる可能性があります。影響は溶媒、供給元、輸送ルートによって異なります。"
+    },
+    {
+      "sourceKey": "Fresh input and hazardous waste per accepted workload, including top-ups, cleaning and final disposal.",
+      "before": "許容作業量当たりの新規投入量と有害廃液。補充、洗浄、最終処分を含みます。",
+      "after": "判定基準を満たす分析業務量当たりの新規投入量と有害廃液量。補充、洗浄、最終処分を含みます。"
+    },
+    {
+      "sourceKey": "Fresh source vial",
+      "before": "新しい移動相の元バイアル",
+      "after": "新しい移動相を用いた試料の元バイアル"
+    },
+    {
+      "sourceKey": "Fresh-input balance, recipe, invoices and operating costs. Count the shared saving once.",
+      "before": "新規投入収支、配合、請求書、運用費。共有の削減額は一度だけ計上します。",
+      "after": "新規投入の収支、配合、請求書、運用費。部門間で共通する削減額は一度だけ計上します。"
+    },
+    {
+      "sourceKey": "Geopolitical tensions, conflict, changing trade policies and disruption to major shipping routes are making global supply chains more uncertain. Rerouting, volatile freight costs and unpredictable lead times make replenishment harder to plan.",
+      "before": "地政学的緊張、紛争、貿易政策の変化、主要航路の混乱により、世界の供給網の不確実性が増しています。迂回、運賃変動、予測困難な納期が補充計画を難しくします。",
+      "after": "地政学的緊張、紛争、貿易政策の変化、主要航路の混乱は、補充計画を難しくする可能性があります。お客様の供給網、輸送ルート、在庫方針に照らして、影響の程度を評価してください。"
+    },
+    {
+      "sourceKey": "Give the investment decision a shared, reviewable evidence base.",
+      "before": "投資判断に、共有・レビュー可能なエビデンス基盤を。",
+      "after": "投資判断に、関係者が共有して評価できるエビデンスを。"
+    },
+    {
+      "sourceKey": "HPLC systems included per lab · systems/lab",
+      "before": "対象 HPLC システム数 · システム/試験室",
+      "after": "試験室当たりの対象 HPLC システム数 · システム/試験室"
+    },
+    {
+      "sourceKey": "Hazardous waste prevented",
+      "before": "抑制した有害廃液",
+      "after": "推定有害廃液発生抑制量"
+    },
+    {
+      "sourceKey": "Headline figures use the printed report totals. Individual rows total 1,111.013 mL recycled and 63.531 mL waste; the small source discrepancy is retained. These are recorded flow volumes, not net annual savings.",
+      "before": "主要数値は印刷レポートの合計値を使用します。各行の合計は再利用 1,111.013 mL、廃液 63.531 mL で、原資料の小さな差異を保持しています。記録された流量であり、年間純削減ではありません。",
+      "after": "主要数値には印刷レポートの合計値を使用します。各行の合計は再利用 1,111.013 mL、廃液 63.531 mL で、原資料の小さな不一致をそのまま保持しています。これらは記録された流体の体積であり、年間の純削減量ではありません。"
+    },
+    {
+      "sourceKey": "Hover a point for the sample number, source vial number and measured value. The vertical axis adjusts to the observed range; it is not an acceptance-limit band. Values retain the precision reported in the appendix.",
+      "before": "点にポインターを合わせると試料番号、元バイアル番号、測定値を確認できます。縦軸は観測範囲に合わせて変わり、判定限度の帯ではありません。付録に報告された精度を保持しています。",
+      "after": "点にポインターを合わせると、試料番号、元バイアル番号、測定値を確認できます。縦軸は観測範囲に応じて変わり、判定限度の範囲を示すものではありません。数値の表示桁数は付録の報告どおりです。"
+    },
+    {
+      "sourceKey": "ISO 14001 environmental objectives and ISO 14051 material balances.",
+      "before": "ISO 14001 の環境目標と ISO 14051 の物料収支。",
+      "after": "ISO 14001 の環境目標と ISO 14051 の物質収支。"
+    },
+    {
+      "sourceKey": "Ibuprofen symmetry",
+      "before": "イブプロフェンの対称性",
+      "after": "イブプロフェンのピーク対称性"
+    },
+    {
+      "sourceKey": "Illustrative flow path. ReSolve selects flow for reuse; it does not purify it.",
+      "before": "流路の例。ReSolve は再利用する流れを選択し、精製は行いません。",
+      "after": "流路の模式図です。ReSolve は再利用する流れを選択する装置であり、精製は行いません。"
+    },
+    {
+      "sourceKey": "Include QC and QA from the start.",
+      "before": "最初から QC・QA を参画させる。",
+      "after": "初期段階から QC・QA と連携。"
+    },
+    {
+      "sourceKey": "Include rejected fractions, top-ups, cleaning and final reservoir disposal in the result.",
+      "before": "除外画分、補充、洗浄、最終的なリザーバー廃液処分を結果に含めます。",
+      "after": "廃液側へ送る画分、補充、洗浄、使用終了時にリザーバーに残る液の処分を結果に含めます。"
+    },
+    {
+      "sourceKey": "Keep suitable mobile phase in productive use and prevent waste at its source.",
+      "before": "適切な移動相を有効利用し続け、発生源で廃液を抑制。",
+      "after": "適切な移動相を有効に使い続け、発生源で廃液を抑制。"
+    },
+    {
+      "sourceKey": "Keep the method in control",
+      "before": "分析法を管理下に",
+      "after": "分析法の管理を維持"
+    },
+    {
+      "sourceKey": "Less fresh mobile phase connects laboratory capacity, purchasing cost, supply resilience and sustainability. Analytical integrity and traceable records underpin the business case.",
+      "before": "新しい移動相の削減は、試験室余力、購買費用、供給耐性、持続可能性をつなぎます。分析の完全性と追跡可能な記録が事業性評価の基盤です。",
+      "after": "新しい移動相の需要を減らすことは、試験室の余力、購買費用、供給の安定性、持続可能性につながります。分析の信頼性と追跡可能な記録が、事業性評価の基盤となります。"
+    },
+    {
+      "sourceKey": "Less fresh-solvent demand. Less exposure to price and supply pressure.",
+      "before": "新しい溶媒の需要を削減。価格と供給圧力への影響を抑制。",
+      "after": "新しい溶媒の需要を減らし、価格変動や供給不安の影響を抑える。"
+    },
+    {
+      "sourceKey": "Less mobile-phase preparation and replenishment can free analysts for testing, investigations and method development, increasing available laboratory capacity. Confirm the time released against your current workflow.",
+      "before": "移動相の調製と補充を減らすことで、分析担当者を試験、調査、分析法開発に振り向け、試験室の利用可能な能力を高められます。現在の手順に対して解放される時間を確認してください。",
+      "after": "移動相の調製と補充を減らすことで、分析担当者が試験、調査、分析法開発に使える時間を確保し、試験室の余力を高められる可能性があります。現在のワークフローと比較して、確保できる時間を確認してください。"
+    },
+    {
+      "sourceKey": "Longer uninterrupted sequences",
+      "before": "中断のない長いシーケンス",
+      "after": "中断せずに実施できる、より長い分析シーケンス"
+    },
+    {
+      "sourceKey": "Lower material demand can reduce purchasing exposure, ease replenishment pressure and free preparation time. The value spans sustainability, supply chain, procurement and laboratory operations.",
+      "before": "材料需要の低下は、購買リスクと補充圧力を抑え、調製時間を解放します。価値は持続可能性、供給網、購買、試験室運用に及びます。",
+      "after": "材料需要を減らすことで、購買リスクや補充への負担を抑え、他業務に使える時間を確保できる可能性があります。その価値は、持続可能性、サプライチェーン、購買、試験室運用に及びます。"
+    },
+    {
+      "sourceKey": "MANAGE THE REMAINDER",
+      "before": "残余を管理",
+      "after": "残る廃棄物を管理"
+    },
+    {
+      "sourceKey": "Maintain analytical results and process integrity as mobile phase is recycled.",
+      "before": "移動相の再利用中も分析結果とプロセスの完全性を維持します。",
+      "after": "移動相を再利用する際の分析性能とプロセス管理を評価します。"
+    },
+    {
+      "sourceKey": "Maintain your analytical standards while reducing fresh mobile-phase preparation.",
+      "before": "新しい移動相の調製を減らしながら、分析基準を維持。",
+      "after": "分析要件に照らして、移動相の再利用を評価。"
+    },
+    {
+      "sourceKey": "Matched-workload time study and laboratory schedules. Released time is not automatically a cash saving.",
+      "before": "作業量をそろえた時間調査と試験室スケジュール。解放時間は自動的に現金削減にはなりません。",
+      "after": "同じ業務量での作業時間調査と試験室のスケジュール。他業務に使える時間が増えても、そのまま現金支出の削減になるとは限りません。"
+    },
+    {
+      "sourceKey": "Matches injection 9 filename; differs by one second from the summary display.",
+      "before": "注入 9 のファイル名と一致。集計表示とは 1 秒異なります。",
+      "after": "注入 9 のファイル名と一致しますが、集計レポートに表示された開始時刻とは 1 秒異なります。"
+    },
+    {
+      "sourceKey": "Matches the summary start time for injection 1.",
+      "before": "注入 1 の集計開始時刻と一致。",
+      "after": "注入 1 の集計レポートに表示された開始時刻と一致します。"
+    },
+    {
+      "sourceKey": "Material + disposal cost avoided",
+      "before": "回避材料費 + 処分費",
+      "after": "材料費・処分費の削減額"
+    },
+    {
+      "sourceKey": "Material and disposal savings shown separately from the value of staff capacity released. Capacity is not an additional cash saving unless staffing costs are actually avoided.",
+      "before": "材料費・処分費の削減は、解放される人員余力の価値と別に表示します。人員費用を実際に回避しない限り、余力は追加の現金削減ではありません。",
+      "after": "材料費・処分費の削減額は、創出される人員の余力の価値とは別に表示します。人件費を実際に削減できる場合を除き、余力の創出は追加の現金支出削減にはなりません。"
+    },
+    {
+      "sourceKey": "Material balance and waste-transfer records. Recycled throughput is not net waste prevention.",
+      "before": "物料収支と廃液移送記録。再利用通液量は廃液の純発生抑制量ではありません。",
+      "after": "物質収支と廃液移送記録。再利用した通液量は、廃液の純削減量とは異なります。"
+    },
+    {
+      "sourceKey": "Material cost avoided",
+      "before": "回避材料費",
+      "after": "材料費削減額"
+    },
+    {
+      "sourceKey": "Material cost avoided ·",
+      "before": "回避材料費 ·",
+      "after": "材料費削減額 ·"
+    },
+    {
+      "sourceKey": "Material purchasing avoided",
+      "before": "回避した材料購買",
+      "after": "材料の購入削減量"
+    },
+    {
+      "sourceKey": "Materials + people",
+      "before": "材料 + 人員",
+      "after": "材料費 + 作業時間"
+    },
+    {
+      "sourceKey": "Measured diverted fraction; not a net prevention claim",
+      "before": "実測分流画分。純発生抑制を主張するものではありません",
+      "after": "実測した廃液側への分流量。純削減量を示すものではありません"
+    },
+    {
+      "sourceKey": "More analyst time available for other work.",
+      "before": "他の作業に使える分析担当者の時間を増やす。",
+      "after": "分析担当者が他の業務に使える時間を確保。"
+    },
+    {
+      "sourceKey": "More time for higher-value analytical work",
+      "before": "より高価値の分析作業に使える時間を増やす",
+      "after": "より付加価値の高い分析業務に使える時間を確保"
+    },
+    {
+      "sourceKey": "Net fresh litres avoided × actual ingredient cost; subtract implementation and ongoing costs for ROI.",
+      "before": "純回避新規量（L）× 実際の成分費用。ROI では導入費と継続費用を差し引きます。",
+      "after": "新規投入の純削減量（L）× 実際の成分費用。ROI の算出では、導入費と継続費用を差し引きます。"
+    },
+    {
+      "sourceKey": "No difference in baseline noise/stability was observed. LC/MS found neither analyte in the recycled phase; the source reports waste-phase concentrations of 1,440 ng/mL paracetamol and 530 ng/mL ibuprofen.",
+      "before": "ベースラインノイズ・安定性に差は観察されませんでした。LC/MS で再利用移動相から両分析対象成分は検出されず、原資料では廃液中パラセタモール 1,440 ng/mL、イブプロフェン 530 ng/mL と報告されています。",
+      "after": "評価した分析法では、ベースラインノイズや安定性に差は観察されませんでした。LC/MS では再利用移動相からパラセタモールもイブプロフェンも検出されませんでしたが、レポートに検出限界は示されていません。原資料には、廃液中の濃度としてパラセタモール 1,440 ng/mL、イブプロフェン 530 ng/mL が報告されています。"
+    },
+    {
+      "sourceKey": "No people-time benefit assumed until hours are entered.",
+      "before": "時間を入力するまで人員時間の便益は仮定しません。",
+      "after": "時間を入力するまでは、作業時間の削減による便益を計上しません。"
+    },
+    {
+      "sourceKey": "Obtain the drug-specific chromatograms, acceptance criteria and fresh-versus-recycled results.",
+      "before": "薬物別のクロマトグラム、判定基準、新規・再利用移動相の結果を入手してください。",
+      "after": "薬物ごとのクロマトグラム、判定基準、および新しい移動相と再利用移動相の比較結果を入手してください。"
+    },
+    {
+      "sourceKey": "One fixed example laboratory, using the same planning assumptions as the persona pages. These are calculated opportunities, not measured customer outcomes.",
+      "before": "各部門ページと同じ計画仮定を用いる、固定の試験室例。算定した機会であり、実測顧客成果ではありません。",
+      "after": "各部門のページと同じ計画仮定を用いた、固定の試験室例です。これらは計算上の可能性を示すものであり、顧客の実測結果ではありません。"
+    },
+    {
+      "sourceKey": "One laboratory · measurable prevention over time",
+      "before": "一つの試験室 · 時間とともに測定可能な発生抑制",
+      "after": "一つの試験室 · 時間経過に伴う発生抑制をモデル化"
+    },
+    {
+      "sourceKey": "Original recorded trace, including sensor, peak and waste-event legend. This individual operational record is separate from the SETU fresh-versus-recycled comparison.",
+      "before": "センサー、ピーク、廃液イベントの凡例を含む原記録トレース。この個別運用記録は、SETU の新規・再利用比較とは別です。",
+      "after": "センサー、ピーク、廃液イベントの凡例を含む原記録のトレースです。この個別の運用記録は、SETU による新しい移動相と再利用移動相の比較とは別の資料です。"
+    },
+    {
+      "sourceKey": "Original reported precision retained. Volumes describe recorded flow through the system.",
+      "before": "原報告の精度を保持。体積はシステム内の記録流量を表します。",
+      "after": "数値の表示桁数は原資料の報告どおりです。体積は、システムを通過した流体の記録値を示します。"
+    },
+    {
+      "sourceKey": "Paracetamol symmetry",
+      "before": "パラセタモールの対称性",
+      "after": "パラセタモールのピーク対称性"
+    },
+    {
+      "sourceKey": "People time released",
+      "before": "解放される人員時間",
+      "after": "他業務に活用できる作業時間"
+    },
+    {
+      "sourceKey": "People time · mobile-phase preparation",
+      "before": "人員時間 · 移動相調製",
+      "after": "作業時間 · 移動相の調製"
+    },
+    {
+      "sourceKey": "People time:",
+      "before": "人員時間：",
+      "after": "作業時間："
+    },
+    {
+      "sourceKey": "Planning defaults are 80% net fresh-demand reduction and 80% net waste reduction, entered separately. Neither is a measured site result. The study’s 94.4809% routing recovery is evidence for the tested method, not the annual savings input. Repeated reuse is not an extra multiplier.",
+      "before": "計画初期値は、新しい移動相の需要純削減 80% と廃液純削減 80% を個別に入力します。どちらも現場実測結果ではありません。研究の流路回収率 94.4809% は試験分析法のエビデンスであり、年間削減の入力値ではありません。繰り返し再利用は追加の倍率ではありません。",
+      "after": "計画初期値は、新しい移動相の需要の純削減率 80% と廃液の純削減率 80% で、それぞれ個別に入力します。どちらも拠点での実測結果ではありません。研究における実測回収率 94.4809% は、試験した分析法のエビデンスであり、年間削減率の入力値ではありません。繰り返し再利用しても、追加の倍率は掛けません。"
+    },
+    {
+      "sourceKey": "Preparation capacity released · person-hours",
+      "before": "解放される調製能力 · 人時",
+      "after": "他業務に活用できる調製作業時間 · 人時"
+    },
+    {
+      "sourceKey": "Preparation hours and handling events per accepted analytical workload; time demonstrably redeployed.",
+      "before": "許容分析作業量当たりの調製時間・取扱イベント、実際に他業務へ再配分した時間。",
+      "after": "判定基準を満たす分析業務量当たりの調製時間・取扱作業回数と、他業務に振り向けたことを確認できる時間。"
+    },
+    {
+      "sourceKey": "Preparation labour value",
+      "before": "調製労務価値",
+      "after": "調製作業時間の金銭換算額"
+    },
+    {
+      "sourceKey": "Preparation labour value represents staff time valued at the entered annual salary and annual paid hours. Releasing time does not automatically reduce payroll: the cash-cost comparison includes materials and disposal only. Equipment, implementation, additional operating costs and transport are excluded. Production and treatment CO₂e use the model’s supplied factors; this is a scenario, not a verified footprint.",
+      "before": "調製労務価値は、入力した年収と年間有給時間で人員時間を評価したものです。時間の解放は自動的な給与削減ではなく、現金費用比較には材料と処分だけを含めます。設備、導入、追加運用費、輸送は除外します。製造・処理 CO₂e は提供されたモデル係数を使用します。検証済みフットプリントではなく、シナリオです。",
+      "after": "調製作業時間の金銭換算額は、入力した年収と年間所定労働時間を基に算出します。他業務に使える時間の確保が、そのまま人件費の削減になるとは限りません。現金支出の比較には材料費と処分費のみを含め、設備、導入、追加運用費、輸送は含めません。製造・処理 CO₂e はモデルに提供された係数を使用します。これはシナリオに基づく試算であり、検証済みのカーボンフットプリントではありません。"
+    },
+    {
+      "sourceKey": "Preparation people time",
+      "before": "調製人員時間",
+      "after": "調製作業時間"
+    },
+    {
+      "sourceKey": "Preparation person-hours available for other work. Uses your entered weekly hours and separate time-reduction assumption; not automatically a payroll saving.",
+      "before": "他業務に活用できる調製人時。入力した週当たり時間と別個の時間削減仮定に基づき、自動的な給与削減ではありません。",
+      "after": "他業務に活用できる調製作業時間を人時で示します。入力した週当たり時間と、別途設定する時間削減率の仮定に基づきます。人件費が自動的に削減されるわけではありません。"
+    },
+    {
+      "sourceKey": "Prepare and purchase less fresh mobile phase for the same accepted analytical workload.",
+      "before": "同じ許容分析作業量に対して、新しい移動相の調製・購買を削減します。",
+      "after": "判定基準を満たす同じ分析業務量に対して、新しい移動相の調製量・購入量を減らします。"
+    },
+    {
+      "sourceKey": "Price exposure is real. Lower demand limits the volume exposed.",
+      "before": "価格変動リスクは現実に存在します。需要削減で影響を受ける量を抑えます。",
+      "after": "需要を減らすことで、価格変動の影響を受ける量を抑えます。"
+    },
+    {
+      "sourceKey": "Prices exclude VAT. Support is €120 per month (€1,440 per year).",
+      "before": "価格は VAT 別。サポートは月額 €120（年額 €1,440）。",
+      "after": "参考価格は VAT 別です。サポートの初期値は月額 €120（年額 €1,440）です。シナリオには、お客様に適用される見積価格を使用してください。"
+    },
+    {
+      "sourceKey": "Primary = a direct benefit or decision interest. Shared = a supporting interest. This is a discussion map, not a prescribed ownership model.",
+      "before": "主要 = 直接の便益または意思決定への関心。共有 = 支援的関心。これは議論のための対応図であり、所管を規定するものではありません。",
+      "after": "主要 = 直接の便益、または意思決定への関心。共有 = 関連する支援的な関心。これは議論のための対応図であり、組織内の所管を規定するものではありません。"
+    },
+    {
+      "sourceKey": "Production CO₂e uses 3.69 kg CO₂e/L. Preparation electricity is not quantified. Quantity comes from Lab Operations below; people time comes from your preparation inputs.",
+      "before": "製造 CO₂e は 3.69 kg CO₂e/L を使用。調製の電力は未定量。量は下の「試験室運用」、人員時間は調製入力に基づきます。",
+      "after": "製造 CO₂e には 3.69 kg CO₂e/L を使用します。調製に使用する電力は定量していません。体積は下の「試験室運用」、作業時間は調製時間の入力値に基づきます。"
+    },
+    {
+      "sourceKey": "Projected financial results depend on your net material and waste reductions. The net cash, ROI and NPV rows deduct the entered equipment, installation and support costs. Gross savings rows and cumulative impact charts remain before investment costs.",
+      "before": "財務予測は材料と廃液の純削減に依存します。純キャッシュ、ROI、NPV の行では入力した設備・設置・サポート費を差し引きます。削減総額と累積効果グラフは投資費用差引前です。",
+      "after": "財務予測は、材料と廃液の純削減量に応じて変わります。純キャッシュ、ROI、NPV の行では、入力した設備、設置、サポート費を差し引きます。削減総額の行と累積効果グラフは、投資費用を差し引く前の値です。拠点固有のその他の費用は別途評価してください。"
+    },
+    {
+      "sourceKey": "Projected remaining requirement",
+      "before": "予測残余必要量",
+      "after": "予測される残りの必要量"
+    },
+    {
+      "sourceKey": "Purchasing and disposal savings are separate segments of the same total. Staff capacity value is not included.",
+      "before": "購買費と処分費の削減は同じ総額の別セグメントです。人員余力の価値は含みません。",
+      "after": "購買費と処分費の削減は同じ総額の別セグメントです。人員の余力の価値は含みません。"
+    },
+    {
+      "sourceKey": "QA · analytical integrity",
+      "before": "QA · 分析の完全性",
+      "after": "QA · 分析の信頼性"
+    },
+    {
+      "sourceKey": "Quality requirements remain part of the design: approve methods and operating boundaries through QC and QA. The supplied sector references describe broader pharmaceutical manufacturing; they do not establish performance or GMP approval for this laboratory application.",
+      "before": "品質要件は設計の一部です。QC・QA を通じて分析法と運用範囲を承認してください。提供された業界資料は広範な医薬品製造を説明しており、この試験室用途の性能や GMP 承認を確立するものではありません。",
+      "after": "品質要件を設計に組み込み、QC・QA を通じて分析法と運用範囲を承認してください。提供された業界資料は医薬品製造全体に関するものであり、この試験室用途の性能や GMP 承認を示すものではありません。"
+    },
+    {
+      "sourceKey": "ReSolve™ draws 0.4 W from the HPLC. Any electricity savings from reduced mobile-phase preparation remain to be measured.",
+      "before": "ReSolve™ は HPLC から 0.4 W を消費します。移動相調製の減少による電力削減は今後測定が必要です。",
+      "after": "製品資料によると、ReSolve™ は HPLC から 0.4 W の電力を使用します。移動相調製の減少による電力削減効果は、今後測定する必要があります。"
+    },
+    {
+      "sourceKey": "ReSolve™ recycles prepared mobile phase for reuse within isocratic HPLC workflows.",
+      "before": "ReSolve™ は調製済み移動相を循環させ、アイソクラティック HPLC ワークフロー内で再利用します。",
+      "after": "ReSolve™ は、適切なアイソクラティック HPLC ワークフロー内で、選択した調製済み移動相を戻して再利用します。"
+    },
+    {
+      "sourceKey": "ReSolve™ recycles prepared mobile phase within the isocratic HPLC workflow. The circular opportunity is to reduce fresh input and prevent hazardous waste while maintaining the analytical requirements of the method.",
+      "before": "ReSolve™ はアイソクラティック HPLC ワークフロー内で調製済み移動相を再利用します。分析法の分析要件を維持しながら、新規投入を減らし、有害廃液の発生を抑える循環利用の機会があります。",
+      "after": "ReSolve™ は、アイソクラティック HPLC ワークフロー内で調製済み移動相を再利用します。分析法の要件を満たすことを確認しながら、新規投入量と有害廃液の発生量を減らす循環利用の可能性を検討します。"
+    },
+    {
+      "sourceKey": "Record 9 has a one-second difference between the summary start and audit start.",
+      "before": "記録 9 では集計開始と監査開始に 1 秒の差があります。",
+      "after": "記録 9 では、集計レポートと監査証跡の測定開始時刻に 1 秒の差があります。"
+    },
+    {
+      "sourceKey": "Record 9: the summary displays 15:06:21; its filename and audit start event use 15:06:20. Both source values are preserved for review.",
+      "before": "記録 9：集計は 15:06:21、ファイル名と監査開始イベントは 15:06:20。レビューのため両方の原値を保持します。",
+      "after": "記録 9：集計レポートの表示は 15:06:21、ファイル名と監査証跡上の測定開始イベントは 15:06:20 です。確認のため、両方の原値を保持しています。"
+    },
+    {
+      "sourceKey": "Recover suitable flow from isocratic HPLC runs. Put it back to use, with less fresh mobile phase to prepare and less liquid waste to manage.",
+      "before": "アイソクラティック HPLC 測定の適切な流れを回収し、再利用します。新しい移動相の調製と液体廃棄物管理を削減。",
+      "after": "アイソクラティック HPLC 測定のうち、再利用に適した流れを回収して再利用します。新しい移動相の調製量と、管理が必要な廃液量を減らせる可能性があります。"
+    },
+    {
+      "sourceKey": "Recover the baseline.",
+      "before": "ベースライン流を回収。",
+      "after": "再利用に適したベースライン流を戻す。"
+    },
+    {
+      "sourceKey": "Recycled source vial",
+      "before": "再利用移動相の元バイアル",
+      "after": "再利用移動相を用いた試料の元バイアル"
+    },
+    {
+      "sourceKey": "Recycling can reduce replenishment interventions and support extended analytical runs.",
+      "before": "再利用は補充作業の介入を減らし、長時間の分析測定を支援できます。",
+      "after": "再利用によって補充作業を減らし、より長い分析シーケンスを実施できる可能性があります。"
+    },
+    {
+      "sourceKey": "Recycling figures describe recorded flow. Net waste, cost and carbon benefits depend on the operating baseline.",
+      "before": "再利用数値は記録流量を表します。廃液、費用、炭素の純便益は運用基準に依存します。",
+      "after": "再利用の数値は、記録された流体の体積を表します。廃液、費用、炭素排出の純削減量は、運用上の基準条件によって異なります。"
+    },
+    {
+      "sourceKey": "Reduce hazardous waste and CO₂ emissions. Capture the metrics across your labs.",
+      "before": "有害廃液と CO₂ 排出を削減。試験室全体の指標を把握。",
+      "after": "試験室全体で有害廃液の発生抑制を評価し、CO₂e 削減量を推計します。"
+    },
+    {
+      "sourceKey": "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.",
+      "before": "試験室の溶媒費を 80%+ 削減しながらスコープ 3 排出を低減。",
+      "after": "移動相費用の削減可能性を検討し、スコープ 3 への影響をモデル化。"
+    },
+    {
+      "sourceKey": "Reduce recurring laboratory costs, release analytical capacity and quantify waste and carbon reductions across your laboratory network.",
+      "before": "経常的な試験室費用を削減し、分析余力を生み、試験室ネットワーク全体の廃液・炭素削減を定量化。",
+      "after": "試験室ネットワーク全体の経常費用、分析担当者の余力、廃液・炭素排出量の削減可能性を検討します。"
+    },
+    {
+      "sourceKey": "Reduce repetitive preparation and handling so analysts can spend more time on higher-value work.",
+      "before": "繰り返す調製・取扱作業を減らし、分析担当者が高価値業務に使える時間を増やします。",
+      "after": "繰り返しの調製・取扱作業を減らし、分析担当者がより付加価値の高い業務に使える時間を確保します。"
+    },
+    {
+      "sourceKey": "Reported mean · fresh → recycled.",
+      "before": "報告平均 · 新しい移動相 → 再利用。",
+      "after": "報告された平均値 · 新しい移動相 → 再利用移動相。"
+    },
+    {
+      "sourceKey": "Reported recycled and waste volumes sum to 0.01 mL above the stated total; source precision is retained.",
+      "before": "報告された再利用・廃液体積の合計は総量より 0.01 mL 大きく、原資料の精度を保持しています。",
+      "after": "報告された再利用量と廃液量の合計は、記載された総量より 0.01 mL 多くなっています。数値の表示桁数は原資料の報告どおりです。"
+    },
+    {
+      "sourceKey": "Reservoir to HPLC system, then detector, then ReSolve-controlled valve. Eligible baseline flow returns to the reservoir for reuse. Detected peaks plus configured timing margin go to waste. A dashed control signal connects the detector to the valve controller.",
+      "before": "リザーバーから HPLC システム、検出器、ReSolve 制御バルブへ。対象ベースライン流はリザーバーへ戻して再利用。検出ピークと設定時間マージンは廃液へ送ります。破線の制御信号が検出器とバルブコントローラーをつなぎます。",
+      "after": "リザーバーから HPLC システム、検出器、ReSolve 制御バルブへ流れます。再利用に適したベースライン流はリザーバーへ戻します。検出したピーク画分と、設定した時間マージン内の流れは廃液側へ送ります。破線は、検出器とバルブコントローラーを結ぶ制御信号を示します。"
+    },
+    {
+      "sourceKey": "Retention time, peak area, peak shape and system suitability against agreed acceptance criteria.",
+      "before": "合意した判定基準に対する保持時間、ピーク面積、ピーク形状、システム適合性。",
+      "after": "保持時間、ピーク面積、ピーク形状、システム適合性を、合意した判定基準に照らして評価。"
+    },
+    {
+      "sourceKey": "Return eligible baseline flow within the approved method.",
+      "before": "承認済み分析法の範囲で対象ベースライン流を戻します。",
+      "after": "承認済み分析法の範囲で、再利用に適したベースライン流を戻します。"
+    },
+    {
+      "sourceKey": "Reuse eligible baseline flow within the approved method.",
+      "before": "承認済み分析法の範囲で対象ベースライン流を再利用します。",
+      "after": "承認済み分析法の範囲で、再利用に適したベースライン流を再利用します。"
+    },
+    {
+      "sourceKey": "Review relevance",
+      "before": "確認上の関連性",
+      "after": "評価との関連性"
+    },
+    {
+      "sourceKey": "Review the workflow assumptions and commercial requirements with Antech.",
+      "before": "Antech とワークフロー仮定・商業要件を確認します。",
+      "after": "Antech とワークフロー仮定・取引条件を確認します。"
+    },
+    {
+      "sourceKey": "Selected chromatography results",
+      "before": "選択したクロマトグラフィー結果",
+      "after": "主なクロマトグラフィー結果"
+    },
+    {
+      "sourceKey": "Selected event descriptions are shortened for readability. Audit-trail availability alone does not establish regulatory compliance or data-integrity controls.",
+      "before": "読みやすさのため一部イベント説明を短縮しています。監査証跡が存在するだけでは、規制遵守やデータ完全性管理は確立されません。",
+      "after": "読みやすさのため、一部のイベント説明を短縮しています。監査証跡が存在するだけでは、規制遵守やデータ完全性の管理が確保されていることを示すものではありません。"
+    },
+    {
+      "sourceKey": "Selected white-paper chromatographic results",
+      "before": "ホワイトペーパーの選択クロマトグラフィー結果",
+      "after": "ホワイトペーパーの主なクロマトグラフィー結果"
+    },
+    {
+      "sourceKey": "Send detected peak fractions and timing margins to waste.",
+      "before": "検出したピーク画分と時間マージンを廃液へ送ります。",
+      "after": "検出したピーク画分と、時間マージン内の流れを廃液側へ送ります。"
+    },
+    {
+      "sourceKey": "Send enquiry",
+      "before": "問い合わせを送信",
+      "after": "お問い合わせを送信"
+    },
+    {
+      "sourceKey": "Sequence 1 is the virgin-mobile-phase reference; Sequence 2 uses recycled mobile phase. The tables and interactive graph compare retention time, peak area and peak shape, while the volume figures show how much mobile phase was recycled or sent to waste. Each sequence contains 80 sample injections, 13 standards and 3 blanks; the interactive graph compares the 80 samples from each sequence.",
+      "before": "シーケンス 1 は新しい移動相の基準、シーケンス 2 は再利用移動相です。表とインタラクティブグラフは保持時間、ピーク面積、ピーク形状を比較し、体積図は再利用量と廃液量を示します。各シーケンスに試料注入 80 回、標準液 13 回、ブランク 3 回を含み、グラフは各シーケンスの 80 試料を比較します。",
+      "after": "シーケンス 1 は新しい移動相を使用した基準測定、シーケンス 2 は再利用移動相を使用した測定です。表とインタラクティブグラフでは保持時間、ピーク面積、ピーク形状を比較し、体積の図では再利用量と廃液量を示します。各シーケンスは試料注入 80 回、標準液注入 13 回、ブランク注入 3 回で構成され、グラフでは各シーケンスの 80 試料を比較します。"
+    },
+    {
+      "sourceKey": "Source reports duration 012.00.",
+      "before": "原資料の報告時間は 012.00。",
+      "after": "原資料に記載された所要時間は 012.00 です。"
+    },
+    {
+      "sourceKey": "Start with fresh input and waste prevented for the same acceptable analytical workload. Reuse is the means; verified net reduction is the outcome.",
+      "before": "同じ許容分析作業量で、新規投入と廃液発生抑制を確認します。再利用は手段であり、検証済み純削減が成果です。",
+      "after": "判定基準を満たす同じ分析業務量を基準に、新規投入量と廃液発生抑制量を確認します。再利用は手段であり、検証された純削減量が成果です。"
+    },
+    {
+      "sourceKey": "Summary start",
+      "before": "集計開始",
+      "after": "集計レポート上の開始時刻"
+    },
+    {
+      "sourceKey": "Target material exposure",
+      "before": "材料の価格影響を把握",
+      "after": "対象材料の供給・価格リスクを把握"
+    },
+    {
+      "sourceKey": "The accompanying audit trails record timestamped measurement events, user activity and setting changes for ReSolve™ SN 242100001.",
+      "before": "添付監査証跡は、ReSolve™ SN 242100001 のタイムスタンプ付き測定イベント、ユーザー操作、設定変更を記録しています。",
+      "after": "添付の監査証跡には、ReSolve™ SN 242100001 の測定イベント、ユーザー操作、設定変更がタイムスタンプ付きで記録されています。"
+    },
+    {
+      "sourceKey": "The amended EU Industrial Emissions Directive includes waste prevention, resource efficiency and environmental performance indicators for covered installations. Laboratory material and waste records can contribute to the site’s evidence base; installing ReSolve™ does not itself establish compliance.",
+      "before": "改正 EU 産業排出指令は、対象施設の廃棄物発生抑制、資源効率、環境性能指標を含みます。試験室の材料・廃液記録は拠点の証拠基盤に寄与しますが、ReSolve™ の設置自体が遵守を確立するものではありません。",
+      "after": "改正 EU 産業排出指令には、対象施設における廃棄物発生抑制、資源効率、環境性能指標が含まれます。試験室の材料・廃液記録は拠点での評価資料に役立ちますが、ReSolve™ を設置するだけで規制遵守が認められるわけではありません。"
+    },
+    {
+      "sourceKey": "The reported component volumes sum to 1,497.75 mL, 0.01 mL above the reported total. Source values are retained.",
+      "before": "報告された成分体積は合計 1,497.75 mL で、報告総量より 0.01 mL 多くなっています。原値を保持します。",
+      "after": "報告された内訳の体積は合計 1,497.75 mL で、報告総量より 0.01 mL 多くなっています。原資料の値をそのまま保持しています。"
+    },
+    {
+      "sourceKey": "The study reports equivalent chromatographic performance between the two sequences and no adverse impact from using the recycled mobile phase in Sequence 2.",
+      "before": "研究は両シーケンスの同等なクロマトグラフィー性能と、シーケンス 2 で再利用移動相を使用しても悪影響がないことを報告しています。",
+      "after": "評価した分析法について、研究では両シーケンスのクロマトグラフィー性能は同等であり、シーケンス 2 で再利用移動相を使用したことによる悪影響は認められなかったと報告されています。"
+    },
+    {
+      "sourceKey": "The supplied report establishes operating volumes and timestamps. Sample identity and chromatographic equivalence have not been independently reconciled. The separate chromatogram for record 89 is outside this subset.",
+      "before": "提供レポートは運用体積とタイムスタンプを示します。試料同一性とクロマトグラフィー同等性は独立に照合されていません。記録 89 の別クロマトグラムはこの部分集合の対象外です。",
+      "after": "提供レポートは、運用時の体積とタイムスタンプを示します。試料の識別情報とクロマトグラフィー性能の同等性は、独立した照合を行っていません。記録 89 の別のクロマトグラムは、この抜粋範囲の対象外です。"
+    },
+    {
+      "sourceKey": "These additional figures are transcribed from the supplied presentation; the underlying returns have not been independently reconciled here. They provide sector context and are not inputs to the ReSolve™ calculator.",
+      "before": "これらの追加数値は提供プレゼンテーションから転記し、基礎報告データはここでは独立照合していません。業界の背景であり、ReSolve™ 計算器の入力ではありません。",
+      "after": "これらの追加数値は提供プレゼンテーションから転記し、基礎報告データはここでは独立照合していません。業界の背景であり、ReSolve™ 計算ツールの入力ではありません。"
+    },
+    {
+      "sourceKey": "These are the results of a PMBrc / SETU study evaluating ReSolve™, a system that recycles mobile phase during isocratic HPLC analysis. ReSolve™ diverts the detected analyte fractions to waste and returns the remaining mobile phase to the reservoir for reuse.",
+      "before": "これは PMBrc / SETU による ReSolve™ の評価研究結果です。ReSolve™ はアイソクラティック HPLC 分析中に移動相を再利用し、検出した分析対象成分画分を廃液へ分流し、残りをリザーバーへ戻します。",
+      "after": "これは、アイソクラティック HPLC 分析中に移動相を再利用する装置 ReSolve™ を評価した、PMBrc / SETU の研究結果です。ReSolve™ は検出した分析対象成分の画分を廃液側へ送り、残りの移動相をリザーバーへ戻して再利用します。"
+    },
+    {
+      "sourceKey": "These records demonstrate recorded recycling activity and traceability. They do not, by themselves, establish analytical equivalence, complete process integrity or net waste and cost savings.",
+      "before": "これらの記録は再利用活動の記録と追跡可能性を示します。それだけで分析同等性、完全なプロセス完全性、廃液・費用の純削減を確立するものではありません。",
+      "after": "これらの記録は、移動相の再利用状況と追跡可能性を示します。ただし、記録だけで分析性能の同等性、プロセス全体の健全性、廃液・費用の純削減が確認されたことにはなりません。"
+    },
+    {
+      "sourceKey": "This is the white paper’s tested composition, separate from the commercial calculator’s example mixture.",
+      "before": "ホワイトペーパーで試験した組成であり、商業計算器の例示組成とは別です。",
+      "after": "これはホワイトペーパーで試験した組成であり、事業性評価ツールの例示組成とは異なります。"
+    },
+    {
+      "sourceKey": "This section brings together the evidence behind ReSolve™: the PMBrc / SETU comparison of virgin and recycled mobile phase, original chromatograms, and a separate 98-injection operational record.",
+      "before": "このセクションは ReSolve™ の裏付けをまとめます。PMBrc / SETU の新しい移動相・再利用移動相比較、原クロマトグラム、別の 98 回注入運用記録です。",
+      "after": "このセクションでは、ReSolve™ の裏付けとなる資料をまとめています。PMBrc / SETU による新しい移動相と再利用移動相の比較、原資料のクロマトグラム、および別の 98 回注入運用記録をご確認ください。"
+    },
+    {
+      "sourceKey": "Total hands-on time across all staff in one lab during one operating week. Two people working for one hour = 2 person-hours. Do not multiply by HPLC count; the calculator scales this by labs and operating weeks.",
+      "before": "一つの試験室の全スタッフが、一稼働週に行う実作業時間の合計。2 人が 1 時間ずつ作業すると 2 人時です。HPLC 数を掛けないでください。計算器が試験室数・稼働週数で拡大します。",
+      "after": "一つの試験室で、全担当者が稼働週に行う実作業時間の合計です。2 人がそれぞれ 1 時間作業すると、合計 2 人時です。HPLC 数は掛けないでください。計算ツールが試験室数と稼働週数に応じて換算します。"
+    },
+    {
+      "sourceKey": "Total including preparation labour value",
+      "before": "調製労務価値込みの合計",
+      "after": "調製作業時間の金銭換算額を含む合計"
+    },
+    {
+      "sourceKey": "Track fresh input and total waste against accepted analytical output, then aggregate consistently across sites.",
+      "before": "許容分析出力に対する新規投入と総廃液を記録し、拠点間で一貫した集計を行います。",
+      "after": "判定基準を満たす分析処理量に対して、新規投入量と総廃液量を記録し、拠点間で一貫した方法で集計します。"
+    },
+    {
+      "sourceKey": "Translate prevented fresh preparation into each solvent and ingredient required. Compare actual purchasing over a matched period.",
+      "before": "回避した新規調製を必要な溶媒・成分量に換算し、同一期間の実購買を比較します。",
+      "after": "削減した新規調製量を、必要な溶媒・各成分の量に換算します。条件をそろえた期間で、実際の購入量を比較してください。"
+    },
+    {
+      "sourceKey": "Turn measured prevention into a business case.",
+      "before": "実測した発生抑制を事業性評価へ。",
+      "after": "試験室の前提条件を基に、導入の事業性を評価。"
+    },
+    {
+      "sourceKey": "Two consecutive 96-injection sequences compared freshly prepared mobile phase with recycled mobile phase recovered from the first sequence. Each sequence comprised 80 samples, 13 standards and 3 blanks.",
+      "before": "連続した 2 つの 96 回注入シーケンスで、新たに調製した移動相と最初のシーケンスから回収した移動相を比較しました。各シーケンスは試料 80、標準液 13、ブランク 3 で構成されます。",
+      "after": "連続する 2 つの 96 回注入シーケンスで、新たに調製した移動相と、最初のシーケンスから回収した移動相を比較しました。各シーケンスは、試料 80 回、標準液 13 回、ブランク 3 回の注入で構成されます。"
+    },
+    {
+      "sourceKey": "Use matched acceptable analytical output as the denominator for site comparisons. Actual waste may differ from fresh input. Recycled flow is not an additional multiplier, and savings shared across personas are counted once.",
+      "before": "拠点比較では条件をそろえた許容分析出力を分母とします。実廃液は新規投入と異なる場合があります。再利用流量は追加倍率ではなく、部門間の共有削減は一度だけ計上します。",
+      "after": "拠点間の比較では、判定基準を満たし、条件をそろえた分析処理量を分母にしてください。実際の廃液量は新規投入量と異なる場合があります。再利用流量は追加の倍率として扱わず、部門間で共通する削減額は一度だけ計上します。"
+    },
+    {
+      "sourceKey": "Use your laboratory numbers, operating schedule and costs to model reduced solvent demand, cost avoided and CO₂ reduction over three years.",
+      "before": "試験室数、稼働スケジュール、費用を用い、3 年間の溶媒需要削減、回避費用、CO₂ 削減をモデル化します。",
+      "after": "試験室数、稼働スケジュール、費用を基に、3 年間の新しい移動相の需要削減量、費用削減額、推定 CO₂e 削減量をモデル化します。"
+    },
+    {
+      "sourceKey": "Validate this business case",
+      "before": "この事業性評価を検証",
+      "after": "この事業性評価を確認"
+    },
+    {
+      "sourceKey": "Validate this business case with Antech",
+      "before": "Antech とこの事業性評価を検証",
+      "after": "Antech とこの事業性評価を確認"
+    },
+    {
+      "sourceKey": "Value of preparation capacity released",
+      "before": "解放される調製能力の価値",
+      "after": "他業務に活用できる調製作業時間の価値"
+    },
+    {
+      "sourceKey": "Values reproduced from Table 3 and the discussion on pages 8-9. The report does not state detection limits for the LC/MS non-detection statement.",
+      "before": "表 3 と 8-9 ページの考察から数値を再掲。LC/MS の不検出記述について、レポートは検出限界を示していません。",
+      "after": "表 3 および 8-9 ページの考察から数値を再掲しています。LC/MS で検出されなかったとの記述について、レポートに検出限界は示されていません。"
+    },
+    {
+      "sourceKey": "Waste avoided = baseline waste × the separate net waste-reduction input. Fresh material avoided = baseline fresh demand × the net fresh-demand reduction input. The planning baseline assumes fresh demand and waste each equal eligible pump throughput before recycling. Reconcile site balances, losses and final disposal before claiming measured savings.",
+      "before": "回避廃液 = 基準廃液 × 別入力の廃液純削減率。回避新材料 = 基準新規需要 × 新規需要純削減率。計画基準は、再利用前の新規需要と廃液がそれぞれ対象送液量に等しいと仮定します。実測削減を主張する前に現場収支、損失、最終処分を照合してください。",
+      "after": "廃液削減量 = 基準廃液量 × 別途入力する廃液の純削減率。新規材料削減量 = 基準新規需要 × 新規需要の純削減率。計画上の基準では、再利用前の新規需要と廃液量が、それぞれ対象となる送液量に等しいと仮定します。実測の削減量を示す前に、拠点の物質収支、損失、最終処分を照合してください。"
+    },
+    {
+      "sourceKey": "Waste prevented",
+      "before": "発生を抑制した廃液",
+      "after": "推定廃液発生抑制量"
+    },
+    {
+      "sourceKey": "We could not send your enquiry. Please try again, or email info@antech.ie.",
+      "before": "お問い合わせを送信できませんでした。再試行するか info@antech.ie へメールしてください。",
+      "after": "お問い合わせを送信できませんでした。もう一度お試しいただくか、info@antech.ie までメールでご連絡ください。"
+    },
+    {
+      "sourceKey": "What the investment delivers",
+      "before": "投資がもたらすもの",
+      "after": "シナリオに基づく推計結果"
+    },
+    {
+      "sourceKey": "What this means for supply planning:",
+      "before": "供給計画への意味：",
+      "after": "供給計画での意味："
+    },
+    {
+      "sourceKey": "Why solvent prevention matters.",
+      "before": "溶媒の発生抑制が重要な理由。",
+      "after": "溶媒使用量の削減が重要な理由。"
+    },
+    {
+      "sourceKey": "Year",
+      "before": "年",
+      "after": "年次"
+    },
+    {
+      "sourceKey": "Year 1 investment includes equipment, installation and the first year of support. Years 2 and 3 include support only. Benefits are gross cash savings before these investment costs; staff capacity value is excluded. Values are undiscounted. The payback and NPV chart below shows the resulting net position.",
+      "before": "1 年目の投資は設備、設置、初年度サポートを含み、2・3 年目はサポートのみを含みます。便益は投資費用差引前の現金削減総額で、人員余力の価値は含みません。割引前数値です。下の回収・NPV グラフは最終的な純額を示します。",
+      "after": "1 年目の投資は設備、設置、初年度サポートを含み、2・3 年目はサポートのみを含みます。便益は投資費用差引前の現金削減総額で、人員の余力の価値は含みません。割引前数値です。下の回収・NPV グラフは最終的な純額を示します。"
+    },
+    {
+      "sourceKey": "Your laboratory already defines acceptable analytical performance. Use those requirements to assess mobile-phase reuse for each candidate method.",
+      "before": "試験室では既に許容分析性能を定義しています。その要件を用い、候補分析法ごとに移動相再利用を評価してください。",
+      "after": "お客様の試験室で定めた分析性能の判定基準を用いて、候補となる分析法ごとに移動相の再利用を評価してください。"
+    },
+    {
+      "sourceKey": "annual preparation person-hours = person-hours per lab per operating week × labs × operating weeks/year. Hours released = baseline hours × the separate preparation-time reduction. Labour cost and capacity value = the relevant person-hours ÷ annual paid hours per analyst × annual salary. Three-year values = annual values × 3. Staff capacity value is excluded from material/disposal savings, cumulative cost charts and ROI.",
+      "before": "年間調製人時 = 試験室当たり稼働週当たり人時 × 試験室数 × 年間稼働週数。解放時間 = 基準時間 × 別個の調製時間削減率。人件費・余力価値 = 対応人時 ÷ 分析担当者当たり年間有給時間 × 年収。3 年値 = 年値 × 3。人員余力価値は材料・処分費削減、累積費用図、ROI から除外します。",
+      "after": "年間調製人時 = 試験室当たり稼働週当たり人時 × 試験室数 × 年間稼働週数。他業務に使える時間 = 基準時間 × 別個の調製時間削減率。人件費・余力価値 = 対応人時 ÷ 分析担当者当たり年間所定労働時間 × 年収。3 年値 = 年値 × 3。人員の余力価値は材料・処分費削減、累積費用図、ROI から除外します。"
+    },
+    {
+      "sourceKey": "injections in two matched sequences",
+      "before": "2 つの対応シーケンスの注入",
+      "after": "条件をそろえた 2 つのシーケンスでの注入"
+    },
+    {
+      "sourceKey": "mobile phase recycled in the evaluated method",
+      "before": "評価した分析法で再利用した移動相",
+      "after": "評価した分析法で再利用された移動相"
+    },
+    {
+      "sourceKey": "phase",
+      "before": "引き続き",
+      "after": "移動相"
+    },
+    {
+      "sourceKey": "result for",
+      "before": "対象結果",
+      "after": "対象条件："
+    },
+    {
+      "sourceKey": "to model your laboratories.",
+      "before": "試験室をモデル化。",
+      "after": "お客様の試験室の条件で試算できます。"
+    },
+    {
+      "sourceKey": "units = labs × included HPLCs per lab. Initial investment = units × (equipment + installation). Annual net operating cash saving = material saving + disposal saving − annual support. Net benefit over N years = N × annual net saving − initial investment. ROI = net benefit ÷ initial investment. NPV = −initial investment + sum of annual net saving ÷ (1 + discount rate)^year. Upfront payment occurs at year 0; operating cash flows occur at each year end. Simple payback assumes evenly accruing monthly savings. Labour capacity value is excluded from cash returns.",
+      "before": "台数 = 試験室数 × 試験室当たり対象 HPLC 数。初期投資 = 台数 ×（設備 + 設置）。年間純運用キャッシュ削減 = 材料費削減 + 処分費削減 − 年間サポート。N 年純便益 = N × 年間純削減 − 初期投資。ROI = 純便益 ÷ 初期投資。NPV = −初期投資 + 各年の年間純削減 ÷（1 + 割引率）^年 の合計。初期支払いは 0 年目、運用キャッシュフローは各年末に発生。単純回収は月々均等な削減を仮定します。労務余力価値は現金リターンから除外。",
+      "after": "台数 = 試験室数 × 試験室当たり対象 HPLC 数。初期投資 = 台数 ×（設備 + 設置）。年間純運用キャッシュ削減 = 材料費削減 + 処分費削減 − 年間サポート。N 年純便益 = N × 年間純削減 − 初期投資。ROI = 純便益 ÷ 初期投資。NPV = −初期投資 + 各年の年間純削減 ÷（1 + 割引率）^年 の合計。初期支払いは 0 年目、運用キャッシュフローは各年末に発生。単純回収は月々均等な削減を仮定します。人員の余力の価値は現金リターンから除外。"
+    },
+    {
+      "sourceKey": "using your laboratory assumptions.",
+      "before": "試験室の仮定に基づきます。",
+      "after": "を選び、試験室の前提条件を入力してください。"
+    },
+    {
+      "sourceKey": "€552,960 gross material cost avoided over three years at €100/L.",
+      "before": "€100/L で 3 年間の回避材料費総額 €552,960。",
+      "after": "€100/L で 3 年間の材料費削減総額 €552,960。"
+    },
+    {
+      "sourceKey": "✓ Technical conclusion: analytical performance maintained",
+      "before": "✓ 技術的結論：分析性能を維持",
+      "after": "✓ 研究の結論：評価した分析法条件下で分析性能を維持"
+    }
+  ],
+  "sourceAlignment": {
+    "1 labs": "1 試験室",
+    "25 records paired with audit starts and finishes on 5 May 2026.": "2026 年 5 月 5 日の監査証跡にある測定開始・終了イベントと照合した、25 件の測定記録。",
+    "All 25 records are paired with audit starts and finishes. Record 9 retains a one-second difference: summary start 15:06:21; audit start 15:06:20.": "25 件すべての測定記録を、監査証跡にある測定開始・終了イベントと照合しています。記録 9 には 1 秒の差が残っています。集計レポート上の開始は 15:06:21、監査証跡上の開始は 15:06:20 です。",
+    "All labs use the same systems-per-lab count, operating schedule and per-system flow. Disposal cost avoided is calculated from prevented waste volume × disposal cost per litre. Preparation time is valued separately at your entered staff cost; it is not included in material and disposal savings. Equipment, service, consumables and implementation costs are not deducted, in the gross savings figures. The financial projection separately deducts equipment, installation and annual support to calculate net cash, ROI, payback and NPV.": "すべての試験室で、試験室当たりのシステム数、稼働スケジュール、システム当たり流量を共通とします。処分費削減額は、抑制した廃液量 × 1 L 当たり処分費で計算します。調製時間は入力した人件費を基に別途金額換算し、材料費・処分費の削減額には含めません。削減総額からは、設備、保守、消耗品、導入費を差し引いていません。財務予測では、入力した設備、設置、年間サポート費を差し引き、モデル上の純キャッシュ、ROI、投資回収期間、NPV を算出します。拠点固有のその他の費用は別途評価してください。",
+    "Annual cost avoided": "推定年間費用削減額",
+    "Both lines start after the upfront equipment and installation payment. Cash payback assumes savings accrue evenly through the year. NPV uses year-end cash flows discounted at 10%; segments join the annual valuation points. Staff capacity value is excluded from cash returns.": "両曲線は、設備・設置の初期費用を支払った後の値から始まります。投資回収期間は、年間を通じて均等に削減効果が生じると仮定します。NPV は、選択した割引率（初期値 10%）で年末キャッシュフローを割り引き、各年の評価点を線分で結びます。人員の余力の価値は、現金リターンには含めません。",
+    "CO₂ reduction": "推定 CO₂e 削減量",
+    "CO₂:": "推定 CO₂e：",
+    "Conclusion · analytical performance maintained": "研究の結論 · 評価した分析法条件下で分析性能を維持",
+    "Example opportunity—subject to validation at each site. The fixed example uses an 80% reduction assumption; 80%+ is not a measured purchasing result. Associated carbon estimates use supplied factors pending verification.": "この固定例では、新しい移動相の需要と廃液の純削減率を 80% と仮定しています。これは計画上の仮定であり、購買実績の測定結果ではありません。関連する炭素排出量の推計には提供された係数を使用しており、係数の検証が必要です。",
+    "Geopolitical tensions, conflict, changing trade policies and disruption to major shipping routes are making global supply chains more uncertain. Rerouting, volatile freight costs and unpredictable lead times make replenishment harder to plan.": "地政学的緊張、紛争、貿易政策の変化、主要航路の混乱は、補充計画を難しくする可能性があります。お客様の供給網、輸送ルート、在庫方針に照らして、影響の程度を評価してください。",
+    "Hazardous waste prevented": "推定有害廃液発生抑制量",
+    "Maintain analytical results and process integrity as mobile phase is recycled.": "移動相を再利用する際の分析性能とプロセス管理を評価します。",
+    "Maintain your analytical standards while reducing fresh mobile-phase preparation.": "分析要件に照らして、移動相の再利用を評価。",
+    "One laboratory · measurable prevention over time": "一つの試験室 · 時間経過に伴う発生抑制をモデル化",
+    "Price exposure is real. Lower demand limits the volume exposed.": "需要を減らすことで、価格変動の影響を受ける量を抑えます。",
+    "Prices exclude VAT. Support is €120 per month (€1,440 per year).": "参考価格は VAT 別です。サポートの初期値は月額 €120（年額 €1,440）です。シナリオには、お客様に適用される見積価格を使用してください。",
+    "Projected financial results depend on your net material and waste reductions. The net cash, ROI and NPV rows deduct the entered equipment, installation and support costs. Gross savings rows and cumulative impact charts remain before investment costs.": "財務予測は、材料と廃液の純削減量に応じて変わります。純キャッシュ、ROI、NPV の行では、入力した設備、設置、サポート費を差し引きます。削減総額の行と累積効果グラフは、投資費用を差し引く前の値です。拠点固有のその他の費用は別途評価してください。",
+    "ReSolve™ draws 0.4 W from the HPLC. Any electricity savings from reduced mobile-phase preparation remain to be measured.": "製品資料によると、ReSolve™ は HPLC から 0.4 W の電力を使用します。移動相調製の減少による電力削減効果は、今後測定する必要があります。",
+    "ReSolve™ recycles prepared mobile phase for reuse within isocratic HPLC workflows.": "ReSolve™ は、適切なアイソクラティック HPLC ワークフロー内で、選択した調製済み移動相を戻して再利用します。",
+    "Recover the baseline.": "再利用に適したベースライン流を戻す。",
+    "Divert the peaks.": "ピーク画分を廃液側へ送る。",
+    "Reduce hazardous waste and CO₂ emissions. Capture the metrics across your labs.": "試験室全体で有害廃液の発生抑制を評価し、CO₂e 削減量を推計します。",
+    "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.": "移動相費用の削減可能性を検討し、スコープ 3 への影響をモデル化。",
+    "Reduce recurring laboratory costs, release analytical capacity and quantify waste and carbon reductions across your laboratory network.": "試験室ネットワーク全体の経常費用、分析担当者の余力、廃液・炭素排出量の削減可能性を検討します。",
+    "Sequence 2 · 96 injections (Recycled)": "シーケンス 2 · 96 回の注入（再利用移動相）",
+    "The study reports equivalent chromatographic performance between the two sequences and no adverse impact from using the recycled mobile phase in Sequence 2.": "評価した分析法について、研究では両シーケンスのクロマトグラフィー性能は同等であり、シーケンス 2 で再利用移動相を使用したことによる悪影響は認められなかったと報告されています。",
+    "Turn measured prevention into a business case.": "試験室の前提条件を基に、導入の事業性を評価。",
+    "Use your laboratory numbers, operating schedule and costs to model reduced solvent demand, cost avoided and CO₂ reduction over three years.": "試験室数、稼働スケジュール、費用を基に、3 年間の新しい移動相の需要削減量、費用削減額、推定 CO₂e 削減量をモデル化します。",
+    "Validate this business case": "この事業性評価を確認",
+    "Validate this business case with Antech": "Antech とこの事業性評価を確認",
+    "Waste prevented": "推定廃液発生抑制量",
+    "What the investment delivers": "シナリオに基づく推計結果",
+    "✓ Technical conclusion: analytical performance maintained": "✓ 研究の結論：評価した分析法条件下で分析性能を維持",
+    "No difference in baseline noise/stability was observed. LC/MS found neither analyte in the recycled phase; the source reports waste-phase concentrations of 1,440 ng/mL paracetamol and 530 ng/mL ibuprofen.": "評価した分析法では、ベースラインノイズや安定性に差は観察されませんでした。LC/MS では再利用移動相からパラセタモールもイブプロフェンも検出されませんでしたが、レポートに検出限界は示されていません。原資料には、廃液中の濃度としてパラセタモール 1,440 ng/mL、イブプロフェン 530 ng/mL が報告されています。"
+  },
+  "hero": {
+    "prefix": "移動相を",
+    "emphasis": "もっと活用。",
+    "suffix": ""
+  },
+  "metadata": {
+    "title": "ReSolve™ | アイソクラティック HPLC の移動相再利用 | Antech",
+    "description": "適切なアイソクラティック HPLC 分析法を対象とする ReSolve™ の移動相再利用をご紹介します。分析性能のエビデンスを確認し、費用と廃液を試算して、分析法への適用評価をご相談ください。"
+  },
+  "supplemental": {
+    "REUSE": "再利用"
+  },
+  "blocks": {
+    "Recover the baseline. Divert the peaks.": {
+      "text": "再利用に適したベースライン流を戻す。{0}",
+      "slots": {
+        "0": "ピーク画分を廃液側へ送る。"
+      }
+    },
+    "See ReSolve in action.": {
+      "text": "ReSolve の動作を見る。"
+    },
+    "Two separate evidence sets answer different questions: the PMBrc / SETU study informs analytical review; the Agilent sequence and ReSolve™ records document the evaluated operation.": {
+      "text": "2 つの独立したエビデンスは、それぞれ異なる問いに答えます。{0}は分析性能の評価に役立ち、Agilent のシーケンスと ReSolve™ の記録は、評価対象となった運用の内容を示します。",
+      "slots": {
+        "0": "PMBrc / SETU の研究"
+      }
+    },
+    "Your details will be sent to Antech so we can respond to your enquiry. If the form fails, email info@antech.ie .": {
+      "text": "お問い合わせへの回答のため、入力内容を Antech に送信します。フォームから送信できない場合は、{0}までメールでご連絡ください。"
+    },
+    "Real methods. Recovery data. Chromatograms.": {
+      "text": "実際の分析法。回収データ。クロマトグラム。"
+    },
+    "See the signal. Follow the route.": {
+      "text": "信号を確認。流路をたどる。"
+    }
+  },
+  "numericExceptions": [
+    {
+      "sourceKey": "Example opportunity—subject to validation at each site. The fixed example uses an 80% reduction assumption; 80%+ is not a measured purchasing result. Associated carbon estimates use supplied factors pending verification.",
+      "before": [
+        "80",
+        "80"
+      ],
+      "after": [
+        "80"
+      ],
+      "reason": "Intentional removal of unsupported 80%+ marketing promise/repeated claim; this is not a source measurement, model input or result.",
+      "localeBefore": [
+        "80",
+        "80"
+      ],
+      "localeAfter": [
+        "80"
+      ]
+    },
+    {
+      "sourceKey": "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.",
+      "before": [
+        "80",
+        "3"
+      ],
+      "after": [
+        "3"
+      ],
+      "reason": "Intentional removal of unsupported 80%+ marketing promise/repeated claim; this is not a source measurement, model input or result.",
+      "localeBefore": [
+        "3",
+        "80"
+      ],
+      "localeAfter": [
+        "3"
+      ]
+    }
+  ],
+  "checks": {
+    "sourceKeysUnchanged": true,
+    "all1429EntriesRead": true,
+    "allEightAssembledProfilesRead": true,
+    "all35FinalEnglishAlignmentsConfirmed": true,
+    "numericTokensPreservedExceptTwoEnglishClaimRemovals": true,
+    "scientificASCIIDigitsPreserved": true,
+    "methodSpecificEvidenceSeparateFromAnnualAssumptions": true,
+    "noPurificationClaim": true,
+    "LCMSNonDetectionLimitsQualified": true,
+    "staffCapacitySeparateFromPayrollOrCashSavings": true,
+    "EURNoConversion": true,
+    "carbonFactorsAndBoundariesQualified": true,
+    "noCertificationOrRegulatoryApprovalClaim": true,
+    "sourcePDFAndVideoRemainEnglishAndLabelled": true,
+    "noBrowserControl": true,
+    "noProductionDeployment": true,
+    "exact1429SourceKeyCoverage": true,
+    "allValuesNonemptyStrings": true,
+    "allScientificDigitsASCII": true,
+    "wholeBlocksValidatedWithToolsApplyBlocks": true,
+    "originalLinksButtonsEmphasisAttributesPreserved": true,
+    "wholeBlockApplications": {
+      "See ReSolve in action.": 8,
+      "Recover the baseline. Divert the peaks.": 1,
+      "Two separate evidence sets answer different questions: the PMBrc / SETU study informs analytical review; the Agilent sequence and ReSolve™ records document the evaluated operation.": 1,
+      "Your details will be sent to Antech so we can respond to your enquiry. If the form fails, email info@antech.ie .": 1,
+      "Real methods. Recovery data. Chromatograms.": 2,
+      "See the signal. Follow the route.": 1
+    },
+    "inMemoryAssembledProfilesVerified": {
+      "view-quality": 9673,
+      "view-sustainability": 4688,
+      "view-procurement": 2386,
+      "view-supply-chain": 2498,
+      "view-value": 3296,
+      "view-research": 2744,
+      "view-across": 7326,
+      "view-reports": 726
+    }
+  },
+  "remainingReview": [
+    "AI-authored review, not certified native-language or legal/regulatory approval. Qualified Japanese analytical-chemistry review remains advisable before production.",
+    "Visual rendering and runtime calculator integration remain with the parent QA process; locale-specific number presentation is owned by the parent.",
+    "Dynamic calculator strings retain the shared English assembly order. Japanese prefixes have been adapted to labelled forms such as 年次 and 累計 · 対象年; visual/runtime QA should confirm spacing. No shared engine change was made."
+  ]
+}

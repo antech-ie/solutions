@@ -1,0 +1,612 @@
+{
+  "locale": "hi",
+  "agent": "/root/language_hi",
+  "status": "reviewed",
+  "reviewedKeys": 1429,
+  "reviewedProfiles": [
+    "quality",
+    "sustainability",
+    "procurement",
+    "supply-chain",
+    "value",
+    "research",
+    "reports",
+    "across"
+  ],
+  "reviewBasis": "Full review of all 1429 Hindi dictionary entries against authoritative English values, all eight profile contexts in the assembled preview DOM, headings, forms, reports, metadata, glossary, supplemental labels and inline sentence blocks.",
+  "changedEntries": 94,
+  "changes": [
+    {
+      "sourceKey": "% annual discounting.",
+      "before": "% वार्षिक छूट दर।",
+      "after": "% है।"
+    },
+    {
+      "sourceKey": "/L of the whole prepared mobile phase.",
+      "before": "/L पूर्ण तैयार मोबाइल फेज़।",
+      "after": "/L पूरे तैयार मोबाइल फेज़ की लागत।"
+    },
+    {
+      "sourceKey": "01 · Prevent first",
+      "before": "01 · पहले रोकथाम",
+      "after": "01 · पहले रोकथाम करें"
+    },
+    {
+      "sourceKey": "1 lab · 10 HPLCs per lab · 1 mL/min per HPLC · 16 hours/day · 5 days/week · 48 weeks/year. Same workload, recycling rate and unit cost each year; no inflation or discounting.",
+      "before": "1 प्रयोगशाला · प्रति प्रयोगशाला 10 HPLC · प्रति HPLC 1 mL/min · 16 घंटे/दिन · 5 दिन/सप्ताह · 48 सप्ताह/वर्ष। हर वर्ष समान कार्यभार, पुनर्चक्रण दर और इकाई लागत; मुद्रास्फीति या छूट लागू नहीं।",
+      "after": "1 प्रयोगशाला · प्रति प्रयोगशाला 10 HPLC · प्रति HPLC 1 mL/min · 16 घंटे/दिन · 5 दिन/सप्ताह · 48 सप्ताह/वर्ष। हर वर्ष समान कार्यभार, पुनर्चक्रण दर और इकाई लागत मानी गई है; मुद्रास्फीति या वित्तीय छूट लागू नहीं है।"
+    },
+    {
+      "sourceKey": "25 records paired with audit starts and finishes on 5 May 2026.",
+      "before": "5 मई 2026 के ऑडिट आरंभ और समाप्ति से मेल खाते 25 रिकॉर्ड।",
+      "after": "5 मई 2026 के ऑडिट ट्रेल में मापन के आरंभ और समाप्ति की घटनाओं से मिलाए गए 25 मापन रिकॉर्ड।"
+    },
+    {
+      "sourceKey": "29.09 t CO₂e over three years: production 20.40 t + treatment 8.68 t (rounded).",
+      "before": "तीन वर्षों में 29.09 t CO₂e: उत्पादन 20.40 t + उपचार 8.68 t (पूर्णांकित)।",
+      "after": "तीन वर्षों में 29.09 t CO₂e: उत्पादन 20.40 t + उपचार 8.68 t (पूर्णांकन के बाद)।"
+    },
+    {
+      "sourceKey": "5,529.6 L net waste prevented over three years; approximately 5.53 t at 1 kg/L.",
+      "before": "तीन वर्षों में शुद्ध रोका गया अपशिष्ट 5,529.6 L; 1 kg/L पर लगभग 5.53 t।",
+      "after": "तीन वर्षों में अपशिष्ट की शुद्ध रोकथाम 5,529.6 L; 1 kg/L के घनत्व पर लगभग 5.53 t।"
+    },
+    {
+      "sourceKey": "5,529.6 L net waste prevention; material-intensity measures",
+      "before": "शुद्ध अपशिष्ट रोकथाम 5,529.6 L; सामग्री तीव्रता के माप",
+      "after": "शुद्ध अपशिष्ट रोकथाम 5,529.6 L; सामग्री की खपत की तीव्रता के माप"
+    },
+    {
+      "sourceKey": "96 virgin-phase injections + 96 recycled-phase injections",
+      "before": "96 ताज़े मोबाइल फेज़ इंजेक्शन + 96 पुनर्चक्रित मोबाइल फेज़ इंजेक्शन",
+      "after": "ताज़े मोबाइल फेज़ से 96 इंजेक्शन + पुनर्चक्रित मोबाइल फेज़ से 96 इंजेक्शन"
+    },
+    {
+      "sourceKey": "All 25 records are paired with audit starts and finishes. Record 9 retains a one-second difference: summary start 15:06:21; audit start 15:06:20.",
+      "before": "सभी 25 रिकॉर्ड ऑडिट आरंभ और समाप्ति से मेल खाते हैं। रिकॉर्ड 9 में एक सेकंड का अंतर बना है: सारांश आरंभ 15:06:21; ऑडिट आरंभ 15:06:20।",
+      "after": "सभी 25 रिकॉर्ड ऑडिट ट्रेल में मापन के आरंभ और समाप्ति की घटनाओं से मिलाए गए हैं। रिकॉर्ड 9 में एक सेकंड का अंतर बना हुआ है: सारांश में आरंभ 15:06:21; ऑडिट में आरंभ 15:06:20।"
+    },
+    {
+      "sourceKey": "All labs use the same systems-per-lab count, operating schedule and per-system flow. Disposal cost avoided is calculated from prevented waste volume × disposal cost per litre. Preparation time is valued separately at your entered staff cost; it is not included in material and disposal savings. Equipment, service, consumables and implementation costs are not deducted, in the gross savings figures. The financial projection separately deducts equipment, installation and annual support to calculate net cash, ROI, payback and NPV.",
+      "before": "सभी प्रयोगशालाओं में प्रति प्रयोगशाला समान सिस्टम संख्या, संचालन समय-सारणी और प्रति सिस्टम प्रवाह लागू हैं। टाली गई निपटान लागत = रोके गए अपशिष्ट का आयतन × प्रति लीटर निपटान लागत। तैयारी समय का मूल्य दर्ज कर्मचारी लागत से अलग निकाला जाता है; यह सामग्री और निपटान बचत में शामिल नहीं है। सकल बचत से उपकरण, सेवा, उपभोग्य सामग्री और कार्यान्वयन लागत नहीं घटाई गई है। वित्तीय अनुमान में उपकरण, स्थापना और वार्षिक सहायता अलग घटाकर शुद्ध नकदी, ROI, निवेश-वसूली और NPV निकाले जाते हैं।",
+      "after": "सभी प्रयोगशालाओं में प्रति प्रयोगशाला सिस्टमों की संख्या, संचालन समय-सारणी और प्रति सिस्टम प्रवाह समान माने गए हैं। टाली गई निपटान लागत की गणना रोके गए अपशिष्ट के आयतन × प्रति लीटर निपटान लागत से होती है। तैयारी में लगने वाले समय का मूल्य आपकी दर्ज कर्मचारी लागत के आधार पर अलग से निकाला जाता है; यह सामग्री और निपटान की बचत में शामिल नहीं है। सकल बचत से उपकरण, सेवा, उपभोग्य सामग्री या कार्यान्वयन की लागत नहीं घटाई जाती। वित्तीय अनुमान में दर्ज उपकरण, स्थापना और वार्षिक सहायता की लागत घटाकर मॉडल के अनुसार शुद्ध नकदी, ROI, निवेश-वसूली और NPV निकाले जाते हैं। स्थल से जुड़ी किसी भी अन्य लागत का अलग से आकलन करें।"
+    },
+    {
+      "sourceKey": "Analytical acceptance and controlled change; no certification inferred.",
+      "before": "विश्लेषणात्मक स्वीकृति और नियंत्रित परिवर्तन; किसी प्रमाणीकरण का निष्कर्ष नहीं।",
+      "after": "विश्लेषणात्मक स्वीकृति और नियंत्रित परिवर्तन; इससे किसी प्रमाणन का निष्कर्ष नहीं निकाला जाता।"
+    },
+    {
+      "sourceKey": "Annual cost avoided",
+      "before": "वार्षिक टाली गई लागत",
+      "after": "अनुमानित वार्षिक टाली गई लागत"
+    },
+    {
+      "sourceKey": "Apply the planning reductions below to compare the same workload today and with ReSolve.",
+      "before": "समान कार्यभार की वर्तमान और ReSolve के साथ स्थिति की तुलना के लिए नीचे दी गई नियोजन कटौतियाँ लागू करें।",
+      "after": "समान कार्यभार की वर्तमान स्थिति और ReSolve के साथ स्थिति की तुलना के लिए नीचे दी गई नियोजन संबंधी कमी की धारणाएँ लागू करें।"
+    },
+    {
+      "sourceKey": "Approved scope, source records, baseline, measured outcomes and accountable benefit owners.",
+      "before": "अनुमोदित दायरा, स्रोत रिकॉर्ड, आधाररेखा, मापे गए परिणाम और जवाबदेह लाभ-स्वामी।",
+      "after": "अनुमोदित दायरा, स्रोत रिकॉर्ड, आधाररेखा, मापे गए परिणाम और लाभों के लिए जिम्मेदार व्यक्ति।"
+    },
+    {
+      "sourceKey": "Assess reuse against existing method acceptance criteria, with appropriate validation, change control and traceable operating records supporting deployment.",
+      "before": "मौजूदा विधि के स्वीकृति मानदंडों के अनुसार पुनः उपयोग का आकलन करें; उचित सत्यापन, परिवर्तन नियंत्रण और पता लगाने योग्य संचालन रिकॉर्ड कार्यान्वयन को समर्थन दें।",
+      "after": "मौजूदा विधि के स्वीकृति मानदंडों के अनुसार पुनः उपयोग का आकलन करें। कार्यान्वयन के लिए उचित सत्यापन, परिवर्तन नियंत्रण और अनुरेखणीय संचालन रिकॉर्ड रखें।"
+    },
+    {
+      "sourceKey": "Based on independent 80% net reductions. Verify initial fills, top-ups, losses, cleaning and final disposal.",
+      "before": "स्वतंत्र 80% शुद्ध कटौतियों पर आधारित। प्रारंभिक भराव, टॉप-अप, नुकसान, सफ़ाई और अंतिम निपटान सत्यापित करें।",
+      "after": "अलग-अलग 80% शुद्ध कमी की धारणाओं पर आधारित। प्रारंभिक भराव, टॉप-अप, नुकसान, सफ़ाई और अंतिम निपटान सत्यापित करें।"
+    },
+    {
+      "sourceKey": "Both lines start after the upfront equipment and installation payment. Cash payback assumes savings accrue evenly through the year. NPV uses year-end cash flows discounted at 10%; segments join the annual valuation points. Staff capacity value is excluded from cash returns.",
+      "before": "दोनों रेखाएँ शुरुआती उपकरण और स्थापना भुगतान के बाद शुरू होती हैं। नकदी-वसूली में बचत वर्षभर समान रूप से होने की धारणा है। NPV में वर्ष-अंत नकदी प्रवाह को 10% से छूट दी जाती है; रेखाखंड वार्षिक मूल्यांकन बिंदु जोड़ते हैं। कर्मचारी क्षमता का मूल्य नकदी प्रतिफल में शामिल नहीं है।",
+      "after": "दोनों रेखाएँ उपकरण और स्थापना के अग्रिम भुगतान के बाद शुरू होती हैं। नकदी के आधार पर निवेश-वसूली की गणना में माना जाता है कि बचत वर्षभर समान रूप से होती है। NPV के लिए वर्ष के अंत के नकदी प्रवाह पर चुनी गई छूट दर लागू होती है (डिफ़ॉल्ट 10%); रेखाखंड वार्षिक मूल्यांकन बिंदुओं को जोड़ते हैं। कर्मचारी क्षमता का मूल्य नकदी प्रतिफल में शामिल नहीं है।"
+    },
+    {
+      "sourceKey": "CO₂ reduction",
+      "before": "CO₂ कमी",
+      "after": "अनुमानित CO₂e कमी"
+    },
+    {
+      "sourceKey": "CO₂:",
+      "before": "CO₂:",
+      "after": "अनुमानित CO₂e:"
+    },
+    {
+      "sourceKey": "Capacity released, avoided spend and inventory released are distinct benefits. Do not add them together without checking their financial treatment.",
+      "before": "मुक्त क्षमता, टाला गया खर्च और मुक्त इन्वेंटरी अलग-अलग लाभ हैं। वित्तीय व्यवहार की जाँच किए बिना इन्हें न जोड़ें।",
+      "after": "उपलब्ध हुई कर्मचारी क्षमता, टाला गया खर्च और मुक्त हुई इन्वेंटरी अलग-अलग लाभ हैं। वित्तीय लेखांकन की जाँच किए बिना इन्हें आपस में न जोड़ें।"
+    },
+    {
+      "sourceKey": "Combined, when equal litres are prevented",
+      "before": "समान लीटर रोकने पर संयुक्त",
+      "after": "समान मात्रा (लीटर में) की रोकथाम पर संयुक्त"
+    },
+    {
+      "sourceKey": "Conclusion · analytical performance maintained",
+      "before": "निष्कर्ष · विश्लेषणात्मक प्रदर्शन कायम",
+      "after": "अध्ययन का निष्कर्ष · मूल्यांकित विधि की स्थितियों में विश्लेषणात्मक प्रदर्शन कायम रहा"
+    },
+    {
+      "sourceKey": "Cumulative totals over",
+      "before": "अवधि का संचयी कुल",
+      "after": "संचयी कुल · अवधि:"
+    },
+    {
+      "sourceKey": "Cumulative totals through year",
+      "before": "वर्ष तक का संचयी कुल",
+      "after": "वर्ष के अंत तक संचयी कुल · वर्ष"
+    },
+    {
+      "sourceKey": "Divert the peaks.",
+      "before": "पीक को अपशिष्ट में मोड़ें।",
+      "after": "पीक वाले अंशों को अपशिष्ट में भेजें।"
+    },
+    {
+      "sourceKey": "Enter preparation costs and people time, then your laboratory workload and disposal costs.",
+      "before": "तैयारी लागत और कर्मचारी समय दर्ज करें, फिर प्रयोगशाला कार्यभार और निपटान लागत।",
+      "after": "तैयारी की लागत और कर्मचारी समय दर्ज करें, फिर प्रयोगशाला का कार्यभार और निपटान लागत दर्ज करें।"
+    },
+    {
+      "sourceKey": "Estimate production and waste-treatment emissions separately from the litres prevented.",
+      "before": "रोके गए लीटर से अलग उत्पादन और अपशिष्ट-उपचार उत्सर्जन का अनुमान लगाएँ।",
+      "after": "बचाई गई मात्रा (लीटर) के आधार पर उत्पादन और अपशिष्ट-उपचार के उत्सर्जन का अलग-अलग अनुमान लगाएँ।"
+    },
+    {
+      "sourceKey": "Example opportunity—subject to validation at each site. The fixed example uses an 80% reduction assumption; 80%+ is not a measured purchasing result. Associated carbon estimates use supplied factors pending verification.",
+      "before": "उदाहरण की संभावना — हर स्थल पर सत्यापन आवश्यक। निश्चित उदाहरण में 80% कमी की धारणा है; 80%+ मापा गया खरीद परिणाम नहीं है। संबंधित कार्बन अनुमानों में सत्यापन के अधीन दिए गए कारक उपयोग होते हैं।",
+      "after": "इस निश्चित उदाहरण में ताज़े मोबाइल फेज़ की मांग और अपशिष्ट में 80% शुद्ध कमी मानी गई है। ये नियोजन की धारणाएँ हैं, खरीद के मापे गए परिणाम नहीं। संबंधित कार्बन अनुमानों में दिए गए कारक उपयोग होते हैं, जिनका सत्यापन आवश्यक है।"
+    },
+    {
+      "sourceKey": "Existing example assumption, not measured. If baseline preparation takes H hours, potential time released is 0.3 × H. No absolute hours or labour saving claimed without a time study.",
+      "before": "मौजूदा उदाहरण की धारणा, माप नहीं। यदि आधाररेखा तैयारी H घंटे लेती है, तो संभावित मुक्त समय 0.3 × H है। समय-अध्ययन के बिना कुल घंटों या श्रम बचत का दावा नहीं।",
+      "after": "यह मौजूदा उदाहरण की धारणा है, मापा गया परिणाम नहीं। यदि आधाररेखा में तैयारी के लिए H घंटे लगते हैं, तो संभावित रूप से उपलब्ध होने वाला समय 0.3 × H है। समय-अध्ययन के बिना कुल घंटों या श्रम लागत की बचत का दावा नहीं किया जाता।"
+    },
+    {
+      "sourceKey": "For the evaluated method, the study reported no observed difference in baseline noise or stability, and no detectable paracetamol or ibuprofen in recycled phase by LC/MS.",
+      "before": "मूल्यांकित विधि में अध्ययन ने बेसलाइन शोर या स्थिरता में कोई दिखने वाला अंतर न होने और LC/MS से पुनर्चक्रित फेज़ में पैरासिटामोल या आइबुप्रोफ़ेन न मिलने की सूचना दी।",
+      "after": "मूल्यांकित विधि के लिए अध्ययन में बेसलाइन शोर या स्थिरता में कोई अंतर नहीं देखा गया और LC/MS से पुनर्चक्रित फेज़ में पैरासिटामोल या आइबुप्रोफ़ेन का पता नहीं चला।"
+    },
+    {
+      "sourceKey": "Geopolitical tensions, conflict, changing trade policies and disruption to major shipping routes are making global supply chains more uncertain. Rerouting, volatile freight costs and unpredictable lead times make replenishment harder to plan.",
+      "before": "भू-राजनीतिक तनाव, संघर्ष, बदलती व्यापार नीतियाँ और प्रमुख समुद्री मार्गों में व्यवधान वैश्विक आपूर्ति शृंखलाओं को अधिक अनिश्चित बना रहे हैं। मार्ग परिवर्तन, अस्थिर मालभाड़ा और अप्रत्याशित आपूर्ति समय से पुनर्भरण योजना कठिन होती है।",
+      "after": "भू-राजनीतिक तनाव, संघर्ष, बदलती व्यापार नीतियाँ और प्रमुख समुद्री मार्गों में व्यवधान के कारण दोबारा आपूर्ति की योजना बनाना कठिन हो सकता है। अपने आपूर्तिकर्ता नेटवर्क, परिवहन मार्गों और स्टॉक नीति में इन जोखिमों का आकलन करें।"
+    },
+    {
+      "sourceKey": "Hazardous waste prevented",
+      "before": "रोका गया खतरनाक अपशिष्ट",
+      "after": "अनुमानित रोका गया खतरनाक अपशिष्ट"
+    },
+    {
+      "sourceKey": "Hours per operating day that each included HPLC pumps mobile phase for this workload. This is instrument running time, not staff preparation time.",
+      "before": "हर शामिल HPLC द्वारा इस कार्यभार के लिए मोबाइल फेज़ पंप करने के प्रति संचालन दिन घंटे। यह उपकरण संचालन समय है, कर्मचारी तैयारी समय नहीं।",
+      "after": "प्रत्येक शामिल HPLC इस कार्यभार के लिए प्रति संचालन दिन कितने घंटे मोबाइल फेज़ पंप करता है। यह उपकरण का संचालन समय है, कर्मचारी की तैयारी का समय नहीं।"
+    },
+    {
+      "sourceKey": "Include rejected fractions, top-ups, cleaning and final reservoir disposal in the result.",
+      "before": "अस्वीकृत अंश, टॉप-अप, सफ़ाई और अंतिम रिज़र्वॉयर निपटान परिणाम में शामिल करें।",
+      "after": "अस्वीकृत अंशों, टॉप-अप, सफ़ाई और अंत में रिज़र्वॉयर में बची सामग्री के निपटान को परिणाम में शामिल करें।"
+    },
+    {
+      "sourceKey": "MANAGE THE REMAINDER",
+      "before": "बचे हुए हिस्से का प्रबंधन",
+      "after": "बचे हुए हिस्से का प्रबंधन करें"
+    },
+    {
+      "sourceKey": "Maintain analytical results and process integrity as mobile phase is recycled.",
+      "before": "मोबाइल फेज़ के पुनर्चक्रण के दौरान विश्लेषणात्मक परिणाम और प्रक्रिया अखंडता बनाए रखें।",
+      "after": "मोबाइल फेज़ का पुनः उपयोग करते समय विश्लेषणात्मक प्रदर्शन और प्रक्रिया नियंत्रणों का आकलन करें।"
+    },
+    {
+      "sourceKey": "Maintain your analytical standards while reducing fresh mobile-phase preparation.",
+      "before": "ताज़े मोबाइल फेज़ की तैयारी कम करते हुए अपने विश्लेषणात्मक मानक बनाए रखें।",
+      "after": "अपनी विश्लेषणात्मक आवश्यकताओं के अनुसार मोबाइल फेज़ के पुनः उपयोग का आकलन करें।"
+    },
+    {
+      "sourceKey": "Manufacture (production) + disposal. Delivery / transport: not quantified and excluded; this is not a full lifecycle total.",
+      "before": "निर्माण (उत्पादन) + निपटान। डिलीवरी / परिवहन: मात्राबद्ध नहीं और शामिल नहीं; यह पूर्ण जीवनचक्र कुल नहीं है।",
+      "after": "निर्माण (उत्पादन) + निपटान। डिलीवरी / परिवहन: मात्रा का आकलन नहीं किया गया है और इसे शामिल नहीं किया गया है; यह पूरे जीवनचक्र का कुल नहीं है।"
+    },
+    {
+      "sourceKey": "Materials + people",
+      "before": "सामग्री + लोग",
+      "after": "सामग्री + कर्मचारी"
+    },
+    {
+      "sourceKey": "No difference in baseline noise/stability was observed. LC/MS found neither analyte in the recycled phase; the source reports waste-phase concentrations of 1,440 ng/mL paracetamol and 530 ng/mL ibuprofen.",
+      "before": "बेसलाइन शोर/स्थिरता में कोई अंतर नहीं देखा गया। LC/MS में पुनर्चक्रित फेज़ में कोई भी विश्लेष्य नहीं मिला; स्रोत में अपशिष्ट-फेज़ सांद्रता पैरासिटामोल 1,440 ng/mL और आइबुप्रोफ़ेन 530 ng/mL दी गई है।",
+      "after": "मूल्यांकित विधि में बेसलाइन शोर या स्थिरता में कोई अंतर नहीं देखा गया। LC/MS से पुनर्चक्रित फेज़ में पैरासिटामोल या आइबुप्रोफ़ेन का पता नहीं चला; रिपोर्ट में पहचान की सीमाएँ नहीं दी गई हैं। स्रोत के अनुसार अपशिष्ट फेज़ में पैरासिटामोल की सांद्रता 1,440 ng/mL और आइबुप्रोफ़ेन की सांद्रता 530 ng/mL थी।"
+    },
+    {
+      "sourceKey": "No people-time benefit assumed until hours are entered.",
+      "before": "घंटे दर्ज होने तक कर्मचारी-समय लाभ की धारणा नहीं।",
+      "after": "घंटे दर्ज किए जाने तक कर्मचारी समय में किसी लाभ की धारणा लागू नहीं होती।"
+    },
+    {
+      "sourceKey": "Official ReSolve brochure artwork showing the HPLC system, branded controller, recovery return and waste path",
+      "before": "HPLC सिस्टम, ब्रांडयुक्त नियंत्रक, पुनर्प्राप्ति वापसी और अपशिष्ट पथ दिखाती आधिकारिक ReSolve ब्रोशर कला",
+      "after": "HPLC सिस्टम, ब्रांडयुक्त नियंत्रक, पुनर्प्राप्त मोबाइल फेज़ की वापसी और अपशिष्ट पथ दिखाता आधिकारिक ReSolve ब्रोशर का चित्र"
+    },
+    {
+      "sourceKey": "One laboratory · measurable prevention over time",
+      "before": "एक प्रयोगशाला · समय के साथ मापने योग्य रोकथाम",
+      "after": "एक प्रयोगशाला · समय के साथ मॉडल के अनुसार रोकथाम"
+    },
+    {
+      "sourceKey": "Planning defaults are 80% net fresh-demand reduction and 80% net waste reduction, entered separately. Neither is a measured site result. The study’s 94.4809% routing recovery is evidence for the tested method, not the annual savings input. Repeated reuse is not an extra multiplier.",
+      "before": "नियोजन डिफ़ॉल्ट हैं ताज़ी मांग में शुद्ध कमी 80% और अपशिष्ट में शुद्ध कमी 80%, जो अलग दर्ज होते हैं। दोनों में से कोई मापा स्थल परिणाम नहीं है। अध्ययन की 94.4809% प्रवाह-पुनर्प्राप्ति जाँची गई विधि का साक्ष्य है, वार्षिक बचत का इनपुट नहीं। बार-बार पुनः उपयोग अतिरिक्त गुणक नहीं है।",
+      "after": "नियोजन के डिफ़ॉल्ट मान ताज़े मोबाइल फेज़ की मांग में 80% शुद्ध कमी और अपशिष्ट में 80% शुद्ध कमी हैं; इन्हें अलग-अलग दर्ज किया जाता है। इनमें से कोई भी स्थल पर मापा गया परिणाम नहीं है। अध्ययन में दर्ज 94.4809% प्रवाह-पुनर्प्राप्ति जाँची गई विधि का साक्ष्य है, वार्षिक बचत का इनपुट नहीं। बार-बार पुनः उपयोग कोई अतिरिक्त गुणक नहीं है।"
+    },
+    {
+      "sourceKey": "Preparation people time",
+      "before": "तैयारी कर्मचारी समय",
+      "after": "तैयारी में लगने वाला कर्मचारी समय"
+    },
+    {
+      "sourceKey": "Price exposure is real. Lower demand limits the volume exposed.",
+      "before": "कीमत जोखिम वास्तविक है। कम मांग प्रभावित मात्रा सीमित करती है।",
+      "after": "कम मांग से कीमतों में बदलाव से प्रभावित होने वाली मात्रा सीमित होती है।"
+    },
+    {
+      "sourceKey": "Prices exclude VAT. Support is €120 per month (€1,440 per year).",
+      "before": "मूल्यों में VAT शामिल नहीं। सहायता €120 प्रति माह (€1,440 प्रति वर्ष) है।",
+      "after": "संकेतात्मक मूल्यों में VAT शामिल नहीं है। डिफ़ॉल्ट सहायता लागत €120 प्रति माह (€1,440 प्रति वर्ष) है; अपने परिदृश्य में लागू कोटेशन का उपयोग करें।"
+    },
+    {
+      "sourceKey": "Projected financial results depend on your net material and waste reductions. The net cash, ROI and NPV rows deduct the entered equipment, installation and support costs. Gross savings rows and cumulative impact charts remain before investment costs.",
+      "before": "अनुमानित वित्तीय परिणाम आपकी शुद्ध सामग्री और अपशिष्ट कटौती पर निर्भर हैं। शुद्ध नकदी, ROI और NPV पंक्तियाँ दर्ज उपकरण, स्थापना और सहायता लागत घटाती हैं। सकल बचत पंक्तियाँ और संचयी प्रभाव चार्ट निवेश लागत से पहले हैं।",
+      "after": "अनुमानित वित्तीय परिणाम सामग्री और अपशिष्ट में आपकी शुद्ध कमी पर निर्भर हैं। शुद्ध नकदी, ROI और NPV की पंक्तियों में दर्ज उपकरण, स्थापना और सहायता की लागत घटाई जाती है। सकल बचत की पंक्तियाँ और संचयी प्रभाव के चार्ट निवेश लागत घटाने से पहले के मान दिखाते हैं। स्थल से जुड़ी किसी भी अन्य लागत का अलग से आकलन करें।"
+    },
+    {
+      "sourceKey": "Purchase orders, goods receipts and expedite records.",
+      "before": "खरीद ऑर्डर, सामग्री प्राप्ति और शीघ्र आपूर्ति रिकॉर्ड।",
+      "after": "खरीद ऑर्डर, सामग्री प्राप्ति और शीघ्र आपूर्ति के अनुरोधों के रिकॉर्ड।"
+    },
+    {
+      "sourceKey": "ReSolve™ draws 0.4 W from the HPLC. Any electricity savings from reduced mobile-phase preparation remain to be measured.",
+      "before": "ReSolve™ HPLC से 0.4 W लेता है। कम मोबाइल फेज़ तैयारी से बिजली की बचत अभी मापी जानी है।",
+      "after": "उत्पाद साहित्य के अनुसार ReSolve™ HPLC से 0.4 W विद्युत शक्ति लेता है। मोबाइल फेज़ की तैयारी कम होने से बिजली की किसी भी बचत को अभी मापा जाना बाकी है।"
+    },
+    {
+      "sourceKey": "ReSolve™ recycles prepared mobile phase for reuse within isocratic HPLC workflows.",
+      "before": "ReSolve™ तैयार मोबाइल फेज़ को आइसोक्रेटिक HPLC वर्कफ़्लो में पुनः उपयोग के लिए पुनर्चक्रित करता है।",
+      "after": "ReSolve™ उपयुक्त आइसोक्रेटिक HPLC वर्कफ़्लो में चयनित तैयार मोबाइल फेज़ को पुनः उपयोग के लिए वापस लौटाता है।"
+    },
+    {
+      "sourceKey": "ReSolve™ recycles prepared mobile phase within the isocratic HPLC workflow. The circular opportunity is to reduce fresh input and prevent hazardous waste while maintaining the analytical requirements of the method.",
+      "before": "ReSolve™ आइसोक्रेटिक HPLC वर्कफ़्लो में तैयार मोबाइल फेज़ का पुनर्चक्रण करता है। परिपत्र अवसर है विधि की विश्लेषणात्मक आवश्यकताएँ कायम रखते हुए ताज़ा इनपुट घटाना और खतरनाक अपशिष्ट रोकना।",
+      "after": "ReSolve™ आइसोक्रेटिक HPLC वर्कफ़्लो में तैयार मोबाइल फेज़ का पुनर्चक्रण करता है। इससे विधि की विश्लेषणात्मक आवश्यकताएँ बनाए रखते हुए ताज़ी सामग्री की आवश्यकता और खतरनाक अपशिष्ट को घटाने का अवसर मिलता है।"
+    },
+    {
+      "sourceKey": "Recover the baseline.",
+      "before": "बेसलाइन प्रवाह वापस लें।",
+      "after": "पात्र बेसलाइन प्रवाह वापस लौटाएँ।"
+    },
+    {
+      "sourceKey": "Recycling can reduce replenishment interventions and support extended analytical runs.",
+      "before": "पुनर्चक्रण पुनर्भरण हस्तक्षेप कम कर सकता है और लंबे विश्लेषण रन में मदद करता है।",
+      "after": "पुनर्चक्रण से मोबाइल फेज़ की दोबारा आपूर्ति के लिए हस्तक्षेप कम हो सकते हैं और लंबे विश्लेषण रन में मदद मिल सकती है।"
+    },
+    {
+      "sourceKey": "Reduce hazardous waste and CO₂ emissions. Capture the metrics across your labs.",
+      "before": "खतरनाक अपशिष्ट और CO₂ उत्सर्जन घटाएँ। सभी प्रयोगशालाओं के माप दर्ज करें।",
+      "after": "अपनी सभी प्रयोगशालाओं में खतरनाक अपशिष्ट की रोकथाम का आकलन करें और CO₂e में कमी का अनुमान लगाएँ।"
+    },
+    {
+      "sourceKey": "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.",
+      "before": "स्कोप 3 उत्सर्जन घटाते हुए प्रयोगशाला विलायक लागत 80%+ कम करें।",
+      "after": "मोबाइल फेज़ की लागत घटाने की संभावनाएँ देखें और स्कोप 3 पर प्रभाव का मॉडल बनाएँ।"
+    },
+    {
+      "sourceKey": "Reduce recurring laboratory costs, release analytical capacity and quantify waste and carbon reductions across your laboratory network.",
+      "before": "आवर्ती प्रयोगशाला लागत घटाएँ, विश्लेषणात्मक क्षमता मुक्त करें और प्रयोगशाला नेटवर्क में अपशिष्ट तथा कार्बन कटौती मात्राबद्ध करें।",
+      "after": "अपने प्रयोगशाला नेटवर्क में आवर्ती लागतों, विश्लेषकों की क्षमता और अपशिष्ट व कार्बन में संभावित कमी का आकलन करें।"
+    },
+    {
+      "sourceKey": "Review relevance",
+      "before": "समीक्षा की प्रासंगिकता",
+      "after": "प्रासंगिकता की समीक्षा करें"
+    },
+    {
+      "sourceKey": "Skip to ReSolve perspectives",
+      "before": "ReSolve दृष्टिकोण पर जाएँ",
+      "after": "ReSolve के दृष्टिकोणों पर सीधे जाएँ"
+    },
+    {
+      "sourceKey": "Supports activity-data collection and transparent quantification. Apply organisational boundaries, factor provenance, uncertainty and reporting requirements. GHG Protocol scopes are a separate classification.",
+      "before": "गतिविधि-डेटा संग्रह और पारदर्शी मात्रांकन में सहायक। संगठन की सीमाएँ, कारक स्रोत, अनिश्चितता और रिपोर्टिंग आवश्यकताएँ लागू करें। GHG Protocol स्कोप अलग वर्गीकरण हैं।",
+      "after": "गतिविधि-डेटा के संग्रह और पारदर्शी मात्रांकन में सहायक है। संगठन की सीमाएँ, कारकों के स्रोत, अनिश्चितता और रिपोर्टिंग की आवश्यकताएँ लागू करें। GHG Protocol के स्कोप एक अलग वर्गीकरण हैं।"
+    },
+    {
+      "sourceKey": "Supports environmental objectives, operational monitoring and improvement review. Retain the baseline, waste balance and evidence of actual performance.",
+      "before": "पर्यावरण लक्ष्य, संचालन निगरानी और सुधार समीक्षा में सहायक। आधाररेखा, अपशिष्ट संतुलन और वास्तविक प्रदर्शन साक्ष्य रखें।",
+      "after": "पर्यावरणीय लक्ष्यों, संचालन की निगरानी और सुधार की समीक्षा में सहायक है। आधाररेखा, अपशिष्ट संतुलन और वास्तविक प्रदर्शन के साक्ष्य सुरक्षित रखें।"
+    },
+    {
+      "sourceKey": "The Agilent 1260 DAD sequence recorded 1,111.004 mL recycled and 63.533 mL directed to waste on 5–6 May 2026. Percentage calculated from the printed summary totals.",
+      "before": "Agilent 1260 DAD अनुक्रम ने 5–6 मई 2026 को 1,111.004 mL पुनर्चक्रित और 63.533 mL अपशिष्ट में भेजा दर्ज किया। प्रतिशत छपे सारांश कुल से निकाला गया है।",
+      "after": "Agilent 1260 DAD अनुक्रम में 5–6 मई 2026 को 1,111.004 mL पुनर्चक्रित और 63.533 mL अपशिष्ट की ओर भेजा गया दर्ज है। प्रतिशत की गणना छपे सारांश के कुल मानों से की गई है।"
+    },
+    {
+      "sourceKey": "The Pharmaceutical & Molecular Biotechnology Research Centre at South East Technological University compared two matched 96-injection sequences for a selected isocratic paracetamol and ibuprofen method.",
+      "before": "साउथ ईस्ट टेक्नोलॉजिकल यूनिवर्सिटी के औषधि और आणविक जैवप्रौद्योगिकी अनुसंधान केंद्र ने चुनी पैरासिटामोल और आइबुप्रोफ़ेन आइसोक्रेटिक विधि के लिए दो मेल खाते 96-इंजेक्शन अनुक्रमों की तुलना की।",
+      "after": "साउथ ईस्ट टेक्नोलॉजिकल यूनिवर्सिटी के औषधि और आणविक जैवप्रौद्योगिकी अनुसंधान केंद्र ने पैरासिटामोल और आइबुप्रोफ़ेन की एक चुनी हुई आइसोक्रेटिक विधि के लिए समान परिस्थितियों वाले दो 96-इंजेक्शन अनुक्रमों की तुलना की।"
+    },
+    {
+      "sourceKey": "The elapsed window includes gaps; it is not continuous operating time or analyst time saved.",
+      "before": "बीता समय-अंतराल खाली अवधियाँ शामिल करता है; यह निरंतर संचालन समय या बचाया विश्लेषक समय नहीं है।",
+      "after": "बीते हुए समय-अंतराल में संचालन के बीच की खाली अवधियाँ शामिल हैं; यह निरंतर संचालन समय या बचाया गया विश्लेषक समय नहीं है।"
+    },
+    {
+      "sourceKey": "The selected records document 94.72% recycled throughput and paired audit events. They support an operational review, not a claim of chromatographic equivalence.",
+      "before": "चुने रिकॉर्ड 94.72% पुनर्चक्रित प्रवाह और मेल खाते ऑडिट घटनाएँ दिखाते हैं। ये संचालन समीक्षा का समर्थन करते हैं, क्रोमैटोग्राफिक समानता का दावा नहीं।",
+      "after": "चुने गए रिकॉर्ड में 94.72% पुनर्चक्रित प्रवाह और उससे मेल खाती ऑडिट घटनाएँ दर्ज हैं। ये संचालन की समीक्षा में सहायक हैं; इनसे क्रोमैटोग्राफिक समानता का दावा नहीं किया जाता।"
+    },
+    {
+      "sourceKey": "The study reports equivalent chromatographic performance between the two sequences and no adverse impact from using the recycled mobile phase in Sequence 2.",
+      "before": "अध्ययन दोनों अनुक्रमों में तुलनीय क्रोमैटोग्राफिक प्रदर्शन और अनुक्रम 2 में पुनर्चक्रित मोबाइल फेज़ के उपयोग से कोई प्रतिकूल प्रभाव न होने की सूचना देता है।",
+      "after": "मूल्यांकित विधि के लिए अध्ययन दोनों अनुक्रमों में तुलनीय क्रोमैटोग्राफिक प्रदर्शन और अनुक्रम 2 में पुनर्चक्रित मोबाइल फेज़ के उपयोग से कोई प्रतिकूल प्रभाव न होने की सूचना देता है।"
+    },
+    {
+      "sourceKey": "These figures use the same fixed one-lab example.",
+      "before": "ये आँकड़े वही निश्चित एक-प्रयोगशाला उदाहरण उपयोग करते हैं।",
+      "after": "इन आँकड़ों में एक प्रयोगशाला का वही निश्चित उदाहरण लिया गया है।"
+    },
+    {
+      "sourceKey": "Traceability",
+      "before": "पता लगाने की क्षमता",
+      "after": "अनुरेखणीयता"
+    },
+    {
+      "sourceKey": "Traceable improvement",
+      "before": "पता लगाने योग्य सुधार",
+      "after": "अनुरेखणीय सुधार"
+    },
+    {
+      "sourceKey": "Traceable operation",
+      "before": "पता लगाने योग्य संचालन",
+      "after": "अनुरेखणीय संचालन"
+    },
+    {
+      "sourceKey": "Turn measured prevention into a business case.",
+      "before": "मापी रोकथाम को व्यावसायिक औचित्य में बदलें।",
+      "after": "अपनी प्रयोगशाला की धारणाओं के आधार पर व्यावसायिक औचित्य तैयार करें।"
+    },
+    {
+      "sourceKey": "Two consecutive 96-injection sequences compared freshly prepared mobile phase with recycled mobile phase recovered from the first sequence. Each sequence comprised 80 samples, 13 standards and 3 blanks.",
+      "before": "दो लगातार 96-इंजेक्शन अनुक्रमों ने ताज़ा तैयार मोबाइल फेज़ की तुलना पहले अनुक्रम से पुनर्प्राप्त पुनर्चक्रित मोबाइल फेज़ से की। हर अनुक्रम में 80 नमूने, 13 मानक और 3 ब्लैंक थे।",
+      "after": "लगातार चलाए गए दो 96-इंजेक्शन अनुक्रमों में ताज़ा तैयार मोबाइल फेज़ की तुलना पहले अनुक्रम से पुनर्प्राप्त मोबाइल फेज़ से की गई। प्रत्येक अनुक्रम में 80 नमूने, 13 मानक और 3 ब्लैंक थे।"
+    },
+    {
+      "sourceKey": "Use your laboratory numbers, operating schedule and costs to model reduced solvent demand, cost avoided and CO₂ reduction over three years.",
+      "before": "प्रयोगशाला संख्या, संचालन समय-सारणी और लागत से तीन वर्षों की कम विलायक मांग, टाली लागत और CO₂ कमी मॉडल करें।",
+      "after": "प्रयोगशालाओं की संख्या, संचालन समय-सारणी और लागतों के आधार पर तीन वर्षों में ताज़े मोबाइल फेज़ की कम मांग, टाली गई लागत और अनुमानित CO₂e कमी का मॉडल बनाएँ।"
+    },
+    {
+      "sourceKey": "Validate this business case",
+      "before": "इस व्यावसायिक औचित्य को सत्यापित करें",
+      "after": "इस व्यावसायिक औचित्य की समीक्षा करें"
+    },
+    {
+      "sourceKey": "Validate this business case with Antech",
+      "before": "Antech के साथ यह व्यावसायिक औचित्य सत्यापित करें",
+      "after": "Antech के साथ इस व्यावसायिक औचित्य की समीक्षा करें"
+    },
+    {
+      "sourceKey": "Values reproduced from Table 3 and the discussion on pages 8-9. The report does not state detection limits for the LC/MS non-detection statement.",
+      "before": "तालिका 3 और पृष्ठ 8-9 की चर्चा से दोहराए मान। LC/MS में न मिलने के कथन के लिए रिपोर्ट में पहचान सीमाएँ नहीं दी गईं।",
+      "after": "ये मान तालिका 3 और पृष्ठ 8-9 की चर्चा से लिए गए हैं। LC/MS से पता न चलने के कथन के लिए रिपोर्ट में पहचान की सीमाएँ नहीं दी गई हैं।"
+    },
+    {
+      "sourceKey": "Waste prevented",
+      "before": "रोका गया अपशिष्ट",
+      "after": "अनुमानित रोका गया अपशिष्ट"
+    },
+    {
+      "sourceKey": "What the investment delivers",
+      "before": "निवेश से क्या मिलता है",
+      "after": "आपके परिदृश्य के अनुमान"
+    },
+    {
+      "sourceKey": "Why solvent prevention matters.",
+      "before": "विलायक की रोकथाम क्यों महत्वपूर्ण है।",
+      "after": "विलायक की आवश्यकता घटाना क्यों महत्वपूर्ण है।"
+    },
+    {
+      "sourceKey": "informs analytical review; the Agilent sequence and ReSolve™ records document the evaluated operation.",
+      "before": "विश्लेषणात्मक समीक्षा में सहायक; Agilent अनुक्रम और ReSolve™ रिकॉर्ड मूल्यांकित संचालन दर्ज करते हैं।",
+      "after": "विश्लेषणात्मक समीक्षा में मदद करता है; Agilent अनुक्रम और ReSolve™ रिकॉर्ड मूल्यांकित संचालन को दर्ज करते हैं।"
+    },
+    {
+      "sourceKey": "result for",
+      "before": "के लिए परिणाम",
+      "after": "परिणाम ·"
+    },
+    {
+      "sourceKey": "support and maintenance per year. NPV uses",
+      "before": "प्रति वर्ष सहायता और रखरखाव। NPV में लागू",
+      "after": "वार्षिक सहायता और रखरखाव। NPV के लिए वार्षिक छूट दर "
+    },
+    {
+      "sourceKey": "to model your laboratories.",
+      "before": "अपनी प्रयोगशालाओं का मॉडल बनाने के लिए।",
+      "after": "चुनकर अपनी प्रयोगशालाओं का मॉडल बनाएँ।"
+    },
+    {
+      "sourceKey": "✓ Technical conclusion: analytical performance maintained",
+      "before": "✓ तकनीकी निष्कर्ष: विश्लेषणात्मक प्रदर्शन कायम",
+      "after": "✓ अध्ययन का निष्कर्ष: मूल्यांकित विधि की स्थितियों में विश्लेषणात्मक प्रदर्शन कायम रहा"
+    },
+    {
+      "sourceKey": "For a separate estimate of material, disposal and carbon savings,",
+      "before": "सामग्री, निपटान और कार्बन बचत का अलग अनुमान पाने के लिए,",
+      "after": "सामग्री, निपटान और कार्बन बचत का अलग अनुमान लगाने के लिए"
+    },
+    {
+      "sourceKey": "Less purchased. Less discarded.",
+      "before": "कम खरीदें। कम फेंकें।",
+      "after": "खरीद कम करें। अपशिष्ट घटाएँ।"
+    },
+    {
+      "sourceKey": "The study shows analytical performance for the evaluated method. The operational records show measured recycling activity and traceability. Explore the results and original source material below.",
+      "before": "अध्ययन मूल्यांकित विधि का विश्लेषणात्मक प्रदर्शन दिखाता है। संचालन रिकॉर्ड मापी पुनर्चक्रण गतिविधि और पता लगाने की क्षमता दिखाते हैं। नीचे परिणाम और मूल स्रोत सामग्री देखें।",
+      "after": "अध्ययन मूल्यांकित विधि का विश्लेषणात्मक प्रदर्शन दिखाता है। संचालन रिकॉर्ड मापी गई पुनर्चक्रण गतिविधि और अनुरेखणीयता दिखाते हैं। नीचे परिणाम और मूल स्रोत सामग्री देखें।"
+    },
+    {
+      "sourceKey": "These records demonstrate recorded recycling activity and traceability. They do not, by themselves, establish analytical equivalence, complete process integrity or net waste and cost savings.",
+      "before": "ये रिकॉर्ड दर्ज पुनर्चक्रण गतिविधि और पता लगाने की क्षमता दिखाते हैं। अपने आप ये विश्लेषणात्मक समानता, पूरी प्रक्रिया अखंडता या शुद्ध अपशिष्ट और लागत बचत स्थापित नहीं करते।",
+      "after": "ये रिकॉर्ड दर्ज पुनर्चक्रण गतिविधि और अनुरेखणीयता दिखाते हैं। अपने आप ये विश्लेषणात्मक समानता, पूरी प्रक्रिया की अखंडता या अपशिष्ट और लागत में शुद्ध बचत स्थापित नहीं करते।"
+    },
+    {
+      "sourceKey": "using your laboratory assumptions.",
+      "before": "आपकी प्रयोगशाला धारणाओं के अनुसार।",
+      "after": "चुनें और अपनी प्रयोगशाला की धारणाओं का उपयोग करें।"
+    },
+    {
+      "sourceKey": "months · Cumulative net cash benefit: €0. Upfront investment recovered after support costs. NPV is valued separately at year-end.",
+      "before": "महीने · संचयी शुद्ध नकदी लाभ: €0। सहायता लागत के बाद शुरुआती निवेश वसूल। NPV का वर्ष-अंत में अलग मूल्यांकन होता है।",
+      "after": "महीने · संचयी शुद्ध नकदी लाभ: €0। सहायता लागत के बाद अग्रिम निवेश की वसूली हो जाती है। NPV का वर्ष के अंत में अलग मूल्यांकन होता है।"
+    },
+    {
+      "sourceKey": "not reached",
+      "before": "नहीं पहुँचा",
+      "after": "नहीं हुई"
+    },
+    {
+      "sourceKey": "result for 1 lab × 10 HPLCs per lab = 10 HPLCs. Same operating schedule and eligible workload per HPLC assumed.",
+      "before": "1 प्रयोगशाला × प्रति प्रयोगशाला 10 HPLC = 10 HPLC का परिणाम। प्रति HPLC समान संचालन समय-सारणी और पात्र कार्यभार की धारणा है।",
+      "after": "परिणाम · 1 प्रयोगशाला × प्रति प्रयोगशाला 10 HPLC = 10 HPLC। प्रति HPLC समान संचालन समय-सारणी और पात्र कार्यभार माना गया है।"
+    },
+    {
+      "sourceKey": "upfront ·",
+      "before": "शुरुआती ·",
+      "after": "अग्रिम निवेश ·"
+    }
+  ],
+  "sourceAlignment": {
+    "1 labs": "1 प्रयोगशाला",
+    "25 records paired with audit starts and finishes on 5 May 2026.": "5 मई 2026 के ऑडिट ट्रेल में मापन के आरंभ और समाप्ति की घटनाओं से मिलाए गए 25 मापन रिकॉर्ड।",
+    "All 25 records are paired with audit starts and finishes. Record 9 retains a one-second difference: summary start 15:06:21; audit start 15:06:20.": "सभी 25 रिकॉर्ड ऑडिट ट्रेल में मापन के आरंभ और समाप्ति की घटनाओं से मिलाए गए हैं। रिकॉर्ड 9 में एक सेकंड का अंतर बना हुआ है: सारांश में आरंभ 15:06:21; ऑडिट में आरंभ 15:06:20।",
+    "All labs use the same systems-per-lab count, operating schedule and per-system flow. Disposal cost avoided is calculated from prevented waste volume × disposal cost per litre. Preparation time is valued separately at your entered staff cost; it is not included in material and disposal savings. Equipment, service, consumables and implementation costs are not deducted, in the gross savings figures. The financial projection separately deducts equipment, installation and annual support to calculate net cash, ROI, payback and NPV.": "सभी प्रयोगशालाओं में प्रति प्रयोगशाला सिस्टमों की संख्या, संचालन समय-सारणी और प्रति सिस्टम प्रवाह समान माने गए हैं। टाली गई निपटान लागत की गणना रोके गए अपशिष्ट के आयतन × प्रति लीटर निपटान लागत से होती है। तैयारी में लगने वाले समय का मूल्य आपकी दर्ज कर्मचारी लागत के आधार पर अलग से निकाला जाता है; यह सामग्री और निपटान की बचत में शामिल नहीं है। सकल बचत से उपकरण, सेवा, उपभोग्य सामग्री या कार्यान्वयन की लागत नहीं घटाई जाती। वित्तीय अनुमान में दर्ज उपकरण, स्थापना और वार्षिक सहायता की लागत घटाकर मॉडल के अनुसार शुद्ध नकदी, ROI, निवेश-वसूली और NPV निकाले जाते हैं। स्थल से जुड़ी किसी भी अन्य लागत का अलग से आकलन करें।",
+    "Annual cost avoided": "अनुमानित वार्षिक टाली गई लागत",
+    "Both lines start after the upfront equipment and installation payment. Cash payback assumes savings accrue evenly through the year. NPV uses year-end cash flows discounted at 10%; segments join the annual valuation points. Staff capacity value is excluded from cash returns.": "दोनों रेखाएँ उपकरण और स्थापना के अग्रिम भुगतान के बाद शुरू होती हैं। नकदी के आधार पर निवेश-वसूली की गणना में माना जाता है कि बचत वर्षभर समान रूप से होती है। NPV के लिए वर्ष के अंत के नकदी प्रवाह पर चुनी गई छूट दर लागू होती है (डिफ़ॉल्ट 10%); रेखाखंड वार्षिक मूल्यांकन बिंदुओं को जोड़ते हैं। कर्मचारी क्षमता का मूल्य नकदी प्रतिफल में शामिल नहीं है।",
+    "CO₂ reduction": "अनुमानित CO₂e कमी",
+    "CO₂:": "अनुमानित CO₂e:",
+    "Conclusion · analytical performance maintained": "अध्ययन का निष्कर्ष · मूल्यांकित विधि की स्थितियों में विश्लेषणात्मक प्रदर्शन कायम रहा",
+    "Example opportunity—subject to validation at each site. The fixed example uses an 80% reduction assumption; 80%+ is not a measured purchasing result. Associated carbon estimates use supplied factors pending verification.": "इस निश्चित उदाहरण में ताज़े मोबाइल फेज़ की मांग और अपशिष्ट में 80% शुद्ध कमी मानी गई है। ये नियोजन की धारणाएँ हैं, खरीद के मापे गए परिणाम नहीं। संबंधित कार्बन अनुमानों में दिए गए कारक उपयोग होते हैं, जिनका सत्यापन आवश्यक है।",
+    "Geopolitical tensions, conflict, changing trade policies and disruption to major shipping routes are making global supply chains more uncertain. Rerouting, volatile freight costs and unpredictable lead times make replenishment harder to plan.": "भू-राजनीतिक तनाव, संघर्ष, बदलती व्यापार नीतियाँ और प्रमुख समुद्री मार्गों में व्यवधान के कारण दोबारा आपूर्ति की योजना बनाना कठिन हो सकता है। अपने आपूर्तिकर्ता नेटवर्क, परिवहन मार्गों और स्टॉक नीति में इन जोखिमों का आकलन करें।",
+    "Hazardous waste prevented": "अनुमानित रोका गया खतरनाक अपशिष्ट",
+    "Maintain analytical results and process integrity as mobile phase is recycled.": "मोबाइल फेज़ का पुनः उपयोग करते समय विश्लेषणात्मक प्रदर्शन और प्रक्रिया नियंत्रणों का आकलन करें।",
+    "Maintain your analytical standards while reducing fresh mobile-phase preparation.": "अपनी विश्लेषणात्मक आवश्यकताओं के अनुसार मोबाइल फेज़ के पुनः उपयोग का आकलन करें।",
+    "One laboratory · measurable prevention over time": "एक प्रयोगशाला · समय के साथ मॉडल के अनुसार रोकथाम",
+    "Price exposure is real. Lower demand limits the volume exposed.": "कम मांग से कीमतों में बदलाव से प्रभावित होने वाली मात्रा सीमित होती है।",
+    "Prices exclude VAT. Support is €120 per month (€1,440 per year).": "संकेतात्मक मूल्यों में VAT शामिल नहीं है। डिफ़ॉल्ट सहायता लागत €120 प्रति माह (€1,440 प्रति वर्ष) है; अपने परिदृश्य में लागू कोटेशन का उपयोग करें।",
+    "Projected financial results depend on your net material and waste reductions. The net cash, ROI and NPV rows deduct the entered equipment, installation and support costs. Gross savings rows and cumulative impact charts remain before investment costs.": "अनुमानित वित्तीय परिणाम सामग्री और अपशिष्ट में आपकी शुद्ध कमी पर निर्भर हैं। शुद्ध नकदी, ROI और NPV की पंक्तियों में दर्ज उपकरण, स्थापना और सहायता की लागत घटाई जाती है। सकल बचत की पंक्तियाँ और संचयी प्रभाव के चार्ट निवेश लागत घटाने से पहले के मान दिखाते हैं। स्थल से जुड़ी किसी भी अन्य लागत का अलग से आकलन करें।",
+    "ReSolve™ draws 0.4 W from the HPLC. Any electricity savings from reduced mobile-phase preparation remain to be measured.": "उत्पाद साहित्य के अनुसार ReSolve™ HPLC से 0.4 W विद्युत शक्ति लेता है। मोबाइल फेज़ की तैयारी कम होने से बिजली की किसी भी बचत को अभी मापा जाना बाकी है।",
+    "ReSolve™ recycles prepared mobile phase for reuse within isocratic HPLC workflows.": "ReSolve™ उपयुक्त आइसोक्रेटिक HPLC वर्कफ़्लो में चयनित तैयार मोबाइल फेज़ को पुनः उपयोग के लिए वापस लौटाता है।",
+    "Recover the baseline.": "पात्र बेसलाइन प्रवाह वापस लौटाएँ।",
+    "Divert the peaks.": "पीक वाले अंशों को अपशिष्ट में भेजें।",
+    "Reduce hazardous waste and CO₂ emissions. Capture the metrics across your labs.": "अपनी सभी प्रयोगशालाओं में खतरनाक अपशिष्ट की रोकथाम का आकलन करें और CO₂e में कमी का अनुमान लगाएँ।",
+    "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.": "मोबाइल फेज़ की लागत घटाने की संभावनाएँ देखें और स्कोप 3 पर प्रभाव का मॉडल बनाएँ।",
+    "Reduce recurring laboratory costs, release analytical capacity and quantify waste and carbon reductions across your laboratory network.": "अपने प्रयोगशाला नेटवर्क में आवर्ती लागतों, विश्लेषकों की क्षमता और अपशिष्ट व कार्बन में संभावित कमी का आकलन करें।",
+    "Sequence 2 · 96 injections (Recycled)": "अनुक्रम 2 · 96 इंजेक्शन (पुनर्चक्रित)",
+    "The study reports equivalent chromatographic performance between the two sequences and no adverse impact from using the recycled mobile phase in Sequence 2.": "मूल्यांकित विधि के लिए अध्ययन दोनों अनुक्रमों में तुलनीय क्रोमैटोग्राफिक प्रदर्शन और अनुक्रम 2 में पुनर्चक्रित मोबाइल फेज़ के उपयोग से कोई प्रतिकूल प्रभाव न होने की सूचना देता है।",
+    "Turn measured prevention into a business case.": "अपनी प्रयोगशाला की धारणाओं के आधार पर व्यावसायिक औचित्य तैयार करें।",
+    "Use your laboratory numbers, operating schedule and costs to model reduced solvent demand, cost avoided and CO₂ reduction over three years.": "प्रयोगशालाओं की संख्या, संचालन समय-सारणी और लागतों के आधार पर तीन वर्षों में ताज़े मोबाइल फेज़ की कम मांग, टाली गई लागत और अनुमानित CO₂e कमी का मॉडल बनाएँ।",
+    "Validate this business case": "इस व्यावसायिक औचित्य की समीक्षा करें",
+    "Validate this business case with Antech": "Antech के साथ इस व्यावसायिक औचित्य की समीक्षा करें",
+    "Waste prevented": "अनुमानित रोका गया अपशिष्ट",
+    "What the investment delivers": "आपके परिदृश्य के अनुमान",
+    "✓ Technical conclusion: analytical performance maintained": "✓ अध्ययन का निष्कर्ष: मूल्यांकित विधि की स्थितियों में विश्लेषणात्मक प्रदर्शन कायम रहा",
+    "No difference in baseline noise/stability was observed. LC/MS found neither analyte in the recycled phase; the source reports waste-phase concentrations of 1,440 ng/mL paracetamol and 530 ng/mL ibuprofen.": "मूल्यांकित विधि में बेसलाइन शोर या स्थिरता में कोई अंतर नहीं देखा गया। LC/MS से पुनर्चक्रित फेज़ में पैरासिटामोल या आइबुप्रोफ़ेन का पता नहीं चला; रिपोर्ट में पहचान की सीमाएँ नहीं दी गई हैं। स्रोत के अनुसार अपशिष्ट फेज़ में पैरासिटामोल की सांद्रता 1,440 ng/mL और आइबुप्रोफ़ेन की सांद्रता 530 ng/mL थी।"
+  },
+  "metadata": {
+    "title": "ReSolve™ | आइसोक्रेटिक HPLC में मोबाइल फेज़ का पुनर्चक्रण | Antech",
+    "description": "उपयुक्त आइसोक्रेटिक HPLC विधियों में ReSolve™ से मोबाइल फेज़ के पुनर्चक्रण को जानें। विश्लेषणात्मक साक्ष्य की समीक्षा करें, लागत और अपशिष्ट का मॉडल बनाएँ तथा विधि के आकलन पर चर्चा करें।"
+  },
+  "blocks": {
+    "Recover the baseline. Divert the peaks.": {
+      "text": "पात्र बेसलाइन प्रवाह वापस लौटाएँ। {0}",
+      "slots": {
+        "0": "पीक वाले अंशों को अपशिष्ट में भेजें।"
+      }
+    }
+  },
+  "numericExceptions": [
+    {
+      "sourceKey": "Example opportunity—subject to validation at each site. The fixed example uses an 80% reduction assumption; 80%+ is not a measured purchasing result. Associated carbon estimates use supplied factors pending verification.",
+      "before": [
+        "80",
+        "80"
+      ],
+      "after": [
+        "80"
+      ],
+      "reason": "Intentional removal of unsupported 80%+ marketing promise/repeated claim; this is not a source measurement, model input or result."
+    },
+    {
+      "sourceKey": "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.",
+      "before": [
+        "80",
+        "3"
+      ],
+      "after": [
+        "3"
+      ],
+      "reason": "Intentional removal of unsupported 80%+ marketing promise/repeated claim; this is not a source measurement, model input or result."
+    }
+  ],
+  "checks": {
+    "sourceKeysUnchanged": true,
+    "all35EnglishSemanticAlignmentsReviewed": true,
+    "numericTokensPreservedExceptIntentionalClaimRemoval": true,
+    "allSourceMeasurementsUnchanged": true,
+    "isocraticTerminologyCorrect": true,
+    "environmentalSustainabilityDistinctFromAnalyticalStability": true,
+    "methodSpecificEvidenceSeparateFromAnnualAssumptions": true,
+    "staffCapacitySeparateFromCashSavings": true,
+    "EURNoConversion": true,
+    "carbonEstimatesQualified": true,
+    "noCertificationOrRegulatoryApprovalClaim": true,
+    "originalPDFAndVideoRemainEnglish": true,
+    "noProductionDeployment": true,
+    "allNumericTokenMultisetsMatchFinalEnglish": true,
+    "asciiScientificDigitsPreserved": true,
+    "sourceDOMInlineSlotsValidated": true,
+    "validatedInlineBlocks": 4,
+    "validatedInlineBlockInstances": 11,
+    "allEightProfileHeadingsReviewed": true,
+    "formsAndSourceDocumentLabelsReviewed": true,
+    "assembledScenarioPromptsReviewed": true
+  },
+  "remainingReview": [
+    "AI-authored language and scientific-copy review; not certified native-speaker, legal or regulatory approval.",
+    "Parent integration owns numeric presentation and final browser layout checks."
+  ],
+  "numericAudit": {
+    "reference": "locales/en.json final values",
+    "entriesChecked": 1429,
+    "numericTokenMultisetMismatches": 0,
+    "note": "Hindi sentence order may move measurements, dates or category labels; every numeric token and precision is retained. Only the two English-approved unsupported 80% claim removals differ from original source keys."
+  },
+  "assembledReview": {
+    "profiles": [
+      "quality",
+      "sustainability",
+      "procurement",
+      "supply-chain",
+      "value",
+      "research",
+      "reports",
+      "across"
+    ],
+    "hero": "Existing complete Hindi hero reviewed and retained: अपने मोबाइल फेज़ का उपयोग जारी रखें।",
+    "supplemental": "All six Hindi supplemental labels reviewed and retained.",
+    "blocks": "All four merged overrides applied in memory to original source DOM; every non-br original child slot occurs exactly once.",
+    "dynamicFragments": "Reviewed cumulative-period labels, scenario prompts, ROI support/discount-rate fragments and result labels; revised fragments to assemble naturally in Hindi."
+  }
+}

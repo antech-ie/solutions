@@ -1,0 +1,1051 @@
+{
+  "locale": "tr",
+  "agent": "/root/language_tr",
+  "status": "reviewed",
+  "reviewedKeys": 1429,
+  "reviewedProfiles": [
+    "quality",
+    "sustainability",
+    "procurement",
+    "supply-chain",
+    "value",
+    "research",
+    "reports",
+    "across"
+  ],
+  "changedEntries": 173,
+  "changes": [
+    {
+      "sourceKey": "% net fresh reduction /",
+      "before": "% net taze faz azalması /",
+      "after": "% net taze mobil faz talebi azalması /"
+    },
+    {
+      "sourceKey": "/L of the whole prepared mobile phase.",
+      "before": "/L hazırlanmış mobil fazın tamamı için.",
+      "after": "/L; hazırlanmış mobil fazın tamamı için."
+    },
+    {
+      "sourceKey": "2,080 paid hours per analyst per year (40 hours/week × 52 weeks). This fixed assumption converts annual salary into a value per preparation person-hour; it is separate from laboratory operating weeks. Employer contributions and benefits are excluded.",
+      "before": "Analist başına yılda 2,080 ücretli saat (40 saat/hafta × 52 hafta). Bu sabit varsayım yıllık maaşı hazırlık kişi-saati değerine dönüştürür; laboratuvarın çalışma haftalarından ayrıdır. İşveren katkıları ve yan haklar hariçtir.",
+      "after": "Analist başına yılda 2,080 ücretli çalışma saati (40 saat/hafta × 52 hafta). Bu sabit varsayım, yıllık maaşı hazırlık işlerinin kişi-saat başına değerine dönüştürür; laboratuvarın yıllık çalışma haftası sayısından bağımsızdır. İşveren katkıları ve yan haklar dahil değildir."
+    },
+    {
+      "sourceKey": "25 records paired with audit starts and finishes on 5 May 2026.",
+      "before": "5 Mayıs 2026 tarihli denetim başlangıç ve bitişleriyle eşleştirilmiş 25 kayıt.",
+      "after": "25 ölçüm kaydı, 5 Mayıs 2026 tarihli denetim izindeki başlangıç ve bitiş olaylarıyla eşleştirilmiştir."
+    },
+    {
+      "sourceKey": "29.09 t CO₂e over three years: production 20.40 t + treatment 8.68 t (rounded).",
+      "before": "Üç yılda 29.09 t CO₂e: üretim 20.40 t + arıtma 8.68 t (yuvarlanmış).",
+      "after": "Üç yılda 29.09 t CO₂e: üretim 20.40 t + işleme 8.68 t (yuvarlanmış)."
+    },
+    {
+      "sourceKey": "37,880 t pharmaceutical-chapter waste; 17,841 t organic solvents, washing liquids and mother liquors",
+      "before": "İlaç sektörü bölümünde 37,880 t atık; 17,841 t organik solvent, yıkama sıvısı ve ana çözelti",
+      "after": "İlaç sektörü atık bölümünde 37,880 t atık; 17,841 t organik solvent, yıkama sıvısı ve ana çözelti"
+    },
+    {
+      "sourceKey": "8.68 t CO₂e from waste treatment.",
+      "before": "Atık arıtmadan 8.68 t CO₂e.",
+      "after": "Atık işlemeden 8.68 t CO₂e."
+    },
+    {
+      "sourceKey": "8.68 t CO₂e · estimated treatment contribution",
+      "before": "8.68 t CO₂e · tahmini arıtma katkısı",
+      "after": "8.68 t CO₂e · tahmini işleme katkısı"
+    },
+    {
+      "sourceKey": "A closer look at ReSolve.",
+      "before": "ReSolve'a yakından bakın.",
+      "after": "ReSolve sistemine yakından bakın."
+    },
+    {
+      "sourceKey": "A fixed one-lab example over three years. Select Model Your Own Scenario to model your laboratories.",
+      "before": "Üç yıllık sabit tek laboratuvar örneği. Laboratuvarlarınızı modellemek için Kendi Senaryonuzu Modelleyin seçeneğini kullanın.",
+      "after": "Üç yıllık sabit bir laboratuvar örneği. Kendi laboratuvarlarınızı modellemek için Kendi Senaryonuzu Modelleyin seçeneğini kullanın."
+    },
+    {
+      "sourceKey": "Account for the full balance",
+      "before": "Tam dengeyi hesaba katın",
+      "after": "Malzeme dengesinin tamamını hesaba katın"
+    },
+    {
+      "sourceKey": "All 25 records are paired with audit starts and finishes. Record 9 retains a one-second difference: summary start 15:06:21; audit start 15:06:20.",
+      "before": "25 kaydın tamamı denetim başlangıç ve bitişleriyle eşleştirilmiştir. Kayıt 9'da bir saniyelik fark korunur: özet başlangıcı 15:06:21; denetim başlangıcı 15:06:20.",
+      "after": "25 kaydın tamamı, denetim izindeki ölçüm başlangıç ve bitiş olaylarıyla eşleştirilmiştir. Kayıt 9'da bir saniyelik fark korunmuştur: özet başlangıcı 15:06:21; denetim izindeki başlangıç 15:06:20."
+    },
+    {
+      "sourceKey": "All labs use the same systems-per-lab count, operating schedule and per-system flow. Disposal cost avoided is calculated from prevented waste volume × disposal cost per litre. Preparation time is valued separately at your entered staff cost; it is not included in material and disposal savings. Equipment, service, consumables and implementation costs are not deducted, in the gross savings figures. The financial projection separately deducts equipment, installation and annual support to calculate net cash, ROI, payback and NPV.",
+      "before": "Tüm laboratuvarlar aynı laboratuvar başına sistem sayısını, çalışma takvimini ve sistem başına akışı kullanır. Önlenen bertaraf maliyeti, önlenen atık hacmi × litre başına bertaraf maliyeti olarak hesaplanır. Hazırlık süresi girilen personel maliyetiyle ayrıca değerlenir; malzeme ve bertaraf tasarrufuna dahil değildir. Ekipman, servis, sarf malzemeleri ve uygulama maliyetleri brüt tasarruflardan düşülmez. Finansal projeksiyon net nakit, yatırım getirisi, geri ödeme ve NBD hesaplamak için ekipman, kurulum ve yıllık desteği ayrıca düşer.",
+      "after": "Tüm laboratuvarlarda laboratuvar başına sistem sayısı, çalışma takvimi ve sistem başına akış aynı kabul edilir. Önlenen bertaraf maliyeti, önlenen atık hacmi × litre başına bertaraf maliyeti olarak hesaplanır. Hazırlık süresi, girdiğiniz personel maliyeti üzerinden ayrıca değerlenir; malzeme ve bertaraf tasarruflarına dahil edilmez. Brüt tasarruflardan ekipman, servis, sarf malzemesi veya uygulama maliyetleri düşülmez. Finansal projeksiyon, modellenen net nakit akışını, yatırım getirisini, geri ödeme süresini ve net bugünkü değeri (NBD) hesaplamak için girilen ekipman, kurulum ve yıllık destek maliyetlerini düşer. Tesise özgü diğer maliyetleri ayrıca değerlendirin."
+    },
+    {
+      "sourceKey": "Analytical acceptance and controlled change; no certification inferred.",
+      "before": "Analitik kabul ve kontrollü değişiklik; sertifikasyon sonucu çıkarılmaz.",
+      "after": "Analitik kabul ve kontrollü değişiklik; ürün sertifikasyonu anlamına gelmez."
+    },
+    {
+      "sourceKey": "Annual cost avoided",
+      "before": "Önlenen yıllık maliyet",
+      "after": "Önlenen tahmini yıllık maliyet"
+    },
+    {
+      "sourceKey": "Antech · Analyse | Understand | Optimise",
+      "before": "Antech · Analiz Et | Anla | İyileştir",
+      "after": "Antech · Analiz Edin | Anlayın | İyileştirin"
+    },
+    {
+      "sourceKey": "Apply the planning reductions below to compare the same workload today and with ReSolve.",
+      "before": "Aynı iş yükünü bugün ve ReSolve ile karşılaştırmak için aşağıdaki planlama azalmalarını uygulayın.",
+      "after": "Aynı iş yükü için mevcut durum ile ReSolve kullanımını karşılaştırırken aşağıdaki azalma varsayımlarını uygulayın."
+    },
+    {
+      "sourceKey": "Arrange a demonstration",
+      "before": "Demonstrasyon planlayın",
+      "after": "Bir uygulama gösterimi planlayın"
+    },
+    {
+      "sourceKey": "Assumed fresh mobile-phase demand prevented:",
+      "before": "Önlenen taze mobil faz talebi varsayımı:",
+      "after": "Önlendiği varsayılan taze mobil faz talebi:"
+    },
+    {
+      "sourceKey": "Audit extracts, change control and site review. Agree actual responsibilities within your organisation.",
+      "before": "Denetim alıntıları, değişiklik kontrolü ve tesis incelemesi. Kuruluşunuzdaki gerçek sorumlulukları kararlaştırın.",
+      "after": "Denetim izinden alınan kayıtlar, değişiklik kontrolü ve tesis incelemesi. Kuruluşunuzdaki sorumlulukları kararlaştırın."
+    },
+    {
+      "sourceKey": "Audit finish",
+      "before": "Denetim bitişi",
+      "after": "Denetim izindeki bitiş"
+    },
+    {
+      "sourceKey": "Audit start",
+      "before": "Denetim başlangıcı",
+      "after": "Denetim izindeki başlangıç"
+    },
+    {
+      "sourceKey": "Audit trail extract",
+      "before": "Denetim izi alıntısı",
+      "after": "Denetim izinden alınan kayıtlar"
+    },
+    {
+      "sourceKey": "Baseline assumes the once-through mobile-phase volume becomes hazardous waste. Enter the variable treatment charge; reconcile the actual site waste balance before using the result.",
+      "before": "Referans, tek geçişli mobil faz hacminin tehlikeli atığa dönüştüğünü varsayar. Değişken arıtma ücretini girin; sonucu kullanmadan önce gerçek tesis atık dengesini uzlaştırın.",
+      "after": "Referans senaryo, tek geçişli mobil faz hacminin tehlikeli atığa dönüştüğünü varsayar. Değişken atık işleme ücretini girin; sonucu kullanmadan önce tesisin gerçek atık dengesini doğrulayın."
+    },
+    {
+      "sourceKey": "Both lines start after the upfront equipment and installation payment. Cash payback assumes savings accrue evenly through the year. NPV uses year-end cash flows discounted at 10%; segments join the annual valuation points. Staff capacity value is excluded from cash returns.",
+      "before": "Her iki çizgi başlangıç ekipman ve kurulum ödemesinden sonra başlar. Nakit geri ödeme, tasarrufların yıl boyunca eşit biriktiğini varsayar. NBD, %10 iskonto edilen yıl sonu nakit akışlarını kullanır; çizgiler yıllık değerleme noktalarını birleştirir. Personel kapasitesi değeri nakit getirilerinden hariçtir.",
+      "after": "Her iki çizgi, başlangıçtaki ekipman ve kurulum ödemesinden sonra başlar. Nakit geri ödeme hesabı, tasarrufların yıl boyunca eşit olarak biriktiğini varsayar. NBD, seçilen iskonto oranıyla (varsayılan %10) indirgenen yıl sonu nakit akışlarını kullanır; çizgi parçaları yıllık değerleme noktalarını birleştirir. Personel kapasitesinin değeri nakit getirilerine dahil edilmez."
+    },
+    {
+      "sourceKey": "Brochure controller example with detector trace and coloured routing intervals",
+      "before": "Dedektör izi ve renkli yönlendirme aralıklarını gösteren broşür kontrolör örneği",
+      "after": "Broşürdeki kontrolör örneği; dedektör sinyal eğrisini ve renkli yönlendirme aralıklarını gösterir"
+    },
+    {
+      "sourceKey": "Brochure diagram connecting the HPLC pump, injector, column and detector to ReSolve, return mobile phase and waste",
+      "before": "HPLC pompasını, enjektörü, kolonu ve dedektörü ReSolve'a, mobil faz dönüşüne ve atığa bağlayan broşür şeması",
+      "after": "HPLC pompasını, enjektörü, kolonu ve dedektörü ReSolve sistemine, mobil faz dönüşüne ve atığa bağlayan broşür şeması"
+    },
+    {
+      "sourceKey": "Brochure flow schematic linking the HPLC system, detector, ReSolve and return or waste paths",
+      "before": "HPLC sistemini, dedektörü, ReSolve'ı ve dönüş veya atık yollarını bağlayan broşür akış şeması",
+      "after": "HPLC sistemini, dedektörü, ReSolve sistemini ve dönüş veya atık yollarını bağlayan broşür akış şeması"
+    },
+    {
+      "sourceKey": "Build resilience with clear operating controls",
+      "before": "Açık işletim kontrolleriyle dayanıklılık oluşturun",
+      "after": "Net işletim kontrolleriyle dayanıklılığı artırın"
+    },
+    {
+      "sourceKey": "Build the evidence around your methods",
+      "before": "Kanıtları metotlarınız etrafında oluşturun",
+      "after": "Metotlarınızı destekleyen kanıtları oluşturun"
+    },
+    {
+      "sourceKey": "CO₂ reduction",
+      "before": "CO₂ azalması",
+      "after": "Tahmini CO₂e azalması"
+    },
+    {
+      "sourceKey": "CO₂:",
+      "before": "CO₂:",
+      "after": "Tahmini CO₂e:"
+    },
+    {
+      "sourceKey": "Capacity released, avoided spend and inventory released are distinct benefits. Do not add them together without checking their financial treatment.",
+      "before": "Serbest kalan kapasite, önlenen harcama ve serbest kalan stok farklı faydalardır. Finansal uygulamalarını kontrol etmeden bunları toplamayın.",
+      "after": "Diğer işlere ayrılabilen kapasite, önlenen harcama ve azalan stok ihtiyacı farklı faydalardır. Finansal açıdan nasıl ele alındıklarını kontrol etmeden bunları toplamayın."
+    },
+    {
+      "sourceKey": "Combined, when equal litres are prevented",
+      "before": "Eşit litre miktarları önlendiğinde birleşik",
+      "after": "Eşit hacimler önlendiğinde birleşik değer"
+    },
+    {
+      "sourceKey": "Compare average stock value at an agreed service level. Avoid treating stock released as recurring annual savings.",
+      "before": "Kararlaştırılan hizmet düzeyinde ortalama stok değerini karşılaştırın. Serbest kalan stoğu tekrarlayan yıllık tasarruf olarak değerlendirmeyin.",
+      "after": "Kararlaştırılan hizmet düzeyinde ortalama stok değerini karşılaştırın. Azalan stok ihtiyacını her yıl tekrarlanan tasarruf olarak değerlendirmeyin."
+    },
+    {
+      "sourceKey": "Conclusion · analytical performance maintained",
+      "before": "Sonuç · analitik performans korundu",
+      "after": "Çalışmanın sonucu · değerlendirilen metot koşullarında analitik performans korundu"
+    },
+    {
+      "sourceKey": "Connect demand prevention to purchasing",
+      "before": "Talep önlemeyi satın almaya bağlayın",
+      "after": "Talepteki azalmayı satın alma planlamasına yansıtın"
+    },
+    {
+      "sourceKey": "Count the handling avoided.",
+      "before": "Önlenen elleçlemeyi sayın.",
+      "after": "Önlenen elleçleme işlemlerini sayın."
+    },
+    {
+      "sourceKey": "Cumulative totals over",
+      "before": "Dönem boyunca kümülatif toplamlar",
+      "after": "Döneme ait kümülatif toplamlar:"
+    },
+    {
+      "sourceKey": "Cumulative totals through year",
+      "before": "Yıl sonuna kadar kümülatif toplamlar",
+      "after": "Kümülatif toplamlar; yıl sonu:"
+    },
+    {
+      "sourceKey": "Days of stock coverage",
+      "before": "Stok karşılama gün sayısı",
+      "after": "Stoğun talebi karşıladığı gün sayısı"
+    },
+    {
+      "sourceKey": "Different population and period from BPCI. The trends must not be combined.",
+      "before": "BPCI'den farklı örneklem ve dönem. Eğilimler birleştirilmemelidir.",
+      "after": "BPCI verilerinden farklı bir örnekleme ve döneme aittir. Eğilimler birleştirilmemelidir."
+    },
+    {
+      "sourceKey": "Discover how ReSolve™ can help your HPLC laboratory reduce mobile-phase consumption, operating costs and solvent waste.",
+      "before": "ReSolve™'ın HPLC laboratuvarınızda mobil faz tüketimini, işletme maliyetlerini ve solvent atığını azaltmaya nasıl yardımcı olabileceğini keşfedin.",
+      "after": "ReSolve™ sisteminin HPLC laboratuvarınızda mobil faz tüketimini, işletme maliyetlerini ve solvent atığını azaltmaya nasıl yardımcı olabileceğini keşfedin."
+    },
+    {
+      "sourceKey": "Discuss ReSolve™ for your lab",
+      "before": "Laboratuvarınız için ReSolve™'ı görüşün",
+      "after": "Laboratuvarınızda ReSolve™ kullanımı hakkında görüşün"
+    },
+    {
+      "sourceKey": "Discuss your laboratory ↗",
+      "before": "Laboratuvarınızı görüşün ↗",
+      "after": "Laboratuvarınızın ihtiyaçlarını görüşün ↗"
+    },
+    {
+      "sourceKey": "Disposal / treatment",
+      "before": "Bertaraf / arıtma",
+      "after": "Bertaraf / işleme"
+    },
+    {
+      "sourceKey": "Divert the peaks.",
+      "before": "Pikleri atığa yönlendirin.",
+      "after": "Pik fraksiyonlarını atığa yönlendirin."
+    },
+    {
+      "sourceKey": "Each bar shows the cumulative total from the start. Gross material cost avoided uses the whole prepared mobile phase; equipment and implementation costs are not deducted. Carbon uses the agreed mobile-phase factors: 3.69 kg CO₂e/L for production and 1.57 kg CO₂e/L for disposal. Transportation is excluded.",
+      "before": "Her çubuk başlangıçtan itibaren kümülatif toplamı gösterir. Önlenen brüt malzeme maliyeti hazırlanmış mobil fazın tamamına dayanır; ekipman ve uygulama maliyetleri düşülmez. Karbon hesabı üzerinde anlaşılan faktörleri kullanır: üretim için 3.69 kg CO₂e/L, bertaraf için 1.57 kg CO₂e/L. Ulaşım hariçtir.",
+      "after": "Her çubuk başlangıçtan itibaren kümülatif toplamı gösterir. Önlenen brüt malzeme maliyeti, hazırlanmış mobil fazın tamamı üzerinden hesaplanır; ekipman ve uygulama maliyetleri düşülmez. Karbon hesabı, üzerinde anlaşılan mobil faz faktörlerini kullanır: üretim için 3.69 kg CO₂e/L ve bertaraf için 1.57 kg CO₂e/L. Taşımacılık hariçtir."
+    },
+    {
+      "sourceKey": "Enter the variable charge in euros per litre of waste sent for treatment. Exclude fixed collection charges that would remain unchanged.",
+      "before": "Arıtmaya gönderilen atığın litresi başına değişken ücreti euro olarak girin. Değişmeden kalacak sabit toplama ücretlerini hariç tutun.",
+      "after": "İşlemeya gönderilen atığın litresi başına değişken ücreti euro olarak girin. Değişmeden kalacak sabit toplama ücretlerini hariç tutun."
+    },
+    {
+      "sourceKey": "Estimate production and waste-treatment emissions separately from the litres prevented.",
+      "before": "Üretim ve atık arıtma emisyonlarını önlenen litre miktarlarından ayrı tahmin edin.",
+      "after": "Önlenen hacimleri kullanarak üretim ve atık işleme emisyonlarını ayrı ayrı tahmin edin."
+    },
+    {
+      "sourceKey": "Estimated CO₂e prevented = fresh prepared mobile phase avoided (L) × 3.69 kg CO₂e/L + waste avoided (L) × 1.57 kg CO₂e/L. Locked user-supplied modelling factors apply to the whole mobile phase; source verification remains separate. Transportation is excluded from these calculations. Inbound deliveries and waste collections will be assessed separately.",
+      "before": "Önlenen tahmini CO₂e = önlenen hazırlanmış taze mobil faz (L) × 3.69 kg CO₂e/L + önlenen atık (L) × 1.57 kg CO₂e/L. Kullanıcının sağladığı sabit modelleme faktörleri mobil fazın tamamına uygulanır; kaynak doğrulaması ayrı tutulur. Bu hesaplamalarda ulaşım hariçtir. Gelen teslimatlar ve atık toplamaları ayrıca değerlendirilecektir.",
+      "after": "Önlenen tahmini CO₂e = hazırlanmasına gerek kalmayan taze mobil faz (L) × 3.69 kg CO₂e/L + önlenen atık (L) × 1.57 kg CO₂e/L. Kullanıcının sağladığı sabit modelleme faktörleri mobil fazın tamamına uygulanır; kaynakların ayrıca doğrulanması gerekir. Taşımacılık bu hesaplamalara dahil değildir. Gelen teslimatlar ve atık toplama işlemleri ayrıca değerlendirilecektir."
+    },
+    {
+      "sourceKey": "Estimated CO₂e prevented = fresh prepared mobile phase avoided × 3.69 + waste avoided × 1.57. These factors apply to whole-mixture litres, without a solvent-share multiplier.",
+      "before": "Önlenen tahmini CO₂e = önlenen hazırlanmış taze mobil faz × 3.69 + önlenen atık × 1.57. Bu faktörler solvent payı çarpanı olmadan tam karışımın litrelerine uygulanır.",
+      "after": "Önlenen tahmini CO₂e = hazırlanmasına gerek kalmayan taze mobil faz × 3.69 + önlenen atık × 1.57. Bu faktörler, solvent payı çarpanı kullanılmadan karışımın toplam hacmine uygulanır."
+    },
+    {
+      "sourceKey": "Estimated production + treatment CO₂e",
+      "before": "Tahmini üretim + arıtma CO₂e",
+      "after": "Tahmini üretim + işleme CO₂e"
+    },
+    {
+      "sourceKey": "Estimated treatment CO₂e",
+      "before": "Tahmini arıtma CO₂e",
+      "after": "Tahmini işleme CO₂e"
+    },
+    {
+      "sourceKey": "Example assumption: baseline preparation time indexed at 100, with recycling indexed at 70. A 30 percent reduction, not a measured result.",
+      "before": "Örnek varsayım: referans hazırlık süresi 100, geri dönüşümle 70 endekslenmiştir. %30 azalma; ölçülmüş bir sonuç değildir.",
+      "after": "Örnek varsayım: hazırlık süresi referans senaryoda 100, geri dönüşümle 70 olarak endekslenmiştir. Bu %30 azalma ölçülmüş bir sonuç değildir."
+    },
+    {
+      "sourceKey": "Example opportunity—subject to validation at each site. The fixed example uses an 80% reduction assumption; 80%+ is not a measured purchasing result. Associated carbon estimates use supplied factors pending verification.",
+      "before": "Örnek fırsat — her tesiste validasyona tabidir. Sabit örnek %80 azalma varsayımı kullanır; %80+ ölçülmüş bir satın alma sonucu değildir. İlgili karbon tahminleri doğrulama bekleyen sağlanmış faktörleri kullanır.",
+      "after": "Sabit örnekte, taze mobil faz talebinde ve atıkta %80 net azalma varsayılmıştır. Bunlar ölçülen satın alma sonuçları değil, planlama varsayımlarıdır. İlgili karbon tahminleri, doğrulanması gereken ve kullanıcı tarafından sağlanan faktörlere dayanır."
+    },
+    {
+      "sourceKey": "Existing example assumption, not measured. If baseline preparation takes H hours, potential time released is 0.3 × H. No absolute hours or labour saving claimed without a time study.",
+      "before": "Mevcut örnek varsayım; ölçülmemiştir. Referans hazırlık H saat sürüyorsa olası serbest kalan süre 0.3 × H olur. Zaman etüdü olmadan mutlak saat veya işçilik tasarrufu iddia edilmez.",
+      "after": "Mevcut örneğe ait varsayımdır; ölçülmüş bir sonuç değildir. Referans hazırlık süresi H saat ise diğer işlere ayrılabilecek süre 0.3 × H olur. Zaman etüdü olmadan saat cinsinden kesin bir süre veya işçilik tasarrufu iddia edilmez."
+    },
+    {
+      "sourceKey": "Explore ReSolve from your perspective.",
+      "before": "ReSolve'ı kendi bakış açınızdan keşfedin.",
+      "after": "ReSolve sistemini kendi bakış açınızdan keşfedin."
+    },
+    {
+      "sourceKey": "Explore ReSolve in your language",
+      "before": "ReSolve'ı kendi dilinizde keşfedin",
+      "after": "ReSolve sistemini kendi dilinizde keşfedin"
+    },
+    {
+      "sourceKey": "Explore ReSolve™ for your laboratory",
+      "before": "Laboratuvarınız için ReSolve™'ı keşfedin",
+      "after": "Laboratuvarınız için ReSolve™ sistemini keşfedin"
+    },
+    {
+      "sourceKey": "Explore how ReSolve was evaluated. The 24-page white paper brings together the experimental method, measured recovery and chromatographic results.",
+      "before": "ReSolve'ın nasıl değerlendirildiğini inceleyin. 24 sayfalık teknik rapor deneysel metodu, ölçülmüş geri kazanımı ve kromatografik sonuçları bir araya getirir.",
+      "after": "ReSolve sisteminin nasıl değerlendirildiğini inceleyin. 24 sayfalık teknik rapor deneysel metodu, ölçülmüş geri kazanımı ve kromatografik sonuçları bir araya getirir."
+    },
+    {
+      "sourceKey": "Fewer fresh mobile-phase preparations can reduce opportunities for weighing, mixing and pH-adjustment errors.",
+      "before": "Daha az taze mobil faz hazırlamak tartma, karıştırma ve pH ayarlama hataları için fırsatları azaltabilir.",
+      "after": "Taze mobil fazın daha seyrek hazırlanması, tartma, karıştırma ve pH ayarlama hatalarının oluşma olasılığını azaltabilir."
+    },
+    {
+      "sourceKey": "Fixed planning assumptions applied to your laboratory baseline. Actual improvements require site validation. Staff capacity value is shown separately from cash savings.",
+      "before": "Laboratuvar referansınıza uygulanan sabit planlama varsayımları. Gerçek iyileşmeler tesis validasyonu gerektirir. Personel kapasitesi değeri nakit tasarruflarından ayrı gösterilir.",
+      "after": "Laboratuvarınızın referans değerlerine uygulanan sabit planlama varsayımlarıdır. Gerçek iyileşmeler tesis bazında doğrulanmalıdır. Personel kapasitesinin değeri nakit tasarruflarından ayrı gösterilir."
+    },
+    {
+      "sourceKey": "For a separate estimate of material, disposal and carbon savings,",
+      "before": "Malzeme, bertaraf ve karbon tasarrufunun ayrı tahmini için,",
+      "after": "Malzeme, bertaraf ve karbon tasarrufunu ayrı ayrı tahmin etmek için"
+    },
+    {
+      "sourceKey": "For the evaluated method, the study reported no observed difference in baseline noise or stability, and no detectable paracetamol or ibuprofen in recycled phase by LC/MS.",
+      "before": "Değerlendirilen metotta baz çizgisi gürültüsü veya kararlılığında fark gözlenmediği, geri dönüştürülmüş fazda LC/MS ile saptanabilir parasetamol veya ibuprofen bulunmadığı bildirilmiştir.",
+      "after": "Çalışmada, değerlendirilen metot için baz çizgisi gürültüsünde veya kararlılığında fark gözlenmediği ve geri dönüştürülmüş fazda LC/MS ile parasetamol veya ibuprofen saptanmadığı bildirilmiştir."
+    },
+    {
+      "sourceKey": "Fresh mobile phase avoided",
+      "before": "Önlenen taze mobil faz",
+      "after": "Kullanımına gerek kalmayan taze mobil faz"
+    },
+    {
+      "sourceKey": "Fresh mobile phase avoided:",
+      "before": "Önlenen taze mobil faz:",
+      "after": "Kullanımına gerek kalmayan taze mobil faz:"
+    },
+    {
+      "sourceKey": "Fresh source vial",
+      "before": "Taze faz kaynak viali",
+      "after": "Taze mobil fazın kaynak viali"
+    },
+    {
+      "sourceKey": "Geopolitical tensions, conflict, changing trade policies and disruption to major shipping routes are making global supply chains more uncertain. Rerouting, volatile freight costs and unpredictable lead times make replenishment harder to plan.",
+      "before": "Jeopolitik gerilimler, çatışmalar, değişen ticaret politikaları ve ana deniz yollarındaki kesintiler küresel tedarik zincirlerini daha belirsiz hale getiriyor. Rota değişiklikleri, oynak navlun maliyetleri ve öngörülemeyen teslim süreleri stok yenileme planlamasını zorlaştırıyor.",
+      "after": "Jeopolitik gerilimler, çatışmalar, değişen ticaret politikaları ve ana deniz yollarındaki kesintiler stok yenileme planlamasını zorlaştırabilir. Kendi tedarikçi ağınızı, taşıma rotalarınızı ve stok politikanızı bu riskler açısından değerlendirin."
+    },
+    {
+      "sourceKey": "Hazardous waste prevented",
+      "before": "Önlenen tehlikeli atık",
+      "after": "Önlenen tahmini tehlikeli atık"
+    },
+    {
+      "sourceKey": "Help insulate your labs against solvent price volatility and supply disruption.",
+      "before": "Laboratuvarlarınızı solvent fiyat oynaklığına ve tedarik kesintilerine karşı korumaya yardımcı olun.",
+      "after": "Solvent fiyatlarındaki dalgalanmalara ve tedarik kesintilerine karşı laboratuvarlarınızın dayanıklılığını artırın."
+    },
+    {
+      "sourceKey": "Hover a point for the sample number, source vial number and measured value. The vertical axis adjusts to the observed range; it is not an acceptance-limit band. Values retain the precision reported in the appendix.",
+      "before": "Numune numarasını, kaynak vial numarasını ve ölçülen değeri görmek için bir noktanın üzerine gelin. Dikey eksen gözlenen aralığa uyarlanır; kabul sınırı bandı değildir. Değerler ekte bildirilen hassasiyeti korur.",
+      "after": "Numune numarasını, kaynak vial numarasını ve ölçülen değeri görmek için bir noktanın üzerine gelin. Dikey eksen gözlenen aralığa uyarlanır; kabul sınırlarını gösteren bir bant değildir. Değerler ekte bildirilen sayısal hassasiyeti korur."
+    },
+    {
+      "sourceKey": "If your organisation owns or controls the incineration facility, the direct treatment emissions fall under Scope 1 rather than Scope 3 Category 5.",
+      "before": "Kuruluşunuz yakma tesisinin sahibi veya kontrol edeni ise doğrudan arıtma emisyonları Kapsam 3 Kategori 5 yerine Kapsam 1'e girer.",
+      "after": "Kuruluşunuz yakma tesisinin sahibi ise veya tesisi kontrol ediyorsa doğrudan atık işleme emisyonları Kapsam 3 Kategori 5 yerine Kapsam 1'e girer."
+    },
+    {
+      "sourceKey": "Include rejected fractions, top-ups, cleaning and final reservoir disposal in the result.",
+      "before": "Reddedilen fraksiyonları, tamamlamaları, temizliği ve rezervuarın son bertarafını sonuca dahil edin.",
+      "after": "Atığa ayrılan fraksiyonları, eklenen taze fazı, temizliği ve rezervuarda kalan sıvının son bertarafını sonuca dahil edin."
+    },
+    {
+      "sourceKey": "Indicative investment per unit",
+      "before": "Birim başına gösterge yatırım",
+      "after": "Cihaz başına yaklaşık yatırım tutarı"
+    },
+    {
+      "sourceKey": "Irish hazardous waste · 2024",
+      "before": "İrlanda tehlikeli atığı · 2024",
+      "after": "İrlanda'daki tehlikeli atık · 2024"
+    },
+    {
+      "sourceKey": "Keep your mobile",
+      "before": "Mobil fazınızı",
+      "after": "Mobil"
+    },
+    {
+      "sourceKey": "L/year across",
+      "before": "L/yıl genelinde",
+      "after": "L/yıl; kapsam:"
+    },
+    {
+      "sourceKey": "Less mobile-phase preparation and replenishment can free analysts for testing, investigations and method development, increasing available laboratory capacity. Confirm the time released against your current workflow.",
+      "before": "Daha az mobil faz hazırlama ve tamamlama; analistleri test, inceleme ve metot geliştirmeye ayırarak mevcut laboratuvar kapasitesini artırabilir. Serbest kalan süreyi mevcut iş akışınıza göre doğrulayın.",
+      "after": "Mobil faz hazırlama ve tamamlama ihtiyacının azalması, analistlerin testlere, incelemelere ve metot geliştirmeye daha fazla zaman ayırmasını sağlayarak kullanılabilir laboratuvar kapasitesini artırabilir. Diğer işlere ayrılabilen süreyi mevcut iş akışınıza göre doğrulayın."
+    },
+    {
+      "sourceKey": "Lower delivery and waste-collection demand may reduce transport emissions. Transportation is excluded from the figures shown and requires route, shipment-weight and transport-factor data.",
+      "before": "Daha az teslimat ve atık toplama talebi ulaşım emisyonlarını azaltabilir. Ulaşım gösterilen rakamlardan hariçtir; rota, sevkiyat ağırlığı ve taşıma faktörü verileri gerektirir.",
+      "after": "Daha az teslimat ve atık toplama ihtiyacı, taşımacılık emisyonlarını azaltabilir. Taşımacılık gösterilen rakamlara dahil değildir; rota, sevkiyat ağırlığı ve taşıma emisyon faktörleriyle ayrıca hesaplanmalıdır."
+    },
+    {
+      "sourceKey": "Lower material demand can reduce purchasing exposure, ease replenishment pressure and free preparation time. The value spans sustainability, supply chain, procurement and laboratory operations.",
+      "before": "Daha düşük malzeme talebi satın alma maruziyetini ve tamamlama baskısını azaltıp hazırlık süresini serbest bırakabilir. Değer; sürdürülebilirlik, tedarik zinciri, satın alma ve laboratuvar operasyonlarına yayılır.",
+      "after": "Malzeme talebinin azalması satın alma risklerini ve stok yenileme baskısını azaltabilir, hazırlığa ayrılan süreyi serbest bırakabilir. Bu faydalar sürdürülebilirlik, tedarik zinciri, satın alma ve laboratuvar operasyonlarını kapsar."
+    },
+    {
+      "sourceKey": "Lower waste volume and associated treatment cost.",
+      "before": "Daha az atık hacmi ve ilişkili arıtma maliyeti.",
+      "after": "Daha az atık hacmi ve ilişkili işleme maliyeti."
+    },
+    {
+      "sourceKey": "MORE USE FROM EVERY SUITABLE PREPARATION",
+      "before": "HER UYGUN HAZIRLIKTAN DAHA FAZLA KULLANIM",
+      "after": "UYGUN OLARAK HAZIRLANAN HER MOBİL FAZDAN DAHA FAZLA YARARLANIN"
+    },
+    {
+      "sourceKey": "Maintain analytical results and process integrity as mobile phase is recycled.",
+      "before": "Mobil faz geri dönüştürülürken analitik sonuçları ve proses bütünlüğünü koruyun.",
+      "after": "Mobil fazı yeniden kullanırken analitik performansı ve proses kontrollerini değerlendirin."
+    },
+    {
+      "sourceKey": "Maintain your analytical standards while reducing fresh mobile-phase preparation.",
+      "before": "Taze mobil faz hazırlığını azaltırken analitik standartlarınızı koruyun.",
+      "after": "Mobil fazın yeniden kullanımını analitik gerekliliklerinize göre değerlendirin."
+    },
+    {
+      "sourceKey": "Mass assumes a waste density of 1.00 kg/L. Use the measured mixture density for reporting. Original recorded volumes remain in mL in the table above.",
+      "before": "Kütle hesabı 1.00 kg/L atık yoğunluğu varsayar. Raporlama için ölçülen karışım yoğunluğunu kullanın. Orijinal kayıtlı hacimler yukarıdaki tabloda mL olarak korunur.",
+      "after": "Kütle hesabında atık yoğunluğu 1.00 kg/L varsayılır. Raporlama için ölçülen karışım yoğunluğunu kullanın. Kaydedilen orijinal hacimler yukarıdaki tabloda mL cinsinden korunmuştur."
+    },
+    {
+      "sourceKey": "Material and disposal savings shown separately from the value of staff capacity released. Capacity is not an additional cash saving unless staffing costs are actually avoided.",
+      "before": "Malzeme ve bertaraf tasarrufları serbest kalan personel kapasitesi değerinden ayrı gösterilir. Personel maliyetleri gerçekten önlenmedikçe kapasite ek nakit tasarrufu değildir.",
+      "after": "Malzeme ve bertaraf tasarrufları, diğer işlere ayrılabilen personel kapasitesinin değerinden ayrı gösterilir. Personel maliyetleri gerçekten azalmadıkça bu kapasite ek nakit tasarrufu oluşturmaz."
+    },
+    {
+      "sourceKey": "Measured diverted fraction; not a net prevention claim",
+      "before": "Ölçülen yönlendirilmiş fraksiyon; net önleme iddiası değildir",
+      "after": "Ölçülen, atığa yönlendirilen fraksiyon; net atık önleme iddiası değildir"
+    },
+    {
+      "sourceKey": "Mobile Phase Related Costs",
+      "before": "Mobil Fazla İlgili Maliyetler",
+      "after": "Mobil Faz ile İlgili Maliyetler"
+    },
+    {
+      "sourceKey": "Mobile-phase production and waste treatment. Transportation excluded.",
+      "before": "Mobil faz üretimi ve atık arıtma. Ulaşım hariçtir.",
+      "after": "Mobil faz üretimi ve atık işleme. Ulaşım hariçtir."
+    },
+    {
+      "sourceKey": "More analyst time available for other work.",
+      "before": "Diğer işler için daha fazla analist süresi.",
+      "after": "Diğer işlere ayrılabilecek daha fazla analist süresi."
+    },
+    {
+      "sourceKey": "No deterioration in analytical performance was observed with recycled mobile phase in the evaluated SETU method.",
+      "before": "Değerlendirilen SETU metodunda geri dönüştürülmüş mobil fazla analitik performansta bozulma gözlenmemiştir.",
+      "after": "Değerlendirilen SETU metodunda geri dönüştürülmüş mobil faz kullanıldığında analitik performansta bozulma gözlenmemiştir."
+    },
+    {
+      "sourceKey": "No difference in baseline noise/stability was observed. LC/MS found neither analyte in the recycled phase; the source reports waste-phase concentrations of 1,440 ng/mL paracetamol and 530 ng/mL ibuprofen.",
+      "before": "Baz çizgisi gürültüsü/kararlılığında fark gözlenmemiştir. LC/MS geri dönüştürülmüş fazda her iki analiti de bulmamıştır; kaynak, atık fazda 1,440 ng/mL parasetamol ve 530 ng/mL ibuprofen bildirir.",
+      "after": "Değerlendirilen metotta baz çizgisi gürültüsünde veya kararlılığında fark gözlenmemiştir. LC/MS ile geri dönüştürülmüş fazda parasetamol veya ibuprofen saptanmamıştır; raporda saptama sınırları belirtilmemiştir. Kaynak, atık fazda parasetamol konsantrasyonunu 1,440 ng/mL, ibuprofen konsantrasyonunu ise 530 ng/mL olarak bildirir."
+    },
+    {
+      "sourceKey": "One laboratory · measurable prevention over time",
+      "before": "Bir laboratuvar · zaman içinde ölçülebilir önleme",
+      "after": "Bir laboratuvar · zaman içinde modellenen atık önleme"
+    },
+    {
+      "sourceKey": "Original reported precision retained. Volumes describe recorded flow through the system.",
+      "before": "Bildirilen orijinal hassasiyet korunmuştur. Hacimler sistemden kaydedilen akışı tanımlar.",
+      "after": "Kaynakta bildirilen sayısal hassasiyet korunmuştur. Hacimler, sistemden geçtiği kaydedilen akışı tanımlar."
+    },
+    {
+      "sourceKey": "Owned/controlled waste treatment may fall in Scope 1 instead of Category 5. Purchased electricity belongs in Scope 2; measure any change before claiming a benefit.",
+      "before": "Sahip olunan/kontrol edilen atık arıtma Kategori 5 yerine Kapsam 1'e girebilir. Satın alınan elektrik Kapsam 2'ye aittir; fayda iddia etmeden önce her değişikliği ölçün.",
+      "after": "Sahip olunan/kontrol edilen atık işleme Kategori 5 yerine Kapsam 1'e girebilir. Satın alınan elektrik Kapsam 2'ye aittir; fayda iddia etmeden önce her değişikliği ölçün."
+    },
+    {
+      "sourceKey": "PMBrc / SETU report BM22072026, Figure 3, pages 9–10. Plots are reproduced at their original scales; they are not a reconstructed overlay.",
+      "before": "PMBrc / SETU raporu BM22072026, Şekil 3, sayfa 9–10. Grafikler orijinal ölçeklerinde yeniden verilmiştir; yeniden oluşturulmuş üst üste grafik değildir.",
+      "after": "PMBrc / SETU raporu BM22072026, Şekil 3, sayfa 9–10. Grafikler orijinal ölçekleriyle sunulmuştur; yeniden oluşturularak üst üste bindirilmiş eğriler değildir."
+    },
+    {
+      "sourceKey": "Pharmaceutical-chapter waste −11%",
+      "before": "İlaç sektörü bölümündeki atık −%11",
+      "after": "İlaç sektörü atık bölümündeki atık −%11"
+    },
+    {
+      "sourceKey": "Planning defaults are 80% net fresh-demand reduction and 80% net waste reduction, entered separately. Neither is a measured site result. The study’s 94.4809% routing recovery is evidence for the tested method, not the annual savings input. Repeated reuse is not an extra multiplier.",
+      "before": "Planlama varsayılanları, ayrı girilen taze faz talebinde %80 net azalma ve atıkta %80 net azalmadır. İkisi de ölçülmüş tesis sonucu değildir. Çalışmadaki %94.4809 yönlendirme geri kazanımı test edilen metot için kanıttır, yıllık tasarruf girdisi değildir. Tekrarlı yeniden kullanım ek çarpan değildir.",
+      "after": "Varsayılan planlama girdileri, ayrı ayrı girilen taze mobil faz talebinde %80 net azalma ve atıkta %80 net azalmadır. İkisi de ölçülmüş tesis sonucu değildir. Çalışmadaki %94.4809 akış yönlendirme geri kazanımı, test edilen metot için kanıttır; yıllık tasarruf girdisi değildir. Tekrarlı yeniden kullanım ek bir çarpan olarak uygulanmaz."
+    },
+    {
+      "sourceKey": "Potentially fewer deliveries, preparation cycles, handling events and waste collections. These depend on actual operational changes and are not added to the material-cost figure.",
+      "before": "Olası olarak daha az teslimat, hazırlık döngüsü, elleçleme olayı ve atık toplama. Bunlar gerçek işletim değişikliklerine bağlıdır ve malzeme maliyetine eklenmez.",
+      "after": "Teslimatların, hazırlık döngülerinin, elleçleme işlemlerinin ve atık toplamaların sayısı azalabilir. Bu faydalar gerçek işletim değişikliklerine bağlıdır ve malzeme maliyeti rakamına eklenmez."
+    },
+    {
+      "sourceKey": "Preparation labour value represents staff time valued at the entered annual salary and annual paid hours. Releasing time does not automatically reduce payroll: the cash-cost comparison includes materials and disposal only. Equipment, implementation, additional operating costs and transport are excluded. Production and treatment CO₂e use the model’s supplied factors; this is a scenario, not a verified footprint.",
+      "before": "Hazırlık işçilik değeri, girilen yıllık maaş ve yıllık ücretli saatlerle değerlenen personel süresini temsil eder. Sürenin serbest kalması maaş giderini otomatik azaltmaz: nakit maliyet karşılaştırması yalnızca malzeme ve bertarafı kapsar. Ekipman, uygulama, ek işletim maliyetleri ve ulaşım hariçtir. Üretim ve arıtma CO₂e hesabı modelin sağlanan faktörlerini kullanır; bu bir senaryodur, doğrulanmış ayak izi değildir.",
+      "after": "Hazırlık işçilik değeri, girilen yıllık maaş ve yıllık ücretli saatlerle değerlenen personel süresini temsil eder. Sürenin serbest kalması maaş giderini otomatik azaltmaz: nakit maliyet karşılaştırması yalnızca malzeme ve bertarafı kapsar. Ekipman, uygulama, ek işletim maliyetleri ve ulaşım hariçtir. Üretim ve işleme CO₂e hesabı modelin sağlanan faktörlerini kullanır; bu bir senaryodur, doğrulanmış ayak izi değildir."
+    },
+    {
+      "sourceKey": "Preparation person-hours available for other work. Uses your entered weekly hours and separate time-reduction assumption; not automatically a payroll saving.",
+      "before": "Diğer işler için kullanılabilir hazırlık kişi-saatleri. Girilen haftalık saatleri ve ayrı süre azalma varsayımını kullanır; otomatik maaş tasarrufu değildir.",
+      "after": "Diğer işlere ayrılabilecek hazırlık kişi-saatleri. Girdiğiniz haftalık saatler ve ayrı süre azalma varsayımı kullanılır; maaş giderlerinde otomatik tasarruf anlamına gelmez."
+    },
+    {
+      "sourceKey": "Prepared mobile-phase cost avoided",
+      "before": "Önlenen hazırlanmış mobil faz maliyeti",
+      "after": "Hazırlanmış mobil faz için önlenen maliyet"
+    },
+    {
+      "sourceKey": "Price exposure is real. Lower demand limits the volume exposed.",
+      "before": "Fiyat maruziyeti gerçektir. Daha az talep maruz kalan hacmi sınırlar.",
+      "after": "Daha düşük talep, fiyat değişimlerinden etkilenen hacmi sınırlar."
+    },
+    {
+      "sourceKey": "Prices exclude VAT. Support is €120 per month (€1,440 per year).",
+      "before": "Fiyatlar KDV hariçtir. Destek aylık €120 (yıllık €1,440) tutarındadır.",
+      "after": "Yaklaşık fiyatlara KDV dahil değildir. Varsayılan destek tutarı aylık €120 (yıllık €1,440) olarak alınmıştır; senaryonuzda geçerli fiyat teklifini kullanın."
+    },
+    {
+      "sourceKey": "Primary = a direct benefit or decision interest. Shared = a supporting interest. This is a discussion map, not a prescribed ownership model.",
+      "before": "Birincil = doğrudan fayda veya karar ilgisi. Paylaşılan = destekleyici ilgi. Bu bir tartışma haritasıdır, zorunlu sorumluluk modeli değildir.",
+      "after": "Birincil = doğrudan fayda veya kararla doğrudan ilgili alan. Paylaşılan = destekleyici ilgi alanı. Bu harita görüşmelere yöneliktir; zorunlu bir sorumluluk modeli değildir."
+    },
+    {
+      "sourceKey": "Prioritise solvents with unreliable availability, variable lead times or meaningful laboratory demand. Assess geopolitical, transport and weather-related exposure within your own supply network.",
+      "before": "Bulunabilirliği güvenilmez, teslim süresi değişken veya laboratuvar talebi önemli solventlere öncelik verin. Kendi tedarik ağınızdaki jeopolitik, taşıma ve hava koşulları maruziyetini değerlendirin.",
+      "after": "Tedariki güvenilir olmayan, teslim süresi değişken olan veya laboratuvarınızda önemli miktarda kullanılan solventlere öncelik verin. Kendi tedarik ağınızı jeopolitik koşullar, taşımacılık ve hava olayları kaynaklı riskler açısından değerlendirin."
+    },
+    {
+      "sourceKey": "Production: 5,529.6 L × 3.69 kg CO₂e/L. Treatment: 5,529.6 L × 1.57 kg CO₂e/L. Total calculated before rounding. Factors are user-supplied modelling assumptions for the whole prepared mobile phase; applicability requires verification. Does not include transportation.",
+      "before": "Üretim: 5,529.6 L × 3.69 kg CO₂e/L. Arıtma: 5,529.6 L × 1.57 kg CO₂e/L. Toplam yuvarlamadan önce hesaplanır. Faktörler hazırlanmış mobil fazın tamamı için kullanıcı tarafından sağlanan model varsayımlarıdır; uygulanabilirlik doğrulama gerektirir. Ulaşım dahil değildir.",
+      "after": "Üretim: 5,529.6 L × 3.69 kg CO₂e/L. İşleme: 5,529.6 L × 1.57 kg CO₂e/L. Toplam yuvarlamadan önce hesaplanır. Faktörler hazırlanmış mobil fazın tamamı için kullanıcı tarafından sağlanan model varsayımlarıdır; uygulanabilirlik doğrulama gerektirir. Ulaşım dahil değildir."
+    },
+    {
+      "sourceKey": "Projected financial results depend on your net material and waste reductions. The net cash, ROI and NPV rows deduct the entered equipment, installation and support costs. Gross savings rows and cumulative impact charts remain before investment costs.",
+      "before": "Öngörülen finansal sonuçlar net malzeme ve atık azalmanıza bağlıdır. Net nakit, yatırım getirisi ve NBD satırları girilen ekipman, kurulum ve destek maliyetlerini düşer. Brüt tasarruf satırları ve kümülatif etki grafikleri yatırım maliyetlerinden önceki değerlerdir.",
+      "after": "Öngörülen finansal sonuçlar, malzeme ve atıktaki net azalmanıza bağlıdır. Net nakit, yatırım getirisi ve NBD satırlarında girilen ekipman, kurulum ve destek maliyetleri düşülür. Brüt tasarruf satırları ve kümülatif etki grafikleri, yatırım maliyetleri düşülmeden önceki değerleri gösterir. Tesise özgü diğer maliyetleri ayrıca değerlendirin."
+    },
+    {
+      "sourceKey": "ReSolve™ draws 0.4 W from the HPLC. Any electricity savings from reduced mobile-phase preparation remain to be measured.",
+      "before": "ReSolve™ HPLC'den 0.4 W çeker. Mobil faz hazırlığının azalmasından kaynaklanabilecek elektrik tasarrufları henüz ölçülmelidir.",
+      "after": "Ürün belgelerinde ReSolve™ sisteminin HPLC'den 0.4 W güç çektiği belirtilmektedir. Mobil faz hazırlığının azalmasından kaynaklanabilecek elektrik tasarrufları henüz ölçülmemiştir."
+    },
+    {
+      "sourceKey": "ReSolve™ recycles prepared mobile phase for reuse within isocratic HPLC workflows.",
+      "before": "ReSolve™ hazırlanmış mobil fazı izokratik HPLC iş akışlarında yeniden kullanım için geri dönüştürür.",
+      "after": "ReSolve™, uygun izokratik HPLC iş akışlarında yeniden kullanılmak üzere seçilen hazırlanmış mobil fazı sisteme geri döndürür."
+    },
+    {
+      "sourceKey": "ReSolve™ recycles prepared mobile phase within the isocratic HPLC workflow. The circular opportunity is to reduce fresh input and prevent hazardous waste while maintaining the analytical requirements of the method.",
+      "before": "ReSolve™ hazırlanmış mobil fazı izokratik HPLC iş akışı içinde geri dönüştürür. Döngüsel fırsat, metodun analitik gerekliliklerini korurken taze girişi ve tehlikeli atığı azaltmaktır.",
+      "after": "ReSolve™, izokratik HPLC iş akışı içinde hazırlanmış mobil fazı yeniden kullanıma yönlendirir. Döngüsellik fırsatı, metodun analitik gerekliliklerini karşılayarak taze mobil faz girişini azaltmak ve tehlikeli atığı önlemektir."
+    },
+    {
+      "sourceKey": "Record 9 has a one-second difference between the summary start and audit start.",
+      "before": "Kayıt 9'da özet başlangıcı ile denetim başlangıcı arasında bir saniyelik fark vardır.",
+      "after": "Kayıt 9'da özet başlangıcı ile denetim izindeki başlangıç arasında bir saniyelik fark vardır."
+    },
+    {
+      "sourceKey": "Recover the baseline.",
+      "before": "Baz çizgisi akışını geri kazanın.",
+      "after": "Uygun baz çizgisi akışını geri döndürün."
+    },
+    {
+      "sourceKey": "Recycle prepared mobile phase within isocratic HPLC workflows, with a clear evidence trail from laboratory activity to waste, cost and estimated carbon prevention.",
+      "before": "İzokratik HPLC iş akışlarında hazırlanmış mobil fazı geri dönüştürün; laboratuvar faaliyetinden atık, maliyet ve tahmini karbon önlemeye uzanan açık bir kanıt izi oluşturun.",
+      "after": "İzokratik HPLC iş akışlarında hazırlanmış mobil fazı yeniden kullanın; laboratuvar faaliyetlerinden atık ve maliyet önlemeye, tahmini karbon azalmasına kadar izlenebilir bir kanıt zinciri oluşturun."
+    },
+    {
+      "sourceKey": "Recycled source vial",
+      "before": "Geri dönüştürülmüş faz kaynak viali",
+      "after": "Geri dönüştürülmüş mobil fazın kaynak viali"
+    },
+    {
+      "sourceKey": "Recycling can reduce replenishment interventions and support extended analytical runs.",
+      "before": "Geri dönüşüm tamamlama müdahalelerini azaltabilir ve daha uzun analitik çalışmaları destekleyebilir.",
+      "after": "Mobil fazın yeniden kullanımı, tamamlama müdahalelerini azaltabilir ve daha uzun analitik çalışmaları destekleyebilir."
+    },
+    {
+      "sourceKey": "Reduce hazardous waste and CO₂ emissions. Capture the metrics across your labs.",
+      "before": "Tehlikeli atığı ve CO₂ emisyonlarını azaltın. Ölçütleri laboratuvarlarınız genelinde kaydedin.",
+      "after": "Laboratuvarlarınız genelinde tehlikeli atık önleme olanaklarını değerlendirin ve CO₂e azalmalarını tahmin edin."
+    },
+    {
+      "sourceKey": "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.",
+      "before": "Kapsam 3 emisyonlarını azaltırken laboratuvar solvent maliyetlerini %80+ düşürün.",
+      "after": "Mobil faz maliyetlerini azaltma olanaklarını inceleyin ve Kapsam 3 etkisini modelleyin."
+    },
+    {
+      "sourceKey": "Reduce recurring laboratory costs, release analytical capacity and quantify waste and carbon reductions across your laboratory network.",
+      "before": "Laboratuvar ağınızda tekrarlayan maliyetleri azaltın, analitik kapasiteyi serbest bırakın, atık ve karbon azalmalarını nicelleştirin.",
+      "after": "Laboratuvar ağınızdaki düzenli maliyetleri, analist kapasitesini ve olası atık ve karbon azalmalarını inceleyin."
+    },
+    {
+      "sourceKey": "Reduce reliance on fresh solvent to limit exposure to price increases, make existing stocks last longer and support testing continuity when deliveries become less predictable.",
+      "before": "Fiyat artışı maruziyetini sınırlamak, mevcut stokları uzatmak ve teslimatlar daha az öngörülebilirken test sürekliliğini desteklemek için taze solvent bağımlılığını azaltın.",
+      "after": "Fiyat artışlarından daha az etkilenmek, mevcut stokların daha uzun süre yetmesini sağlamak ve teslimatlar daha az öngörülebilir hale geldiğinde test sürekliliğini desteklemek için taze solvent bağımlılığını azaltın."
+    },
+    {
+      "sourceKey": "Reduced hazardous waste treated by external contractors. Confirm the actual treatment route and the net waste reduction, including final disposal.",
+      "before": "Harici yüklenicilerin arıttığı daha az tehlikeli atık. Son bertaraf dahil gerçek arıtma yolunu ve net atık azalmasını doğrulayın.",
+      "after": "Harici yüklenicilerin işlediği daha az tehlikeli atık. Son bertaraf dahil gerçek işleme yolunu ve net atık azalmasını doğrulayın."
+    },
+    {
+      "sourceKey": "Reservoir to HPLC system, then detector, then ReSolve-controlled valve. Eligible baseline flow returns to the reservoir for reuse. Detected peaks plus configured timing margin go to waste. A dashed control signal connects the detector to the valve controller.",
+      "before": "Rezervuardan HPLC sistemine, ardından dedektöre ve ReSolve kontrollü vanaya. Uygun baz çizgisi akışı yeniden kullanım için rezervuara döner. Algılanan pikler ve yapılandırılmış zaman marjı atığa gider. Kesikli kontrol sinyali dedektörü vana kontrolörüne bağlar.",
+      "after": "Akış, rezervuardan HPLC sistemine, ardından dedektöre ve ReSolve kontrollü vanaya ilerler. Uygun baz çizgisi akışı yeniden kullanım için rezervuara döner. Algılanan piklere ve yapılandırılmış zaman marjına karşılık gelen fraksiyonlar atığa gider. Kesikli çizgiyle gösterilen kontrol sinyali, dedektörü vana kontrolörüne bağlar."
+    },
+    {
+      "sourceKey": "Reset to planning defaults",
+      "before": "Planlama varsayılanlarına sıfırla",
+      "after": "Planlama varsayılanlarına dönün"
+    },
+    {
+      "sourceKey": "Reusing prepared mobile phase can reduce the ingredients your laboratories purchase and the hazardous waste they send for treatment. Track those changes against your baseline, then translate verified reductions into estimated CO₂e.",
+      "before": "Hazırlanmış mobil fazın yeniden kullanımı laboratuvarların satın aldığı bileşenleri ve arıtmaya gönderdiği tehlikeli atığı azaltabilir. Değişiklikleri referansınıza göre izleyin, ardından doğrulanmış azalmaları tahmini CO₂e'ye dönüştürün.",
+      "after": "Hazırlanmış mobil fazın yeniden kullanımı laboratuvarların satın aldığı bileşenleri ve işlemeye gönderdiği tehlikeli atığı azaltabilir. Değişiklikleri referansınıza göre izleyin, ardından doğrulanmış azalmaları tahmini CO₂e'ye dönüştürün."
+    },
+    {
+      "sourceKey": "Scope 1 · Owned or controlled treatment",
+      "before": "Kapsam 1 · Sahip olunan veya kontrol edilen arıtma",
+      "after": "Kapsam 1 · Kuruluşun sahip olduğu veya kontrol ettiği atık işleme"
+    },
+    {
+      "sourceKey": "Scope 3 · Purchased materials and waste treatment",
+      "before": "Kapsam 3 · Satın alınan malzemeler ve atık arıtma",
+      "after": "Kapsam 3 · Satın alınan malzemeler ve atık işleme"
+    },
+    {
+      "sourceKey": "See ReSolve",
+      "before": "ReSolve'ı görün",
+      "after": "ReSolve sistemini görün"
+    },
+    {
+      "sourceKey": "Send detected peak fractions and timing margins to waste.",
+      "before": "Algılanan pik fraksiyonlarını ve zaman marjlarını atığa gönderin.",
+      "after": "Algılanan piklere ve zaman marjlarına karşılık gelen fraksiyonları atığa gönderin."
+    },
+    {
+      "sourceKey": "Send enquiry",
+      "before": "Bilgi talebi gönder",
+      "after": "Bilgi talebini gönderin"
+    },
+    {
+      "sourceKey": "Skip to ReSolve perspectives",
+      "before": "ReSolve bakış açılarına atla",
+      "after": "ReSolve bakış açılarına geçin"
+    },
+    {
+      "sourceKey": "Source reports duration 012.00.",
+      "before": "Kaynak 012.00 süre bildirir.",
+      "after": "Kaynakta süre 012.00 olarak bildirilmiştir."
+    },
+    {
+      "sourceKey": "Start with fresh input and waste prevented for the same acceptable analytical workload. Reuse is the means; verified net reduction is the outcome.",
+      "before": "Aynı kabul edilebilir analitik iş yükü için taze giriş ve önlenen atıkla başlayın. Yeniden kullanım araçtır; doğrulanmış net azalma sonuçtur.",
+      "after": "Aynı kabul edilebilir analitik iş yükü için taze mobil faz girişini ve önlenen atığı esas alın. Yeniden kullanım araçtır; hedeflenen sonuç doğrulanmış net azalmadır."
+    },
+    {
+      "sourceKey": "Start with prepared mobile-phase material cost avoided; assess capacity, handling and wider benefits alongside the full cost of adoption.",
+      "before": "Önlenen hazırlanmış mobil faz malzeme maliyetiyle başlayın; kapasiteyi, elleçlemeyi ve daha geniş faydaları tam benimseme maliyetiyle birlikte değerlendirin.",
+      "after": "Hazırlanmış mobil faz için önlenen malzeme maliyetini esas alın; kapasiteyi, elleçlemeyi ve diğer faydaları uygulamaya geçişin toplam maliyetiyle birlikte değerlendirin."
+    },
+    {
+      "sourceKey": "Stock photo ·",
+      "before": "Stok fotoğraf ·",
+      "after": "Temsili fotoğraf ·"
+    },
+    {
+      "sourceKey": "Summary start",
+      "before": "Özet başlangıcı",
+      "after": "Özetteki başlangıç"
+    },
+    {
+      "sourceKey": "Target material exposure",
+      "before": "Malzeme maruziyetini hedefleyin",
+      "after": "Risk oluşturan malzemelere odaklanın"
+    },
+    {
+      "sourceKey": "The audit extract and 98-injection operational record further down are separate supporting evidence, not part of this SETU comparison.",
+      "before": "Aşağıdaki denetim alıntısı ve 98 enjeksiyonluk işletim kaydı ayrı destekleyici kanıtlardır; SETU karşılaştırmasının parçası değildir.",
+      "after": "Aşağıdaki denetim izi kayıtları ve 98 enjeksiyonluk işletim kaydı ayrı destekleyici kanıtlardır; bu SETU karşılaştırmasının parçası değildir."
+    },
+    {
+      "sourceKey": "The researchers ran a 96-injection sequence using virgin mobile phase, then repeated the same paracetamol and ibuprofen method using mobile phase recovered from that first sequence. The purpose was to establish whether recycled mobile phase maintained analytical performance.",
+      "before": "Araştırmacılar taze mobil fazla 96 enjeksiyonluk sekans yürütmüş, ardından aynı parasetamol ve ibuprofen metodunu ilk sekanstan geri kazanılan mobil fazla tekrarlamıştır. Amaç, geri dönüştürülmüş mobil fazın analitik performansı koruyup korumadığını belirlemektir.",
+      "after": "Araştırmacılar taze mobil faz kullanarak 96 enjeksiyonluk bir sekans yürütmüş, ardından aynı parasetamol ve ibuprofen metodunu ilk sekanstan geri kazanılan mobil fazı kullanarak tekrarlamıştır. Amaç, geri dönüştürülmüş mobil fazın analitik performansı koruyup korumadığını belirlemektir."
+    },
+    {
+      "sourceKey": "The same analytical method was run with fresh and recycled mobile phase, with equivalent chromatographic performance reported in the evaluated study.",
+      "before": "Aynı analitik metot taze ve geri dönüştürülmüş mobil fazla yürütülmüş; değerlendirilen çalışmada eşdeğer kromatografik performans bildirilmiştir.",
+      "after": "Aynı analitik metot, taze ve geri dönüştürülmüş mobil faz kullanılarak yürütülmüş; değerlendirilen çalışmada eşdeğer kromatografik performans bildirilmiştir."
+    },
+    {
+      "sourceKey": "The study reports equivalent chromatographic performance between the two sequences and no adverse impact from using the recycled mobile phase in Sequence 2.",
+      "before": "Çalışma, iki sekans arasında eşdeğer kromatografik performans ve Sekans 2'de geri dönüştürülmüş faz kullanımından olumsuz etki olmadığını bildirir.",
+      "after": "Çalışma, değerlendirilen metot için iki sekans arasında eşdeğer kromatografik performans olduğunu ve Sekans 2'de geri dönüştürülmüş mobil faz kullanımının olumsuz bir etkisinin gözlenmediğini bildirir."
+    },
+    {
+      "sourceKey": "This table scrolls horizontally. Swipe or focus it and use the arrow keys to read every column.",
+      "before": "Bu tablo yatay kaydırılır. Her sütunu okumak için kaydırın veya tabloya odaklanıp ok tuşlarını kullanın.",
+      "after": "Bu tablo yatay olarak kaydırılabilir. Her sütunu okumak için kaydırın veya tabloya odaklanıp ok tuşlarını kullanın."
+    },
+    {
+      "sourceKey": "Today vs with ReSolve · annual comparison",
+      "before": "Bugün ve ReSolve ile · yıllık karşılaştırma",
+      "after": "Mevcut durum ve ReSolve ile · yıllık karşılaştırma"
+    },
+    {
+      "sourceKey": "Translate prevented fresh preparation into each solvent and ingredient required. Compare actual purchasing over a matched period.",
+      "before": "Önlenen taze hazırlığı her solvent ve gerekli bileşen miktarına dönüştürün. Eşleşen dönemde gerçek satın almaları karşılaştırın.",
+      "after": "Hazırlanmasına gerek kalmayan taze mobil faz miktarını, gereken her solvent ve bileşenin miktarına dönüştürün. Eşdeğer bir dönem için gerçek satın almaları karşılaştırın."
+    },
+    {
+      "sourceKey": "Turn measured prevention into a business case.",
+      "before": "Ölçülen önlemeyi iş gerekçesine dönüştürün.",
+      "after": "Laboratuvar varsayımlarınızdan yola çıkarak bir iş gerekçesi oluşturun."
+    },
+    {
+      "sourceKey": "Two consecutive 96-injection sequences compared freshly prepared mobile phase with recycled mobile phase recovered from the first sequence. Each sequence comprised 80 samples, 13 standards and 3 blanks.",
+      "before": "Ardışık iki adet 96 enjeksiyonluk sekans, yeni hazırlanan mobil fazı ilk sekanstan geri kazanılan fazla karşılaştırmıştır. Her sekans 80 numune, 13 standart ve 3 kör numune içerir.",
+      "after": "Ardışık iki adet 96 enjeksiyonluk sekansta, yeni hazırlanan mobil faz ile ilk sekanstan geri kazanılan mobil faz karşılaştırılmıştır. Her sekans 80 numune, 13 standart ve 3 kör numune içerir."
+    },
+    {
+      "sourceKey": "Use less fresh material. Keep suitable mobile phase in use for longer.",
+      "before": "Daha az taze malzeme kullanın. Uygun mobil fazı daha uzun kullanımda tutun.",
+      "after": "Daha az taze malzeme kullanın. Uygun mobil fazdan daha uzun süre yararlanın."
+    },
+    {
+      "sourceKey": "Use your laboratory numbers, operating schedule and costs to model reduced solvent demand, cost avoided and CO₂ reduction over three years.",
+      "before": "Üç yılda azalan solvent talebini, önlenen maliyeti ve CO₂ azalmasını modellemek için laboratuvar sayınızı, çalışma takviminizi ve maliyetlerinizi kullanın.",
+      "after": "Üç yılda taze mobil faz talebindeki azalmayı, önlenen maliyeti ve tahmini CO₂e azalmalarını modellemek için laboratuvar sayınızı, çalışma takviminizi ve maliyetlerinizi kullanın."
+    },
+    {
+      "sourceKey": "Validate this business case",
+      "before": "Bu iş gerekçesini doğrulayın",
+      "after": "Bu iş gerekçesini inceleyin"
+    },
+    {
+      "sourceKey": "Validate this business case with Antech",
+      "before": "Bu iş gerekçesini Antech ile doğrulayın",
+      "after": "Bu iş gerekçesini Antech ile inceleyin"
+    },
+    {
+      "sourceKey": "Verified fresh litres avoided × production factor, plus net waste avoided × treatment factor.",
+      "before": "Doğrulanmış önlenen taze faz litresi × üretim faktörü, artı önlenen net atık × arıtma faktörü.",
+      "after": "Doğrulanmış önlenen taze faz litresi × üretim faktörü, artı önlenen net atık × işleme faktörü."
+    },
+    {
+      "sourceKey": "Waste accepted at licensed facilities. Excludes treatment under the producer’s own licence; returns described as not verified by EPA.",
+      "before": "Lisanslı tesislerde kabul edilen atık. Üreticinin kendi lisansıyla arıtmayı hariç tutar; bildirimler EPA tarafından doğrulanmamış olarak tanımlanır.",
+      "after": "Lisanslı tesislerde kabul edilen atık. Üreticinin kendi lisansıyla atık işlemeyi hariç tutar; bildirimler EPA tarafından doğrulanmamış olarak tanımlanır."
+    },
+    {
+      "sourceKey": "Waste density is assumed at 1 kg/L for indicative tonnes. Treatment CO₂e uses 1.57 kg CO₂e/L. No transportation emissions included.",
+      "before": "Gösterge ton hesabında atık yoğunluğu 1 kg/L varsayılır. Arıtma CO₂e hesabı 1.57 kg CO₂e/L kullanır. Ulaşım emisyonları dahil değildir.",
+      "after": "Gösterge ton hesabında atık yoğunluğu 1 kg/L varsayılır. İşleme CO₂e hesabı 1.57 kg CO₂e/L kullanır. Ulaşım emisyonları dahil değildir."
+    },
+    {
+      "sourceKey": "Waste prevented",
+      "before": "Önlenen atık",
+      "after": "Önlenen tahmini atık"
+    },
+    {
+      "sourceKey": "Waste treated by facilities outside your ownership/control. Confirm the treatment route and factor. Do not add this again to the 29.09 t total.",
+      "before": "Sahipliğiniz/kontrolünüz dışındaki tesislerin arıttığı atık. Arıtma yolunu ve faktörünü doğrulayın. Bunu 29.09 t toplamına yeniden eklemeyin.",
+      "after": "Sahipliğiniz/kontrolünüz dışındaki tesislerin işlediği atık. İşleme yolunu ve faktörünü doğrulayın. Bunu 29.09 t toplamına yeniden eklemeyin."
+    },
+    {
+      "sourceKey": "Waste-treatment cost",
+      "before": "Atık arıtma maliyeti",
+      "after": "Atık işleme maliyeti"
+    },
+    {
+      "sourceKey": "Welcome to ReSolve™",
+      "before": "ReSolve™'a hoş geldiniz",
+      "after": "ReSolve™ tanıtımına hoş geldiniz"
+    },
+    {
+      "sourceKey": "What each function can take into the business case",
+      "before": "Her işlev iş gerekçesine ne katabilir",
+      "after": "Her birim iş gerekçesine ne katabilir"
+    },
+    {
+      "sourceKey": "What the investment delivers",
+      "before": "Yatırım ne sağlar",
+      "after": "Senaryonuzun tahmin ettiği sonuçlar"
+    },
+    {
+      "sourceKey": "Why solvent prevention matters.",
+      "before": "Solvent tüketimini önlemek neden önemlidir.",
+      "after": "Solvent tüketimini azaltmak neden önemlidir?"
+    },
+    {
+      "sourceKey": "Your annual baseline, before introducing ReSolve.",
+      "before": "ReSolve'ı kullanmaya başlamadan önceki yıllık referansınız.",
+      "after": "ReSolve sistemini kullanmaya başlamadan önceki yıllık referansınız."
+    },
+    {
+      "sourceKey": "annual baseline demand × assumed net fresh-demand reduction. Waste avoided = baseline waste × the separate net waste-reduction input. Recycled-flow totals and reuse counts are not added to either result.",
+      "before": "yıllık referans talep × varsayılan net taze talep azalması. Önlenen atık = referans atık × ayrı net atık azalma girdisi. Geri dönüştürülmüş akış toplamları ve yeniden kullanım sayıları her iki sonuca da eklenmez.",
+      "after": "yıllık referans talep × varsayılan net taze mobil faz talebi azalması. Önlenen atık = referans atık × ayrı net atık azalma girdisi. Geri dönüştürülmüş akış toplamları ve yeniden kullanım sayıları bu sonuçlara eklenmez."
+    },
+    {
+      "sourceKey": "avoided litres × prepared mobile-phase material cost per litre.",
+      "before": "önlenen litre × hazırlanmış mobil fazın litre başına malzeme maliyeti.",
+      "after": "kullanımına gerek kalmayan hacim (litre) × hazırlanmış mobil fazın litre başına malzeme maliyeti."
+    },
+    {
+      "sourceKey": "labs × HPLC systems per lab × flow (mL/min) × 60 × hours/day × days/week × weeks/year ÷ 1,000. Monthly demand = annual demand ÷ 12.",
+      "before": "laboratuvarlar × laboratuvar başına HPLC sistemleri × akış (mL/min) × 60 × saat/gün × gün/hafta × hafta/yıl ÷ 1,000. Aylık talep = yıllık talep ÷ 12.",
+      "after": "laboratuvar sayısı × laboratuvar başına HPLC sistemi sayısı × akış (mL/min) × 60 × saat/gün × gün/hafta × hafta/yıl ÷ 1,000. Aylık talep = yıllık talep ÷ 12."
+    },
+    {
+      "sourceKey": "less preparation and handling may free time for other work.",
+      "before": "daha az hazırlık ve elleçleme diğer işler için süreyi serbest bırakabilir.",
+      "after": "hazırlık ve elleçleme ihtiyacının azalması, diğer işlere zaman ayırmayı sağlayabilir."
+    },
+    {
+      "sourceKey": "months · Cumulative net cash benefit: €0. Upfront investment recovered after support costs. NPV is valued separately at year-end.",
+      "before": "ay · Kümülatif net nakit faydası: €0. Başlangıç yatırımı destek maliyetlerinden sonra geri kazanıldı. NBD yıl sonunda ayrıca değerlenir.",
+      "after": "ay · Kümülatif net nakit faydası: €0. Destek maliyetleri düşüldükten sonra başlangıç yatırımı geri kazanılır. NBD yıl sonu nakit akışları üzerinden ayrıca hesaplanır."
+    },
+    {
+      "sourceKey": "potential reductions from fewer solvent deliveries and less hazardous HPLC waste sent for disposal, subject to actual changes in transport and waste treatment.",
+      "before": "ulaşım ve atık arıtmadaki gerçek değişikliklere bağlı olarak daha az solvent teslimatı ve bertarafa gönderilen daha az tehlikeli HPLC atığından olası azalmalar.",
+      "after": "ulaşım ve atık işlemedaki gerçek değişikliklere bağlı olarak daha az solvent teslimatı ve bertarafa gönderilen daha az tehlikeli HPLC atığından olası azalmalar."
+    },
+    {
+      "sourceKey": "to model your laboratories.",
+      "before": "laboratuvarlarınızı modellemek için.",
+      "after": "seçeneğini kullanarak laboratuvarlarınızı modelleyin."
+    },
+    {
+      "sourceKey": "total investment versus",
+      "before": "toplam yatırım karşısında",
+      "after": "toplam yatırım; karşılığındaki fayda:"
+    },
+    {
+      "sourceKey": "using your laboratory assumptions.",
+      "before": "laboratuvar varsayımlarınızı kullanarak.",
+      "after": "seçeneğini laboratuvar varsayımlarınızla kullanın."
+    },
+    {
+      "sourceKey": "↓ Divert to waste",
+      "before": "↓ Atığa yönlendir",
+      "after": "↓ Atığa yönlendirin"
+    },
+    {
+      "sourceKey": "↩ Return for reuse",
+      "before": "↩ Yeniden kullanım için geri döndür",
+      "after": "↩ Yeniden kullanım için geri döndürün"
+    },
+    {
+      "sourceKey": "✓ Technical conclusion: analytical performance maintained",
+      "before": "✓ Teknik sonuç: analitik performans korundu",
+      "after": "✓ Çalışmanın sonucu: değerlendirilen metot koşullarında analitik performans korundu"
+    }
+  ],
+  "sourceAlignment": {
+    "1 labs": "1 laboratuvar",
+    "25 records paired with audit starts and finishes on 5 May 2026.": "25 ölçüm kaydı, 5 Mayıs 2026 tarihli denetim izindeki başlangıç ve bitiş olaylarıyla eşleştirilmiştir.",
+    "All 25 records are paired with audit starts and finishes. Record 9 retains a one-second difference: summary start 15:06:21; audit start 15:06:20.": "25 kaydın tamamı, denetim izindeki ölçüm başlangıç ve bitiş olaylarıyla eşleştirilmiştir. Kayıt 9'da bir saniyelik fark korunmuştur: özet başlangıcı 15:06:21; denetim izindeki başlangıç 15:06:20.",
+    "All labs use the same systems-per-lab count, operating schedule and per-system flow. Disposal cost avoided is calculated from prevented waste volume × disposal cost per litre. Preparation time is valued separately at your entered staff cost; it is not included in material and disposal savings. Equipment, service, consumables and implementation costs are not deducted, in the gross savings figures. The financial projection separately deducts equipment, installation and annual support to calculate net cash, ROI, payback and NPV.": "Tüm laboratuvarlarda laboratuvar başına sistem sayısı, çalışma takvimi ve sistem başına akış aynı kabul edilir. Önlenen bertaraf maliyeti, önlenen atık hacmi × litre başına bertaraf maliyeti olarak hesaplanır. Hazırlık süresi, girdiğiniz personel maliyeti üzerinden ayrıca değerlenir; malzeme ve bertaraf tasarruflarına dahil edilmez. Brüt tasarruflardan ekipman, servis, sarf malzemesi veya uygulama maliyetleri düşülmez. Finansal projeksiyon, modellenen net nakit akışını, yatırım getirisini, geri ödeme süresini ve net bugünkü değeri (NBD) hesaplamak için girilen ekipman, kurulum ve yıllık destek maliyetlerini düşer. Tesise özgü diğer maliyetleri ayrıca değerlendirin.",
+    "Annual cost avoided": "Önlenen tahmini yıllık maliyet",
+    "Both lines start after the upfront equipment and installation payment. Cash payback assumes savings accrue evenly through the year. NPV uses year-end cash flows discounted at 10%; segments join the annual valuation points. Staff capacity value is excluded from cash returns.": "Her iki çizgi, başlangıçtaki ekipman ve kurulum ödemesinden sonra başlar. Nakit geri ödeme hesabı, tasarrufların yıl boyunca eşit olarak biriktiğini varsayar. NBD, seçilen iskonto oranıyla (varsayılan %10) indirgenen yıl sonu nakit akışlarını kullanır; çizgi parçaları yıllık değerleme noktalarını birleştirir. Personel kapasitesinin değeri nakit getirilerine dahil edilmez.",
+    "CO₂ reduction": "Tahmini CO₂e azalması",
+    "CO₂:": "Tahmini CO₂e:",
+    "Conclusion · analytical performance maintained": "Çalışmanın sonucu · değerlendirilen metot koşullarında analitik performans korundu",
+    "Example opportunity—subject to validation at each site. The fixed example uses an 80% reduction assumption; 80%+ is not a measured purchasing result. Associated carbon estimates use supplied factors pending verification.": "Sabit örnekte, taze mobil faz talebinde ve atıkta %80 net azalma varsayılmıştır. Bunlar ölçülen satın alma sonuçları değil, planlama varsayımlarıdır. İlgili karbon tahminleri, doğrulanması gereken ve kullanıcı tarafından sağlanan faktörlere dayanır.",
+    "Geopolitical tensions, conflict, changing trade policies and disruption to major shipping routes are making global supply chains more uncertain. Rerouting, volatile freight costs and unpredictable lead times make replenishment harder to plan.": "Jeopolitik gerilimler, çatışmalar, değişen ticaret politikaları ve ana deniz yollarındaki kesintiler stok yenileme planlamasını zorlaştırabilir. Kendi tedarikçi ağınızı, taşıma rotalarınızı ve stok politikanızı bu riskler açısından değerlendirin.",
+    "Hazardous waste prevented": "Önlenen tahmini tehlikeli atık",
+    "Maintain analytical results and process integrity as mobile phase is recycled.": "Mobil fazı yeniden kullanırken analitik performansı ve proses kontrollerini değerlendirin.",
+    "Maintain your analytical standards while reducing fresh mobile-phase preparation.": "Mobil fazın yeniden kullanımını analitik gerekliliklerinize göre değerlendirin.",
+    "One laboratory · measurable prevention over time": "Bir laboratuvar · zaman içinde modellenen atık önleme",
+    "Price exposure is real. Lower demand limits the volume exposed.": "Daha düşük talep, fiyat değişimlerinden etkilenen hacmi sınırlar.",
+    "Prices exclude VAT. Support is €120 per month (€1,440 per year).": "Yaklaşık fiyatlara KDV dahil değildir. Varsayılan destek tutarı aylık €120 (yıllık €1,440) olarak alınmıştır; senaryonuzda geçerli fiyat teklifini kullanın.",
+    "Projected financial results depend on your net material and waste reductions. The net cash, ROI and NPV rows deduct the entered equipment, installation and support costs. Gross savings rows and cumulative impact charts remain before investment costs.": "Öngörülen finansal sonuçlar, malzeme ve atıktaki net azalmanıza bağlıdır. Net nakit, yatırım getirisi ve NBD satırlarında girilen ekipman, kurulum ve destek maliyetleri düşülür. Brüt tasarruf satırları ve kümülatif etki grafikleri, yatırım maliyetleri düşülmeden önceki değerleri gösterir. Tesise özgü diğer maliyetleri ayrıca değerlendirin.",
+    "ReSolve™ draws 0.4 W from the HPLC. Any electricity savings from reduced mobile-phase preparation remain to be measured.": "Ürün belgelerinde ReSolve™ sisteminin HPLC'den 0.4 W güç çektiği belirtilmektedir. Mobil faz hazırlığının azalmasından kaynaklanabilecek elektrik tasarrufları henüz ölçülmemiştir.",
+    "ReSolve™ recycles prepared mobile phase for reuse within isocratic HPLC workflows.": "ReSolve™, uygun izokratik HPLC iş akışlarında yeniden kullanılmak üzere seçilen hazırlanmış mobil fazı sisteme geri döndürür.",
+    "Recover the baseline.": "Uygun baz çizgisi akışını geri döndürün.",
+    "Divert the peaks.": "Pik fraksiyonlarını atığa yönlendirin.",
+    "Reduce hazardous waste and CO₂ emissions. Capture the metrics across your labs.": "Laboratuvarlarınız genelinde tehlikeli atık önleme olanaklarını değerlendirin ve CO₂e azalmalarını tahmin edin.",
+    "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.": "Mobil faz maliyetlerini azaltma olanaklarını inceleyin ve Kapsam 3 etkisini modelleyin.",
+    "Reduce recurring laboratory costs, release analytical capacity and quantify waste and carbon reductions across your laboratory network.": "Laboratuvar ağınızdaki düzenli maliyetleri, analist kapasitesini ve olası atık ve karbon azalmalarını inceleyin.",
+    "Sequence 2 · 96 injections (Recycled)": "Sekans 2 · 96 enjeksiyon (geri dönüştürülmüş)",
+    "The study reports equivalent chromatographic performance between the two sequences and no adverse impact from using the recycled mobile phase in Sequence 2.": "Çalışma, değerlendirilen metot için iki sekans arasında eşdeğer kromatografik performans olduğunu ve Sekans 2'de geri dönüştürülmüş mobil faz kullanımının olumsuz bir etkisinin gözlenmediğini bildirir.",
+    "Turn measured prevention into a business case.": "Laboratuvar varsayımlarınızdan yola çıkarak bir iş gerekçesi oluşturun.",
+    "Use your laboratory numbers, operating schedule and costs to model reduced solvent demand, cost avoided and CO₂ reduction over three years.": "Üç yılda taze mobil faz talebindeki azalmayı, önlenen maliyeti ve tahmini CO₂e azalmalarını modellemek için laboratuvar sayınızı, çalışma takviminizi ve maliyetlerinizi kullanın.",
+    "Validate this business case": "Bu iş gerekçesini inceleyin",
+    "Validate this business case with Antech": "Bu iş gerekçesini Antech ile inceleyin",
+    "Waste prevented": "Önlenen tahmini atık",
+    "What the investment delivers": "Senaryonuzun tahmin ettiği sonuçlar",
+    "✓ Technical conclusion: analytical performance maintained": "✓ Çalışmanın sonucu: değerlendirilen metot koşullarında analitik performans korundu",
+    "No difference in baseline noise/stability was observed. LC/MS found neither analyte in the recycled phase; the source reports waste-phase concentrations of 1,440 ng/mL paracetamol and 530 ng/mL ibuprofen.": "Değerlendirilen metotta baz çizgisi gürültüsünde veya kararlılığında fark gözlenmemiştir. LC/MS ile geri dönüştürülmüş fazda parasetamol veya ibuprofen saptanmamıştır; raporda saptama sınırları belirtilmemiştir. Kaynak, atık fazda parasetamol konsantrasyonunu 1,440 ng/mL, ibuprofen konsantrasyonunu ise 530 ng/mL olarak bildirir."
+  },
+  "hero": {
+    "prefix": "Mobil fazınızı ",
+    "emphasis": "kullanmaya devam edin.",
+    "suffix": ""
+  },
+  "metadata": {
+    "title": "ReSolve™ | İzokratik HPLC için Mobil Faz Geri Dönüşümü | Antech",
+    "description": "Uygun izokratik HPLC metotlarında ReSolve™ ile mobil fazın yeniden kullanımını keşfedin. Analitik kanıtları inceleyin, maliyet ve atığı modelleyin; metot değerlendirmesini görüşün."
+  },
+  "supplemental": {
+    "REDUCE": "AZALTIN",
+    "REUSE": "YENİDEN KULLANIN",
+    "YOUR INPUTS": "GİRDİLERİNİZ",
+    "unit": "cihaz",
+    "units": "cihaz",
+    "€/unit": "€/cihaz"
+  },
+  "blocks": {
+    "See ReSolve in action.": {
+      "text": "ReSolve sisteminin nasıl çalıştığını izleyin."
+    },
+    "Recover the baseline. Divert the peaks.": {
+      "text": "Uygun baz çizgisi akışını geri döndürün. {0}",
+      "slots": {
+        "0": "Pik fraksiyonlarını atığa yönlendirin."
+      }
+    },
+    "Two separate evidence sets answer different questions: the PMBrc / SETU study informs analytical review; the Agilent sequence and ReSolve™ records document the evaluated operation.": {
+      "text": "Birbirinden ayrı iki kanıt kümesi farklı soruları yanıtlar: {0} analitik değerlendirmeye bilgi sağlar; Agilent sekansı ve ReSolve™ kayıtları ise değerlendirilen işletimi belgeler.",
+      "slots": {
+        "0": "PMBrc / SETU çalışması"
+      }
+    },
+    "Framework: Potting et al., PBL (2017) . Sector context informed by the supplied CIRCULÉIRE presentation.": {
+      "text": "Çerçeve: {0}. Sektörel bağlam, sağlanan CIRCULÉIRE sunumuna dayanmaktadır."
+    },
+    "Source: EPA national hazardous waste statistics ; solvent figure and category description transcribed from the supplied CIRCULÉIRE slide.": {
+      "text": "Kaynak: {0}; solvent miktarı ve kategori açıklaması, sağlanan CIRCULÉIRE slaydından aktarılmıştır.",
+      "slots": {
+        "0": "EPA ulusal tehlikeli atık istatistikleri"
+      }
+    },
+    "Global trade context: UNCTAD, Review of Maritime Transport 2025 ↗ . Laboratory implications should be assessed against your own supply network.": {
+      "text": "Küresel ticaret bağlamı: {0}. Laboratuvar üzerindeki etkiler kendi tedarik ağınıza göre değerlendirilmelidir."
+    },
+    "EUR per tonne · values transcribed from the supplied CIRCULÉIRE slide citing Methanex. Methanex posted pricing . Commodity contract prices are not analytical-grade invoice prices and are not used in this calculator.": {
+      "text": "Ton başına EUR · Methanex’e atıf yapan CIRCULÉIRE slaydından aktarılan değerler. {0}. Emtia sözleşme fiyatları analitik saflıktaki ürünlerin fatura fiyatları değildir ve bu hesaplayıcıda kullanılmaz.",
+      "slots": {
+        "0": "Methanex ilan fiyatları"
+      }
+    },
+    "Sources: GHG Protocol calculation guidance · ISO 14001 · ISO 14051 · ISO greenhouse-gas standards .": {
+      "text": "Kaynaklar: {0} · {1} · {2} · {3}.",
+      "slots": {
+        "0": "GHG Protocol hesaplama rehberi",
+        "1": "ISO 14001",
+        "2": "ISO 14051",
+        "3": "ISO sera gazı standartları"
+      }
+    }
+  },
+  "numericExceptions": [
+    {
+      "sourceKey": "Example opportunity—subject to validation at each site. The fixed example uses an 80% reduction assumption; 80%+ is not a measured purchasing result. Associated carbon estimates use supplied factors pending verification.",
+      "before": [
+        "80",
+        "80"
+      ],
+      "after": [
+        "80"
+      ],
+      "reason": "Intentional removal of unsupported 80%+ marketing promise/repeated claim; this is not a source measurement, model input or result."
+    },
+    {
+      "sourceKey": "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.",
+      "before": [
+        "80",
+        "3"
+      ],
+      "after": [
+        "3"
+      ],
+      "reason": "Intentional removal of unsupported 80%+ marketing promise/repeated claim; this is not a source measurement, model input or result."
+    }
+  ],
+  "checks": {
+    "sourceKeysUnchanged": true,
+    "dictionaryKeyCount": 1429,
+    "all35EnglishAlignmentsReviewed": true,
+    "numericTokensMatchFinalEnglish": true,
+    "numericMismatches": 0,
+    "allSourceMeasurementsUnchanged": true,
+    "onlyEnglishApprovedNumericExceptions": true,
+    "EURNoConversion": true,
+    "UTF8ValidNoReplacementCharacters": true,
+    "NFCNormalized": true,
+    "assembledEightProfilesReviewed": true,
+    "profileTextCharacters": {
+      "quality": 15615,
+      "sustainability": 10931,
+      "procurement": 5305,
+      "supply-chain": 6239,
+      "value": 7377,
+      "research": 5678,
+      "across": 17827,
+      "reports": 1485
+    },
+    "inMemoryTranslatedTextNodes": 1999,
+    "fullBlockValidation": "tools/i18n_blocks.apply_blocks against annotated source DOM",
+    "fullBlockApplications": 16,
+    "reviewOverrideBlocks": 8,
+    "allOriginalInlineSlotsPreservedExactlyOnce": true,
+    "interactiveAttributesUnchanged": true,
+    "suitableIsocraticScopeRetained": true,
+    "routingDoesNotPurify": true,
+    "methodSpecificEvidenceSeparateFromAnnualAssumptions": true,
+    "LCMSNondetectionAndUnspecifiedDetectionLimitsRetained": true,
+    "grossVersusNetCostsQualified": true,
+    "staffCapacitySeparateFromCashSavings": true,
+    "carbonEstimatesFactorsAndBoundariesQualified": true,
+    "noCertificationOrRegulatoryApprovalClaim": true,
+    "originalEnglishDocumentAndVideoLabelsRetained": true,
+    "noBrowserOrSharedBuildWrites": true,
+    "noProductionDeployment": true
+  },
+  "remainingReview": [
+    "AI-authored Turkish scientific and marketing review; not certified native, legal or regulatory approval. Qualified native technical review remains advisable before production.",
+    "Parent owns locale number presentation and integrated browser QA; no browser, shared files or production were changed."
+  ],
+  "reviewBasis": "Full bilingual entry-by-entry review of all 1429 Turkish translations against final English values, both technical glossaries, all eight existing Turkish preview profiles, and assembled source DOM after applying the Turkish dictionary and complete-block overrides in memory. Headlines, inline grammar, supplemental labels, SEO, forms and scenario-report messages included."
+}

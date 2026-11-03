@@ -1,0 +1,592 @@
+{
+  "locale": "ar",
+  "agent": "/root/language_ar",
+  "status": "reviewed",
+  "reviewedKeys": 1429,
+  "reviewedProfiles": [
+    "quality",
+    "sustainability",
+    "procurement",
+    "supply-chain",
+    "value",
+    "research",
+    "reports",
+    "across"
+  ],
+  "changedEntries": 89,
+  "changes": [
+    {
+      "sourceKey": "% net fresh reduction /",
+      "before": "% صافي خفض الطور الطازج /",
+      "after": "% صافي خفض الطلب على الطور الطازج /"
+    },
+    {
+      "sourceKey": "25 records paired with audit starts and finishes on 5 May 2026.",
+      "before": "25 سجلاً مقترناً ببدايات ونهايات سجل التدقيق في 5 مايو 2026.",
+      "after": "25 سجلاً للقياس طُوبقت مع أحداث بدء القياس وانتهائه في سجل التدقيق بتاريخ 5 مايو 2026."
+    },
+    {
+      "sourceKey": "37,880 t pharmaceutical-chapter waste; 17,841 t organic solvents, washing liquids and mother liquors",
+      "before": "37,880 t من نفايات فصل المستحضرات الصيدلانية؛ و17,841 t من المذيبات العضوية وسوائل الغسل والسوائل الأم",
+      "after": "37,880 t من النفايات المصنفة ضمن فصل المستحضرات الصيدلانية؛ و17,841 t من المذيبات العضوية وسوائل الغسل والسوائل الأم"
+    },
+    {
+      "sourceKey": "80 sample injections per sequence · SETU Appendix 1. Standards and blanks are excluded from this sample comparison.",
+      "before": "80 عملية حقن عينات لكل تسلسل · ملحق SETU 1. استُبعدت المعايير والعينات الفارغة من مقارنة العينات هذه.",
+      "after": "80 عملية حقن عينات لكل تسلسل · ملحق SETU 1. استُبعدت حقن المحاليل القياسية والعينات الشاهدة من مقارنة العينات هذه."
+    },
+    {
+      "sourceKey": "80 sample injections per sequence, plus 13 standards and 3 blanks. Retention, area, peak shape and resolution are reported.",
+      "before": "80 عملية حقن عينات لكل تسلسل، إضافة إلى 13 معياراً و3 عينات فارغة. تتضمن النتائج الاحتجاز والمساحة وشكل القمم وقدرة الفصل.",
+      "after": "80 عملية حقن عينات لكل تسلسل، إضافة إلى 13 حقنة لمحاليل قياسية و3 حقن لعينات شاهدة. تتضمن النتائج الاحتجاز والمساحة وشكل القمم وقدرة الفصل."
+    },
+    {
+      "sourceKey": "Account for the full balance",
+      "before": "احسب التوازن الكامل",
+      "after": "احسب ميزان المواد الكامل"
+    },
+    {
+      "sourceKey": "All 25 records are paired with audit starts and finishes. Record 9 retains a one-second difference: summary start 15:06:21; audit start 15:06:20.",
+      "before": "تقترن جميع السجلات الـ25 ببدايات ونهايات سجل التدقيق. يظل فرق ثانية واحدة في السجل 9: بداية الملخص 15:06:21؛ وبداية التدقيق 15:06:20.",
+      "after": "طُوبقت جميع السجلات الـ25 مع أحداث بدء القياس وانتهائه في سجل التدقيق. يظل فرق ثانية واحدة في السجل 9: وقت البدء في الملخص 15:06:21؛ ووقت البدء في سجل التدقيق 15:06:20."
+    },
+    {
+      "sourceKey": "All labs use the same systems-per-lab count, operating schedule and per-system flow. Disposal cost avoided is calculated from prevented waste volume × disposal cost per litre. Preparation time is valued separately at your entered staff cost; it is not included in material and disposal savings. Equipment, service, consumables and implementation costs are not deducted, in the gross savings figures. The financial projection separately deducts equipment, installation and annual support to calculate net cash, ROI, payback and NPV.",
+      "before": "تستخدم جميع المختبرات العدد نفسه من الأنظمة لكل مختبر وجدول التشغيل والتدفق لكل نظام. تُحسب تكلفة التخلص المتجنبة بضرب حجم النفايات الممنوع في تكلفة التخلص لكل لتر. يُقيَّم وقت التحضير منفصلاً وفق تكلفة الموظفين المدخلة؛ ولا يُدرج في وفورات المواد والتخلص. لا تُخصم تكاليف المعدات والخدمة والمستهلكات والتطبيق من أرقام الوفورات الإجمالية. يخصم الإسقاط المالي المعدات والتركيب والدعم السنوي بصورة منفصلة لحساب صافي النقد والعائد على الاستثمار وفترة الاسترداد وصافي القيمة الحالية.",
+      "after": "تستخدم جميع المختبرات العدد نفسه من الأنظمة لكل مختبر وجدول التشغيل نفسه ومعدل التدفق نفسه لكل نظام. تُحسب تكلفة التخلص المتجنبة بضرب حجم النفايات التي مُنع تولدها في تكلفة التخلص لكل لتر. يُقيَّم وقت التحضير منفصلاً وفق تكلفة الموظفين المدخلة؛ ولا يُدرج في وفورات المواد والتخلص. لا تُخصم تكاليف المعدات والخدمة والمستهلكات والتطبيق من الوفورات الإجمالية. تخصم التوقعات المالية تكاليف المعدات والتركيب والدعم السنوي المدخلة لحساب صافي التدفقات النقدية والعائد على الاستثمار وفترة الاسترداد وصافي القيمة الحالية وفق النموذج. قيّم أي تكاليف أخرى خاصة بالموقع بصورة منفصلة."
+    },
+    {
+      "sourceKey": "Analytical integrity",
+      "before": "النزاهة التحليلية",
+      "after": "سلامة النتائج التحليلية"
+    },
+    {
+      "sourceKey": "Analytical integrity · PMBrc / SETU white paper",
+      "before": "النزاهة التحليلية · الورقة البيضاء PMBrc / SETU",
+      "after": "سلامة النتائج التحليلية · الورقة البيضاء PMBrc / SETU"
+    },
+    {
+      "sourceKey": "Annual cost avoided",
+      "before": "التكلفة السنوية المتجنبة",
+      "after": "التكلفة السنوية المقدَّر تجنبها"
+    },
+    {
+      "sourceKey": "Auto Delay set to 1",
+      "before": "ضُبط Auto Delay على 1",
+      "after": "ضُبط التأخير التلقائي (Auto Delay) على 1"
+    },
+    {
+      "sourceKey": "Blank response",
+      "before": "استجابة العينة الفارغة",
+      "after": "استجابة العينة الشاهدة"
+    },
+    {
+      "sourceKey": "Both lines start after the upfront equipment and installation payment. Cash payback assumes savings accrue evenly through the year. NPV uses year-end cash flows discounted at 10%; segments join the annual valuation points. Staff capacity value is excluded from cash returns.",
+      "before": "يبدأ الخطان بعد دفع تكاليف المعدات والتركيب الأولية. يفترض الاسترداد النقدي تحقق الوفورات بالتساوي خلال السنة. تستخدم القيمة الحالية الصافية تدفقات نقدية في نهاية السنة مخصومة بنسبة 10%؛ وتصل المقاطع نقاط التقييم السنوية. تُستبعد قيمة الطاقة الاستيعابية للموظفين من العوائد النقدية.",
+      "after": "يبدأ الخطان بعد دفع تكاليف المعدات والتركيب الأولية. يفترض الاسترداد النقدي تحقق الوفورات بالتساوي خلال السنة. يستخدم صافي القيمة الحالية التدفقات النقدية في نهاية السنة بمعدل الخصم المحدد (10% افتراضياً)؛ وتصل المقاطع بين نقاط التقييم السنوية. تُستبعد قيمة الطاقة الاستيعابية للموظفين من العوائد النقدية."
+    },
+    {
+      "sourceKey": "Build a case with your own workload and costs",
+      "before": "ابنِ مبرراً باستخدام عبء العمل والتكاليف الخاصة بك",
+      "after": "ابنِ مبرراً للاستثمار باستخدام عبء العمل والتكاليف الخاصة بك"
+    },
+    {
+      "sourceKey": "Build one business case, together.",
+      "before": "ابنوا مبرراً تجارياً واحداً معاً.",
+      "after": "ابنوا مبرراً موحداً للاستثمار معاً."
+    },
+    {
+      "sourceKey": "CO₂ reduction",
+      "before": "خفض CO₂",
+      "after": "الخفض المقدَّر في CO₂e"
+    },
+    {
+      "sourceKey": "CO₂:",
+      "before": "CO₂:",
+      "after": "CO₂e المقدَّر:"
+    },
+    {
+      "sourceKey": "Circularity is also a business decision.",
+      "before": "الدائرية قرار تجاري أيضاً.",
+      "after": "الاقتصاد الدائري قرار تجاري أيضاً."
+    },
+    {
+      "sourceKey": "Circularity starts at the point of use.",
+      "before": "تبدأ الدائرية عند نقطة الاستخدام.",
+      "after": "يبدأ الاقتصاد الدائري عند نقطة الاستخدام."
+    },
+    {
+      "sourceKey": "Conclusion · analytical performance maintained",
+      "before": "الاستنتاج · الحفاظ على الأداء التحليلي",
+      "after": "استنتاج الدراسة · الحفاظ على الأداء التحليلي في ظل شروط الطريقة المُقيَّمة"
+    },
+    {
+      "sourceKey": "Connect analytical integrity, laboratory capacity, cost, supply resilience and circularity in one evidence-led business case.",
+      "before": "اجمع النزاهة التحليلية وطاقة المختبر والتكلفة ومرونة الإمداد والدائرية في مبرر استثمار واحد قائم على الأدلة.",
+      "after": "اجمع سلامة النتائج التحليلية وطاقة المختبر والتكلفة ومرونة الإمداد والاقتصاد الدائري في مبرر استثمار واحد قائم على الأدلة."
+    },
+    {
+      "sourceKey": "Detector-to-valve delay, peak margins, sample matrix and the reuse period require method-specific assessment.",
+      "before": "يتطلب تأخر الكاشف إلى الصمام وهوامش القمم ومصفوفة العينة وفترة إعادة الاستخدام تقييماً خاصاً بالطريقة.",
+      "after": "يتطلب زمن انتقال التدفق من الكاشف إلى الصمام وهوامش القمم ومصفوفة العينة وفترة إعادة الاستخدام تقييماً خاصاً بالطريقة."
+    },
+    {
+      "sourceKey": "Divert the peaks.",
+      "before": "وجّه القمم إلى النفايات.",
+      "after": "وجّه كسور القمم إلى النفايات."
+    },
+    {
+      "sourceKey": "Each sequence also included 13 standards and 3 blanks.",
+      "before": "شمل كل تسلسل أيضاً 13 معياراً و3 عينات فارغة.",
+      "after": "شمل كل تسلسل أيضاً 13 حقنة لمحاليل قياسية و3 حقن لعينات شاهدة."
+    },
+    {
+      "sourceKey": "Each sequence: 80 samples · 13 standards · 3 blanks",
+      "before": "كل تسلسل: 80 عينة · 13 معياراً · 3 عينات فارغة",
+      "after": "كل تسلسل: 80 عينة · 13 حقنة لمحاليل قياسية · 3 حقن لعينات شاهدة"
+    },
+    {
+      "sourceKey": "Estimate production and waste-treatment emissions separately from the litres prevented.",
+      "before": "قدّر انبعاثات الإنتاج ومعالجة النفايات بصورة منفصلة عن اللترات الممنوع استهلاكها.",
+      "after": "قدّر انبعاثات الإنتاج ومعالجة النفايات كلّاً على حدة انطلاقاً من الأحجام المتجنبة باللتر."
+    },
+    {
+      "sourceKey": "Estimated CO₂e prevented",
+      "before": "مكافئ CO₂e المقدَّر تجنبه",
+      "after": "انبعاثات CO₂e المقدَّر تجنبها"
+    },
+    {
+      "sourceKey": "Estimated CO₂e prevented = fresh prepared mobile phase avoided (L) × 3.69 kg CO₂e/L + waste avoided (L) × 1.57 kg CO₂e/L. Locked user-supplied modelling factors apply to the whole mobile phase; source verification remains separate. Transportation is excluded from these calculations. Inbound deliveries and waste collections will be assessed separately.",
+      "before": "مكافئ CO₂e المقدَّر تجنبه = الطور المتحرك الطازج المُحضَّر المتجنب (L) × 3.69 kg CO₂e/L + النفايات المتجنبة (L) × 1.57 kg CO₂e/L. تنطبق عوامل النمذجة الثابتة المقدمة من المستخدم على الطور المتحرك كاملاً؛ ويظل التحقق من المصدر منفصلاً. يُستبعد النقل من هذه الحسابات. ستُقيَّم عمليات التسليم الواردة وجمع النفايات بصورة مستقلة.",
+      "after": "انبعاثات CO₂e المقدَّر تجنبها = الطور المتحرك الطازج المُحضَّر المتجنب (L) × 3.69 kg CO₂e/L + النفايات المتجنبة (L) × 1.57 kg CO₂e/L. تنطبق عوامل النمذجة الثابتة المقدمة من المستخدم على الطور المتحرك كاملاً؛ ويظل التحقق من المصدر منفصلاً. يُستبعد النقل من هذه الحسابات. ستُقيَّم عمليات التسليم الواردة وجمع النفايات بصورة مستقلة."
+    },
+    {
+      "sourceKey": "Estimated CO₂e prevented = fresh prepared mobile phase avoided × 3.69 + waste avoided × 1.57. These factors apply to whole-mixture litres, without a solvent-share multiplier.",
+      "before": "مكافئ CO₂e المقدَّر تجنبه = الطور المتحرك الطازج المُحضَّر المتجنب × 3.69 + النفايات المتجنبة × 1.57. تنطبق هذه العوامل على لترات المزيج الكامل، دون معامل ضرب لحصة المذيب.",
+      "after": "انبعاثات CO₂e المقدَّر تجنبها = الطور المتحرك الطازج المُحضَّر المتجنب × 3.69 + النفايات المتجنبة × 1.57. تنطبق هذه العوامل على لترات المزيج الكامل، دون معامل ضرب لحصة المذيب."
+    },
+    {
+      "sourceKey": "Example opportunity—subject to validation at each site. The fixed example uses an 80% reduction assumption; 80%+ is not a measured purchasing result. Associated carbon estimates use supplied factors pending verification.",
+      "before": "فرصة توضيحية—تخضع للتحقق في كل موقع. يستخدم المثال الثابت افتراض خفض 80%؛ ولا تمثل 80%+ نتيجة مشتريات مقاسة. تستخدم تقديرات الكربون المرتبطة عوامل مقدمة في انتظار التحقق منها.",
+      "after": "يفترض المثال الثابت خفضاً صافياً بنسبة 80% في الطلب على الطور المتحرك الطازج وفي النفايات. هذه افتراضات تخطيط وليست نتائج مشتريات مقاسة. تستخدم تقديرات الكربون المرتبطة عوامل مقدمة تتطلب التحقق منها."
+    },
+    {
+      "sourceKey": "Fixed planning assumptions applied to your laboratory baseline. Actual improvements require site validation. Staff capacity value is shown separately from cash savings.",
+      "before": "افتراضات تخطيط ثابتة تُطبَّق على خط أساس مختبرك. تتطلب التحسينات الفعلية تحققاً بالموقع. تُعرض قيمة طاقة الموظفين بصورة منفصلة عن الوفورات النقدية.",
+      "after": "افتراضات تخطيط ثابتة تُطبَّق على خط أساس مختبرك. تتطلب التحسينات الفعلية تحققاً بالموقع. تُعرض قيمة الطاقة الاستيعابية للموظفين بصورة منفصلة عن الوفورات النقدية."
+    },
+    {
+      "sourceKey": "Fresh mobile phase avoided × material cost per litre + hazardous waste prevented × disposal cost per litre",
+      "before": "الطور المتحرك الطازج المتجنب × تكلفة المواد لكل لتر + النفايات الخطرة الممنوعة × تكلفة التخلص لكل لتر",
+      "after": "الطور المتحرك الطازج المتجنب × تكلفة المواد لكل لتر + النفايات الخطرة المتجنبة × تكلفة التخلص لكل لتر"
+    },
+    {
+      "sourceKey": "Geopolitical tensions, conflict, changing trade policies and disruption to major shipping routes are making global supply chains more uncertain. Rerouting, volatile freight costs and unpredictable lead times make replenishment harder to plan.",
+      "before": "تزيد التوترات الجيوسياسية والصراعات وتغير السياسات التجارية واضطراب طرق الشحن الرئيسية عدم اليقين في سلاسل الإمداد العالمية. ويصعّب تغيير المسارات وتقلب تكاليف الشحن وعدم توقع المهل تخطيط إعادة التزويد.",
+      "after": "قد تُصعّب التوترات الجيوسياسية والصراعات وتغير السياسات التجارية واضطراب طرق الشحن الرئيسية تخطيط إعادة التزويد. قيّم مدى التعرض لهذه العوامل ضمن شبكة المورّدين ومسارات النقل وسياسة المخزون الخاصة بك."
+    },
+    {
+      "sourceKey": "HPLC mobile-phase recovery and waste diversion",
+      "before": "استرجاع الطور المتحرك في HPLC وتوجيهه إلى النفايات",
+      "after": "استرجاع الطور المتحرك في HPLC وتوجيه الكسور المستبعدة إلى النفايات"
+    },
+    {
+      "sourceKey": "Hazardous waste prevented",
+      "before": "النفايات الخطرة الممنوعة",
+      "after": "النفايات الخطرة المقدَّر منع تولدها"
+    },
+    {
+      "sourceKey": "Less fresh mobile phase connects laboratory capacity, purchasing cost, supply resilience and sustainability. Analytical integrity and traceable records underpin the business case.",
+      "before": "يربط خفض الطور المتحرك الطازج طاقة المختبر وتكلفة المشتريات ومرونة الإمداد والاستدامة. وتدعم النزاهة التحليلية والسجلات القابلة للتتبع مبرر الاستثمار.",
+      "after": "يربط خفض الطور المتحرك الطازج طاقة المختبر وتكلفة المشتريات ومرونة الإمداد والاستدامة. وتدعم سلامة النتائج التحليلية والسجلات القابلة للتتبع مبرر الاستثمار."
+    },
+    {
+      "sourceKey": "Less purchased. Less discarded.",
+      "before": "شراء أقل. طرح أقل.",
+      "after": "شراء أقل. تخلّص أقل."
+    },
+    {
+      "sourceKey": "Maintain analytical results and process integrity as mobile phase is recycled.",
+      "before": "حافظ على النتائج التحليلية وسلامة العملية أثناء إعادة استخدام الطور المتحرك.",
+      "after": "قيّم الأداء التحليلي وضوابط العملية عند إعادة استخدام الطور المتحرك."
+    },
+    {
+      "sourceKey": "Maintain your analytical standards while reducing fresh mobile-phase preparation.",
+      "before": "حافظ على معاييرك التحليلية مع تقليل تحضير الطور المتحرك الطازج.",
+      "after": "قيّم إعادة استخدام الطور المتحرك وفق متطلباتك التحليلية."
+    },
+    {
+      "sourceKey": "Material and disposal savings shown separately from the value of staff capacity released. Capacity is not an additional cash saving unless staffing costs are actually avoided.",
+      "before": "تُعرض وفورات المواد والتخلص بصورة منفصلة عن قيمة طاقة الموظفين المحررة. ليست الطاقة الاستيعابية وفراً نقدياً إضافياً إلا إذا جرى تجنب تكاليف الموظفين فعلياً.",
+      "after": "تُعرض وفورات المواد والتخلص بصورة منفصلة عن قيمة الطاقة الاستيعابية للموظفين المحررة. ليست الطاقة الاستيعابية وفراً نقدياً إضافياً إلا إذا جرى تجنب تكاليف الموظفين فعلياً."
+    },
+    {
+      "sourceKey": "Materials + people",
+      "before": "المواد + الأشخاص",
+      "after": "المواد + الموظفون"
+    },
+    {
+      "sourceKey": "Measured diverted fraction; not a net prevention claim",
+      "before": "كسر موجّه مقاس؛ وليس ادعاءً بصافي المنع",
+      "after": "نسبة مقاسة للتدفق الموجّه؛ وليست ادعاءً بصافي منع النفايات"
+    },
+    {
+      "sourceKey": "More analyst time available for other work.",
+      "before": "وقت أكثر للمحلل متاح لأعمال أخرى.",
+      "after": "وقت إضافي متاح للمحللين لأعمال أخرى."
+    },
+    {
+      "sourceKey": "No difference in baseline noise/stability was observed. LC/MS found neither analyte in the recycled phase; the source reports waste-phase concentrations of 1,440 ng/mL paracetamol and 530 ng/mL ibuprofen.",
+      "before": "لم يُلاحظ اختلاف في ضجيج خط الأساس/ثباته. لم يجد LC/MS أياً من المادتين المُحلَّلتين في الطور المُعاد استخدامه؛ ويذكر المصدر تركيزات طور النفايات 1,440 ng/mL للباراسيتامول و530 ng/mL للإيبوبروفين.",
+      "after": "بالنسبة للطريقة المُقيَّمة، لم يُلاحظ اختلاف في ضجيج خط الأساس أو ثباته. لم يكشف LC/MS عن الباراسيتامول أو الإيبوبروفين في الطور المُعاد استخدامه؛ ولا يحدد التقرير حدود الكشف. يذكر المصدر تركيزات في طور النفايات قدرها 1,440 ng/mL للباراسيتامول و530 ng/mL للإيبوبروفين."
+    },
+    {
+      "sourceKey": "One laboratory · measurable prevention over time",
+      "before": "مختبر واحد · منع قابل للقياس عبر الزمن",
+      "after": "مختبر واحد · منع النفايات وفق النموذج عبر الزمن"
+    },
+    {
+      "sourceKey": "Pharmaceutical-chapter waste −11%",
+      "before": "نفايات فصل المستحضرات الصيدلانية −11%",
+      "after": "النفايات المصنفة ضمن فصل المستحضرات الصيدلانية −11%"
+    },
+    {
+      "sourceKey": "Plan support & fallback",
+      "before": "خطّط للدعم والعودة البديلة",
+      "after": "خطّط للدعم ومسار العمل البديل"
+    },
+    {
+      "sourceKey": "Price exposure is real. Lower demand limits the volume exposed.",
+      "before": "التعرض للأسعار أمر واقعي. يخفض تقليل الطلب الحجم المعرض.",
+      "after": "يحد انخفاض الطلب من الحجم المعرّض لتغيرات الأسعار."
+    },
+    {
+      "sourceKey": "Prices exclude VAT. Support is €120 per month (€1,440 per year).",
+      "before": "الأسعار لا تشمل ضريبة القيمة المضافة. الدعم €120 شهرياً (€1,440 سنوياً).",
+      "after": "الأسعار الاسترشادية لا تشمل ضريبة القيمة المضافة. تبلغ تكلفة الدعم الافتراضية €120 شهرياً (€1,440 سنوياً)؛ استخدم عرض السعر المنطبق في السيناريو الخاص بك."
+    },
+    {
+      "sourceKey": "Projected financial results depend on your net material and waste reductions. The net cash, ROI and NPV rows deduct the entered equipment, installation and support costs. Gross savings rows and cumulative impact charts remain before investment costs.",
+      "before": "تعتمد النتائج المالية المتوقعة على صافي خفض المواد والنفايات لديك. تخصم صفوف صافي النقد والعائد على الاستثمار وصافي القيمة الحالية تكاليف المعدات والتركيب والدعم المدخلة. تظل صفوف الوفورات الإجمالية ومخططات الأثر التراكمي قبل تكاليف الاستثمار.",
+      "after": "تعتمد النتائج المالية المتوقعة على صافي خفض المواد والنفايات لديك. تخصم صفوف صافي التدفقات النقدية والعائد على الاستثمار وصافي القيمة الحالية تكاليف المعدات والتركيب والدعم المدخلة. تظل صفوف الوفورات الإجمالية ومخططات الأثر التراكمي قبل تكاليف الاستثمار. قيّم أي تكاليف أخرى خاصة بالموقع بصورة منفصلة."
+    },
+    {
+      "sourceKey": "Projection period",
+      "before": "فترة الإسقاط",
+      "after": "فترة التوقعات"
+    },
+    {
+      "sourceKey": "Projection years",
+      "before": "سنوات الإسقاط",
+      "after": "سنوات التوقعات"
+    },
+    {
+      "sourceKey": "Purchasing and disposal savings are separate segments of the same total. Staff capacity value is not included.",
+      "before": "وفورات الشراء والتخلص جزءان من الإجمالي نفسه. لا تشمل قيمة طاقة الموظفين.",
+      "after": "وفورات الشراء والتخلص جزءان من الإجمالي نفسه. لا تشمل قيمة الطاقة الاستيعابية للموظفين."
+    },
+    {
+      "sourceKey": "QA · analytical integrity",
+      "before": "ضمان الجودة QA · النزاهة التحليلية",
+      "after": "ضمان الجودة QA · سلامة النتائج التحليلية"
+    },
+    {
+      "sourceKey": "ReSolve™ draws 0.4 W from the HPLC. Any electricity savings from reduced mobile-phase preparation remain to be measured.",
+      "before": "يسحب ReSolve™ قدرة 0.4 W من HPLC. ولا تزال أي وفورات كهرباء ناتجة عن تقليل تحضير الطور المتحرك بحاجة إلى قياس.",
+      "after": "تشير مراجع المنتج إلى أن ReSolve™ يستهلك قدرة 0.4 W من نظام HPLC. ولا تزال أي وفورات كهرباء ناتجة عن تقليل تحضير الطور المتحرك بحاجة إلى قياس."
+    },
+    {
+      "sourceKey": "ReSolve™ recycles prepared mobile phase for reuse within isocratic HPLC workflows.",
+      "before": "يعيد ReSolve™ استخدام الطور المتحرك المُحضَّر ضمن مسارات عمل HPLC متساوية التركيب.",
+      "after": "يعيد ReSolve™ أجزاء مختارة من الطور المتحرك المُحضَّر لاستخدامها مجدداً ضمن مسارات عمل HPLC الملائمة ذات الإزاحة متساوية التركيب."
+    },
+    {
+      "sourceKey": "ReSolve™ recycles prepared mobile phase within the isocratic HPLC workflow. The circular opportunity is to reduce fresh input and prevent hazardous waste while maintaining the analytical requirements of the method.",
+      "before": "يعيد ReSolve™ استخدام الطور المتحرك المُحضَّر ضمن سير عمل HPLC متساوي التركيب. تتمثل الفرصة الدائرية في خفض المدخلات الطازجة ومنع النفايات الخطرة مع الحفاظ على المتطلبات التحليلية للطريقة.",
+      "after": "يعيد ReSolve™ استخدام الطور المتحرك المُحضَّر ضمن سير عمل HPLC متساوي التركيب. تتمثل فرصة الاقتصاد الدائري في خفض المدخلات الطازجة ومنع النفايات الخطرة مع الحفاظ على المتطلبات التحليلية للطريقة."
+    },
+    {
+      "sourceKey": "Recover the baseline.",
+      "before": "استرجع تدفق خط الأساس.",
+      "after": "أعد تدفق منطقة خط الأساس المؤهل لإعادة الاستخدام."
+    },
+    {
+      "sourceKey": "Reduce hazardous waste and CO₂ emissions. Capture the metrics across your labs.",
+      "before": "قلّل النفايات الخطرة وانبعاثات CO₂. اجمع المقاييس عبر مختبراتك.",
+      "after": "قيّم منع تولّد النفايات الخطرة وقدّر خفض CO₂e عبر مختبراتك."
+    },
+    {
+      "sourceKey": "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.",
+      "before": "خفّض تكاليف مذيبات المختبر بنسبة 80%+ مع خفض انبعاثات النطاق 3.",
+      "after": "استكشف خفض تكاليف الطور المتحرك ونمذج الأثر ضمن النطاق 3."
+    },
+    {
+      "sourceKey": "Reduce recurring laboratory costs, release analytical capacity and quantify waste and carbon reductions across your laboratory network.",
+      "before": "قلّل التكاليف المختبرية المتكررة وحرّر الطاقة التحليلية وقِس خفض النفايات والكربون عبر شبكة مختبراتك.",
+      "after": "استكشف التكاليف المتكررة وطاقة المحللين والتخفيضات المحتملة للنفايات والكربون عبر شبكة مختبراتك."
+    },
+    {
+      "sourceKey": "Review relevance",
+      "before": "صلة المراجعة",
+      "after": "راجع مدى الصلة"
+    },
+    {
+      "sourceKey": "Same laboratories and analytical workload. Annual figures based on your costs, operating schedule and selected reduction assumptions.",
+      "before": "المختبرات وعبء العمل التحليلي نفسيهما. تستند الأرقام السنوية إلى تكاليفك وجدول التشغيل وافتراضات الخفض المحددة.",
+      "after": "المختبرات نفسها وعبء العمل التحليلي نفسه. تستند الأرقام السنوية إلى تكاليفك وجدول التشغيل وافتراضات الخفض المحددة."
+    },
+    {
+      "sourceKey": "Sequence 1 is the virgin-mobile-phase reference; Sequence 2 uses recycled mobile phase. The tables and interactive graph compare retention time, peak area and peak shape, while the volume figures show how much mobile phase was recycled or sent to waste. Each sequence contains 80 sample injections, 13 standards and 3 blanks; the interactive graph compares the 80 samples from each sequence.",
+      "before": "التسلسل 1 هو مرجع الطور المتحرك الطازج؛ ويستخدم التسلسل 2 طوراً مُعاد استخدامه. تقارن الجداول والرسم التفاعلي زمن الاحتجاز ومساحة القمة وشكلها، بينما توضح أرقام الحجم كمية الطور المُعاد استخدامها أو المرسلة للنفايات. يتضمن كل تسلسل 80 عملية حقن عينات و13 معياراً و3 عينات فارغة؛ ويقارن الرسم التفاعلي العينات الـ80 من كل تسلسل.",
+      "after": "التسلسل 1 هو مرجع الطور المتحرك الطازج؛ ويستخدم التسلسل 2 طوراً مُعاد استخدامه. تقارن الجداول والرسم التفاعلي زمن الاحتجاز ومساحة القمة وشكلها، بينما توضح أرقام الحجم كمية الطور المُعاد استخدامها أو المرسلة للنفايات. يتضمن كل تسلسل 80 عملية حقن عينات و13 حقنة لمحاليل قياسية و3 حقن لعينات شاهدة؛ ويقارن الرسم التفاعلي العينات الـ80 من كل تسلسل."
+    },
+    {
+      "sourceKey": "Sequence 1 · 96 injections (virgin)",
+      "before": "التسلسل 1 · 96 عملية حقن (طازج)",
+      "after": "التسلسل 1 · 96 عملية حقن (طور طازج)"
+    },
+    {
+      "sourceKey": "Sequence 2 · 96 injections (Recycled)",
+      "before": "التسلسل 2 · 96 عملية حقن (مُعاد استخدامه)",
+      "after": "التسلسل 2 · 96 عملية حقن (طور مُعاد استخدامه)"
+    },
+    {
+      "sourceKey": "Start with fresh input and waste prevented for the same acceptable analytical workload. Reuse is the means; verified net reduction is the outcome.",
+      "before": "ابدأ بالمدخلات الطازجة والنفايات الممنوعة لنفس عبء العمل التحليلي المقبول. إعادة الاستخدام هي الوسيلة؛ والخفض الصافي الموثق هو النتيجة.",
+      "after": "ابدأ بالمدخلات الطازجة والنفايات المتجنبة لنفس عبء العمل التحليلي المقبول. إعادة الاستخدام هي الوسيلة؛ والخفض الصافي الموثق هو النتيجة."
+    },
+    {
+      "sourceKey": "Target material exposure",
+      "before": "استهداف المواد المعرضة",
+      "after": "حدّد المواد المعرّضة لمخاطر الإمداد"
+    },
+    {
+      "sourceKey": "The PMBrc / SETU study was commissioned by Antech and carried out by PMBrc. Its conclusion describes equivalent chromatographic performance for the evaluated method (page 9); this is not a general finding for all methods.",
+      "before": "كُلّفت دراسة PMBrc / SETU من Antech ونفذها PMBrc. يصف استنتاجها أداءً كروماتوغرافياً متكافئاً للطريقة المُقيَّمة (الصفحة 9)؛ وليس نتيجة عامة لجميع الطرق.",
+      "after": "أُجريت دراسة PMBrc / SETU بتكليف من Antech ونفذها PMBrc. يصف استنتاجها أداءً كروماتوغرافياً متكافئاً للطريقة المُقيَّمة (الصفحة 9)؛ وليس نتيجة عامة لجميع الطرق."
+    },
+    {
+      "sourceKey": "The circularity hierarchy and the laboratory boundary",
+      "before": "التسلسل الهرمي للدائرية وحدود المختبر",
+      "after": "التسلسل الهرمي للاقتصاد الدائري وحدود المختبر"
+    },
+    {
+      "sourceKey": "The financial projections below apply these prices to your selected number of HPLC systems.",
+      "before": "تُطبِّق الإسقاطات المالية أدناه هذه الأسعار على عدد أنظمة HPLC المحدد لديك.",
+      "after": "تُطبِّق التوقعات المالية أدناه هذه الأسعار على عدد أنظمة HPLC المحدد لديك."
+    },
+    {
+      "sourceKey": "The study reports equivalent chromatographic performance between the two sequences and no adverse impact from using the recycled mobile phase in Sequence 2.",
+      "before": "تذكر الدراسة أداءً كروماتوغرافياً متكافئاً بين التسلسلين وعدم وجود أثر سلبي لاستخدام الطور المُعاد استخدامه في التسلسل 2.",
+      "after": "بالنسبة للطريقة المُقيَّمة، تذكر الدراسة أداءً كروماتوغرافياً متكافئاً بين التسلسلين وعدم وجود أثر سلبي لاستخدام الطور المُعاد استخدامه في التسلسل 2."
+    },
+    {
+      "sourceKey": "These are shared statements in the source narrative. Drug-specific chromatograms, acceptance criteria and numerical analytical results are not supplied in that PDF.",
+      "before": "هذه إفادات مشتركة في سرد المصدر. لا يقدم ملف PDF ذلك مخططات كروماتوغرافية خاصة بالعقار أو معايير القبول أو النتائج التحليلية الرقمية.",
+      "after": "هذه إفادات مشتركة في سرد المصدر. لا يقدم ملف PDF المذكور مخططات كروماتوغرافية خاصة بالعقار أو معايير القبول أو النتائج التحليلية الرقمية."
+    },
+    {
+      "sourceKey": "Three-year projection",
+      "before": "إسقاط لثلاث سنوات",
+      "after": "توقعات لثلاث سنوات"
+    },
+    {
+      "sourceKey": "Total hands-on time across all staff in one lab during one operating week. Two people working for one hour = 2 person-hours. Do not multiply by HPLC count; the calculator scales this by labs and operating weeks.",
+      "before": "إجمالي الوقت العملي لجميع الموظفين في مختبر واحد خلال أسبوع تشغيل واحد. عمل شخصين لمدة ساعة = 2 ساعة عمل بشرية. لا تضرب بعدد أنظمة HPLC؛ توسّع الحاسبة ذلك حسب المختبرات وأسابيع التشغيل.",
+      "after": "إجمالي وقت العمل الفعلي لجميع الموظفين في مختبر واحد خلال أسبوع تشغيل واحد. عمل شخصين لمدة ساعة يعادل 2 ساعة عمل بشرية. لا تضرب بعدد أنظمة HPLC؛ تحسب الحاسبة الإجمالي وفق عدد المختبرات وأسابيع التشغيل."
+    },
+    {
+      "sourceKey": "Turn measured prevention into a business case.",
+      "before": "حوّل المنع المقاس إلى مبرر استثمار.",
+      "after": "ابنِ مبرراً للاستثمار انطلاقاً من افتراضات مختبرك."
+    },
+    {
+      "sourceKey": "Two consecutive 96-injection sequences compared freshly prepared mobile phase with recycled mobile phase recovered from the first sequence. Each sequence comprised 80 samples, 13 standards and 3 blanks.",
+      "before": "قارن تسلسلان متتابعان من 96 عملية حقن الطور المحضر حديثاً بالطور المُعاد استخدامه المسترجع من التسلسل الأول. شمل كل تسلسل 80 عينة و13 معياراً و3 عينات فارغة.",
+      "after": "قارن تسلسلان متتابعان من 96 عملية حقن الطور المحضر حديثاً بالطور المُعاد استخدامه المسترجع من التسلسل الأول. شمل كل تسلسل 80 عينة و13 حقنة لمحاليل قياسية و3 حقن لعينات شاهدة."
+    },
+    {
+      "sourceKey": "Use your laboratory numbers, operating schedule and costs to model reduced solvent demand, cost avoided and CO₂ reduction over three years.",
+      "before": "استخدم أعداد مختبراتك وجدول التشغيل والتكاليف لنمذجة انخفاض طلب المذيبات والتكلفة المتجنبة وخفض CO₂ خلال ثلاث سنوات.",
+      "after": "استخدم أعداد مختبراتك وجدول التشغيل والتكاليف لنمذجة انخفاض الطلب على الطور المتحرك الطازج والتكلفة المتجنبة والخفض المقدَّر في CO₂e خلال ثلاث سنوات."
+    },
+    {
+      "sourceKey": "Validate this business case",
+      "before": "تحقق من مبرر الاستثمار هذا",
+      "after": "راجع مبرر الاستثمار هذا"
+    },
+    {
+      "sourceKey": "Validate this business case with Antech",
+      "before": "تحقق من مبرر الاستثمار هذا مع Antech",
+      "after": "راجع مبرر الاستثمار هذا مع Antech"
+    },
+    {
+      "sourceKey": "Waste & circularity",
+      "before": "النفايات والدائرية",
+      "after": "النفايات والاقتصاد الدائري"
+    },
+    {
+      "sourceKey": "Waste prevented",
+      "before": "النفايات الممنوعة",
+      "after": "النفايات المقدَّر منع تولدها"
+    },
+    {
+      "sourceKey": "Waste prevented and remaining waste together show the full baseline. Tonnes assume 1 kg/L; confirm actual density.",
+      "before": "تُظهر النفايات الممنوعة والمتبقية معاً خط الأساس الكامل. تفترض الأطنان 1 kg/L؛ أكد الكثافة الفعلية.",
+      "after": "تُظهر النفايات المتجنبة والمتبقية معاً خط الأساس الكامل. تفترض الأطنان 1 kg/L؛ أكد الكثافة الفعلية."
+    },
+    {
+      "sourceKey": "What the investment delivers",
+      "before": "ما الذي يقدمه الاستثمار",
+      "after": "تقديرات السيناريو الخاص بك"
+    },
+    {
+      "sourceKey": "Why solvent prevention matters.",
+      "before": "لماذا يهم تجنب المذيبات.",
+      "after": "لماذا يهم الحد من استهلاك المذيبات."
+    },
+    {
+      "sourceKey": "Year 1 investment includes equipment, installation and the first year of support. Years 2 and 3 include support only. Benefits are gross cash savings before these investment costs; staff capacity value is excluded. Values are undiscounted. The payback and NPV chart below shows the resulting net position.",
+      "before": "يشمل استثمار السنة 1 المعدات والتركيب وسنة الدعم الأولى. تشمل السنتان 2 و3 الدعم فقط. تمثل المنافع وفورات نقدية إجمالية قبل تكاليف الاستثمار هذه؛ وتُستبعد قيمة طاقة الموظفين. القيم غير مخصومة. يوضح مخطط الاسترداد وصافي القيمة الحالية أدناه الوضع الصافي الناتج.",
+      "after": "يشمل استثمار السنة 1 المعدات والتركيب وسنة الدعم الأولى. تشمل السنتان 2 و3 الدعم فقط. تمثل المنافع وفورات نقدية إجمالية قبل تكاليف الاستثمار هذه؛ وتُستبعد قيمة الطاقة الاستيعابية للموظفين. القيم غير مخصومة. يوضح مخطط الاسترداد وصافي القيمة الحالية أدناه الوضع الصافي الناتج."
+    },
+    {
+      "sourceKey": "annual preparation person-hours = person-hours per lab per operating week × labs × operating weeks/year. Hours released = baseline hours × the separate preparation-time reduction. Labour cost and capacity value = the relevant person-hours ÷ annual paid hours per analyst × annual salary. Three-year values = annual values × 3. Staff capacity value is excluded from material/disposal savings, cumulative cost charts and ROI.",
+      "before": "ساعات التحضير البشرية السنوية = ساعات العمل البشرية لكل مختبر في أسبوع تشغيل × المختبرات × أسابيع التشغيل/سنة. الساعات المحررة = ساعات خط الأساس × خفض وقت التحضير المستقل. تكلفة العمالة وقيمة الطاقة الاستيعابية = ساعات العمل البشرية ذات الصلة ÷ الساعات المدفوعة السنوية لكل محلل × الراتب السنوي. قيم ثلاث سنوات = القيم السنوية × 3. تُستبعد قيمة طاقة الموظفين من وفورات المواد/التخلص ومخططات التكلفة التراكمية والعائد على الاستثمار.",
+      "after": "ساعات التحضير البشرية السنوية = ساعات العمل البشرية لكل مختبر في أسبوع تشغيل × المختبرات × أسابيع التشغيل/سنة. الساعات المحررة = ساعات خط الأساس × خفض وقت التحضير المستقل. تكلفة العمالة وقيمة الطاقة الاستيعابية = ساعات العمل البشرية ذات الصلة ÷ الساعات المدفوعة السنوية لكل محلل × الراتب السنوي. قيم ثلاث سنوات = القيم السنوية × 3. تُستبعد قيمة الطاقة الاستيعابية للموظفين من وفورات المواد/التخلص ومخططات التكلفة التراكمية والعائد على الاستثمار."
+    },
+    {
+      "sourceKey": "✓ Technical conclusion: analytical performance maintained",
+      "before": "✓ الاستنتاج التقني: الحفاظ على الأداء التحليلي",
+      "after": "✓ استنتاج الدراسة: الحفاظ على الأداء التحليلي في ظل شروط الطريقة المُقيَّمة"
+    }
+  ],
+  "sourceAlignment": {
+    "1 labs": "1 مختبر",
+    "25 records paired with audit starts and finishes on 5 May 2026.": "25 سجلاً للقياس طُوبقت مع أحداث بدء القياس وانتهائه في سجل التدقيق بتاريخ 5 مايو 2026.",
+    "All 25 records are paired with audit starts and finishes. Record 9 retains a one-second difference: summary start 15:06:21; audit start 15:06:20.": "طُوبقت جميع السجلات الـ25 مع أحداث بدء القياس وانتهائه في سجل التدقيق. يظل فرق ثانية واحدة في السجل 9: وقت البدء في الملخص 15:06:21؛ ووقت البدء في سجل التدقيق 15:06:20.",
+    "All labs use the same systems-per-lab count, operating schedule and per-system flow. Disposal cost avoided is calculated from prevented waste volume × disposal cost per litre. Preparation time is valued separately at your entered staff cost; it is not included in material and disposal savings. Equipment, service, consumables and implementation costs are not deducted, in the gross savings figures. The financial projection separately deducts equipment, installation and annual support to calculate net cash, ROI, payback and NPV.": "تستخدم جميع المختبرات العدد نفسه من الأنظمة لكل مختبر وجدول التشغيل نفسه ومعدل التدفق نفسه لكل نظام. تُحسب تكلفة التخلص المتجنبة بضرب حجم النفايات التي مُنع تولدها في تكلفة التخلص لكل لتر. يُقيَّم وقت التحضير منفصلاً وفق تكلفة الموظفين المدخلة؛ ولا يُدرج في وفورات المواد والتخلص. لا تُخصم تكاليف المعدات والخدمة والمستهلكات والتطبيق من الوفورات الإجمالية. تخصم التوقعات المالية تكاليف المعدات والتركيب والدعم السنوي المدخلة لحساب صافي التدفقات النقدية والعائد على الاستثمار وفترة الاسترداد وصافي القيمة الحالية وفق النموذج. قيّم أي تكاليف أخرى خاصة بالموقع بصورة منفصلة.",
+    "Annual cost avoided": "التكلفة السنوية المقدَّر تجنبها",
+    "Both lines start after the upfront equipment and installation payment. Cash payback assumes savings accrue evenly through the year. NPV uses year-end cash flows discounted at 10%; segments join the annual valuation points. Staff capacity value is excluded from cash returns.": "يبدأ الخطان بعد دفع تكاليف المعدات والتركيب الأولية. يفترض الاسترداد النقدي تحقق الوفورات بالتساوي خلال السنة. يستخدم صافي القيمة الحالية التدفقات النقدية في نهاية السنة بمعدل الخصم المحدد (10% افتراضياً)؛ وتصل المقاطع بين نقاط التقييم السنوية. تُستبعد قيمة الطاقة الاستيعابية للموظفين من العوائد النقدية.",
+    "CO₂ reduction": "الخفض المقدَّر في CO₂e",
+    "CO₂:": "CO₂e المقدَّر:",
+    "Conclusion · analytical performance maintained": "استنتاج الدراسة · الحفاظ على الأداء التحليلي في ظل شروط الطريقة المُقيَّمة",
+    "Example opportunity—subject to validation at each site. The fixed example uses an 80% reduction assumption; 80%+ is not a measured purchasing result. Associated carbon estimates use supplied factors pending verification.": "يفترض المثال الثابت خفضاً صافياً بنسبة 80% في الطلب على الطور المتحرك الطازج وفي النفايات. هذه افتراضات تخطيط وليست نتائج مشتريات مقاسة. تستخدم تقديرات الكربون المرتبطة عوامل مقدمة تتطلب التحقق منها.",
+    "Geopolitical tensions, conflict, changing trade policies and disruption to major shipping routes are making global supply chains more uncertain. Rerouting, volatile freight costs and unpredictable lead times make replenishment harder to plan.": "قد تُصعّب التوترات الجيوسياسية والصراعات وتغير السياسات التجارية واضطراب طرق الشحن الرئيسية تخطيط إعادة التزويد. قيّم مدى التعرض لهذه العوامل ضمن شبكة المورّدين ومسارات النقل وسياسة المخزون الخاصة بك.",
+    "Hazardous waste prevented": "النفايات الخطرة المقدَّر منع تولدها",
+    "Maintain analytical results and process integrity as mobile phase is recycled.": "قيّم الأداء التحليلي وضوابط العملية عند إعادة استخدام الطور المتحرك.",
+    "Maintain your analytical standards while reducing fresh mobile-phase preparation.": "قيّم إعادة استخدام الطور المتحرك وفق متطلباتك التحليلية.",
+    "One laboratory · measurable prevention over time": "مختبر واحد · منع النفايات وفق النموذج عبر الزمن",
+    "Price exposure is real. Lower demand limits the volume exposed.": "يحد انخفاض الطلب من الحجم المعرّض لتغيرات الأسعار.",
+    "Prices exclude VAT. Support is €120 per month (€1,440 per year).": "الأسعار الاسترشادية لا تشمل ضريبة القيمة المضافة. تبلغ تكلفة الدعم الافتراضية €120 شهرياً (€1,440 سنوياً)؛ استخدم عرض السعر المنطبق في السيناريو الخاص بك.",
+    "Projected financial results depend on your net material and waste reductions. The net cash, ROI and NPV rows deduct the entered equipment, installation and support costs. Gross savings rows and cumulative impact charts remain before investment costs.": "تعتمد النتائج المالية المتوقعة على صافي خفض المواد والنفايات لديك. تخصم صفوف صافي التدفقات النقدية والعائد على الاستثمار وصافي القيمة الحالية تكاليف المعدات والتركيب والدعم المدخلة. تظل صفوف الوفورات الإجمالية ومخططات الأثر التراكمي قبل تكاليف الاستثمار. قيّم أي تكاليف أخرى خاصة بالموقع بصورة منفصلة.",
+    "ReSolve™ draws 0.4 W from the HPLC. Any electricity savings from reduced mobile-phase preparation remain to be measured.": "تشير مراجع المنتج إلى أن ReSolve™ يستهلك قدرة 0.4 W من نظام HPLC. ولا تزال أي وفورات كهرباء ناتجة عن تقليل تحضير الطور المتحرك بحاجة إلى قياس.",
+    "ReSolve™ recycles prepared mobile phase for reuse within isocratic HPLC workflows.": "يعيد ReSolve™ أجزاء مختارة من الطور المتحرك المُحضَّر لاستخدامها مجدداً ضمن مسارات عمل HPLC الملائمة ذات الإزاحة متساوية التركيب.",
+    "Recover the baseline.": "أعد تدفق منطقة خط الأساس المؤهل لإعادة الاستخدام.",
+    "Divert the peaks.": "وجّه كسور القمم إلى النفايات.",
+    "Reduce hazardous waste and CO₂ emissions. Capture the metrics across your labs.": "قيّم منع تولّد النفايات الخطرة وقدّر خفض CO₂e عبر مختبراتك.",
+    "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.": "استكشف خفض تكاليف الطور المتحرك ونمذج الأثر ضمن النطاق 3.",
+    "Reduce recurring laboratory costs, release analytical capacity and quantify waste and carbon reductions across your laboratory network.": "استكشف التكاليف المتكررة وطاقة المحللين والتخفيضات المحتملة للنفايات والكربون عبر شبكة مختبراتك.",
+    "Sequence 2 · 96 injections (Recycled)": "التسلسل 2 · 96 عملية حقن (طور مُعاد استخدامه)",
+    "The study reports equivalent chromatographic performance between the two sequences and no adverse impact from using the recycled mobile phase in Sequence 2.": "بالنسبة للطريقة المُقيَّمة، تذكر الدراسة أداءً كروماتوغرافياً متكافئاً بين التسلسلين وعدم وجود أثر سلبي لاستخدام الطور المُعاد استخدامه في التسلسل 2.",
+    "Turn measured prevention into a business case.": "ابنِ مبرراً للاستثمار انطلاقاً من افتراضات مختبرك.",
+    "Use your laboratory numbers, operating schedule and costs to model reduced solvent demand, cost avoided and CO₂ reduction over three years.": "استخدم أعداد مختبراتك وجدول التشغيل والتكاليف لنمذجة انخفاض الطلب على الطور المتحرك الطازج والتكلفة المتجنبة والخفض المقدَّر في CO₂e خلال ثلاث سنوات.",
+    "Validate this business case": "راجع مبرر الاستثمار هذا",
+    "Validate this business case with Antech": "راجع مبرر الاستثمار هذا مع Antech",
+    "Waste prevented": "النفايات المقدَّر منع تولدها",
+    "What the investment delivers": "تقديرات السيناريو الخاص بك",
+    "✓ Technical conclusion: analytical performance maintained": "✓ استنتاج الدراسة: الحفاظ على الأداء التحليلي في ظل شروط الطريقة المُقيَّمة",
+    "No difference in baseline noise/stability was observed. LC/MS found neither analyte in the recycled phase; the source reports waste-phase concentrations of 1,440 ng/mL paracetamol and 530 ng/mL ibuprofen.": "بالنسبة للطريقة المُقيَّمة، لم يُلاحظ اختلاف في ضجيج خط الأساس أو ثباته. لم يكشف LC/MS عن الباراسيتامول أو الإيبوبروفين في الطور المُعاد استخدامه؛ ولا يحدد التقرير حدود الكشف. يذكر المصدر تركيزات في طور النفايات قدرها 1,440 ng/mL للباراسيتامول و530 ng/mL للإيبوبروفين."
+  },
+  "hero": {
+    "prefix": "أبقِ الطور المتحرك ",
+    "emphasis": "قيد الاستخدام.",
+    "suffix": ""
+  },
+  "metadata": {
+    "title": "ReSolve™ | إعادة استخدام الطور المتحرك في HPLC متساوي التركيب | Antech",
+    "description": "استكشف إعادة استخدام الطور المتحرك مع ReSolve™ لطرق HPLC الملائمة ذات الإزاحة متساوية التركيب. راجع الأدلة التحليلية ونمذج التكاليف والنفايات وناقش تقييم طريقتك."
+  },
+  "blocks": {
+    "Recover the baseline. Divert the peaks.": {
+      "text": "أعد تدفق منطقة خط الأساس المؤهل لإعادة الاستخدام. {0}",
+      "slots": {
+        "0": "وجّه كسور القمم إلى النفايات."
+      }
+    },
+    "Two separate evidence sets answer different questions: the PMBrc / SETU study informs analytical review; the Agilent sequence and ReSolve™ records document the evaluated operation.": {
+      "text": "تجيب مجموعتان مستقلتان من الأدلة عن أسئلة مختلفة: تدعم {0} المراجعة التحليلية؛ ويوثّق تسلسل Agilent وسجلات ReSolve™ التشغيل الذي خضع للتقييم.",
+      "slots": {
+        "0": "دراسة PMBrc / SETU"
+      }
+    }
+  },
+  "numericExceptions": [
+    {
+      "sourceKey": "Example opportunity—subject to validation at each site. The fixed example uses an 80% reduction assumption; 80%+ is not a measured purchasing result. Associated carbon estimates use supplied factors pending verification.",
+      "before": [
+        "80",
+        "80"
+      ],
+      "after": [
+        "80"
+      ],
+      "reason": "Intentional removal of unsupported 80%+ marketing promise/repeated claim; this is not a source measurement, model input or result."
+    },
+    {
+      "sourceKey": "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.",
+      "before": [
+        "80",
+        "3"
+      ],
+      "after": [
+        "3"
+      ],
+      "reason": "Intentional removal of unsupported 80%+ marketing promise/repeated claim; this is not a source measurement, model input or result."
+    }
+  ],
+  "checks": {
+    "sourceKeysUnchanged": true,
+    "sourceKeyCount": 1429,
+    "englishSemanticAlignments": 35,
+    "numericTokensMatchReviewedEnglish": true,
+    "numericDifferencesAgainstReviewedEnglish": 0,
+    "numericTokensPreservedExceptTwoEnglishClaimRemovals": true,
+    "ASCIImeasurementDigits": true,
+    "allSourceMeasurementsUnchanged": true,
+    "methodSpecificEvidenceSeparateFromAnnualAssumptions": true,
+    "LCMSNondetectionAndUnreportedLODQualified": true,
+    "routingNotPurification": true,
+    "staffCapacitySeparateFromCashSavings": true,
+    "grossNetCostBoundaryPreserved": true,
+    "EURNoConversion": true,
+    "carbonEstimatesQualified": true,
+    "noCertificationOrRegulatoryApprovalClaim": true,
+    "allEightProfilesReadInContext": true,
+    "fourStandaloneReportsReadInContext": true,
+    "supplementalKeysReviewed": 6,
+    "formsAndSourceLanguageLabelsReviewed": true,
+    "heroAndSEOReviewed": true,
+    "inlineBlocksValidatedAgainstSourceDOM": {
+      "See ReSolve in action.": 8,
+      "Recover the baseline. Divert the peaks.": 1,
+      "Your details will be sent to Antech so we can respond to your enquiry. If the form fails, email info@antech.ie .": 1,
+      "Two separate evidence sets answer different questions: the PMBrc / SETU study informs analytical review; the Agilent sequence and ReSolve™ records document the evaluated operation.": 1
+    },
+    "profileTextCharacters": {
+      "quality": 14045,
+      "sustainability": 9317,
+      "procurement": 4496,
+      "supply-chain": 5105,
+      "value": 6309,
+      "research": 4836,
+      "reports": 1271,
+      "across": 15450
+    },
+    "noBrowserCSSEngineOrDeploymentChanges": true
+  },
+  "remainingReview": [
+    "AI-authored Modern Standard Arabic scientific and marketing review; not certified native-language or legal/regulatory approval.",
+    "RTL browser/layout remains under parent QA ownership; no CSS or browser changes made."
+  ]
+}

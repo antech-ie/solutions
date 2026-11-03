@@ -1,0 +1,1104 @@
+{
+  "locale": "ko",
+  "agent": "/root/language_ko",
+  "status": "reviewed",
+  "reviewedKeys": 1429,
+  "reviewedProfiles": [
+    "quality",
+    "sustainability",
+    "procurement",
+    "supply-chain",
+    "value",
+    "research",
+    "reports",
+    "across"
+  ],
+  "reviewBasis": "All 1,429 English-value/Korean pairs read; assembled eight-profile headings, paragraphs, inline blocks, forms, calculator and report context reviewed from preview HTML and original shared DOM. AI scientific and marketing language review; not certified native or legal approval.",
+  "changedEntries": 188,
+  "changes": [
+    {
+      "sourceKey": "1 lab × 10 HPLCs × 1 mL/min × 60 min × 16 h/day × 5 days/week × 48 weeks/year = 2,304 L/year. Three years = 6,912 L baseline. Fresh demand avoided and waste prevented each use a separate 80% net reduction assumption. Material cost = €100/L. No growth, inflation or discounting is applied. These are cumulative three-year figures.",
+      "before": "실험실 1개 × HPLC 10대 × 1 mL/min × 60 min × 16 시간/일 × 5 일/주 × 48 주/년 = 2,304 L/년. 3년 기준량 = 6,912 L. 새 이동상 수요 회피량과 폐액 예방량에는 각각 별도의 80% 순감소 가정을 적용합니다. 재료비 = €100/L. 성장, 인플레이션 또는 할인은 적용하지 않습니다. 3년 누적 수치입니다.",
+      "after": "실험실 1개 × HPLC 10대 × 1 mL/min × 60 min × 16 시간/일 × 5 일/주 × 48 주/년 = 2,304 L/년. 3년 기준량 = 6,912 L. 새 이동상 수요 감소량과 폐액 발생 감소량에는 각각 별도의 80% 순감소 가정을 적용합니다. 재료비 = €100/L. 성장, 인플레이션 또는 할인은 적용하지 않습니다. 3년 누적 수치입니다."
+    },
+    {
+      "sourceKey": "2,080 paid hours per analyst per year (40 hours/week × 52 weeks). This fixed assumption converts annual salary into a value per preparation person-hour; it is separate from laboratory operating weeks. Employer contributions and benefits are excluded.",
+      "before": "분석자 1인당 연간 유급 시간 2,080시간(40 시간/주 × 52주). 이 고정 가정은 연봉을 조제 작업의 인시당 가치로 환산하며 실험실 운영 주수와는 별개입니다. 고용주 부담금과 복리후생비는 제외합니다.",
+      "after": "분석 담당자 1인당 연간 유급 시간 2,080시간(40 시간/주 × 52주). 이 고정 가정은 연봉을 조제 작업의 인시당 가치로 환산하며 실험실 운영 주수와는 별개입니다. 고용주 부담금과 복리후생비는 제외합니다."
+    },
+    {
+      "sourceKey": "25 records paired with audit starts and finishes on 5 May 2026.",
+      "before": "2026년 5월 5일 감사 시작 및 종료와 짝지어진 25개 기록.",
+      "after": "2026년 5월 5일 감사 추적의 측정 시작 및 종료 이벤트와 대응하는 측정 기록 25개입니다."
+    },
+    {
+      "sourceKey": "5,529.6 L net waste prevented over three years; approximately 5.53 t at 1 kg/L.",
+      "before": "3년간 순 폐액 예방량 5,529.6 L; 1 kg/L 기준 약 5.53 t.",
+      "after": "3년간 폐액 발생 순감소량 5,529.6 L. 1 kg/L 기준 약 5.53 t."
+    },
+    {
+      "sourceKey": "5,529.6 L net waste prevention; material-intensity measures",
+      "before": "순 폐액 예방량 5,529.6 L; 재료 집약도 지표",
+      "after": "폐액 발생 순감소량 5,529.6 L. 재료 집약도 지표."
+    },
+    {
+      "sourceKey": "89.07% recycled throughput",
+      "before": "처리 유량의 89.07% 재사용",
+      "after": "처리량의 89.07% 재사용"
+    },
+    {
+      "sourceKey": "90.79% recycled throughput",
+      "before": "처리 유량의 90.79% 재사용",
+      "after": "처리량의 90.79% 재사용"
+    },
+    {
+      "sourceKey": "94.5% recycled throughput",
+      "before": "처리 유량의 94.5% 재사용",
+      "after": "처리량의 94.5% 재사용"
+    },
+    {
+      "sourceKey": "94.72% recycled throughput",
+      "before": "처리 유량의 94.72% 재사용",
+      "after": "처리량의 94.72% 재사용"
+    },
+    {
+      "sourceKey": "A fixed one-lab example over three years. Select Model Your Own Scenario to model your laboratories.",
+      "before": "실험실 1개를 대상으로 한 3년 고정 예시입니다. 자체 실험실을 모델링하려면 '나만의 시나리오 모델링'을 선택하세요.",
+      "after": "실험실 1개를 대상으로 한 3년 고정 예시입니다. 자체 실험실을 모델링하려면 ‘실험실 시나리오 모델링’을 선택하세요."
+    },
+    {
+      "sourceKey": "Agree baseline consumption, waste boundaries and the records needed to demonstrate prevention.",
+      "before": "기준 소비량, 폐액 산정 경계 및 예방을 입증하는 데 필요한 기록에 합의하세요.",
+      "after": "기준 소비량, 폐액 산정 경계 및 발생 감소를 입증하는 데 필요한 기록을 합의하세요."
+    },
+    {
+      "sourceKey": "All 25 records are paired with audit starts and finishes. Record 9 retains a one-second difference: summary start 15:06:21; audit start 15:06:20.",
+      "before": "25개 기록 모두 감사 시작 및 종료와 짝지어집니다. 기록 9에는 1초 차이가 남아 있습니다: 요약 시작 15:06:21; 감사 시작 15:06:20.",
+      "after": "25개 기록 모두 감사 추적의 측정 시작 및 종료 이벤트와 대응합니다. 기록 9의 1초 차이는 그대로 유지했습니다. 요약 시작 시간은 15:06:21, 감사 추적의 시작 시간은 15:06:20입니다."
+    },
+    {
+      "sourceKey": "All labs use the same systems-per-lab count, operating schedule and per-system flow. Disposal cost avoided is calculated from prevented waste volume × disposal cost per litre. Preparation time is valued separately at your entered staff cost; it is not included in material and disposal savings. Equipment, service, consumables and implementation costs are not deducted, in the gross savings figures. The financial projection separately deducts equipment, installation and annual support to calculate net cash, ROI, payback and NPV.",
+      "before": "모든 실험실에 동일한 실험실당 시스템 수, 운영 일정 및 시스템당 유속을 적용합니다. 회피한 폐기 비용은 예방된 폐액 부피 × 리터당 폐기 비용으로 계산합니다. 조제 시간은 입력한 인건비로 별도 평가하며 재료비 및 폐기비 절감에 포함하지 않습니다. 총 절감액에서는 장비·서비스·소모품·도입 비용을 차감하지 않습니다. 재무 예측은 장비·설치·연간 지원 비용을 별도로 차감하여 순현금, ROI, 회수 기간 및 NPV를 계산합니다.",
+      "after": "모든 실험실에 동일한 실험실당 시스템 수, 운영 일정 및 시스템당 유속을 적용합니다. 폐기 비용 절감액은 폐액 발생 감소량 × 리터당 폐기 비용으로 계산합니다. 조제 시간의 가치는 입력한 인건비를 기준으로 별도 산정하며 재료비 및 폐기비 절감액에 포함하지 않습니다. 총절감액에서는 장비, 서비스, 소모품 또는 도입 비용을 차감하지 않습니다. 재무 예측에서는 입력한 장비, 설치 및 연간 지원 비용을 차감하여 모델상 순현금, ROI, 투자 회수 기간 및 NPV를 계산합니다. 그 밖의 사업장별 비용은 별도로 평가하세요."
+    },
+    {
+      "sourceKey": "Analyst capacity",
+      "before": "분석자 업무 여력",
+      "after": "분석 담당자 업무 여력"
+    },
+    {
+      "sourceKey": "Analyst reviewing work on a computer while colleagues work in the laboratory",
+      "before": "동료들이 실험실에서 작업하는 동안 컴퓨터로 업무를 검토하는 분석자",
+      "after": "동료들이 실험실에서 작업하는 동안 컴퓨터로 업무를 검토하는 분석 담당자"
+    },
+    {
+      "sourceKey": "Analyst time:",
+      "before": "분석자 시간:",
+      "after": "분석 담당자 시간:"
+    },
+    {
+      "sourceKey": "Analyst using the ReSolve touchscreen mounted on an HPLC system in a laboratory",
+      "before": "실험실 HPLC 시스템에 장착된 ReSolve 터치스크린을 사용하는 분석자",
+      "after": "실험실 HPLC 시스템에 장착된 ReSolve 터치스크린을 사용하는 분석 담당자"
+    },
+    {
+      "sourceKey": "Analyst working with laboratory sample vials",
+      "before": "실험실 시료 바이알을 다루는 분석자",
+      "after": "실험실 시료 바이알을 다루는 분석 담당자"
+    },
+    {
+      "sourceKey": "Analytical acceptance and controlled change; no certification inferred.",
+      "before": "분석 허용과 관리된 변경; 인증을 의미하지 않습니다.",
+      "after": "분석 허용 기준 충족 여부 및 변경관리. 인증을 의미하지 않습니다."
+    },
+    {
+      "sourceKey": "Analytical results. Recorded recycling. Supporting evidence.",
+      "before": "분석 결과. 기록된 재사용. 뒷받침하는 근거.",
+      "after": "분석 결과. 재사용 기록. 이를 뒷받침하는 근거."
+    },
+    {
+      "sourceKey": "Annual cost avoided",
+      "before": "연간 회피 비용",
+      "after": "추정 연간 비용 절감액"
+    },
+    {
+      "sourceKey": "Annual cost avoided × 3 · constant workload and unit costs",
+      "before": "연간 회피 비용 × 3 · 일정한 작업량 및 단가",
+      "after": "연간 비용 절감액 × 3 · 일정한 작업량 및 단가"
+    },
+    {
+      "sourceKey": "Annual gross salary per analyst. Default €30,000/year; employer contributions and benefits are excluded. Preparation time is valued from annual salary using the paid-hours assumption in Calculation method.",
+      "before": "분석자 1인당 연간 총급여. 기본값 €30,000/년; 고용주 부담금과 복리후생비는 제외합니다. 조제 시간은 '계산 방법'의 유급 시간 가정에 따라 연봉으로 평가합니다.",
+      "after": "분석 담당자 1인당 연간 총급여. 기본값 €30,000/년; 고용주 부담금과 복리후생비는 제외합니다. 조제 시간은 '계산 방법'의 유급 시간 가정에 따라 연봉으로 평가합니다."
+    },
+    {
+      "sourceKey": "Annual material cost avoided:",
+      "before": "연간 회피 재료비:",
+      "after": "연간 재료비 절감액:"
+    },
+    {
+      "sourceKey": "Assess equipment service, consumables, spares and the ability to return to the approved fresh-mobile-phase workflow. Include these dependencies in the continuity plan.",
+      "before": "장비 서비스, 소모품, 예비 부품 및 승인된 새 이동상 워크플로로 복귀하는 능력을 평가하고 이러한 의존성을 연속성 계획에 포함하세요.",
+      "after": "장비 서비스, 소모품, 예비 부품 및 승인된 새 이동상 워크플로로 복귀할 수 있는지를 평가하세요. 이러한 의존 요소를 업무 연속성 계획에 포함하세요."
+    },
+    {
+      "sourceKey": "Assumed fresh mobile-phase demand prevented:",
+      "before": "가정된 새 이동상 수요 예방량:",
+      "after": "가정된 새 이동상 수요 감소량:"
+    },
+    {
+      "sourceKey": "At 80% lower demand, unchanged usable stock could cover 5× as many operating days. A conditional arithmetic ratio, not a measured service improvement; ingredient mix, expiry and reserves still apply.",
+      "before": "수요가 80% 감소하면 동일한 가용 재고로 운영일을 5× 더 충당할 수 있습니다. 이는 조건부 산술 비율이며 실측 서비스 개선이 아닙니다. 성분 조성, 유효기간 및 비축 요건도 고려해야 합니다.",
+      "after": "수요가 80% 감소하면 동일한 가용 재고로 충당할 수 있는 운영일이 5×가 될 수 있습니다. 이는 조건부 산술 비율이며 실측 서비스 개선 결과가 아닙니다. 성분 조성, 유효기간 및 비축 요건도 고려해야 합니다."
+    },
+    {
+      "sourceKey": "Audit extracts, change control and site review. Agree actual responsibilities within your organisation.",
+      "before": "감사 발췌, 변경관리 및 현장 검토. 조직 내 실제 책임에 합의하세요.",
+      "after": "감사 추적 발췌, 변경관리 및 현장 검토. 조직 내 실제 책임을 합의하세요."
+    },
+    {
+      "sourceKey": "Audit finish",
+      "before": "감사 종료",
+      "after": "감사 추적의 측정 종료"
+    },
+    {
+      "sourceKey": "Audit start",
+      "before": "감사 시작",
+      "after": "감사 추적의 측정 시작"
+    },
+    {
+      "sourceKey": "Baseline assumes the once-through mobile-phase volume becomes hazardous waste. Enter the variable treatment charge; reconcile the actual site waste balance before using the result.",
+      "before": "기준은 일회 통과 이동상 부피가 유해 폐액이 된다고 가정합니다. 변동 처리비를 입력하고 결과를 사용하기 전에 실제 현장 폐액수지를 확인하세요.",
+      "after": "기준 시나리오에서는 일회 통과한 이동상 전량이 유해 폐액이 된다고 가정합니다. 변동 처리 요금을 입력하고, 결과를 활용하기 전에 실제 사업장의 폐액 수지를 대조 확인하세요."
+    },
+    {
+      "sourceKey": "Both lines start after the upfront equipment and installation payment. Cash payback assumes savings accrue evenly through the year. NPV uses year-end cash flows discounted at 10%; segments join the annual valuation points. Staff capacity value is excluded from cash returns.",
+      "before": "두 곡선은 선행 장비 및 설치 비용 지급 후 시작합니다. 현금 회수는 절감액이 연중 균등하게 발생한다고 가정합니다. NPV는 연말 현금흐름을 10%로 할인하며 선분은 각 연도 평가점을 연결합니다. 인력 여력 가치는 현금 수익에서 제외됩니다.",
+      "after": "두 곡선은 초기 장비 및 설치 비용을 지급한 시점부터 시작합니다. 현금 기준 투자 회수 기간은 절감액이 연중 균등하게 발생한다고 가정합니다. NPV는 선택한 할인율(기본값 10%)을 연말 현금흐름에 적용하며, 선분은 각 연도의 평가점을 연결합니다. 확보된 업무 여력의 가치는 현금 수익에서 제외합니다."
+    },
+    {
+      "sourceKey": "Brochure routing illustration. Eligible baseline flow returns for reuse; detected peak fractions go to waste. ReSolve routes selected mobile phase; it does not purify it. Method-specific assessment remains necessary.",
+      "before": "브로슈어 유로 그림. 적합한 베이스라인 유량은 재사용을 위해 복귀하며 검출 피크 분획은 폐액으로 갑니다. ReSolve는 선택된 이동상의 경로를 제어하며 정제하지 않습니다. 분석법별 평가가 필요합니다.",
+      "after": "브로슈어의 유로 그림입니다. 재사용에 적합한 베이스라인 구간의 이동상은 되돌려 보내고, 검출된 피크 분획은 폐액으로 보냅니다. ReSolve는 선택한 이동상의 경로를 제어하며 이동상을 정제하지 않습니다. 분석법별 평가가 필요합니다."
+    },
+    {
+      "sourceKey": "Build a case with your own workload and costs",
+      "before": "자체 작업량과 비용으로 사업성 평가 구성",
+      "after": "실제 작업량과 비용으로 사업성 평가"
+    },
+    {
+      "sourceKey": "Build one business case, together.",
+      "before": "하나의 사업성 평가를 함께 구성하세요.",
+      "after": "사업성 평가를 함께 진행하세요."
+    },
+    {
+      "sourceKey": "Build your business case",
+      "before": "사업성 평가 구성",
+      "after": "사업성 평가"
+    },
+    {
+      "sourceKey": "CO₂ reduction",
+      "before": "CO₂ 감축",
+      "after": "추정 CO₂e 감축량"
+    },
+    {
+      "sourceKey": "CO₂:",
+      "before": "CO₂:",
+      "after": "추정 CO₂e:"
+    },
+    {
+      "sourceKey": "Capacity released, avoided spend and inventory released are distinct benefits. Do not add them together without checking their financial treatment.",
+      "before": "확보된 여력, 회피 지출 및 줄어든 재고는 서로 다른 편익입니다. 재무상 처리를 확인하지 않고 합산하지 마세요.",
+      "after": "확보된 여력, 줄어드는 지출 및 줄어든 재고는 서로 다른 편익입니다. 재무상 처리를 확인하지 않고 합산하지 마세요."
+    },
+    {
+      "sourceKey": "Combined, when equal litres are prevented",
+      "before": "동일한 리터 수가 예방된 경우의 합계",
+      "after": "동일한 부피의 발생을 줄였을 때의 합산값"
+    },
+    {
+      "sourceKey": "Commercial fit",
+      "before": "상업적 적합성",
+      "after": "구매 및 계약 적합성"
+    },
+    {
+      "sourceKey": "Complete analytical reconciliation",
+      "before": "분석적 대조 확인 완료",
+      "after": "분석 결과 대조 확인 완료"
+    },
+    {
+      "sourceKey": "Conclusion · analytical performance maintained",
+      "before": "결론 · 분석 성능 유지",
+      "after": "연구 결론 · 평가한 분석법 조건에서 분석 성능 유지"
+    },
+    {
+      "sourceKey": "Confirm method suitability and site costs, measure analyst time released, then prioritise deployment where the combined operational and financial value is strongest.",
+      "before": "분석법 적합성과 현장 비용을 확인하고 확보되는 분석자 시간을 측정한 뒤, 종합 운영·재무 가치가 가장 높은 곳부터 도입하세요.",
+      "after": "분석법 적합성과 현장 비용을 확인하고 확보되는 분석 담당자 시간을 측정한 뒤, 종합 운영·재무 가치가 가장 높은 곳부터 도입하세요."
+    },
+    {
+      "sourceKey": "Connect demand prevention to purchasing",
+      "before": "수요 예방을 구매와 연계",
+      "after": "수요 감소를 구매 계획과 연계"
+    },
+    {
+      "sourceKey": "Cost avoided",
+      "before": "회피 비용",
+      "after": "비용 절감액"
+    },
+    {
+      "sourceKey": "Cost avoided = whole prepared mobile-phase litres avoided × prepared mobile-phase material cost per litre. ReSolve™, implementation, disposal and labour costs are excluded.",
+      "before": "회피 비용 = 회피한 조제 전체 이동상 리터 수 × 조제 이동상 리터당 재료비. ReSolve™·도입·폐기·인건비는 제외합니다.",
+      "after": "비용 절감액 = 조제된 전체 이동상의 절감량(L) × 조제 이동상 리터당 재료비. ReSolve™, 도입, 폐기 및 인건비는 제외합니다."
+    },
+    {
+      "sourceKey": "Cumulative prevention ·",
+      "before": "누적 예방량 ·",
+      "after": "누적 발생 감소량 ·"
+    },
+    {
+      "sourceKey": "Days of stock coverage",
+      "before": "재고 커버 일수",
+      "after": "재고 충당 일수"
+    },
+    {
+      "sourceKey": "Detector-to-valve delay, peak margins, sample matrix and the reuse period require method-specific assessment.",
+      "before": "검출기-밸브 지연, 피크 여유, 시료 매트릭스 및 재사용 기간은 분석법별 평가가 필요합니다.",
+      "after": "검출기에서 밸브까지의 이동 지연, 피크 전후 여유 구간, 시료 매트릭스 및 재사용 기간은 분석법별로 평가해야 합니다."
+    },
+    {
+      "sourceKey": "Disposal cost avoided",
+      "before": "회피 폐기 비용",
+      "after": "폐기 비용 절감액"
+    },
+    {
+      "sourceKey": "Divert the peaks.",
+      "before": "피크를 폐액으로 전환하세요.",
+      "after": "피크 분획은 폐액으로 보내세요."
+    },
+    {
+      "sourceKey": "ELIGIBLE BASELINE FLOW → RETURN FOR REUSE",
+      "before": "적합한 베이스라인 유량 → 재사용을 위해 복귀",
+      "after": "재사용에 적합한 베이스라인 구간의 이동상 → 재사용을 위해 복귀"
+    },
+    {
+      "sourceKey": "Each bar shows the cumulative total from the start. Gross material cost avoided uses the whole prepared mobile phase; equipment and implementation costs are not deducted. Carbon uses the agreed mobile-phase factors: 3.69 kg CO₂e/L for production and 1.57 kg CO₂e/L for disposal. Transportation is excluded.",
+      "before": "각 막대는 시작부터의 누적 총량을 보여줍니다. 총 회피 재료비는 조제된 전체 이동상에 적용하며 장비·도입 비용은 차감하지 않습니다. 탄소 계산은 합의된 이동상 계수인 생산 3.69 kg CO₂e/L와 폐기 1.57 kg CO₂e/L를 사용합니다. 운송은 제외합니다.",
+      "after": "각 막대는 시작부터의 누적 총량을 보여줍니다. 총 재료비 절감액은 조제된 전체 이동상을 기준으로 산정하며 장비 및 도입 비용을 차감하지 않습니다. 탄소 계산에는 합의된 이동상 계수인 생산 3.69 kg CO₂e/L와 폐기 1.57 kg CO₂e/L를 사용합니다. 운송은 제외합니다."
+    },
+    {
+      "sourceKey": "Eligible baseline flow → reservoir",
+      "before": "적합한 베이스라인 유량 → 저장조",
+      "after": "재사용에 적합한 베이스라인 구간의 이동상 → 저장조"
+    },
+    {
+      "sourceKey": "Enter preparation costs and people time, then your laboratory workload and disposal costs.",
+      "before": "조제 비용과 인력 시간을 입력한 다음 실험실 작업량과 폐기 비용을 입력하세요.",
+      "after": "조제 비용과 조제에 투입되는 인력 시간을 입력한 다음 실험실 작업량과 폐기 비용을 입력하세요."
+    },
+    {
+      "sourceKey": "Enter the number of labs, systems per lab and operating details to estimate prepared mobile-phase material cost avoided. Then explore the value for each persona.",
+      "before": "실험실 수, 실험실당 시스템 수 및 운영 세부사항을 입력하여 회피한 조제 이동상 재료비를 추정합니다. 그런 다음 각 역할의 가치를 살펴보세요.",
+      "after": "실험실 수, 실험실당 시스템 수 및 운영 세부사항을 입력하여 조제 이동상 재료비 절감액을 추정하세요. 그런 다음 각 역할별 가치를 살펴보세요."
+    },
+    {
+      "sourceKey": "Estimate production and waste-treatment emissions separately from the litres prevented.",
+      "before": "예방된 리터 수와 별개로 생산 및 폐액 처리 배출량을 추정합니다.",
+      "after": "발생을 줄인 이동상 및 폐액의 부피를 기준으로 생산과 폐액 처리의 배출량을 각각 추정합니다."
+    },
+    {
+      "sourceKey": "Estimated CO₂e prevented",
+      "before": "추정 CO₂e 예방량",
+      "after": "추정 CO₂e 감축량"
+    },
+    {
+      "sourceKey": "Estimated CO₂e prevented = fresh prepared mobile phase avoided (L) × 3.69 kg CO₂e/L + waste avoided (L) × 1.57 kg CO₂e/L. Locked user-supplied modelling factors apply to the whole mobile phase; source verification remains separate. Transportation is excluded from these calculations. Inbound deliveries and waste collections will be assessed separately.",
+      "before": "추정 CO₂e 예방량 = 회피한 새 조제 이동상(L) × 3.69 kg CO₂e/L + 회피 폐액(L) × 1.57 kg CO₂e/L. 고정된 사용자 제공 모델 계수는 전체 이동상에 적용하며 출처 검증은 별도입니다. 운송은 이 계산에서 제외합니다. 입고 운송과 폐액 수거는 별도 평가합니다.",
+      "after": "추정 CO₂e 감축량 = 새 조제 이동상 절감량(L) × 3.69 kg CO₂e/L + 폐액 발생 감소량(L) × 1.57 kg CO₂e/L. 고정된 사용자 제공 모델 계수는 전체 이동상에 적용하며 출처 검증은 별도로 필요합니다. 이 계산에는 운송이 포함되지 않습니다. 입고 운송과 폐액 수거는 별도로 평가합니다."
+    },
+    {
+      "sourceKey": "Estimated CO₂e prevented = fresh prepared mobile phase avoided × 3.69 + waste avoided × 1.57. These factors apply to whole-mixture litres, without a solvent-share multiplier.",
+      "before": "추정 CO₂e 예방량 = 회피한 새 조제 이동상 × 3.69 + 회피 폐액 × 1.57. 이 계수는 전체 혼합물 리터 수에 적용하며 용매 비율을 별도로 곱하지 않습니다.",
+      "after": "추정 CO₂e 감축량 = 새 조제 이동상 절감량 × 3.69 + 폐액 발생 감소량 × 1.57. 이 계수는 전체 혼합물의 리터 수에 적용하며 용매 비율을 별도로 곱하지 않습니다."
+    },
+    {
+      "sourceKey": "Estimated hazardous waste prevented",
+      "before": "추정 유해 폐액 예방량",
+      "after": "추정 유해 폐액 발생 감소량"
+    },
+    {
+      "sourceKey": "Evidence: preparation and handling events against the baseline.",
+      "before": "근거: 기준 대비 조제 및 취급 이벤트.",
+      "after": "근거: 기준 대비 조제 및 취급 작업 기록."
+    },
+    {
+      "sourceKey": "Example assumption: baseline preparation time indexed at 100, with recycling indexed at 70. A 30 percent reduction, not a measured result.",
+      "before": "예시 가정: 기준 조제 시간 지수 100, 재사용 시 70. 실측 결과가 아닌 30% 감소 가정입니다.",
+      "after": "예시 가정: 기준 조제 시간 지수는 100, 재사용 시 지수는 70입니다. 실측 결과가 아닌 30% 감소 가정입니다."
+    },
+    {
+      "sourceKey": "Example opportunity—subject to validation at each site. The fixed example uses an 80% reduction assumption; 80%+ is not a measured purchasing result. Associated carbon estimates use supplied factors pending verification.",
+      "before": "현장별 검증이 필요한 예시 기회입니다. 고정 예시는 80% 감소를 가정하며 80%+는 실측 구매 결과가 아닙니다. 관련 탄소 추정은 검증 대기 중인 제공 계수를 사용합니다.",
+      "after": "고정 예시에서는 새 이동상 수요와 폐액 발생량이 각각 순 80% 감소한다고 가정합니다. 이는 계획 수립을 위한 가정이며 실측 구매 결과가 아닙니다. 관련 탄소 추정에는 제공된 계수를 사용하며 해당 계수의 검증이 필요합니다."
+    },
+    {
+      "sourceKey": "Fewer fresh mobile-phase preparations can reduce opportunities for weighing, mixing and pH-adjustment errors.",
+      "before": "새 이동상 조제 횟수를 줄이면 칭량, 혼합 및 pH 조정 오류의 기회를 줄일 수 있습니다.",
+      "after": "새 이동상 조제 횟수가 줄면 칭량, 혼합 및 pH 조정 오류가 발생할 가능성도 줄어들 수 있습니다."
+    },
+    {
+      "sourceKey": "Fewer transfers and container changes may reduce opportunities for spills and exposure. Verify the change through a site risk assessment and handling-event records.",
+      "before": "이송과 용기 교체 감소는 유출 및 노출 기회를 줄일 수 있습니다. 현장 위험평가와 취급 이벤트 기록으로 변화를 검증하세요.",
+      "after": "이송과 용기 교체 횟수가 줄면 유출 및 노출 가능성도 줄어들 수 있습니다. 사업장 위험평가와 취급 작업 기록으로 변화를 검증하세요."
+    },
+    {
+      "sourceKey": "Fixed planning assumptions applied to your laboratory baseline. Actual improvements require site validation. Staff capacity value is shown separately from cash savings.",
+      "before": "실험실 기준에 적용하는 고정 계획 가정입니다. 실제 개선에는 현장 검증이 필요합니다. 인력 여력 가치는 현금 절감액과 별도로 표시됩니다.",
+      "after": "실험실 기준에 적용하는 고정 계획 가정입니다. 실제 개선에는 현장 검증이 필요합니다. 업무 여력의 가치는 현금 절감액과 별도로 표시됩니다."
+    },
+    {
+      "sourceKey": "For the evaluated method, the study reported no observed difference in baseline noise or stability, and no detectable paracetamol or ibuprofen in recycled phase by LC/MS.",
+      "before": "평가된 분석법에서 연구는 베이스라인 노이즈나 안정성 차이가 관찰되지 않았고, LC/MS로 재사용 이동상에서 파라세타몰이나 이부프로펜이 검출되지 않았다고 보고합니다.",
+      "after": "평가한 분석법에서는 베이스라인 노이즈나 안정성의 차이가 관찰되지 않았으며, LC/MS 분석에서 재사용 이동상의 파라세타몰과 이부프로펜이 검출되지 않았다고 연구진은 보고합니다."
+    },
+    {
+      "sourceKey": "Fresh mobile phase avoided",
+      "before": "회피한 새 이동상",
+      "after": "새 이동상 절감량"
+    },
+    {
+      "sourceKey": "Fresh mobile phase avoided × material cost per litre + hazardous waste prevented × disposal cost per litre",
+      "before": "회피한 새 이동상 × 리터당 재료비 + 예방된 유해 폐액 × 리터당 폐기 비용",
+      "after": "새 이동상 절감량 × 리터당 재료비 + 유해 폐액 발생 감소량 × 리터당 폐기 비용"
+    },
+    {
+      "sourceKey": "Fresh mobile phase avoided:",
+      "before": "회피한 새 이동상:",
+      "after": "새 이동상 절감량:"
+    },
+    {
+      "sourceKey": "Fresh requirement falls from 6,912 L to 1,382.4 L over three years; 5× theoretical coverage at unchanged usable stock.",
+      "before": "3년간 새 이동상 필요량이 6,912 L에서 1,382.4 L로 감소하며 동일한 가용 재고에서 이론상 5×의 커버 기간을 제공합니다.",
+      "after": "3년간 새 이동상 필요량은 6,912 L에서 1,382.4 L로 감소하며, 가용 재고가 동일하다면 이론상 재고 충당 기간은 5×가 됩니다."
+    },
+    {
+      "sourceKey": "Fresh source vial",
+      "before": "새 이동상 원본 바이알",
+      "after": "새 이동상 시료의 원본 바이알"
+    },
+    {
+      "sourceKey": "Geopolitical tensions, conflict, changing trade policies and disruption to major shipping routes are making global supply chains more uncertain. Rerouting, volatile freight costs and unpredictable lead times make replenishment harder to plan.",
+      "before": "지정학적 긴장, 분쟁, 변화하는 무역 정책 및 주요 항로 차질로 글로벌 공급망의 불확실성이 커지고 있습니다. 우회 운송, 변동하는 운임 및 예측하기 어려운 납기가 보충 계획을 어렵게 합니다.",
+      "after": "지정학적 긴장, 분쟁, 무역 정책 변화 및 주요 항로 차질로 인해 보충 계획 수립이 어려워질 수 있습니다. 자체 공급업체 네트워크, 운송 경로 및 재고 정책에서 관련 위험을 평가하세요."
+    },
+    {
+      "sourceKey": "Hazardous waste prevented",
+      "before": "예방된 유해 폐액",
+      "after": "추정 유해 폐액 발생 감소량"
+    },
+    {
+      "sourceKey": "Hazardous-waste disposal cost avoided",
+      "before": "회피한 유해 폐액 폐기 비용",
+      "after": "유해 폐액 폐기 비용 절감액"
+    },
+    {
+      "sourceKey": "Headline figures use the printed report totals. Individual rows total 1,111.013 mL recycled and 63.531 mL waste; the small source discrepancy is retained. These are recorded flow volumes, not net annual savings.",
+      "before": "주요 수치는 인쇄 보고서 총량을 사용합니다. 개별 행의 합계는 재사용 1,111.013 mL 및 폐액 63.531 mL이며 원자료의 작은 불일치를 유지합니다. 이는 기록된 유로 부피이며 연간 순절감액이 아닙니다.",
+      "after": "주요 수치는 인쇄 보고서의 총량을 사용합니다. 개별 행의 합계는 재사용 1,111.013 mL 및 폐액 63.531 mL이며 원자료의 작은 불일치는 그대로 유지합니다. 이는 기록된 이동상 부피이며 연간 순절감량이 아닙니다."
+    },
+    {
+      "sourceKey": "ISO 14001 performance evidence, ISO 14051 cost/flow records and ISO 14064-1 GHG data quality.",
+      "before": "ISO 14001 성과 근거, ISO 14051 비용/유량 기록 및 ISO 14064-1 GHG 데이터 품질.",
+      "after": "ISO 14001 성과 근거, ISO 14051 비용/물질 흐름 기록 및 ISO 14064-1 GHG 데이터 품질."
+    },
+    {
+      "sourceKey": "Illustrative flow path. ReSolve selects flow for reuse; it does not purify it.",
+      "before": "유로 예시. ReSolve는 재사용할 유량을 선택하며 정제하지 않습니다.",
+      "after": "유로 예시. ReSolve는 재사용할 이동상을 선택하며 정제하지 않습니다."
+    },
+    {
+      "sourceKey": "Include QC and QA from the start.",
+      "before": "처음부터 QC 및 QA 참여",
+      "after": "처음부터 QC와 QA가 참여하도록 하세요."
+    },
+    {
+      "sourceKey": "Include rejected fractions, top-ups, cleaning and final reservoir disposal in the result.",
+      "before": "제외 분획, 보충, 세척 및 최종 저장조 폐기를 결과에 포함하세요.",
+      "after": "재사용하지 않는 분획, 보충량, 세척 및 최종 저장조 내용물의 폐기를 결과에 포함하세요."
+    },
+    {
+      "sourceKey": "Keep suitable mobile phase in productive use and prevent waste at its source.",
+      "before": "적합한 이동상을 생산적으로 유지하고 발생원에서 폐액을 예방하세요.",
+      "after": "적합한 이동상을 계속 활용하고 사용 현장에서 폐액 발생을 줄이세요."
+    },
+    {
+      "sourceKey": "Lab analyst annual salary · €/year",
+      "before": "실험실 분석자 연봉 · €/년",
+      "after": "실험실 분석 담당자 연봉 · €/년"
+    },
+    {
+      "sourceKey": "Laboratory analyst using the ReSolve controller installed beside an HPLC system",
+      "before": "HPLC 시스템 옆에 설치된 ReSolve 컨트롤러를 사용하는 실험실 분석자",
+      "after": "HPLC 시스템 옆에 설치된 ReSolve 컨트롤러를 사용하는 실험실 분석 담당자"
+    },
+    {
+      "sourceKey": "Less mobile-phase preparation and replenishment can free analysts for testing, investigations and method development, increasing available laboratory capacity. Confirm the time released against your current workflow.",
+      "before": "이동상 조제와 보충을 줄이면 분석자를 시험, 조사 및 분석법 개발에 투입하여 실험실 가용 역량을 높일 수 있습니다. 현재 워크플로를 기준으로 확보되는 시간을 확인하세요.",
+      "after": "이동상 조제와 보충을 줄이면 분석 담당자를 시험, 조사 및 분석법 개발에 투입하여 실험실 가용 역량을 높일 수 있습니다. 현재 워크플로를 기준으로 확보되는 시간을 확인하세요."
+    },
+    {
+      "sourceKey": "Less purchased. Less discarded.",
+      "before": "덜 구매하고 덜 버리세요.",
+      "after": "구매량도, 폐기량도 줄이세요."
+    },
+    {
+      "sourceKey": "Less routine preparation, replenishment and handling can release analyst time for testing and investigations.",
+      "before": "일상적인 조제, 보충 및 취급 감소로 분석자 시간을 시험과 조사에 활용할 수 있습니다.",
+      "after": "일상적인 조제, 보충 및 취급 감소로 분석 담당자 시간을 시험과 조사에 활용할 수 있습니다."
+    },
+    {
+      "sourceKey": "Longer uninterrupted sequences",
+      "before": "더 긴 무중단 시퀀스",
+      "after": "중단 없이 더 오래 이어지는 분석 시퀀스"
+    },
+    {
+      "sourceKey": "Lower recurring costs",
+      "before": "반복 비용 감소",
+      "after": "경상 비용 절감"
+    },
+    {
+      "sourceKey": "Lower the volume exposed to price changes and extend the useful coverage of existing stocks.",
+      "before": "가격 변화에 노출되는 물량을 줄이고 기존 재고의 유효 커버 기간을 늘립니다.",
+      "after": "가격 변동에 노출되는 물량을 줄이고 기존 재고로 충당할 수 있는 기간을 늘리세요."
+    },
+    {
+      "sourceKey": "Maintain analytical results and process integrity as mobile phase is recycled.",
+      "before": "이동상을 재사용하면서 분석 결과와 공정 무결성을 유지합니다.",
+      "after": "이동상 재사용 시 분석 성능과 공정 관리 방안을 평가하세요."
+    },
+    {
+      "sourceKey": "Maintain your analytical standards while reducing fresh mobile-phase preparation.",
+      "before": "새 이동상 조제를 줄이면서 분석 기준을 유지하세요.",
+      "after": "분석 요구사항에 따라 이동상 재사용의 적합성을 평가하세요."
+    },
+    {
+      "sourceKey": "Make the continuity case measurable",
+      "before": "연속성 타당성을 측정 가능하게",
+      "after": "시험 연속성 개선 효과의 정량화"
+    },
+    {
+      "sourceKey": "Make the next step method-specific.",
+      "before": "다음 단계는 분석법별로.",
+      "after": "다음 단계는 분석법에 맞게 계획하세요."
+    },
+    {
+      "sourceKey": "Material + disposal cost avoided",
+      "before": "회피 재료비 + 폐기 비용",
+      "after": "재료비 + 폐기 비용 절감액"
+    },
+    {
+      "sourceKey": "Material and disposal savings shown separately from the value of staff capacity released. Capacity is not an additional cash saving unless staffing costs are actually avoided.",
+      "before": "재료비 및 폐기비 절감은 확보된 인력 여력 가치와 별도로 표시됩니다. 실제 인건비를 회피하지 않는 한 여력은 추가 현금 절감이 아닙니다.",
+      "after": "재료비 및 폐기비 절감액은 확보된 업무 여력의 가치와 별도로 표시됩니다. 실제로 인건비 지출을 줄일 수 있는 경우에만 업무 여력을 추가 현금 절감액으로 볼 수 있습니다."
+    },
+    {
+      "sourceKey": "Material balance and waste-transfer records. Recycled throughput is not net waste prevention.",
+      "before": "물질수지 및 폐액 이송 기록. 재사용 처리량은 순 폐액 예방량이 아닙니다.",
+      "after": "물질수지 및 폐액 이송 기록. 재사용 처리량은 폐액 발생 순감소량을 의미하지 않습니다."
+    },
+    {
+      "sourceKey": "Material cost avoided",
+      "before": "회피 재료비",
+      "after": "재료비 절감액"
+    },
+    {
+      "sourceKey": "Material cost avoided ·",
+      "before": "회피 재료비 ·",
+      "after": "재료비 절감액 ·"
+    },
+    {
+      "sourceKey": "Material purchasing avoided",
+      "before": "회피한 재료 구매",
+      "after": "줄어드는 재료 구매량"
+    },
+    {
+      "sourceKey": "Measured detector signal controls routing",
+      "before": "실측 검출기 신호가 유로 제어",
+      "after": "실측 검출기 신호로 유로 제어"
+    },
+    {
+      "sourceKey": "Measured diverted fraction; not a net prevention claim",
+      "before": "실측 전환 분획; 순예방량을 주장하지 않음",
+      "after": "실측 폐액 전환 분획. 발생 순감소량을 의미하지 않음"
+    },
+    {
+      "sourceKey": "Model Your Own Scenario",
+      "before": "나만의 시나리오 모델링",
+      "after": "실험실 시나리오 모델링"
+    },
+    {
+      "sourceKey": "Model Your Own Scenario over time",
+      "before": "나만의 시나리오를 기간별로 모델링",
+      "after": "시간에 따른 실험실 시나리오 모델링"
+    },
+    {
+      "sourceKey": "Model Your Own Scenario →",
+      "before": "나만의 시나리오 모델링 →",
+      "after": "실험실 시나리오 모델링 →"
+    },
+    {
+      "sourceKey": "More analyst time available for other work.",
+      "before": "다른 업무에 활용할 수 있는 분석자 시간 증가.",
+      "after": "다른 업무에 활용할 수 있는 분석 담당자 시간 증가."
+    },
+    {
+      "sourceKey": "More analyst time for testing",
+      "before": "시험을 위한 분석자 시간 증가",
+      "after": "시험을 위한 분석 담당자 시간 증가"
+    },
+    {
+      "sourceKey": "Net fresh litres avoided × actual ingredient cost; subtract implementation and ongoing costs for ROI.",
+      "before": "회피한 새 이동상 순리터 수 × 실제 성분 비용; ROI 계산 시 도입 및 지속 비용을 차감하세요.",
+      "after": "새 이동상 순절감량(L) × 실제 성분 비용. ROI 계산 시 도입 및 지속 운영 비용을 차감하세요."
+    },
+    {
+      "sourceKey": "No difference in baseline noise/stability was observed. LC/MS found neither analyte in the recycled phase; the source reports waste-phase concentrations of 1,440 ng/mL paracetamol and 530 ng/mL ibuprofen.",
+      "before": "베이스라인 노이즈/안정성 차이가 관찰되지 않았습니다. LC/MS에서 재사용 이동상 내 두 분석물질이 검출되지 않았으며 원자료는 폐액 내 파라세타몰 1,440 ng/mL 및 이부프로펜 530 ng/mL를 보고합니다.",
+      "after": "평가한 분석법에서는 베이스라인 노이즈나 안정성의 차이가 관찰되지 않았습니다. LC/MS 분석에서 재사용 이동상의 파라세타몰과 이부프로펜은 검출되지 않았으며, 보고서에는 검출한계가 명시되어 있지 않습니다. 원자료에 보고된 폐액 내 농도는 파라세타몰 1,440 ng/mL와 이부프로펜 530 ng/mL입니다."
+    },
+    {
+      "sourceKey": "No payback",
+      "before": "회수 불가",
+      "after": "투자 회수 미도달"
+    },
+    {
+      "sourceKey": "No payback at these inputs",
+      "before": "이 입력값에서는 투자 회수 불가",
+      "after": "이 입력값에서는 투자 회수 미도달"
+    },
+    {
+      "sourceKey": "One example lab. See the difference over time.",
+      "before": "실험실 예시 하나로 시간에 따른 차이를 확인하세요.",
+      "after": "실험실 예시로 시간에 따른 차이를 확인하세요."
+    },
+    {
+      "sourceKey": "One laboratory · measurable prevention over time",
+      "before": "하나의 실험실 · 시간에 따른 측정 가능한 예방",
+      "after": "단일 실험실 · 시간에 따른 폐액 발생 감소 예측"
+    },
+    {
+      "sourceKey": "Original reported precision retained. Volumes describe recorded flow through the system.",
+      "before": "원래 보고 정밀도를 유지합니다. 부피는 시스템을 통한 기록 유량을 나타냅니다.",
+      "after": "원자료에 보고된 정밀도를 유지합니다. 부피는 시스템을 통과한 이동상의 기록된 양을 나타냅니다."
+    },
+    {
+      "sourceKey": "Preparation capacity released · person-hours",
+      "before": "확보된 조제 역량 · 인시",
+      "after": "다른 업무에 활용할 수 있는 조제 시간 · 인시"
+    },
+    {
+      "sourceKey": "Preparation hours and handling events per accepted analytical workload; time demonstrably redeployed.",
+      "before": "허용 분석 작업량당 조제 시간과 취급 이벤트; 실제 재배치된 시간.",
+      "after": "허용 가능한 분석 작업량당 조제 시간과 취급 작업 기록. 다른 업무로 재배치했음을 입증할 수 있는 시간."
+    },
+    {
+      "sourceKey": "Preparation labour value represents staff time valued at the entered annual salary and annual paid hours. Releasing time does not automatically reduce payroll: the cash-cost comparison includes materials and disposal only. Equipment, implementation, additional operating costs and transport are excluded. Production and treatment CO₂e use the model’s supplied factors; this is a scenario, not a verified footprint.",
+      "before": "조제 인력 가치는 입력한 연봉과 연간 유급 시간으로 평가한 직원 시간입니다. 시간이 확보되어도 급여가 자동으로 감소하지 않으며 현금 비용 비교에는 재료와 폐기만 포함합니다. 장비, 도입, 추가 운영 비용 및 운송은 제외합니다. 생산·처리 CO₂e는 모델의 제공 계수를 사용하며 검증된 탄소발자국이 아닌 시나리오입니다.",
+      "after": "조제 인력 가치는 입력한 연봉과 연간 유급 시간을 기준으로 환산한 직원 시간의 가치입니다. 시간이 확보되어도 급여 지출이 자동으로 줄어들지는 않습니다. 현금 비용 비교에는 재료비와 폐기비만 포함합니다. 장비, 도입, 추가 운영 비용 및 운송은 제외합니다. 생산 및 처리 CO₂e는 모델에 제공된 계수를 사용하며, 이는 검증된 탄소발자국이 아닌 시나리오입니다."
+    },
+    {
+      "sourceKey": "Prepared mobile-phase cost avoided",
+      "before": "회피한 조제 이동상 비용",
+      "after": "조제 이동상 비용 절감액"
+    },
+    {
+      "sourceKey": "Price & supply exposure",
+      "before": "가격 및 공급 노출",
+      "after": "가격 및 공급 위험"
+    },
+    {
+      "sourceKey": "Price exposure",
+      "before": "가격 노출",
+      "after": "가격 변동 위험"
+    },
+    {
+      "sourceKey": "Price exposure is real. Lower demand limits the volume exposed.",
+      "before": "가격 위험은 현실입니다. 수요를 낮추면 노출 물량을 제한할 수 있습니다.",
+      "after": "수요를 줄이면 가격 변동에 노출되는 물량도 줄어듭니다."
+    },
+    {
+      "sourceKey": "Prices exclude VAT. Support is €120 per month (€1,440 per year).",
+      "before": "가격은 VAT 별도입니다. 지원 비용은 월 €120(연 €1,440)입니다.",
+      "after": "예시 가격에는 VAT가 포함되어 있지 않습니다. 기본 지원 비용은 월 €120(연 €1,440)입니다. 시나리오에는 실제 적용 견적을 사용하세요."
+    },
+    {
+      "sourceKey": "Primary = a direct benefit or decision interest. Shared = a supporting interest. This is a discussion map, not a prescribed ownership model.",
+      "before": "주요 = 직접 편익 또는 의사결정 관심. 공유 = 지원적 관심. 정해진 소유권 모델이 아닌 논의용 관계도입니다.",
+      "after": "주요 = 직접적인 편익 또는 의사결정상의 관심. 공유 = 관련 업무를 지원하는 관심. 이는 논의를 돕는 관계도이며 정해진 책임 배분 모델이 아닙니다."
+    },
+    {
+      "sourceKey": "Procurement & Finance · avoided spend",
+      "before": "구매 및 재무 · 회피 지출",
+      "after": "구매 및 재무 · 줄어드는 지출"
+    },
+    {
+      "sourceKey": "Projected financial results depend on your net material and waste reductions. The net cash, ROI and NPV rows deduct the entered equipment, installation and support costs. Gross savings rows and cumulative impact charts remain before investment costs.",
+      "before": "예측 재무 결과는 순재료 및 폐액 감소량에 따라 달라집니다. 순현금, ROI 및 NPV 행은 입력된 장비·설치·지원 비용을 차감합니다. 총절감 행 및 누적 효과 차트는 투자비 차감 전입니다.",
+      "after": "예상 재무 결과는 재료와 폐액의 순감소량에 따라 달라집니다. 순현금, ROI 및 NPV 행에서는 입력한 장비, 설치 및 지원 비용을 차감합니다. 총절감액 행과 누적 효과 차트는 투자비 차감 전 수치를 보여줍니다. 그 밖의 사업장별 비용은 별도로 평가하세요."
+    },
+    {
+      "sourceKey": "Purchasing and disposal savings are separate segments of the same total. Staff capacity value is not included.",
+      "before": "구매비와 폐기비 절감은 동일 합계의 별도 부분입니다. 인력 여력 가치는 포함하지 않습니다.",
+      "after": "구매비와 폐기비 절감은 동일 합계의 별도 부분입니다. 업무 여력의 가치는 포함하지 않습니다."
+    },
+    {
+      "sourceKey": "QC · analyst capacity",
+      "before": "QC · 분석자 여력",
+      "after": "QC · 분석 담당자 여력"
+    },
+    {
+      "sourceKey": "Quality requirements remain part of the design: approve methods and operating boundaries through QC and QA. The supplied sector references describe broader pharmaceutical manufacturing; they do not establish performance or GMP approval for this laboratory application.",
+      "before": "품질 요구사항은 설계에 계속 포함됩니다. QC와 QA를 통해 분석법과 운영 경계를 승인하세요. 제공된 산업 자료는 광범위한 의약품 제조를 설명하며 이 실험실 응용의 성능 또는 GMP 승인을 확립하지 않습니다.",
+      "after": "품질 요구사항은 설계 단계부터 고려해야 합니다. QC와 QA를 통해 분석법과 운영 범위를 승인하세요. 제공된 산업 자료는 의약품 제조 전반을 설명하며, 이 실험실 용도의 성능이나 GMP 승인을 입증하는 자료는 아닙니다."
+    },
+    {
+      "sourceKey": "ReSolve™ can reduce fresh mobile-phase demand within approved isocratic HPLC workflows. Purchasing less fresh solvent reduces the volume exposed to price increases, while lower consumption can help usable stocks support testing for longer between deliveries. The protection depends on measured demand reduction, supplier terms and stock policy; it does not eliminate price or supply risk.",
+      "before": "ReSolve™는 승인된 등용매 HPLC 워크플로 내에서 새 이동상 수요를 줄일 수 있습니다. 새 용매 구매 감소는 가격 상승에 노출되는 물량을 줄이고 소비 감소는 납품 간 가용 재고로 시험을 더 오래 지원하도록 도울 수 있습니다. 보호 효과는 실측 수요 감소, 공급업체 조건 및 재고 정책에 따라 달라지며 가격이나 공급 위험을 없애지는 않습니다.",
+      "after": "ReSolve™는 승인된 등용매 HPLC 워크플로에서 새 이동상 수요를 줄일 수 있습니다. 새 용매 구매량이 감소하면 가격 상승에 노출되는 물량도 줄어듭니다. 소비량이 줄면 납품 사이에 가용 재고로 시험을 더 오래 지속할 수도 있습니다. 이러한 효과는 실측 수요 감소, 공급업체 조건 및 재고 정책에 따라 달라지며 가격이나 공급 위험을 없애지는 않습니다."
+    },
+    {
+      "sourceKey": "ReSolve™ draws 0.4 W from the HPLC. Any electricity savings from reduced mobile-phase preparation remain to be measured.",
+      "before": "ReSolve™는 HPLC에서 0.4 W를 사용합니다. 이동상 조제 감소에 따른 전력 절감은 아직 측정이 필요합니다.",
+      "after": "제품 자료에 따르면 ReSolve™는 HPLC에서 0.4 W의 전력을 공급받습니다. 이동상 조제 감소에 따른 전력 절감량은 아직 측정이 필요합니다."
+    },
+    {
+      "sourceKey": "ReSolve™ recycles prepared mobile phase for reuse within isocratic HPLC workflows.",
+      "before": "ReSolve™는 등용매 HPLC 워크플로에서 조제 이동상을 순환 재사용합니다.",
+      "after": "ReSolve™는 적합한 등용매 HPLC 워크플로에서 조제된 이동상 중 선택된 부분을 다시 사용할 수 있도록 되돌려 보냅니다."
+    },
+    {
+      "sourceKey": "Record 9 has a one-second difference between the summary start and audit start.",
+      "before": "기록 9의 요약 시작과 감사 시작에 1초 차이가 있습니다.",
+      "after": "기록 9에서는 요약에 표시된 측정 시작 시간과 감사 추적의 측정 시작 시간 사이에 1초 차이가 있습니다."
+    },
+    {
+      "sourceKey": "Record fresh mobile-phase preparation, top-ups, final waste and analyst time against the existing workflow.",
+      "before": "기존 워크플로와 비교하여 새 이동상 조제, 보충, 최종 폐액 및 분석자 시간을 기록합니다.",
+      "after": "기존 워크플로와 비교하여 새 이동상 조제, 보충, 최종 폐액 및 분석 담당자 시간을 기록합니다."
+    },
+    {
+      "sourceKey": "Recover suitable flow from isocratic HPLC runs. Put it back to use, with less fresh mobile phase to prepare and less liquid waste to manage.",
+      "before": "등용매 HPLC 분석에서 적합한 유량을 회수하여 다시 사용합니다. 조제할 새 이동상과 관리할 액체 폐기물을 줄입니다.",
+      "after": "등용매 HPLC 분석에서 재사용에 적합한 이동상을 회수하여 다시 활용하세요. 새 이동상 조제량과 관리해야 할 액체 폐기물을 줄일 수 있습니다."
+    },
+    {
+      "sourceKey": "Recover the baseline.",
+      "before": "베이스라인 유량을 회수하세요.",
+      "after": "재사용에 적합한 베이스라인 구간의 이동상을 되돌려 보내세요."
+    },
+    {
+      "sourceKey": "Recurring support & maintenance",
+      "before": "반복 지원 및 유지보수",
+      "after": "정기 지원 및 유지보수"
+    },
+    {
+      "sourceKey": "Recycle prepared mobile phase within isocratic HPLC workflows, with a clear evidence trail from laboratory activity to waste, cost and estimated carbon prevention.",
+      "before": "등용매 HPLC 워크플로에서 조제 이동상을 재사용하며 실험실 활동부터 폐액·비용·추정 탄소 예방량까지 명확한 근거 추적 경로를 제공합니다.",
+      "after": "등용매 HPLC 워크플로에서 조제 이동상을 재사용하고, 실험실 작업부터 폐액 발생 감소량, 비용 절감액 및 추정 탄소 감축량까지 이어지는 근거를 추적하세요."
+    },
+    {
+      "sourceKey": "Recycled source vial",
+      "before": "재사용 이동상 원본 바이알",
+      "after": "재사용 이동상 시료의 원본 바이알"
+    },
+    {
+      "sourceKey": "Recycling figures describe recorded flow. Net waste, cost and carbon benefits depend on the operating baseline.",
+      "before": "재사용 수치는 기록된 유량을 설명합니다. 순폐액·비용·탄소 편익은 운영 기준에 따라 달라집니다.",
+      "after": "재사용 수치는 기록된 이동상의 흐름을 나타냅니다. 폐액 발생, 비용 및 탄소 배출의 순감소 효과는 운영 기준에 따라 달라집니다."
+    },
+    {
+      "sourceKey": "Reduce hazardous waste and CO₂ emissions. Capture the metrics across your labs.",
+      "before": "유해 폐액 및 CO₂ 배출을 줄이고 실험실 전반의 지표를 집계하세요.",
+      "after": "실험실 전반의 유해 폐액 발생 감소 가능성을 평가하고 CO₂e 감축량을 추정하세요."
+    },
+    {
+      "sourceKey": "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.",
+      "before": "스코프 3 배출을 낮추면서 실험실 용매 비용을 80%+ 줄입니다.",
+      "after": "이동상 비용 절감 가능성을 살펴보고 스코프 3 영향을 모델링하세요."
+    },
+    {
+      "sourceKey": "Reduce recurring laboratory costs, release analytical capacity and quantify waste and carbon reductions across your laboratory network.",
+      "before": "반복 실험실 비용을 줄이고 분석 여력을 확보하며 실험실 네트워크 전반의 폐액 및 탄소 감축을 정량화합니다.",
+      "after": "실험실 네트워크 전반의 경상 비용, 분석 담당자의 업무 여력, 폐액 및 탄소 감축 가능성을 살펴보세요."
+    },
+    {
+      "sourceKey": "Reduce repetitive preparation and handling so analysts can spend more time on higher-value work.",
+      "before": "반복 조제와 취급을 줄여 분석자가 고부가가치 업무에 더 많은 시간을 쓸 수 있게 합니다.",
+      "after": "반복 조제와 취급을 줄여 분석 담당자가 고부가가치 업무에 더 많은 시간을 쓸 수 있게 합니다."
+    },
+    {
+      "sourceKey": "Relative retention",
+      "before": "상대 머무름",
+      "after": "상대 머무름 시간"
+    },
+    {
+      "sourceKey": "Reservoir to HPLC system, then detector, then ReSolve-controlled valve. Eligible baseline flow returns to the reservoir for reuse. Detected peaks plus configured timing margin go to waste. A dashed control signal connects the detector to the valve controller.",
+      "before": "저장조에서 HPLC 시스템, 검출기, ReSolve 제어 밸브로 흐릅니다. 적합한 베이스라인 유량은 재사용을 위해 저장조로 돌아갑니다. 검출 피크와 설정 시간 여유는 폐액으로 갑니다. 점선 제어 신호가 검출기와 밸브 컨트롤러를 연결합니다.",
+      "after": "이동상은 저장조에서 HPLC 시스템과 검출기를 거쳐 ReSolve 제어 밸브로 흐릅니다. 재사용에 적합한 베이스라인 구간의 이동상은 저장조로 돌아갑니다. 검출된 피크 분획과 설정된 시간 여유 구간의 이동상은 폐액으로 보냅니다. 점선은 검출기와 밸브 컨트롤러를 연결하는 제어 신호입니다."
+    },
+    {
+      "sourceKey": "Return eligible baseline flow within the approved method.",
+      "before": "승인된 분석법 내에서 적합한 베이스라인 유량을 복귀시킵니다.",
+      "after": "승인된 분석법 범위에서 재사용에 적합한 베이스라인 구간의 이동상을 되돌려 보냅니다."
+    },
+    {
+      "sourceKey": "Return selected flow",
+      "before": "선택한 유량 복귀",
+      "after": "선택한 이동상 복귀"
+    },
+    {
+      "sourceKey": "Reuse eligible baseline flow within the approved method.",
+      "before": "승인된 분석법 내에서 적합한 베이스라인 유량을 재사용합니다.",
+      "after": "승인된 분석법 범위에서 적합한 베이스라인 구간의 이동상을 재사용합니다."
+    },
+    {
+      "sourceKey": "Review relevance",
+      "before": "검토 관련성",
+      "after": "적용 가능성 검토"
+    },
+    {
+      "sourceKey": "Send detected peak fractions and timing margins to waste.",
+      "before": "검출된 피크 분획과 시간 여유를 폐액으로 보냅니다.",
+      "after": "검출된 피크 분획과 시간 여유 구간의 이동상을 폐액으로 보냅니다."
+    },
+    {
+      "sourceKey": "Start with fresh input and waste prevented for the same acceptable analytical workload. Reuse is the means; verified net reduction is the outcome.",
+      "before": "동일한 허용 분석 작업량에 대한 새 투입량과 폐액 예방량에서 시작합니다. 재사용은 수단이며 검증된 순감소가 결과입니다.",
+      "after": "동일한 허용 분석 작업량을 기준으로 새 투입량과 폐액 발생 감소량을 확인하는 것부터 시작하세요. 재사용은 수단이며 검증된 순감소가 결과입니다."
+    },
+    {
+      "sourceKey": "Start with prepared mobile-phase material cost avoided; assess capacity, handling and wider benefits alongside the full cost of adoption.",
+      "before": "회피한 조제 이동상 재료비에서 시작하고 전체 도입 비용과 함께 여력, 취급 및 더 넓은 편익을 평가하세요.",
+      "after": "조제 이동상 재료비 절감액에서 시작하고 전체 도입 비용과 함께 여력, 취급 및 더 넓은 편익을 평가하세요."
+    },
+    {
+      "sourceKey": "Stock coverage",
+      "before": "재고 커버 기간",
+      "after": "재고 충당 기간"
+    },
+    {
+      "sourceKey": "Supply Chain · stock coverage",
+      "before": "공급망 · 재고 커버 기간",
+      "after": "공급망 · 재고 충당 기간"
+    },
+    {
+      "sourceKey": "Talk to Antech",
+      "before": "Antech에 상담",
+      "after": "Antech와 상담"
+    },
+    {
+      "sourceKey": "Target material exposure",
+      "before": "재료 노출량 집중 관리",
+      "after": "우선 관리할 용매의 공급 위험 파악"
+    },
+    {
+      "sourceKey": "The detector signal controls a valve after the detector outlet. Selected baseline flow returns to the reservoir; detected peak fractions and the configured margin go to waste.",
+      "before": "검출기 신호가 검출기 출구 뒤의 밸브를 제어합니다. 선택된 베이스라인 유량은 저장조로 복귀하며 검출 피크 분획과 설정 여유는 폐액으로 갑니다.",
+      "after": "검출기 신호가 검출기 출구 뒤의 밸브를 제어합니다. 선택한 베이스라인 구간의 이동상은 저장조로 되돌려 보내고, 검출된 피크 분획과 설정된 여유 구간의 이동상은 폐액으로 보냅니다."
+    },
+    {
+      "sourceKey": "The elapsed window includes gaps; it is not continuous operating time or analyst time saved.",
+      "before": "경과 시간에는 공백이 포함됩니다. 연속 가동 시간이나 절약된 분석자 시간이 아닙니다.",
+      "after": "경과 시간에는 공백이 포함됩니다. 연속 가동 시간이나 절약된 분석 담당자 시간이 아닙니다."
+    },
+    {
+      "sourceKey": "The product brochure illustrates the detector display and an injection report. Use the original study and operational records below to assess the measured evidence.",
+      "before": "제품 브로슈어는 검출기 표시와 주입 보고서를 예시합니다. 아래 원본 연구와 운영 기록으로 실측 근거를 평가하세요.",
+      "after": "제품 브로슈어에는 검출기 화면과 주입 보고서 예시가 있습니다. 아래 원본 연구와 운영 기록을 통해 실측 근거를 평가하세요."
+    },
+    {
+      "sourceKey": "The same saving shown above, not an additional benefit. Net ROI requires capital, implementation and recurring costs.",
+      "before": "위에 표시한 동일한 절감액이며 추가 편익이 아닙니다. 순 ROI에는 자본·도입·반복 비용이 필요합니다.",
+      "after": "위에 표시한 것과 동일한 절감액이며 추가 편익이 아닙니다. 순 ROI 계산에는 자본, 도입 및 지속 운영 비용을 반영해야 합니다."
+    },
+    {
+      "sourceKey": "The study reports equivalent chromatographic performance between the two sequences and no adverse impact from using the recycled mobile phase in Sequence 2.",
+      "before": "연구는 두 시퀀스 간 동등한 크로마토그래피 성능과 시퀀스 2에서 재사용 이동상 사용에 따른 부정적 영향이 없음을 보고합니다.",
+      "after": "평가한 분석법에서 연구진은 두 시퀀스 간에 동등한 크로마토그래피 성능을 보고했으며, 시퀀스 2에서 재사용 이동상을 사용함에 따른 부정적인 영향은 관찰되지 않았다고 보고합니다."
+    },
+    {
+      "sourceKey": "The study reports maintained analytical performance under the tested method conditions, with 94.5% recycled throughput across the two sequences.",
+      "before": "연구는 시험한 분석법 조건에서 분석 성능이 유지되었으며 두 시퀀스에서 재사용 처리량 94.5%를 보고합니다.",
+      "after": "연구진은 시험한 분석법 조건에서 분석 성능이 유지되었으며, 두 시퀀스에서 이동상 처리량의 94.5%가 재사용되었다고 보고합니다."
+    },
+    {
+      "sourceKey": "Total hands-on time across all staff in one lab during one operating week. Two people working for one hour = 2 person-hours. Do not multiply by HPLC count; the calculator scales this by labs and operating weeks.",
+      "before": "한 실험실의 모든 직원이 한 운영 주에 수행하는 총 실작업 시간입니다. 두 사람이 한 시간씩 작업하면 2인시입니다. HPLC 수를 곱하지 마세요. 계산기가 실험실 수와 운영 주수에 따라 확장합니다.",
+      "after": "한 실험실의 모든 직원이 한 운영 주에 조제에 투입하는 총 실작업 시간입니다. 두 사람이 각각 한 시간 작업하면 2인시입니다. HPLC 수를 곱하지 마세요. 계산기는 실험실 수와 운영 주수를 적용하여 계산합니다."
+    },
+    {
+      "sourceKey": "Track fresh input and total waste against accepted analytical output, then aggregate consistently across sites.",
+      "before": "허용 분석 산출량에 대한 새 투입량과 총폐액을 추적한 뒤 현장 간 일관되게 집계합니다.",
+      "after": "허용 가능한 분석 결과 산출량을 기준으로 새 투입량과 총폐액량을 추적하고, 사업장 간 일관된 기준으로 집계하세요."
+    },
+    {
+      "sourceKey": "Translate prevented fresh preparation into each solvent and ingredient required. Compare actual purchasing over a matched period.",
+      "before": "예방한 새 조제량을 필요한 각 용매와 성분량으로 환산하고 동일 기간의 실제 구매를 비교합니다.",
+      "after": "줄어드는 새 조제량을 각 용매와 성분의 필요량으로 환산하고, 동일한 기간의 실제 구매량을 비교하세요."
+    },
+    {
+      "sourceKey": "Turn measured prevention into a business case.",
+      "before": "실측 예방량을 사업성 평가로 전환하세요.",
+      "after": "실험실의 가정을 바탕으로 사업성을 평가하세요."
+    },
+    {
+      "sourceKey": "Use matched acceptable analytical output as the denominator for site comparisons. Actual waste may differ from fresh input. Recycled flow is not an additional multiplier, and savings shared across personas are counted once.",
+      "before": "현장 비교의 분모로 조건을 맞춘 허용 분석 산출량을 사용하세요. 실제 폐액은 새 투입량과 다를 수 있습니다. 재사용 유량은 추가 배수가 아니며 역할별로 공유되는 절감액은 한 번만 계산합니다.",
+      "after": "사업장 비교에는 조건을 맞춘 허용 가능한 분석 산출량을 분모로 사용하세요. 실제 폐액량은 새 투입량과 다를 수 있습니다. 재사용한 이동상 양을 추가 배수로 적용하지 않으며, 역할별로 공유되는 절감액은 한 번만 계산합니다."
+    },
+    {
+      "sourceKey": "Use your laboratory numbers, operating schedule and costs to model reduced solvent demand, cost avoided and CO₂ reduction over three years.",
+      "before": "실험실 수, 운영 일정 및 비용으로 3년간 용매 수요 감소, 회피 비용 및 CO₂ 감축을 모델링합니다.",
+      "after": "실험실 수, 운영 일정 및 비용을 입력하여 3년간의 새 이동상 수요 감소, 비용 절감액 및 추정 CO₂e 감축량을 모델링하세요."
+    },
+    {
+      "sourceKey": "Validate this business case",
+      "before": "사업성 평가 검증",
+      "after": "사업성 평가 검토"
+    },
+    {
+      "sourceKey": "Validate this business case with Antech",
+      "before": "Antech와 사업성 평가 검증",
+      "after": "Antech와 사업성 평가 검토"
+    },
+    {
+      "sourceKey": "Verified fresh litres avoided × production factor, plus net waste avoided × treatment factor.",
+      "before": "검증된 회피 새 리터 수 × 생산계수 + 순회피 폐액 × 처리계수.",
+      "after": "검증된 새 이동상 절감량(L) × 생산계수 + 폐액 발생 순감소량 × 처리계수."
+    },
+    {
+      "sourceKey": "Waste accepted at licensed facilities. Excludes treatment under the producer’s own licence; returns described as not verified by EPA.",
+      "before": "허가 시설에서 접수한 폐기물. 생산자 자체 허가에 따른 처리는 제외하며 보고 자료는 EPA 미검증으로 설명됩니다.",
+      "after": "허가받은 시설에서 반입한 폐기물입니다. 배출자의 자체 허가에 따른 처리는 제외합니다. 해당 보고 자료는 EPA가 검증하지 않은 것으로 설명되어 있습니다."
+    },
+    {
+      "sourceKey": "Waste avoided = baseline waste × the separate net waste-reduction input. Fresh material avoided = baseline fresh demand × the net fresh-demand reduction input. The planning baseline assumes fresh demand and waste each equal eligible pump throughput before recycling. Reconcile site balances, losses and final disposal before claiming measured savings.",
+      "before": "회피 폐액 = 기준 폐액 × 별도 순폐액 감소 입력값. 회피한 새 재료 = 기준 새 수요 × 순새수요 감소 입력값. 계획 기준은 재사용 전 새 수요와 폐액이 각각 적합 펌프 처리량과 같다고 가정합니다. 실측 절감량을 주장하기 전에 현장 수지, 손실 및 최종 폐기를 확인하세요.",
+      "after": "폐액 발생 감소량 = 기준 폐액량 × 별도의 폐액 순감소율 입력값. 새 재료 절감량 = 기준 새 수요 × 새 수요 순감소율 입력값. 계획 기준에서는 재사용 전 새 수요와 폐액량이 각각 대상 분석법의 펌프 처리량과 같다고 가정합니다. 실측 절감량을 제시하기 전에 사업장 수지, 손실 및 최종 폐기를 대조 확인하세요."
+    },
+    {
+      "sourceKey": "Waste prevented",
+      "before": "예방된 폐액",
+      "after": "추정 폐액 발생 감소량"
+    },
+    {
+      "sourceKey": "Waste prevented and remaining waste together show the full baseline. Tonnes assume 1 kg/L; confirm actual density.",
+      "before": "예방된 폐액과 잔여 폐액은 전체 기준량을 함께 나타냅니다. 톤수는 1 kg/L를 가정하며 실제 밀도를 확인하세요.",
+      "after": "폐액 발생 감소량과 잔여 폐액량의 합은 전체 기준량입니다. 톤수는 1 kg/L를 가정하며 실제 밀도를 확인하세요."
+    },
+    {
+      "sourceKey": "What each function can take into the business case",
+      "before": "각 기능이 사업성 평가에 제공할 수 있는 것",
+      "after": "각 부서가 사업성 평가에 제공할 수 있는 정보"
+    },
+    {
+      "sourceKey": "What the investment delivers",
+      "before": "투자가 제공하는 것",
+      "after": "시나리오의 예상 결과"
+    },
+    {
+      "sourceKey": "Why solvent prevention matters.",
+      "before": "용매 예방이 중요한 이유.",
+      "after": "용매 사용량 감소가 중요한 이유."
+    },
+    {
+      "sourceKey": "Year 1 investment includes equipment, installation and the first year of support. Years 2 and 3 include support only. Benefits are gross cash savings before these investment costs; staff capacity value is excluded. Values are undiscounted. The payback and NPV chart below shows the resulting net position.",
+      "before": "1년차 투자는 장비, 설치 및 첫해 지원을 포함합니다. 2년차와 3년차는 지원만 포함합니다. 편익은 이 투자비 차감 전 총현금 절감액이며 인력 여력 가치는 제외됩니다. 값은 할인 전입니다. 아래 회수 기간 및 NPV 차트는 그 결과의 순상태를 보여줍니다.",
+      "after": "1년차 투자는 장비, 설치 및 첫해 지원을 포함합니다. 2년차와 3년차는 지원만 포함합니다. 편익은 이 투자비 차감 전 총현금 절감액이며 업무 여력의 가치는 제외됩니다. 값은 할인 전입니다. 아래 회수 기간 및 NPV 차트는 그 결과의 순상태를 보여줍니다."
+    },
+    {
+      "sourceKey": "annual baseline demand × assumed net fresh-demand reduction. Waste avoided = baseline waste × the separate net waste-reduction input. Recycled-flow totals and reuse counts are not added to either result.",
+      "before": "연간 기준 수요 × 가정된 새 수요 순감소율. 회피 폐액 = 기준 폐액 × 별도의 순폐액 감소 입력값. 재사용 유량 총계와 재사용 횟수는 어느 결과에도 더하지 않습니다.",
+      "after": "연간 기준 수요 × 가정된 새 수요 순감소율. 폐액 발생 감소량 = 기준 폐액량 × 별도의 폐액 순감소율 입력값. 재사용한 이동상의 총량과 재사용 횟수는 어느 결과에도 더하지 않습니다."
+    },
+    {
+      "sourceKey": "annual preparation person-hours = person-hours per lab per operating week × labs × operating weeks/year. Hours released = baseline hours × the separate preparation-time reduction. Labour cost and capacity value = the relevant person-hours ÷ annual paid hours per analyst × annual salary. Three-year values = annual values × 3. Staff capacity value is excluded from material/disposal savings, cumulative cost charts and ROI.",
+      "before": "연간 조제 인시 = 실험실당 운영 주당 인시 × 실험실 수 × 운영 주/년. 확보 시간 = 기준 시간 × 별도의 조제 시간 감소율. 인건비 및 여력 가치 = 해당 인시 ÷ 분석자당 연간 유급 시간 × 연봉. 3년 값 = 연간 값 × 3. 인력 여력 가치는 재료비/폐기비 절감, 누적 비용 차트 및 ROI에서 제외합니다.",
+      "after": "연간 조제 인시 = 실험실당 운영 주당 인시 × 실험실 수 × 운영 주/년. 확보 시간 = 기준 시간 × 별도의 조제 시간 감소율. 인건비 및 여력 가치 = 해당 인시 ÷ 분석 담당자당 연간 유급 시간 × 연봉. 3년 값 = 연간 값 × 3. 업무 여력의 가치는 재료비/폐기비 절감, 누적 비용 차트 및 ROI에서 제외합니다."
+    },
+    {
+      "sourceKey": "avoided litres × prepared mobile-phase material cost per litre.",
+      "before": "회피한 리터 수 × 조제 이동상 리터당 재료비.",
+      "after": "절감한 이동상 리터 수 × 조제 이동상 리터당 재료비."
+    },
+    {
+      "sourceKey": "lower demand can support longer stock coverage or a lower replenishment requirement. The appropriate stock policy depends on measured use, lead-time variability and your required service level.",
+      "before": "수요 감소는 더 긴 재고 커버 기간 또는 낮은 보충 요구량을 지원합니다. 적절한 재고 정책은 실측 사용량, 납기 변동성 및 필요한 서비스 수준에 따라 달라집니다.",
+      "after": "수요가 줄면 재고 충당 기간을 늘리거나 보충 필요량을 줄일 수 있습니다. 적절한 재고 정책은 실측 사용량, 납기 변동성 및 요구되는 서비스 수준에 따라 달라집니다."
+    },
+    {
+      "sourceKey": "potential reductions from fewer solvent deliveries and less hazardous HPLC waste sent for disposal, subject to actual changes in transport and waste treatment.",
+      "before": "운송 및 폐액 처리의 실제 변화에 따라 용매 납품 및 폐기하는 유해 HPLC 폐액 감소로 가능한 감축.",
+      "after": "용매 납품과 폐기 처리가 필요한 유해 HPLC 폐액이 줄어들면 추가 감축이 가능할 수 있습니다. 실제 운송 및 폐액 처리의 변화에 따라 달라집니다."
+    },
+    {
+      "sourceKey": "units = labs × included HPLCs per lab. Initial investment = units × (equipment + installation). Annual net operating cash saving = material saving + disposal saving − annual support. Net benefit over N years = N × annual net saving − initial investment. ROI = net benefit ÷ initial investment. NPV = −initial investment + sum of annual net saving ÷ (1 + discount rate)^year. Upfront payment occurs at year 0; operating cash flows occur at each year end. Simple payback assumes evenly accruing monthly savings. Labour capacity value is excluded from cash returns.",
+      "before": "장치 수 = 실험실 수 × 실험실당 포함 HPLC 수. 초기 투자 = 장치 수 × (장비 + 설치). 연간 순운영 현금 절감 = 재료비 절감 + 폐기비 절감 − 연간 지원. N년 순편익 = N × 연간 순절감 − 초기 투자. ROI = 순편익 ÷ 초기 투자. NPV = −초기 투자 + 각 연간 순절감 ÷ (1 + 할인율)^연도의 합. 선행 지급은 0년차에, 운영 현금흐름은 각 연말에 발생합니다. 단순 회수는 매월 균등하게 발생하는 절감을 가정합니다. 인력 여력 가치는 현금 수익에서 제외합니다.",
+      "after": "장치 수 = 실험실 수 × 실험실당 포함 HPLC 수. 초기 투자 = 장치 수 × (장비 + 설치). 연간 순운영 현금 절감 = 재료비 절감 + 폐기비 절감 − 연간 지원. N년 순편익 = N × 연간 순절감 − 초기 투자. ROI = 순편익 ÷ 초기 투자. NPV = −초기 투자 + 각 연간 순절감 ÷ (1 + 할인율)^연도의 합. 선행 지급은 0년차에, 운영 현금흐름은 각 연말에 발생합니다. 단순 회수는 매월 균등하게 발생하는 절감을 가정합니다. 업무 여력의 가치는 현금 수익에서 제외합니다."
+    },
+    {
+      "sourceKey": "€552,960 gross material cost avoided over three years at €100/L.",
+      "before": "€100/L 기준 3년간 회피 총재료비 €552,960.",
+      "after": "€100/L 기준 3년간 총재료비 절감액 €552,960."
+    },
+    {
+      "sourceKey": "✓ Technical conclusion: analytical performance maintained",
+      "before": "✓ 기술적 결론: 분석 성능 유지",
+      "after": "✓ 연구 결론: 평가한 분석법 조건에서 분석 성능 유지"
+    }
+  ],
+  "sourceAlignment": {
+    "1 labs": "실험실 1개",
+    "25 records paired with audit starts and finishes on 5 May 2026.": "2026년 5월 5일 감사 추적의 측정 시작 및 종료 이벤트와 대응하는 측정 기록 25개입니다.",
+    "All 25 records are paired with audit starts and finishes. Record 9 retains a one-second difference: summary start 15:06:21; audit start 15:06:20.": "25개 기록 모두 감사 추적의 측정 시작 및 종료 이벤트와 대응합니다. 기록 9의 1초 차이는 그대로 유지했습니다. 요약 시작 시간은 15:06:21, 감사 추적의 시작 시간은 15:06:20입니다.",
+    "All labs use the same systems-per-lab count, operating schedule and per-system flow. Disposal cost avoided is calculated from prevented waste volume × disposal cost per litre. Preparation time is valued separately at your entered staff cost; it is not included in material and disposal savings. Equipment, service, consumables and implementation costs are not deducted, in the gross savings figures. The financial projection separately deducts equipment, installation and annual support to calculate net cash, ROI, payback and NPV.": "모든 실험실에 동일한 실험실당 시스템 수, 운영 일정 및 시스템당 유속을 적용합니다. 폐기 비용 절감액은 폐액 발생 감소량 × 리터당 폐기 비용으로 계산합니다. 조제 시간의 가치는 입력한 인건비를 기준으로 별도 산정하며 재료비 및 폐기비 절감액에 포함하지 않습니다. 총절감액에서는 장비, 서비스, 소모품 또는 도입 비용을 차감하지 않습니다. 재무 예측에서는 입력한 장비, 설치 및 연간 지원 비용을 차감하여 모델상 순현금, ROI, 투자 회수 기간 및 NPV를 계산합니다. 그 밖의 사업장별 비용은 별도로 평가하세요.",
+    "Annual cost avoided": "추정 연간 비용 절감액",
+    "Both lines start after the upfront equipment and installation payment. Cash payback assumes savings accrue evenly through the year. NPV uses year-end cash flows discounted at 10%; segments join the annual valuation points. Staff capacity value is excluded from cash returns.": "두 곡선은 초기 장비 및 설치 비용을 지급한 시점부터 시작합니다. 현금 기준 투자 회수 기간은 절감액이 연중 균등하게 발생한다고 가정합니다. NPV는 선택한 할인율(기본값 10%)을 연말 현금흐름에 적용하며, 선분은 각 연도의 평가점을 연결합니다. 확보된 업무 여력의 가치는 현금 수익에서 제외합니다.",
+    "CO₂ reduction": "추정 CO₂e 감축량",
+    "CO₂:": "추정 CO₂e:",
+    "Conclusion · analytical performance maintained": "연구 결론 · 평가한 분석법 조건에서 분석 성능 유지",
+    "Example opportunity—subject to validation at each site. The fixed example uses an 80% reduction assumption; 80%+ is not a measured purchasing result. Associated carbon estimates use supplied factors pending verification.": "고정 예시에서는 새 이동상 수요와 폐액 발생량이 각각 순 80% 감소한다고 가정합니다. 이는 계획 수립을 위한 가정이며 실측 구매 결과가 아닙니다. 관련 탄소 추정에는 제공된 계수를 사용하며 해당 계수의 검증이 필요합니다.",
+    "Geopolitical tensions, conflict, changing trade policies and disruption to major shipping routes are making global supply chains more uncertain. Rerouting, volatile freight costs and unpredictable lead times make replenishment harder to plan.": "지정학적 긴장, 분쟁, 무역 정책 변화 및 주요 항로 차질로 인해 보충 계획 수립이 어려워질 수 있습니다. 자체 공급업체 네트워크, 운송 경로 및 재고 정책에서 관련 위험을 평가하세요.",
+    "Hazardous waste prevented": "추정 유해 폐액 발생 감소량",
+    "Maintain analytical results and process integrity as mobile phase is recycled.": "이동상 재사용 시 분석 성능과 공정 관리 방안을 평가하세요.",
+    "Maintain your analytical standards while reducing fresh mobile-phase preparation.": "분석 요구사항에 따라 이동상 재사용의 적합성을 평가하세요.",
+    "One laboratory · measurable prevention over time": "단일 실험실 · 시간에 따른 폐액 발생 감소 예측",
+    "Price exposure is real. Lower demand limits the volume exposed.": "수요를 줄이면 가격 변동에 노출되는 물량도 줄어듭니다.",
+    "Prices exclude VAT. Support is €120 per month (€1,440 per year).": "예시 가격에는 VAT가 포함되어 있지 않습니다. 기본 지원 비용은 월 €120(연 €1,440)입니다. 시나리오에는 실제 적용 견적을 사용하세요.",
+    "Projected financial results depend on your net material and waste reductions. The net cash, ROI and NPV rows deduct the entered equipment, installation and support costs. Gross savings rows and cumulative impact charts remain before investment costs.": "예상 재무 결과는 재료와 폐액의 순감소량에 따라 달라집니다. 순현금, ROI 및 NPV 행에서는 입력한 장비, 설치 및 지원 비용을 차감합니다. 총절감액 행과 누적 효과 차트는 투자비 차감 전 수치를 보여줍니다. 그 밖의 사업장별 비용은 별도로 평가하세요.",
+    "ReSolve™ draws 0.4 W from the HPLC. Any electricity savings from reduced mobile-phase preparation remain to be measured.": "제품 자료에 따르면 ReSolve™는 HPLC에서 0.4 W의 전력을 공급받습니다. 이동상 조제 감소에 따른 전력 절감량은 아직 측정이 필요합니다.",
+    "ReSolve™ recycles prepared mobile phase for reuse within isocratic HPLC workflows.": "ReSolve™는 적합한 등용매 HPLC 워크플로에서 조제된 이동상 중 선택된 부분을 다시 사용할 수 있도록 되돌려 보냅니다.",
+    "Recover the baseline.": "재사용에 적합한 베이스라인 구간의 이동상을 되돌려 보내세요.",
+    "Divert the peaks.": "피크 분획은 폐액으로 보내세요.",
+    "Reduce hazardous waste and CO₂ emissions. Capture the metrics across your labs.": "실험실 전반의 유해 폐액 발생 감소 가능성을 평가하고 CO₂e 감축량을 추정하세요.",
+    "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.": "이동상 비용 절감 가능성을 살펴보고 스코프 3 영향을 모델링하세요.",
+    "Reduce recurring laboratory costs, release analytical capacity and quantify waste and carbon reductions across your laboratory network.": "실험실 네트워크 전반의 경상 비용, 분석 담당자의 업무 여력, 폐액 및 탄소 감축 가능성을 살펴보세요.",
+    "Sequence 2 · 96 injections (Recycled)": "시퀀스 2 · 96회 주입(재사용)",
+    "The study reports equivalent chromatographic performance between the two sequences and no adverse impact from using the recycled mobile phase in Sequence 2.": "평가한 분석법에서 연구진은 두 시퀀스 간에 동등한 크로마토그래피 성능을 보고했으며, 시퀀스 2에서 재사용 이동상을 사용함에 따른 부정적인 영향은 관찰되지 않았다고 보고합니다.",
+    "Turn measured prevention into a business case.": "실험실의 가정을 바탕으로 사업성을 평가하세요.",
+    "Use your laboratory numbers, operating schedule and costs to model reduced solvent demand, cost avoided and CO₂ reduction over three years.": "실험실 수, 운영 일정 및 비용을 입력하여 3년간의 새 이동상 수요 감소, 비용 절감액 및 추정 CO₂e 감축량을 모델링하세요.",
+    "Validate this business case": "사업성 평가 검토",
+    "Validate this business case with Antech": "Antech와 사업성 평가 검토",
+    "Waste prevented": "추정 폐액 발생 감소량",
+    "What the investment delivers": "시나리오의 예상 결과",
+    "✓ Technical conclusion: analytical performance maintained": "✓ 연구 결론: 평가한 분석법 조건에서 분석 성능 유지",
+    "No difference in baseline noise/stability was observed. LC/MS found neither analyte in the recycled phase; the source reports waste-phase concentrations of 1,440 ng/mL paracetamol and 530 ng/mL ibuprofen.": "평가한 분석법에서는 베이스라인 노이즈나 안정성의 차이가 관찰되지 않았습니다. LC/MS 분석에서 재사용 이동상의 파라세타몰과 이부프로펜은 검출되지 않았으며, 보고서에는 검출한계가 명시되어 있지 않습니다. 원자료에 보고된 폐액 내 농도는 파라세타몰 1,440 ng/mL와 이부프로펜 530 ng/mL입니다."
+  },
+  "metadata": {
+    "title": "ReSolve™ | 등용매 HPLC 이동상 순환 재사용 | Antech",
+    "description": "적합한 등용매 HPLC 분석법을 위한 ReSolve™ 이동상 순환 재사용을 살펴보세요. 분석 근거를 검토하고 비용과 폐액을 모델링하며 분석법 평가를 상담하세요."
+  },
+  "blocks": {
+    "Recover the baseline. Divert the peaks.": {
+      "text": "재사용에 적합한 베이스라인 구간의 이동상을 되돌려 보내세요. {0}",
+      "slots": {
+        "0": "피크 분획은 폐액으로 보내세요."
+      }
+    },
+    "Two separate evidence sets answer different questions: the PMBrc / SETU study informs analytical review; the Agilent sequence and ReSolve™ records document the evaluated operation.": {
+      "text": "두 근거 자료는 서로 다른 질문에 답합니다. {0}는 분석 검토에 참고가 되며, Agilent 시퀀스와 ReSolve™ 기록은 평가한 운영 내용을 문서화합니다.",
+      "slots": {
+        "0": "PMBrc / SETU 연구"
+      }
+    },
+    "Source: EPA national hazardous waste statistics ; solvent figure and category description transcribed from the supplied CIRCULÉIRE slide.": {
+      "text": "출처: {0}. 용매 수치와 분류 설명은 제공된 CIRCULÉIRE 슬라이드에서 옮겼습니다.",
+      "slots": {
+        "0": "EPA 전국 유해폐기물 통계"
+      }
+    },
+    "Global trade context: UNCTAD, Review of Maritime Transport 2025 ↗ . Laboratory implications should be assessed against your own supply network.": {
+      "text": "세계 무역 배경: {0}. 자체 공급망을 기준으로 실험실에 미치는 영향을 평가하세요.",
+      "slots": {
+        "0": "UNCTAD, 2025 해상운송 검토 ↗"
+      }
+    },
+    "EUR per tonne · values transcribed from the supplied CIRCULÉIRE slide citing Methanex. Methanex posted pricing . Commodity contract prices are not analytical-grade invoice prices and are not used in this calculator.": {
+      "text": "EUR/톤 · Methanex를 인용한 제공 CIRCULÉIRE 슬라이드에서 옮긴 값입니다. {0}. 원자재 계약 가격은 분석용 등급 시약의 실제 청구 가격이 아니며 이 계산기에 사용하지 않습니다.",
+      "slots": {
+        "0": "Methanex 공시 가격"
+      }
+    },
+    "Sources: GHG Protocol calculation guidance · ISO 14001 · ISO 14051 · ISO greenhouse-gas standards .": {
+      "text": "출처: {0} · {1} · {2} · {3}.",
+      "slots": {
+        "0": "GHG Protocol 계산 지침",
+        "1": "ISO 14001",
+        "2": "ISO 14051",
+        "3": "ISO 온실가스 표준"
+      }
+    }
+  },
+  "numericExceptions": [
+    {
+      "sourceKey": "Example opportunity—subject to validation at each site. The fixed example uses an 80% reduction assumption; 80%+ is not a measured purchasing result. Associated carbon estimates use supplied factors pending verification.",
+      "before": [
+        "80",
+        "80"
+      ],
+      "after": [
+        "80"
+      ],
+      "reason": "Intentional removal of unsupported 80%+ marketing promise/repeated claim; this is not a source measurement, model input or result."
+    },
+    {
+      "sourceKey": "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.",
+      "before": [
+        "80",
+        "3"
+      ],
+      "after": [
+        "3"
+      ],
+      "reason": "Intentional removal of unsupported 80%+ marketing promise/repeated claim; this is not a source measurement, model input or result."
+    }
+  ],
+  "checks": {
+    "sourceKeysUnchanged": true,
+    "all1429EntriesRead": true,
+    "allEightProfileContextsReviewed": true,
+    "all35EnglishAlignmentsConfirmed": true,
+    "changedNumericTokenSetsPreservedExceptTwoApprovedRemovals": true,
+    "numericChanges": [
+      "Example opportunity—subject to validation at each site. The fixed example uses an 80% reduction assumption; 80%+ is not a measured purchasing result. Associated carbon estimates use supplied factors pending verification.",
+      "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions."
+    ],
+    "originalSourceMeasurementPrecisionPreserved": true,
+    "allInlineSlotsPreserved": true,
+    "blocksApplied": {
+      "See ReSolve in action.": 8,
+      "Recover the baseline. Divert the peaks.": 1,
+      "Two separate evidence sets answer different questions: the PMBrc / SETU study informs analytical review; the Agilent sequence and ReSolve™ records document the evaluated operation.": 1,
+      "Your details will be sent to Antech so we can respond to your enquiry. If the form fails, email info@antech.ie .": 1,
+      "Source: EPA national hazardous waste statistics ; solvent figure and category description transcribed from the supplied CIRCULÉIRE slide.": 1,
+      "Global trade context: UNCTAD, Review of Maritime Transport 2025 ↗ . Laboratory implications should be assessed against your own supply network.": 1,
+      "EUR per tonne · values transcribed from the supplied CIRCULÉIRE slide citing Methanex. Methanex posted pricing . Commodity contract prices are not analytical-grade invoice prices and are not used in this calculator.": 1,
+      "Sources: GHG Protocol calculation guidance · ISO 14001 · ISO 14051 · ISO greenhouse-gas standards .": 1
+    },
+    "methodSpecificEvidenceSeparateFromAnnualAssumptions": true,
+    "LCMSNonDetectionNoLODInvented": true,
+    "noPurificationClaim": true,
+    "noCertificationGMPOrRegulatoryApprovalClaim": true,
+    "staffCapacitySeparateFromPayrollAndCashSavings": true,
+    "EURWithoutConversion": true,
+    "carbonFactorsAndBoundariesQualified": true,
+    "sourcePDFsAndVideoStillEnglish": true,
+    "noDeployment": true,
+    "sourceNumericPresentationDifferenceCount": 65,
+    "sourceNumericPresentationNote": "65 inherited differences against English digit-token multisets arise from translated month names and number words (for example May→5월, three years→3년); these are not changed source measurements. Parent owns final numeric presentation."
+  },
+  "remainingReview": [
+    "AI-authored language review does not constitute certified native, analytical validation, legal or regulatory approval.",
+    "Final integrated browser/layout QA is owned by the parent team. Numeric presentation is handled centrally."
+  ]
+}

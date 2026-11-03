@@ -1,0 +1,317 @@
+{
+  "locale": "en",
+  "status": "reviewed",
+  "reviewedKeys": 1429,
+  "reviewedProfiles": [
+    "quality",
+    "sustainability",
+    "procurement",
+    "supply-chain",
+    "value",
+    "research",
+    "reports",
+    "across"
+  ],
+  "reviewBasis": "Dedicated English scientific and marketing copy review of all 1429 source entries, assembled headings and page context; preserves evidence, models and functional controls.",
+  "changedEntries": 35,
+  "changes": [
+    {
+      "sourceKey": "1 labs",
+      "before": "1 labs",
+      "after": "1 lab"
+    },
+    {
+      "sourceKey": "25 records paired with audit starts and finishes on 5 May 2026.",
+      "before": "25 records paired with audit starts and finishes on 5 May 2026.",
+      "after": "25 measurement records matched to start and finish events in the audit trail on 5 May 2026."
+    },
+    {
+      "sourceKey": "All 25 records are paired with audit starts and finishes. Record 9 retains a one-second difference: summary start 15:06:21; audit start 15:06:20.",
+      "before": "All 25 records are paired with audit starts and finishes. Record 9 retains a one-second difference: summary start 15:06:21; audit start 15:06:20.",
+      "after": "All 25 records are matched to measurement start and finish events in the audit trail. Record 9 retains a one-second difference: summary start 15:06:21; audit start 15:06:20."
+    },
+    {
+      "sourceKey": "All labs use the same systems-per-lab count, operating schedule and per-system flow. Disposal cost avoided is calculated from prevented waste volume × disposal cost per litre. Preparation time is valued separately at your entered staff cost; it is not included in material and disposal savings. Equipment, service, consumables and implementation costs are not deducted, in the gross savings figures. The financial projection separately deducts equipment, installation and annual support to calculate net cash, ROI, payback and NPV.",
+      "before": "All labs use the same systems-per-lab count, operating schedule and per-system flow. Disposal cost avoided is calculated from prevented waste volume × disposal cost per litre. Preparation time is valued separately at your entered staff cost; it is not included in material and disposal savings. Equipment, service, consumables and implementation costs are not deducted, in the gross savings figures. The financial projection separately deducts equipment, installation and annual support to calculate net cash, ROI, payback and NPV.",
+      "after": "All labs use the same systems-per-lab count, operating schedule and per-system flow. Disposal cost avoided is calculated from prevented waste volume × disposal cost per litre. Preparation time is valued separately at your entered staff cost; it is not included in material and disposal savings. Gross savings do not deduct equipment, service, consumables or implementation costs. The financial projection deducts the entered equipment, installation and annual support costs to calculate modelled net cash, ROI, payback and NPV. Assess any other site-specific costs separately."
+    },
+    {
+      "sourceKey": "Annual cost avoided",
+      "before": "Annual cost avoided",
+      "after": "Estimated annual cost avoided"
+    },
+    {
+      "sourceKey": "Both lines start after the upfront equipment and installation payment. Cash payback assumes savings accrue evenly through the year. NPV uses year-end cash flows discounted at 10%; segments join the annual valuation points. Staff capacity value is excluded from cash returns.",
+      "before": "Both lines start after the upfront equipment and installation payment. Cash payback assumes savings accrue evenly through the year. NPV uses year-end cash flows discounted at 10%; segments join the annual valuation points. Staff capacity value is excluded from cash returns.",
+      "after": "Both lines start after the upfront equipment and installation payment. Cash payback assumes savings accrue evenly through the year. NPV uses year-end cash flows at the selected discount rate (10% by default); segments join the annual valuation points. Staff capacity value is excluded from cash returns."
+    },
+    {
+      "sourceKey": "CO₂ reduction",
+      "before": "CO₂ reduction",
+      "after": "Estimated CO₂e reduction"
+    },
+    {
+      "sourceKey": "CO₂:",
+      "before": "CO₂:",
+      "after": "Estimated CO₂e:"
+    },
+    {
+      "sourceKey": "Conclusion · analytical performance maintained",
+      "before": "Conclusion · analytical performance maintained",
+      "after": "Study conclusion · analytical performance maintained under the evaluated method conditions"
+    },
+    {
+      "sourceKey": "Example opportunity—subject to validation at each site. The fixed example uses an 80% reduction assumption; 80%+ is not a measured purchasing result. Associated carbon estimates use supplied factors pending verification.",
+      "before": "Example opportunity—subject to validation at each site. The fixed example uses an 80% reduction assumption; 80%+ is not a measured purchasing result. Associated carbon estimates use supplied factors pending verification.",
+      "after": "The fixed example assumes an 80% net reduction in fresh mobile-phase demand and waste. These are planning assumptions, not measured purchasing outcomes. Associated carbon estimates use supplied factors that require verification."
+    },
+    {
+      "sourceKey": "Geopolitical tensions, conflict, changing trade policies and disruption to major shipping routes are making global supply chains more uncertain. Rerouting, volatile freight costs and unpredictable lead times make replenishment harder to plan.",
+      "before": "Geopolitical tensions, conflict, changing trade policies and disruption to major shipping routes are making global supply chains more uncertain. Rerouting, volatile freight costs and unpredictable lead times make replenishment harder to plan.",
+      "after": "Geopolitical tensions, conflict, changing trade policies and disruption to major shipping routes can make replenishment harder to plan. Assess the exposure within your own supplier network, transport routes and stock policy."
+    },
+    {
+      "sourceKey": "Hazardous waste prevented",
+      "before": "Hazardous waste prevented",
+      "after": "Estimated hazardous waste prevented"
+    },
+    {
+      "sourceKey": "Maintain analytical results and process integrity as mobile phase is recycled.",
+      "before": "Maintain analytical results and process integrity as mobile phase is recycled.",
+      "after": "Assess analytical performance and process controls when reusing mobile phase."
+    },
+    {
+      "sourceKey": "Maintain your analytical standards while reducing fresh mobile-phase preparation.",
+      "before": "Maintain your analytical standards while reducing fresh mobile-phase preparation.",
+      "after": "Assess mobile-phase reuse against your analytical requirements."
+    },
+    {
+      "sourceKey": "One laboratory · measurable prevention over time",
+      "before": "One laboratory · measurable prevention over time",
+      "after": "One laboratory · modelled prevention over time"
+    },
+    {
+      "sourceKey": "Price exposure is real. Lower demand limits the volume exposed.",
+      "before": "Price exposure is real. Lower demand limits the volume exposed.",
+      "after": "Lower demand limits the volume exposed to price changes."
+    },
+    {
+      "sourceKey": "Prices exclude VAT. Support is €120 per month (€1,440 per year).",
+      "before": "Prices exclude VAT. Support is €120 per month (€1,440 per year).",
+      "after": "Indicative prices exclude VAT. Default support is €120 per month (€1,440 per year); use the applicable quotation in your scenario."
+    },
+    {
+      "sourceKey": "Projected financial results depend on your net material and waste reductions. The net cash, ROI and NPV rows deduct the entered equipment, installation and support costs. Gross savings rows and cumulative impact charts remain before investment costs.",
+      "before": "Projected financial results depend on your net material and waste reductions. The net cash, ROI and NPV rows deduct the entered equipment, installation and support costs. Gross savings rows and cumulative impact charts remain before investment costs.",
+      "after": "Projected financial results depend on your net material and waste reductions. The net cash, ROI and NPV rows deduct the entered equipment, installation and support costs. Gross savings rows and cumulative impact charts remain before investment costs. Assess any other site-specific costs separately."
+    },
+    {
+      "sourceKey": "ReSolve™ draws 0.4 W from the HPLC. Any electricity savings from reduced mobile-phase preparation remain to be measured.",
+      "before": "ReSolve™ draws 0.4 W from the HPLC. Any electricity savings from reduced mobile-phase preparation remain to be measured.",
+      "after": "The product literature states that ReSolve™ draws 0.4 W from the HPLC. Any electricity savings from reduced mobile-phase preparation remain to be measured."
+    },
+    {
+      "sourceKey": "ReSolve™ recycles prepared mobile phase for reuse within isocratic HPLC workflows.",
+      "before": "ReSolve™ recycles prepared mobile phase for reuse within isocratic HPLC workflows.",
+      "after": "ReSolve™ returns selected prepared mobile phase for reuse within suitable isocratic HPLC workflows."
+    },
+    {
+      "sourceKey": "Recover the baseline.",
+      "before": "Recover the baseline.",
+      "after": "Return eligible baseline flow."
+    },
+    {
+      "sourceKey": "Divert the peaks.",
+      "before": "Divert the peaks.",
+      "after": "Divert peak fractions to waste."
+    },
+    {
+      "sourceKey": "Reduce hazardous waste and CO₂ emissions. Capture the metrics across your labs.",
+      "before": "Reduce hazardous waste and CO₂ emissions. Capture the metrics across your labs.",
+      "after": "Assess hazardous-waste prevention and estimate CO₂e reductions across your labs."
+    },
+    {
+      "sourceKey": "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.",
+      "before": "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.",
+      "after": "Explore lower mobile-phase costs and model the Scope 3 impact."
+    },
+    {
+      "sourceKey": "Reduce recurring laboratory costs, release analytical capacity and quantify waste and carbon reductions across your laboratory network.",
+      "before": "Reduce recurring laboratory costs, release analytical capacity and quantify waste and carbon reductions across your laboratory network.",
+      "after": "Explore recurring costs, analyst capacity and potential waste and carbon reductions across your laboratory network."
+    },
+    {
+      "sourceKey": "Sequence 2 · 96 injections (Recycled)",
+      "before": "Sequence 2 · 96 injections (Recycled)",
+      "after": "Sequence 2 · 96 injections (recycled)"
+    },
+    {
+      "sourceKey": "The study reports equivalent chromatographic performance between the two sequences and no adverse impact from using the recycled mobile phase in Sequence 2.",
+      "before": "The study reports equivalent chromatographic performance between the two sequences and no adverse impact from using the recycled mobile phase in Sequence 2.",
+      "after": "For the evaluated method, the study reports equivalent chromatographic performance between the two sequences and no adverse impact from using the recycled mobile phase in Sequence 2."
+    },
+    {
+      "sourceKey": "Turn measured prevention into a business case.",
+      "before": "Turn measured prevention into a business case.",
+      "after": "Build a business case from your laboratory assumptions."
+    },
+    {
+      "sourceKey": "Use your laboratory numbers, operating schedule and costs to model reduced solvent demand, cost avoided and CO₂ reduction over three years.",
+      "before": "Use your laboratory numbers, operating schedule and costs to model reduced solvent demand, cost avoided and CO₂ reduction over three years.",
+      "after": "Use your laboratory numbers, operating schedule and costs to model lower fresh mobile-phase demand, cost avoided and estimated CO₂e reductions over three years."
+    },
+    {
+      "sourceKey": "Validate this business case",
+      "before": "Validate this business case",
+      "after": "Review this business case"
+    },
+    {
+      "sourceKey": "Validate this business case with Antech",
+      "before": "Validate this business case with Antech",
+      "after": "Review this business case with Antech"
+    },
+    {
+      "sourceKey": "Waste prevented",
+      "before": "Waste prevented",
+      "after": "Estimated waste prevented"
+    },
+    {
+      "sourceKey": "What the investment delivers",
+      "before": "What the investment delivers",
+      "after": "What your scenario estimates"
+    },
+    {
+      "sourceKey": "✓ Technical conclusion: analytical performance maintained",
+      "before": "✓ Technical conclusion: analytical performance maintained",
+      "after": "✓ Study conclusion: analytical performance maintained under the evaluated method conditions"
+    },
+    {
+      "sourceKey": "No difference in baseline noise/stability was observed. LC/MS found neither analyte in the recycled phase; the source reports waste-phase concentrations of 1,440 ng/mL paracetamol and 530 ng/mL ibuprofen.",
+      "before": "No difference in baseline noise/stability was observed. LC/MS found neither analyte in the recycled phase; the source reports waste-phase concentrations of 1,440 ng/mL paracetamol and 530 ng/mL ibuprofen.",
+      "after": "For the evaluated method, no difference in baseline noise or stability was observed. LC/MS did not detect paracetamol or ibuprofen in the recycled phase; the report does not specify detection limits. The source reports waste-phase concentrations of 1,440 ng/mL paracetamol and 530 ng/mL ibuprofen."
+    }
+  ],
+  "sourceAlignment": {
+    "1 labs": "1 lab",
+    "25 records paired with audit starts and finishes on 5 May 2026.": "25 measurement records matched to start and finish events in the audit trail on 5 May 2026.",
+    "All 25 records are paired with audit starts and finishes. Record 9 retains a one-second difference: summary start 15:06:21; audit start 15:06:20.": "All 25 records are matched to measurement start and finish events in the audit trail. Record 9 retains a one-second difference: summary start 15:06:21; audit start 15:06:20.",
+    "All labs use the same systems-per-lab count, operating schedule and per-system flow. Disposal cost avoided is calculated from prevented waste volume × disposal cost per litre. Preparation time is valued separately at your entered staff cost; it is not included in material and disposal savings. Equipment, service, consumables and implementation costs are not deducted, in the gross savings figures. The financial projection separately deducts equipment, installation and annual support to calculate net cash, ROI, payback and NPV.": "All labs use the same systems-per-lab count, operating schedule and per-system flow. Disposal cost avoided is calculated from prevented waste volume × disposal cost per litre. Preparation time is valued separately at your entered staff cost; it is not included in material and disposal savings. Gross savings do not deduct equipment, service, consumables or implementation costs. The financial projection deducts the entered equipment, installation and annual support costs to calculate modelled net cash, ROI, payback and NPV. Assess any other site-specific costs separately.",
+    "Annual cost avoided": "Estimated annual cost avoided",
+    "Both lines start after the upfront equipment and installation payment. Cash payback assumes savings accrue evenly through the year. NPV uses year-end cash flows discounted at 10%; segments join the annual valuation points. Staff capacity value is excluded from cash returns.": "Both lines start after the upfront equipment and installation payment. Cash payback assumes savings accrue evenly through the year. NPV uses year-end cash flows at the selected discount rate (10% by default); segments join the annual valuation points. Staff capacity value is excluded from cash returns.",
+    "CO₂ reduction": "Estimated CO₂e reduction",
+    "CO₂:": "Estimated CO₂e:",
+    "Conclusion · analytical performance maintained": "Study conclusion · analytical performance maintained under the evaluated method conditions",
+    "Example opportunity—subject to validation at each site. The fixed example uses an 80% reduction assumption; 80%+ is not a measured purchasing result. Associated carbon estimates use supplied factors pending verification.": "The fixed example assumes an 80% net reduction in fresh mobile-phase demand and waste. These are planning assumptions, not measured purchasing outcomes. Associated carbon estimates use supplied factors that require verification.",
+    "Geopolitical tensions, conflict, changing trade policies and disruption to major shipping routes are making global supply chains more uncertain. Rerouting, volatile freight costs and unpredictable lead times make replenishment harder to plan.": "Geopolitical tensions, conflict, changing trade policies and disruption to major shipping routes can make replenishment harder to plan. Assess the exposure within your own supplier network, transport routes and stock policy.",
+    "Hazardous waste prevented": "Estimated hazardous waste prevented",
+    "Maintain analytical results and process integrity as mobile phase is recycled.": "Assess analytical performance and process controls when reusing mobile phase.",
+    "Maintain your analytical standards while reducing fresh mobile-phase preparation.": "Assess mobile-phase reuse against your analytical requirements.",
+    "One laboratory · measurable prevention over time": "One laboratory · modelled prevention over time",
+    "Price exposure is real. Lower demand limits the volume exposed.": "Lower demand limits the volume exposed to price changes.",
+    "Prices exclude VAT. Support is €120 per month (€1,440 per year).": "Indicative prices exclude VAT. Default support is €120 per month (€1,440 per year); use the applicable quotation in your scenario.",
+    "Projected financial results depend on your net material and waste reductions. The net cash, ROI and NPV rows deduct the entered equipment, installation and support costs. Gross savings rows and cumulative impact charts remain before investment costs.": "Projected financial results depend on your net material and waste reductions. The net cash, ROI and NPV rows deduct the entered equipment, installation and support costs. Gross savings rows and cumulative impact charts remain before investment costs. Assess any other site-specific costs separately.",
+    "ReSolve™ draws 0.4 W from the HPLC. Any electricity savings from reduced mobile-phase preparation remain to be measured.": "The product literature states that ReSolve™ draws 0.4 W from the HPLC. Any electricity savings from reduced mobile-phase preparation remain to be measured.",
+    "ReSolve™ recycles prepared mobile phase for reuse within isocratic HPLC workflows.": "ReSolve™ returns selected prepared mobile phase for reuse within suitable isocratic HPLC workflows.",
+    "Recover the baseline.": "Return eligible baseline flow.",
+    "Divert the peaks.": "Divert peak fractions to waste.",
+    "Reduce hazardous waste and CO₂ emissions. Capture the metrics across your labs.": "Assess hazardous-waste prevention and estimate CO₂e reductions across your labs.",
+    "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.": "Explore lower mobile-phase costs and model the Scope 3 impact.",
+    "Reduce recurring laboratory costs, release analytical capacity and quantify waste and carbon reductions across your laboratory network.": "Explore recurring costs, analyst capacity and potential waste and carbon reductions across your laboratory network.",
+    "Sequence 2 · 96 injections (Recycled)": "Sequence 2 · 96 injections (recycled)",
+    "The study reports equivalent chromatographic performance between the two sequences and no adverse impact from using the recycled mobile phase in Sequence 2.": "For the evaluated method, the study reports equivalent chromatographic performance between the two sequences and no adverse impact from using the recycled mobile phase in Sequence 2.",
+    "Turn measured prevention into a business case.": "Build a business case from your laboratory assumptions.",
+    "Use your laboratory numbers, operating schedule and costs to model reduced solvent demand, cost avoided and CO₂ reduction over three years.": "Use your laboratory numbers, operating schedule and costs to model lower fresh mobile-phase demand, cost avoided and estimated CO₂e reductions over three years.",
+    "Validate this business case": "Review this business case",
+    "Validate this business case with Antech": "Review this business case with Antech",
+    "Waste prevented": "Estimated waste prevented",
+    "What the investment delivers": "What your scenario estimates",
+    "✓ Technical conclusion: analytical performance maintained": "✓ Study conclusion: analytical performance maintained under the evaluated method conditions",
+    "No difference in baseline noise/stability was observed. LC/MS found neither analyte in the recycled phase; the source reports waste-phase concentrations of 1,440 ng/mL paracetamol and 530 ng/mL ibuprofen.": "For the evaluated method, no difference in baseline noise or stability was observed. LC/MS did not detect paracetamol or ibuprofen in the recycled phase; the report does not specify detection limits. The source reports waste-phase concentrations of 1,440 ng/mL paracetamol and 530 ng/mL ibuprofen."
+  },
+  "numericExceptions": [
+    {
+      "sourceKey": "Example opportunity—subject to validation at each site. The fixed example uses an 80% reduction assumption; 80%+ is not a measured purchasing result. Associated carbon estimates use supplied factors pending verification.",
+      "before": [
+        "80",
+        "80"
+      ],
+      "after": [
+        "80"
+      ],
+      "reason": "Intentional removal of unsupported 80%+ marketing promise/repeated claim; this is not a source measurement, model input or result."
+    },
+    {
+      "sourceKey": "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.",
+      "before": [
+        "80",
+        "3"
+      ],
+      "after": [
+        "3"
+      ],
+      "reason": "Intentional removal of unsupported 80%+ marketing promise/repeated claim; this is not a source measurement, model input or result."
+    }
+  ],
+  "hero": {
+    "prefix": "Keep your mobile phase ",
+    "emphasis": "working.",
+    "suffix": ""
+  },
+  "metadata": {
+    "title": "ReSolve™ | Isocratic HPLC Mobile-Phase Recycling | Antech",
+    "description": "Explore ReSolve™ mobile-phase recycling for suitable isocratic HPLC methods. Review analytical evidence, model costs and waste, and discuss method assessment."
+  },
+  "supplemental": {},
+  "blocks": {},
+  "checks": {
+    "sourceKeysUnchanged": true,
+    "numericTokensPreservedExceptIntentionalClaimRemoval": true,
+    "allSourceMeasurementsUnchanged": true,
+    "methodSpecificEvidenceSeparateFromAnnualAssumptions": true,
+    "staffCapacitySeparateFromCashSavings": true,
+    "EURNoConversion": true,
+    "carbonEstimatesQualified": true,
+    "noCertificationOrRegulatoryApprovalClaim": true,
+    "noProductionDeployment": true
+  },
+  "references": [
+    {
+      "title": "ISO 14001 environmental management systems",
+      "url": "https://www.iso.org/standard/14001",
+      "conclusion": "An organisational environmental-management framework; no product certification inferred."
+    },
+    {
+      "title": "Directive (EU) 2024/1785",
+      "url": "https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32024L1785",
+      "conclusion": "Covered-installation resource-efficiency and waste-prevention context; product installation alone does not establish compliance."
+    },
+    {
+      "title": "GHG Protocol Scope 3 category boundaries",
+      "url": "https://ghgptechassistance.zendesk.com/hc/en-us/articles/37916158806804-What-are-the-minimum-and-optional-boundaries-of-each-scope-3-category",
+      "conclusion": "Category 5 concerns external waste treatment; ownership/control and transport boundaries remain explicit."
+    }
+  ],
+  "limits": [
+    "AI-authored scientific and marketing copy review, not formal legal/compliance certification.",
+    "Published source records remain authoritative; qualified native technical review is still required before production."
+  ],
+  "evidenceReview": {
+    "sourcePDF": "site/resolve/assets/PMBrc-SETU-study.pdf",
+    "pagesReviewed": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      12
+    ],
+    "checks": [
+      "24-page source confirmed",
+      "Isocratic method75:24.5:0.5 buffer/ACN/methanol",
+      "Two96-injection sequences,80samples13standards3blanks each",
+      "94.5% reported routing recovery persequence",
+      "Analytical metrics andLC/MSnamedanalytenondetection retained",
+      "NoLOD/LOQinvented; absenceofdetectablesignalnotabsenceofallcontaminants"
+    ]
+  }
+}

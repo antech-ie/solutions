@@ -1,0 +1,922 @@
+{
+  "locale": "zh-CN",
+  "agent": "/root/language_zh_cn",
+  "status": "reviewed",
+  "reviewedKeys": 1429,
+  "reviewedProfiles": [
+    "quality",
+    "sustainability",
+    "procurement",
+    "supply-chain",
+    "value",
+    "research",
+    "reports",
+    "across"
+  ],
+  "reviewBasis": "Full AI scientific and marketing language review of every English-value / Simplified Chinese pair, assembled profile headings and inline copy, supplemental labels, SEO, report strings and enquiry form.",
+  "changedEntries": 152,
+  "changes": [
+    {
+      "sourceKey": "% net fresh reduction /",
+      "before": "% 新鲜需求净减少 /",
+      "after": "% 新鲜流动相需求净减少 /"
+    },
+    {
+      "sourceKey": "/L of the whole prepared mobile phase.",
+      "before": "/L 完整配制流动相。",
+      "after": "/L（按完整配制流动相计）。"
+    },
+    {
+      "sourceKey": "01 · Prevent first",
+      "before": "01 · 优先预防",
+      "after": "01 · 优先从源头减量"
+    },
+    {
+      "sourceKey": "01. Recorded performance",
+      "before": "01. 记录的性能",
+      "after": "01. 已记录的性能"
+    },
+    {
+      "sourceKey": "1 lab × 10 HPLCs × 1 mL/min × 60 min × 16 h/day × 5 days/week × 48 weeks/year = 2,304 L/year. Three years = 6,912 L baseline. Fresh demand avoided and waste prevented each use a separate 80% net reduction assumption. Material cost = €100/L. No growth, inflation or discounting is applied. These are cumulative three-year figures.",
+      "before": "1 个实验室 × 10 台 HPLC × 1 mL/min × 60 min × 16 小时/天 × 5 天/周 × 48 周/年 = 2,304 L/年。三年基线 = 6,912 L。新鲜需求减少量和废液预防量分别采用独立的 80% 净减少假设。材料成本 = €100/L。不计增长、通胀或折现。这些数值为三年累计值。",
+      "after": "1 个实验室 × 10 台 HPLC × 1 mL/min × 60 min × 16 小时/天 × 5 天/周 × 48 周/年 = 2,304 L/年。三年基线 = 6,912 L。新鲜流动相需求减少量和废液减少量分别采用独立的 80% 净减少假设。材料成本 = €100/L。不计增长、通胀或折现。这些数值为三年累计值。"
+    },
+    {
+      "sourceKey": "20% of baseline fresh input and waste per matched workload",
+      "before": "相同工作量下基线新鲜投入和废液的 20%",
+      "after": "相同工作量下，新鲜流动相投入量和废液量分别为各自基线的 20%"
+    },
+    {
+      "sourceKey": "20.40 t CO₂e · estimated production contribution",
+      "before": "20.40 t CO₂e · 估算的生产贡献",
+      "after": "20.40 t CO₂e · 估算的生产环节减排贡献"
+    },
+    {
+      "sourceKey": "25 records paired with audit starts and finishes on 5 May 2026.",
+      "before": "25 条记录与 2026 年 5 月 5 日的审计开始和结束事件相匹配。",
+      "after": "25 条测量记录与审计追踪中 2026 年 5 月 5 日的测量开始和结束事件逐一匹配。"
+    },
+    {
+      "sourceKey": "37,880 t pharmaceutical-chapter waste; 17,841 t organic solvents, washing liquids and mother liquors",
+      "before": "药品章节废物 37,880 t；有机溶剂、洗涤液和母液 17,841 t",
+      "after": "废物目录中药品生产相关章节的废物 37,880 t；有机溶剂、洗涤液和母液 17,841 t"
+    },
+    {
+      "sourceKey": "5,529.6 L net waste prevented over three years; approximately 5.53 t at 1 kg/L.",
+      "before": "三年净预防废液 5,529.6 L；按 1 kg/L 计算约为 5.53 t。",
+      "after": "三年废液净减少量为 5,529.6 L；按 1 kg/L 计算约为 5.53 t。"
+    },
+    {
+      "sourceKey": "5,529.6 L net waste prevention; material-intensity measures",
+      "before": "净预防废液 5,529.6 L；材料强度指标",
+      "after": "废液净减少量 5,529.6 L；材料使用强度指标"
+    },
+    {
+      "sourceKey": "8.68 t CO₂e · estimated treatment contribution",
+      "before": "8.68 t CO₂e · 估算的处理贡献",
+      "after": "8.68 t CO₂e · 估算的处理环节减排贡献"
+    },
+    {
+      "sourceKey": "A closer look at the recorded workflow.",
+      "before": "细看已记录的工作流程。",
+      "after": "深入了解记录中的工作流程。"
+    },
+    {
+      "sourceKey": "ANALYSED INJECTIONS",
+      "before": "已分析进样",
+      "after": "已分析的进样"
+    },
+    {
+      "sourceKey": "Agree baseline consumption, waste boundaries and the records needed to demonstrate prevention.",
+      "before": "商定基线消耗量、废液核算边界以及证明预防效果所需的记录。",
+      "after": "商定基线消耗量、废液核算边界以及证明源头减废效果所需的记录。"
+    },
+    {
+      "sourceKey": "All 25 records are paired with audit starts and finishes. Record 9 retains a one-second difference: summary start 15:06:21; audit start 15:06:20.",
+      "before": "全部 25 条记录均与审计开始和结束事件匹配。记录 9 保留了 1 秒差异：汇总开始时间 15:06:21；审计开始时间 15:06:20。",
+      "after": "全部 25 条记录均与审计追踪中的测量开始和结束事件匹配。记录 9 保留了 1 秒差异：汇总开始时间 15:06:21；审计开始时间 15:06:20。"
+    },
+    {
+      "sourceKey": "All labs use the same systems-per-lab count, operating schedule and per-system flow. Disposal cost avoided is calculated from prevented waste volume × disposal cost per litre. Preparation time is valued separately at your entered staff cost; it is not included in material and disposal savings. Equipment, service, consumables and implementation costs are not deducted, in the gross savings figures. The financial projection separately deducts equipment, installation and annual support to calculate net cash, ROI, payback and NPV.",
+      "before": "所有实验室采用相同的每实验室系统数、运行安排和单系统流速。避免的处置费用由预防的废液体积 × 每升处置成本计算。配制时间根据输入的人员成本单独估值；它不计入材料和处置节省额。毛节省额未扣除设备、服务、耗材和实施费用。财务预测另行扣除设备、安装和年度支持费用，以计算净现金、ROI、投资回收期和 NPV。",
+      "after": "所有实验室采用相同的单实验室系统数量、运行安排和单系统流速。可避免的处置成本按减少的废液体积 × 每升处置成本计算。配制时间按您输入的人员成本单独估值，不计入材料和处置节省额。毛节省额未扣除设备、服务、耗材或实施费用。财务预测扣除您输入的设备、安装和年度支持费用，计算模型估算的净现金、ROI、投资回收期和 NPV。其他场地特定成本需另行评估。"
+    },
+    {
+      "sourceKey": "Analyst capacity",
+      "before": "分析人员产能",
+      "after": "分析人员可用工时"
+    },
+    {
+      "sourceKey": "Analytical acceptance and controlled change; no certification inferred.",
+      "before": "分析验收和受控变更；不推断认证。",
+      "after": "分析验收与受控变更；不据此推断已获认证。"
+    },
+    {
+      "sourceKey": "Analytical results. Recorded recycling. Supporting evidence.",
+      "before": "分析结果。记录的回用。支持证据。",
+      "after": "分析结果。回用记录。支持证据。"
+    },
+    {
+      "sourceKey": "Annual cost avoided",
+      "before": "年度避免成本",
+      "after": "预计每年可避免的成本"
+    },
+    {
+      "sourceKey": "Approved scope, source records, baseline, measured outcomes and accountable benefit owners.",
+      "before": "经批准的范围、源记录、基线、实测结果和明确负责的收益所有者。",
+      "after": "经批准的范围、源记录、基线、实测结果以及明确的收益负责人。"
+    },
+    {
+      "sourceKey": "At 80% lower demand, unchanged usable stock could cover 5× as many operating days. A conditional arithmetic ratio, not a measured service improvement; ingredient mix, expiry and reserves still apply.",
+      "before": "需求降低 80% 时，数量不变的可用库存可覆盖 5× 的运行天数。这是有条件的算术比例，并非实测服务改善；组分配比、有效期和储备要求仍然适用。",
+      "after": "需求降低 80% 时，数量不变的可用库存可支持的运行天数为原来的 5×。这是有条件的算术比例，并非实测服务改善；组分配比、有效期和储备要求仍然适用。"
+    },
+    {
+      "sourceKey": "Availability can depend on markets beyond the laboratory.",
+      "before": "供应可用性可能取决于实验室以外的市场。",
+      "after": "实验室以外的市场因素也可能影响供应。"
+    },
+    {
+      "sourceKey": "Both lines start after the upfront equipment and installation payment. Cash payback assumes savings accrue evenly through the year. NPV uses year-end cash flows discounted at 10%; segments join the annual valuation points. Staff capacity value is excluded from cash returns.",
+      "before": "两条曲线均从支付前期设备和安装费用后开始。现金回收假设节省额在全年均匀产生。NPV 使用按 10% 折现的年末现金流；线段连接年度估值点。人员产能价值不计入现金回报。",
+      "after": "两条曲线均从支付前期设备和安装费用后开始。现金投资回收期假设节省额在全年均匀产生。NPV 根据年末现金流按所选折现率计算（默认 10%）；线段连接年度估值点。人员可用工时价值不计入现金回报。"
+    },
+    {
+      "sourceKey": "Brochure routing illustration. Eligible baseline flow returns for reuse; detected peak fractions go to waste. ReSolve routes selected mobile phase; it does not purify it. Method-specific assessment remains necessary.",
+      "before": "手册流路示意图。符合条件的基线流量返回回用；检测到的峰组分进入废液。ReSolve 对选定流动相进行流路分配，并不进行纯化。仍需针对具体方法评估。",
+      "after": "手册流路示意图。符合条件的基线区间流出液返回系统回用；检测到的峰区流出液分流至废液。ReSolve 仅对选定流动相进行流路切换，不进行纯化。仍需针对具体方法评估。"
+    },
+    {
+      "sourceKey": "Build the current picture",
+      "before": "建立当前状况全景",
+      "after": "了解当前运行状况"
+    },
+    {
+      "sourceKey": "CO₂ reduction",
+      "before": "CO₂ 减排",
+      "after": "估算 CO₂e 减排量"
+    },
+    {
+      "sourceKey": "CO₂:",
+      "before": "CO₂：",
+      "after": "估算 CO₂e："
+    },
+    {
+      "sourceKey": "Combined, when equal litres are prevented",
+      "before": "预防体积相同时合计",
+      "after": "新鲜流动相与废液减少体积相同时的合计值"
+    },
+    {
+      "sourceKey": "Conclusion · analytical performance maintained",
+      "before": "结论 · 分析性能得到维持",
+      "after": "研究结论 · 在所评估的方法条件下，分析性能得到维持"
+    },
+    {
+      "sourceKey": "Connect demand prevention to purchasing",
+      "before": "将需求预防与采购衔接",
+      "after": "将需求减少量与采购衔接"
+    },
+    {
+      "sourceKey": "Cost avoided",
+      "before": "避免成本",
+      "after": "可避免的成本"
+    },
+    {
+      "sourceKey": "Cost avoided = whole prepared mobile-phase litres avoided × prepared mobile-phase material cost per litre. ReSolve™, implementation, disposal and labour costs are excluded.",
+      "before": "避免成本 = 避免使用的完整配制流动相升数 × 每升配制流动相材料成本。不包括 ReSolve™、实施、处置和人工费用。",
+      "after": "可避免的成本 = 减少使用的完整配制流动相体积（升）× 每升配制流动相材料成本。不包括 ReSolve™、实施、处置和人工费用。"
+    },
+    {
+      "sourceKey": "Cumulative prevention ·",
+      "before": "累计预防量 ·",
+      "after": "累计减少量 ·"
+    },
+    {
+      "sourceKey": "Cumulative totals through year",
+      "before": "截至第几年累计总量",
+      "after": "截至所选年度的累计总量"
+    },
+    {
+      "sourceKey": "Detected peak fractions + configured timing margin",
+      "before": "检测到的峰组分 + 设定的时间裕量",
+      "after": "检测到的峰区流出液 + 设定时间裕量内的流出液"
+    },
+    {
+      "sourceKey": "Detected peaks + timing margin →",
+      "before": "检测到的峰 + 时间裕量 →",
+      "after": "检测到的峰区 + 时间裕量 →"
+    },
+    {
+      "sourceKey": "Detector-to-valve delay, peak margins, sample matrix and the reuse period require method-specific assessment.",
+      "before": "检测器至阀的延迟、峰裕量、样品基质和回用周期均需针对具体方法评估。",
+      "after": "检测器至阀的延迟、峰区时间裕量、样品基质和回用周期均需针对具体方法评估。"
+    },
+    {
+      "sourceKey": "Discuss your laboratory ↗",
+      "before": "讨论您的实验室 ↗",
+      "after": "讨论您的实验室需求 ↗"
+    },
+    {
+      "sourceKey": "Divert the peaks.",
+      "before": "分流色谱峰。",
+      "after": "将峰区流出液分流至废液。"
+    },
+    {
+      "sourceKey": "ELIGIBLE BASELINE FLOW → RETURN FOR REUSE",
+      "before": "符合条件的基线流量 → 返回回用",
+      "after": "符合条件的基线区间流出液 → 返回系统回用"
+    },
+    {
+      "sourceKey": "Eligible baseline flow → reservoir",
+      "before": "符合条件的基线流量 → 储液瓶",
+      "after": "符合条件的基线区间流出液 → 储液瓶"
+    },
+    {
+      "sourceKey": "Estimate production and waste-treatment emissions separately from the litres prevented.",
+      "before": "将生产及废液处理排放与预防的升数分别估算。",
+      "after": "根据减少使用的体积，分别估算生产和废液处理环节的减排量。"
+    },
+    {
+      "sourceKey": "Estimated CO₂e prevented",
+      "before": "估算预防的 CO₂e",
+      "after": "估算 CO₂e 减排量"
+    },
+    {
+      "sourceKey": "Estimated CO₂e prevented = fresh prepared mobile phase avoided (L) × 3.69 kg CO₂e/L + waste avoided (L) × 1.57 kg CO₂e/L. Locked user-supplied modelling factors apply to the whole mobile phase; source verification remains separate. Transportation is excluded from these calculations. Inbound deliveries and waste collections will be assessed separately.",
+      "before": "估算预防的 CO₂e = 避免配制的新鲜流动相（L）× 3.69 kg CO₂e/L + 避免的废液（L）× 1.57 kg CO₂e/L。锁定的用户提供模型因子适用于完整流动相；来源核实另行进行。这些计算不包括运输。入库交付和废液收集将另行评估。",
+      "after": "估算 CO₂e 减排量 = 减少使用的新鲜配制流动相（L）× 3.69 kg CO₂e/L + 减少产生的废液（L）× 1.57 kg CO₂e/L。模型采用用户提供并锁定的因子，适用于完整流动相；因子来源仍需单独核实。这些计算不包括运输。入库交付和废液收集将另行评估。"
+    },
+    {
+      "sourceKey": "Estimated CO₂e prevented = fresh prepared mobile phase avoided × 3.69 + waste avoided × 1.57. These factors apply to whole-mixture litres, without a solvent-share multiplier.",
+      "before": "估算预防的 CO₂e = 避免配制的新鲜流动相 × 3.69 + 避免的废液 × 1.57。这些因子适用于完整混合液的升数，不另乘溶剂占比。",
+      "after": "估算 CO₂e 减排量 = 减少使用的新鲜配制流动相 × 3.69 + 减少产生的废液 × 1.57。这些因子适用于完整混合液的体积（升），不另乘溶剂占比。"
+    },
+    {
+      "sourceKey": "Estimated CO₂e reduction",
+      "before": "估算 CO₂e 减少量",
+      "after": "估算 CO₂e 减排量"
+    },
+    {
+      "sourceKey": "Estimated hazardous waste prevented",
+      "before": "估算预防的危险废液",
+      "after": "估算危险废液减少量"
+    },
+    {
+      "sourceKey": "Estimated production + treatment CO₂e",
+      "before": "估算生产 + 处理 CO₂e",
+      "after": "估算生产 + 处理环节 CO₂e"
+    },
+    {
+      "sourceKey": "Estimated production CO₂e",
+      "before": "估算生产 CO₂e",
+      "after": "估算生产环节 CO₂e"
+    },
+    {
+      "sourceKey": "Estimated treatment CO₂e",
+      "before": "估算处理 CO₂e",
+      "after": "估算处理环节 CO₂e"
+    },
+    {
+      "sourceKey": "Example opportunity—subject to validation at each site. The fixed example uses an 80% reduction assumption; 80%+ is not a measured purchasing result. Associated carbon estimates use supplied factors pending verification.",
+      "before": "示例机会，需在各场地验证。固定示例使用 80% 减少假设；80%+ 并非实测采购结果。相关碳排放估算使用待核实的所提供因子。",
+      "after": "固定示例假设新鲜流动相需求和废液量净减少 80%。这些属于规划假设，并非实测采购结果。相关碳排放估算采用所提供的因子，其适用性仍需核实。"
+    },
+    {
+      "sourceKey": "Existing example assumption, not measured. If baseline preparation takes H hours, potential time released is 0.3 × H. No absolute hours or labour saving claimed without a time study.",
+      "before": "现有示例假设，并非实测。若基线配制需 H 小时，潜在释放时间为 0.3 × H。未经工时研究，不声称绝对工时或人工节省。",
+      "after": "现有示例假设，并非实测。若基线配制需 H 小时，可能释放的时间为 0.3 × H。未经工时研究，不声称具体节省工时或人工成本。"
+    },
+    {
+      "sourceKey": "Explore ReSolve mobile-phase reuse for isocratic HPLC methods: laboratory capacity, hazardous-waste prevention, research and your business case.",
+      "before": "探索 ReSolve 在等度 HPLC 方法中的流动相回用：实验室产能、危险废液预防、研究及商业论证。",
+      "after": "探索 ReSolve 在适用等度 HPLC 方法中的流动相回用：实验室产能、危险废液源头减量、研究及商业论证。"
+    },
+    {
+      "sourceKey": "Fixed planning assumptions applied to your laboratory baseline. Actual improvements require site validation. Staff capacity value is shown separately from cash savings.",
+      "before": "将固定规划假设应用于实验室基线。实际改善需要场地验证。人员产能价值与现金节省额分别显示。",
+      "after": "将固定规划假设应用于实验室基线。实际改善需要场地验证。人员可用工时价值与现金节省额分别显示。"
+    },
+    {
+      "sourceKey": "Fresh mobile phase avoided × material cost per litre + hazardous waste prevented × disposal cost per litre",
+      "before": "避免的新鲜流动相 × 每升材料成本 + 预防的危险废液 × 每升处置成本",
+      "after": "避免的新鲜流动相 × 每升材料成本 + 减少的危险废液 × 每升处置成本"
+    },
+    {
+      "sourceKey": "Fresh source vial",
+      "before": "新鲜流动相源样品瓶",
+      "after": "新鲜流动相对应的原始样品瓶"
+    },
+    {
+      "sourceKey": "Geopolitical tensions, conflict, changing trade policies and disruption to major shipping routes are making global supply chains more uncertain. Rerouting, volatile freight costs and unpredictable lead times make replenishment harder to plan.",
+      "before": "地缘政治紧张、冲突、贸易政策变化和主要航运路线中断，使全球供应链更加不确定。改道、运费波动和不可预测的交期，使补货规划更加困难。",
+      "after": "地缘政治紧张、冲突、贸易政策变化和主要航运路线中断，可能增加补货规划的难度。请结合您自己的供应商网络、运输路线和库存政策评估相关风险。"
+    },
+    {
+      "sourceKey": "Hazardous waste prevented",
+      "before": "预防的危险废液",
+      "after": "估算危险废液减少量"
+    },
+    {
+      "sourceKey": "Hover a point for the sample number, source vial number and measured value. The vertical axis adjusts to the observed range; it is not an acceptance-limit band. Values retain the precision reported in the appendix.",
+      "before": "将指针悬停于数据点，可查看样品编号、源样品瓶编号和实测值。纵轴根据观测范围调整；它不是验收限带。数值保留附录报告的精度。",
+      "after": "将指针悬停于数据点，可查看样品编号、原始样品瓶编号和实测值。纵轴根据观测范围调整，不代表验收限范围。数值保留附录报告的精度。"
+    },
+    {
+      "sourceKey": "How the comparison was tested",
+      "before": "如何测试比较",
+      "after": "比较试验如何开展"
+    },
+    {
+      "sourceKey": "Illustrative flow path. ReSolve selects flow for reuse; it does not purify it.",
+      "before": "流路示意。ReSolve 选择流体进行回用；它不进行纯化。",
+      "after": "流路示意。ReSolve 选择适用流出液进行回用，不进行纯化。"
+    },
+    {
+      "sourceKey": "Include QC and QA from the start.",
+      "before": "从一开始就纳入 QC 和 QA。",
+      "after": "从一开始就让 QC 和 QA 参与。"
+    },
+    {
+      "sourceKey": "Include rejected fractions, top-ups, cleaning and final reservoir disposal in the result.",
+      "before": "将被拒绝组分、补液、清洗和最终储液瓶处置纳入结果。",
+      "after": "将不予回用的流出液、补液、清洗和储液瓶内剩余液体的最终处置纳入核算。"
+    },
+    {
+      "sourceKey": "Indicative investment per unit",
+      "before": "每台设备的指示性投资",
+      "after": "每台设备的参考投资额"
+    },
+    {
+      "sourceKey": "Keep suitable mobile phase in productive use and prevent waste at its source.",
+      "before": "让适用流动相持续发挥作用，并从源头预防废液。",
+      "after": "让适用流动相持续用于分析，并从源头减少废液产生。"
+    },
+    {
+      "sourceKey": "Less fresh input",
+      "before": "减少新鲜投入",
+      "after": "减少新鲜物料投入"
+    },
+    {
+      "sourceKey": "Less fresh mobile phase connects laboratory capacity, purchasing cost, supply resilience and sustainability. Analytical integrity and traceable records underpin the business case.",
+      "before": "减少新鲜流动相贯通实验室产能、采购成本、供应韧性和可持续性。分析完整性和可追溯记录是商业论证的基础。",
+      "after": "减少新鲜流动相需求，与实验室产能、采购成本、供应韧性和可持续性息息相关。分析完整性和可追溯记录是商业论证的基础。"
+    },
+    {
+      "sourceKey": "Less mobile-phase preparation and replenishment can free analysts for testing, investigations and method development, increasing available laboratory capacity. Confirm the time released against your current workflow.",
+      "before": "减少流动相配制和补充，可释放分析人员从事检测、调查和方法开发，提升可用实验室产能。请根据当前工作流程确认释放的时间。",
+      "after": "减少流动相配制和补液，可让分析人员有更多时间从事检测、调查和方法开发，提升实验室可用产能。请根据当前工作流程确认释放的时间。"
+    },
+    {
+      "sourceKey": "Less preparation variability",
+      "before": "减少配制变异",
+      "after": "减少配制差异"
+    },
+    {
+      "sourceKey": "Lower the volume exposed to price changes and extend the useful coverage of existing stocks.",
+      "before": "减少受价格变化影响的体积，并延长现有可用库存的覆盖期。",
+      "after": "减少受价格变化影响的用量，并延长现有可用库存的覆盖期。"
+    },
+    {
+      "sourceKey": "Maintain analytical results and process integrity as mobile phase is recycled.",
+      "before": "在流动相回用过程中维持分析结果和过程完整性。",
+      "after": "评估流动相回用时的分析性能和过程控制。"
+    },
+    {
+      "sourceKey": "Maintain your analytical standards while reducing fresh mobile-phase preparation.",
+      "before": "减少新鲜流动相配制，同时维持您的分析标准。",
+      "after": "依据您的分析要求，评估流动相回用。"
+    },
+    {
+      "sourceKey": "Make the carbon contribution visible.",
+      "before": "让碳贡献清晰可见。",
+      "after": "让碳减排贡献清晰可见。"
+    },
+    {
+      "sourceKey": "Matched comparison",
+      "before": "匹配比较",
+      "after": "条件匹配的比较"
+    },
+    {
+      "sourceKey": "Material and disposal savings shown separately from the value of staff capacity released. Capacity is not an additional cash saving unless staffing costs are actually avoided.",
+      "before": "材料和处置节省额与释放的人员产能价值分别显示。只有实际避免了人员费用，产能才构成额外现金节省。",
+      "after": "材料和处置节省额与释放的人员可用工时价值分别显示。只有实际避免了人员费用，产能才构成额外现金节省。"
+    },
+    {
+      "sourceKey": "Material balance and waste-transfer records. Recycled throughput is not net waste prevention.",
+      "before": "物料平衡和废液转移记录。回用处理量不等于净预防废液量。",
+      "after": "物料平衡和废液转移记录。回用处理量不等于废液净减少量。"
+    },
+    {
+      "sourceKey": "Measured diverted fraction; not a net prevention claim",
+      "before": "实测分流组分；不声称净预防效果",
+      "after": "实测分流比例；不据此声称净减废效果"
+    },
+    {
+      "sourceKey": "Method-specific evidence",
+      "before": "方法特定证据",
+      "after": "针对具体方法的证据"
+    },
+    {
+      "sourceKey": "Method-specific review",
+      "before": "方法特定审核",
+      "after": "针对具体方法的审核"
+    },
+    {
+      "sourceKey": "Mobile-phase mix",
+      "before": "流动相混合组成",
+      "after": "流动相配比"
+    },
+    {
+      "sourceKey": "More analyst time available for other work.",
+      "before": "更多分析人员时间可用于其他工作。",
+      "after": "让分析人员有更多时间从事其他工作。"
+    },
+    {
+      "sourceKey": "More analyst time for testing",
+      "before": "更多分析人员时间用于检测",
+      "after": "让分析人员有更多时间用于检测"
+    },
+    {
+      "sourceKey": "Net fresh litres avoided × actual ingredient cost; subtract implementation and ongoing costs for ROI.",
+      "before": "避免的新鲜升数净值 × 实际组分成本；计算 ROI 时减去实施及持续费用。",
+      "after": "新鲜流动相净减少体积（升）× 实际组分成本；计算 ROI 时减去实施及持续费用。"
+    },
+    {
+      "sourceKey": "No difference in baseline noise/stability was observed. LC/MS found neither analyte in the recycled phase; the source reports waste-phase concentrations of 1,440 ng/mL paracetamol and 530 ng/mL ibuprofen.",
+      "before": "未观察到基线噪声/稳定性差异。LC/MS 在回用流动相中未发现两种分析物；原始来源报告废液中对乙酰氨基酚浓度为 1,440 ng/mL，布洛芬为 530 ng/mL。",
+      "after": "在所评估的方法条件下，未观察到基线噪声或稳定性差异。LC/MS 在回用流动相中未检出对乙酰氨基酚或布洛芬；报告未注明检出限。原始来源报告废液中对乙酰氨基酚浓度为 1,440 ng/mL，布洛芬为 530 ng/mL。"
+    },
+    {
+      "sourceKey": "One laboratory · measurable prevention over time",
+      "before": "一个实验室 · 随时间可量化的预防",
+      "after": "一个实验室 · 随时间变化的模型减量估算"
+    },
+    {
+      "sourceKey": "Original reported precision retained. Volumes describe recorded flow through the system.",
+      "before": "保留原始报告精度。体积描述系统中记录的流量。",
+      "after": "保留原始报告精度。体积数值反映记录中流经系统的液体量。"
+    },
+    {
+      "sourceKey": "Peak fractions",
+      "before": "峰组分",
+      "after": "峰区流出液"
+    },
+    {
+      "sourceKey": "Pharmaceutical-chapter waste −11%",
+      "before": "药品章节废物 −11%",
+      "after": "废物目录中药品生产相关章节的废物 −11%"
+    },
+    {
+      "sourceKey": "Planning defaults are 80% net fresh-demand reduction and 80% net waste reduction, entered separately. Neither is a measured site result. The study’s 94.4809% routing recovery is evidence for the tested method, not the annual savings input. Repeated reuse is not an extra multiplier.",
+      "before": "规划默认值为新鲜需求净减少 80% 和废液净减少 80%，分别输入。两者均非场地实测结果。研究中的 94.4809% 流路回收率是针对受试方法的证据，并非年度节省输入。重复回用不是额外乘数。",
+      "after": "规划默认值为新鲜流动相需求净减少 80% 和废液净减少 80%，分别输入。两者均非场地实测结果。研究中的 94.4809% 实测回流回收率是针对受试方法的证据，并非年度节省量的输入值。重复回用不是额外乘数。"
+    },
+    {
+      "sourceKey": "Potentially fewer deliveries, preparation cycles, handling events and waste collections. These depend on actual operational changes and are not added to the material-cost figure.",
+      "before": "可能减少交付、配制周期、操作事件和废液收集。这些取决于实际运行变化，不叠加到材料成本数值中。",
+      "after": "交付次数、配制次数、操作次数和废液收集次数可能减少。这些变化取决于实际运行情况，不叠加到材料成本数值中。"
+    },
+    {
+      "sourceKey": "Preparation hours and handling events per accepted analytical workload; time demonstrably redeployed.",
+      "before": "每单位合格分析工作量的配制工时和操作事件；可证明已重新分配的时间。",
+      "after": "每单位合格分析工作量对应的配制工时和操作次数；可证明已转用于其他工作的时间。"
+    },
+    {
+      "sourceKey": "Prevent waste at the point of use",
+      "before": "在使用现场预防废液",
+      "after": "在使用现场从源头减少废液"
+    },
+    {
+      "sourceKey": "Price exposure is real. Lower demand limits the volume exposed.",
+      "before": "价格风险确实存在。降低需求可限制受影响的用量。",
+      "after": "降低需求，可减少受价格变化影响的用量。"
+    },
+    {
+      "sourceKey": "Prices exclude VAT. Support is €120 per month (€1,440 per year).",
+      "before": "价格不含增值税。支持服务每月 €120（每年 €1,440）。",
+      "after": "参考价格不含增值税。默认支持服务费用为每月 €120（每年 €1,440）；请在您的情景中使用适用报价。"
+    },
+    {
+      "sourceKey": "Projected financial results depend on your net material and waste reductions. The net cash, ROI and NPV rows deduct the entered equipment, installation and support costs. Gross savings rows and cumulative impact charts remain before investment costs.",
+      "before": "预测财务结果取决于材料和废液净减少量。净现金、ROI 和 NPV 行扣除输入的设备、安装和支持费用。毛节省额行和累计影响图仍为扣除投资费用前数值。",
+      "after": "预测财务结果取决于材料和废液净减少量。净现金、ROI 和 NPV 行扣除输入的设备、安装和支持费用。毛节省额行和累计影响图仍为扣除投资费用前的数值。其他场地特定成本需另行评估。"
+    },
+    {
+      "sourceKey": "Purchasing and disposal savings are separate segments of the same total. Staff capacity value is not included.",
+      "before": "采购和处置节省额是同一总额的两个分段。不包括人员产能价值。",
+      "after": "采购和处置节省额是同一总额的两个分段。不包括人员可用工时价值。"
+    },
+    {
+      "sourceKey": "Purposeful recovery. Method-specific evidence.",
+      "before": "有针对性的回收。方法特定证据。",
+      "after": "有针对性的回收。针对具体方法的证据。"
+    },
+    {
+      "sourceKey": "QC · analyst capacity",
+      "before": "QC · 分析人员产能",
+      "after": "QC · 分析人员可用工时"
+    },
+    {
+      "sourceKey": "ReSolve™ draws 0.4 W from the HPLC. Any electricity savings from reduced mobile-phase preparation remain to be measured.",
+      "before": "ReSolve™ 从 HPLC 获取 0.4 W 电力。减少流动相配制可能带来的用电节省仍有待测量。",
+      "after": "产品资料注明，ReSolve™ 从 HPLC 获取 0.4 W 电力。减少流动相配制可能带来的用电节省仍有待测量。"
+    },
+    {
+      "sourceKey": "ReSolve™ recycles prepared mobile phase for reuse within isocratic HPLC workflows.",
+      "before": "ReSolve™ 对配制流动相进行循环回用，供等度 HPLC 工作流程再次使用。",
+      "after": "ReSolve™ 将选定的配制流动相回流，在适用的等度 HPLC 工作流程中再次使用。"
+    },
+    {
+      "sourceKey": "ReSolve™ recycles prepared mobile phase within the isocratic HPLC workflow. The circular opportunity is to reduce fresh input and prevent hazardous waste while maintaining the analytical requirements of the method.",
+      "before": "ReSolve™ 在等度 HPLC 工作流程中回用配制流动相。循环利用机会在于减少新鲜投入和预防危险废液，同时维持方法的分析要求。",
+      "after": "ReSolve™ 在等度 HPLC 工作流程中回用配制流动相。循环利用的机会在于减少新鲜物料投入和危险废液产生，同时满足方法的分析要求。"
+    },
+    {
+      "sourceKey": "ReSolve™ | HPLC Mobile-Phase Recycling | Antech",
+      "before": "ReSolve™ | HPLC 流动相循环回用 | Antech",
+      "after": "ReSolve™ | 等度 HPLC 流动相循环回用 | Antech"
+    },
+    {
+      "sourceKey": "Read the plotted sample values as a table",
+      "before": "以表格阅读已绘制样品值",
+      "after": "以表格查看图中样品数值"
+    },
+    {
+      "sourceKey": "Real methods.",
+      "before": "真实方法。",
+      "after": "实际方法。"
+    },
+    {
+      "sourceKey": "Recover suitable flow from isocratic HPLC runs. Put it back to use, with less fresh mobile phase to prepare and less liquid waste to manage.",
+      "before": "回收等度 HPLC 运行中的适用流量。将其再次利用，减少新鲜流动相配制和液体废物管理。",
+      "after": "回收等度 HPLC 运行中的适用流出液并再次利用，减少所需配制的新鲜流动相和需管理的液体废物。"
+    },
+    {
+      "sourceKey": "Recover the baseline.",
+      "before": "回收基线流量。",
+      "after": "回流符合条件的基线区间流出液。"
+    },
+    {
+      "sourceKey": "Recycle prepared mobile phase within isocratic HPLC workflows, with a clear evidence trail from laboratory activity to waste, cost and estimated carbon prevention.",
+      "before": "在等度 HPLC 工作流程中回用配制流动相，建立从实验室活动到废液、成本和估算碳预防量的清晰证据链。",
+      "after": "在等度 HPLC 工作流程中回用配制流动相，建立清晰证据链，将实验室活动与废液减少量、可避免的成本和估算碳减排量关联起来。"
+    },
+    {
+      "sourceKey": "Recycled source vial",
+      "before": "回用流动相源样品瓶",
+      "after": "回用流动相对应的原始样品瓶"
+    },
+    {
+      "sourceKey": "Reduce hazardous waste and CO₂ emissions. Capture the metrics across your labs.",
+      "before": "减少危险废液和 CO₂ 排放。汇总各实验室的指标。",
+      "after": "评估各实验室的危险废液减量潜力，并估算 CO₂e 减排量。"
+    },
+    {
+      "sourceKey": "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.",
+      "before": "将实验室溶剂成本降低 80%+，同时降低范围 3 排放。",
+      "after": "探索降低流动相成本的机会，并模拟对范围 3 排放的影响。"
+    },
+    {
+      "sourceKey": "Reduce recurring laboratory costs, release analytical capacity and quantify waste and carbon reductions across your laboratory network.",
+      "before": "降低实验室经常性成本，释放分析产能，并量化整个实验室网络的废液和碳减少量。",
+      "after": "评估整个实验室网络的经常性成本、分析人员可用工时，以及潜在的废液和碳减排量。"
+    },
+    {
+      "sourceKey": "Refuse → Rethink → Reduce → Reuse → Repair → Refurbish → Remanufacture → Repurpose → Recycle → Recover. The hierarchy prioritises retaining value and preventing resource demand before end-of-life recovery.",
+      "before": "拒绝 → 重新思考 → 减量 → 再使用 → 修理 → 翻新 → 再制造 → 改作他用 → 再循环 → 回收。该层级优先保留价值和预防资源需求，而后才考虑生命周期末端回收。",
+      "after": "拒绝 → 重新思考 → 减量 → 再使用 → 修理 → 翻新 → 再制造 → 改作他用 → 再循环 → 回收。该层级优先保留价值、减少资源需求，而后才考虑生命周期末端回收。"
+    },
+    {
+      "sourceKey": "Reservoir to HPLC system, then detector, then ReSolve-controlled valve. Eligible baseline flow returns to the reservoir for reuse. Detected peaks plus configured timing margin go to waste. A dashed control signal connects the detector to the valve controller.",
+      "before": "储液瓶至 HPLC 系统，再至检测器，然后至 ReSolve 控制的阀。符合条件的基线流量返回储液瓶回用。检测峰加设定时间裕量进入废液。虚线控制信号将检测器连接至阀控制器。",
+      "after": "储液瓶依次连接 HPLC 系统、检测器和 ReSolve 控制的阀。符合条件的基线区间流出液返回储液瓶回用；检测到的峰区及设定时间裕量内的流出液进入废液。虚线表示连接检测器与阀控制器的控制信号。"
+    },
+    {
+      "sourceKey": "Resource prevention",
+      "before": "资源预防",
+      "after": "从源头减少资源需求"
+    },
+    {
+      "sourceKey": "Return eligible baseline flow within the approved method.",
+      "before": "在经批准的方法范围内回流符合条件的基线流量。",
+      "after": "在经批准的方法范围内，回流符合条件的基线区间流出液。"
+    },
+    {
+      "sourceKey": "Return selected flow",
+      "before": "回流选定流量",
+      "after": "回流选定的流出液"
+    },
+    {
+      "sourceKey": "Return suitable mobile phase to the reservoir, with detected analyte fractions diverted to waste.",
+      "before": "将适用流动相返回储液瓶，并将检测到的分析物组分分流至废液。",
+      "after": "将适用流动相返回储液瓶，并将检测到的分析物所在流出液分流至废液。"
+    },
+    {
+      "sourceKey": "Reuse eligible baseline flow within the approved method.",
+      "before": "在经批准的方法范围内回用符合条件的基线流量。",
+      "after": "在经批准的方法范围内，回用符合条件的基线区间流出液。"
+    },
+    {
+      "sourceKey": "Reusing prepared mobile phase can reduce the ingredients your laboratories purchase and the hazardous waste they send for treatment. Track those changes against your baseline, then translate verified reductions into estimated CO₂e.",
+      "before": "回用配制流动相可减少实验室采购的组分以及送处理的危险废液。跟踪相对于基线的变化，再将经核实的减少量换算为估算 CO₂e。",
+      "after": "回用配制流动相可减少实验室采购的组分以及送交处理的危险废液。跟踪相对于基线的变化，再将经核实的减少量换算为估算 CO₂e 减排量。"
+    },
+    {
+      "sourceKey": "Send detected peak fractions and timing margins to waste.",
+      "before": "将检测到的峰组分和时间裕量分流至废液。",
+      "after": "将检测到的峰区及时间裕量内的流出液分流至废液。"
+    },
+    {
+      "sourceKey": "Separate 80% net waste-reduction assumption. Tonnes use an indicative density of 1 kg/L; confirm the actual mixture density.",
+      "before": "独立的 80% 废液净减少假设。吨数使用 1 kg/L 指示性密度；请确认实际混合液密度。",
+      "after": "独立的 80% 废液净减少假设。吨数按参考密度 1 kg/L 换算；请确认实际混合液密度。"
+    },
+    {
+      "sourceKey": "Simple payback period",
+      "before": "简单投资回收期间",
+      "after": "简单投资回收期"
+    },
+    {
+      "sourceKey": "Start with fresh input and waste prevented for the same acceptable analytical workload. Reuse is the means; verified net reduction is the outcome.",
+      "before": "从相同合格分析工作量下的新鲜投入和预防废液开始。回用是手段；经核实的净减少是结果。",
+      "after": "先核算相同合格分析工作量对应的新鲜物料投入量和废液减少量。回用是手段，经核实的净减少量才是结果。"
+    },
+    {
+      "sourceKey": "Supports activity-data collection and transparent quantification. Apply organisational boundaries, factor provenance, uncertainty and reporting requirements. GHG Protocol scopes are a separate classification.",
+      "before": "支持活动数据收集和透明量化。应用组织边界、因子来源、不确定性和报告要求。GHG Protocol 范围属于单独分类。",
+      "after": "支持活动数据收集和透明量化。须考虑组织边界、因子来源、不确定性和报告要求。GHG Protocol 的范围划分属于另一套分类。"
+    },
+    {
+      "sourceKey": "Sustainability & EHS · material intensity",
+      "before": "可持续性与 EHS · 材料强度",
+      "after": "可持续性与 EHS · 材料使用强度"
+    },
+    {
+      "sourceKey": "The Pharmaceutical & Molecular Biotechnology Research Centre at South East Technological University compared two matched 96-injection sequences for a selected isocratic paracetamol and ibuprofen method.",
+      "before": "东南理工大学药物与分子生物技术研究中心，对选定的对乙酰氨基酚和布洛芬等度方法，比较了两个匹配的 96 次进样序列。",
+      "after": "东南理工大学药物与分子生物技术研究中心针对选定的对乙酰氨基酚和布洛芬等度方法，比较了两个条件匹配的 96 次进样序列。"
+    },
+    {
+      "sourceKey": "The combined source reports retention-time variation below 0.35% RSD, peak asymmetry of 0.95-1.15, no reduction in theoretical plate count, and compliance with the stated USP system-suitability tests.",
+      "before": "综合来源报告保留时间变异低于 0.35% RSD、峰不对称性为 0.95-1.15、理论塔板数未降低，并满足所述 USP 系统适用性测试。",
+      "after": "综合来源报告：保留时间变异低于 0.35% RSD，峰不对称因子为 0.95-1.15，理论塔板数未降低，并符合所述 USP 系统适用性测试要求。"
+    },
+    {
+      "sourceKey": "The detector signal controls a valve after the detector outlet. Selected baseline flow returns to the reservoir; detected peak fractions and the configured margin go to waste.",
+      "before": "检测器信号控制检测器出口之后的阀。选定基线流量返回储液瓶；检测到的峰组分和设定裕量进入废液。",
+      "after": "检测器信号控制检测器出口之后的阀。选定的基线区间流出液返回储液瓶；检测到的峰区及设定时间裕量内的流出液进入废液。"
+    },
+    {
+      "sourceKey": "The study reports equivalent chromatographic performance between the two sequences and no adverse impact from using the recycled mobile phase in Sequence 2.",
+      "before": "研究报告，两序列具有等效色谱性能，在序列 2 中使用回用流动相未产生不利影响。",
+      "after": "对于所评估的方法，研究报告两序列具有等效色谱性能，在序列 2 中使用回用流动相未产生不利影响。"
+    },
+    {
+      "sourceKey": "These records demonstrate recorded recycling activity and traceability. They do not, by themselves, establish analytical equivalence, complete process integrity or net waste and cost savings.",
+      "before": "这些记录展示已记录的回用活动和可追溯性。仅凭这些记录并不能确立分析等效性、完整的过程完整性或净废液及成本节省。",
+      "after": "这些记录展示了回用活动和可追溯性。仅凭这些记录，不能证明分析等效性、过程完整性或废液和成本的净节省。"
+    },
+    {
+      "sourceKey": "This is a framework for explaining the opportunity, not a certification of ReSolve™. Point-of-use mobile-phase recycling, off-site solvent distillation and recovery as fuel are different processes. Their energy demand, purity requirements and environmental outcomes must be assessed separately.",
+      "before": "这是用于说明机会的框架，并非 ReSolve™ 认证。使用现场流动相回用、场外溶剂蒸馏和作为燃料回收属于不同过程。它们的能源需求、纯度要求和环境结果必须分别评估。",
+      "after": "这是用于说明机会的框架，并非 ReSolve™ 认证。在使用现场回用流动相、场外溶剂蒸馏以及回收用作燃料属于不同过程，其能源需求、纯度要求和环境结果必须分别评估。"
+    },
+    {
+      "sourceKey": "Tonnes are indicative, assuming a waste density of 1.00 kg/L. Mass = litres × density ÷ 1,000; use your measured mixture density for reporting.",
+      "before": "吨数为指示值，假设废液密度为 1.00 kg/L。质量 = 升数 × 密度 ÷ 1,000；报告时请使用实测混合液密度。",
+      "after": "吨数为参考值，假设废液密度为 1.00 kg/L。质量 = 升数 × 密度 ÷ 1,000；报告时请使用实测混合液密度。"
+    },
+    {
+      "sourceKey": "Translate prevented fresh preparation into each solvent and ingredient required. Compare actual purchasing over a matched period.",
+      "before": "将避免的新鲜配制量换算成所需各溶剂和组分。比较匹配期间的实际采购。",
+      "after": "将减少的新鲜流动相配制量换算为各溶剂和组分的需求量，并比较相同期间的实际采购。"
+    },
+    {
+      "sourceKey": "Turn measured prevention into a business case.",
+      "before": "将实测预防量转化为商业论证。",
+      "after": "根据您实验室的假设构建商业论证。"
+    },
+    {
+      "sourceKey": "Use your laboratory numbers, operating schedule and costs to model reduced solvent demand, cost avoided and CO₂ reduction over three years.",
+      "before": "使用实验室数量、运行安排和成本，模拟三年溶剂需求减少、避免成本和 CO₂ 减少。",
+      "after": "使用实验室数量、运行安排和成本，模拟三年内新鲜流动相需求的减少量、可避免的成本及估算 CO₂e 减排量。"
+    },
+    {
+      "sourceKey": "Validate this business case",
+      "before": "验证此商业论证",
+      "after": "评审此商业论证"
+    },
+    {
+      "sourceKey": "Validate this business case with Antech",
+      "before": "与 Antech 一起验证此商业论证",
+      "after": "与 Antech 一起评审此商业论证"
+    },
+    {
+      "sourceKey": "Verified fresh litres avoided × production factor, plus net waste avoided × treatment factor.",
+      "before": "经核实避免的新鲜升数 × 生产因子，加上避免的净废液 × 处理因子。",
+      "after": "经核实的新鲜流动相减少体积（升）× 生产因子，加上废液净减少量 × 处理因子。"
+    },
+    {
+      "sourceKey": "Waste avoided = baseline waste × the separate net waste-reduction input. Fresh material avoided = baseline fresh demand × the net fresh-demand reduction input. The planning baseline assumes fresh demand and waste each equal eligible pump throughput before recycling. Reconcile site balances, losses and final disposal before claiming measured savings.",
+      "before": "避免的废液 = 基线废液 × 独立的废液净减少输入。避免的新鲜材料 = 基线新鲜需求 × 新鲜需求净减少输入。规划基线假设回用前新鲜需求和废液各等于适用泵送处理量。声称实测节省前，核对场地平衡、损失和最终处置。",
+      "after": "废液减少量 = 基线废液量 × 独立的废液净减少输入比例。新鲜材料减少量 = 基线新鲜需求 × 新鲜需求净减少输入比例。规划基线假设：回用前，新鲜流动相需求和废液量均等于适用工作流程的泵送处理量。声称实测节省前，须核对场地物料平衡、损失和最终处置。"
+    },
+    {
+      "sourceKey": "Waste density is assumed at 1 kg/L for indicative tonnes. Treatment CO₂e uses 1.57 kg CO₂e/L. No transportation emissions included.",
+      "before": "指示性吨数假设废液密度为 1 kg/L。处理 CO₂e 使用 1.57 kg CO₂e/L。不包括运输排放。",
+      "after": "参考吨数按假设废液密度 1 kg/L 换算。处理环节 CO₂e 采用 1.57 kg CO₂e/L。不包括运输排放。"
+    },
+    {
+      "sourceKey": "Waste prevented",
+      "before": "预防的废液",
+      "after": "估算废液减少量"
+    },
+    {
+      "sourceKey": "Waste prevented and remaining waste together show the full baseline. Tonnes assume 1 kg/L; confirm actual density.",
+      "before": "预防的废液与剩余废液共同显示完整基线。吨数假设 1 kg/L；请确认实际密度。",
+      "after": "减少的废液与剩余废液共同构成完整基线。吨数按假设密度 1 kg/L 换算；请确认实际密度。"
+    },
+    {
+      "sourceKey": "What the investment delivers",
+      "before": "投资带来什么",
+      "after": "您的情景估算结果"
+    },
+    {
+      "sourceKey": "Why solvent prevention matters.",
+      "before": "为何预防溶剂废液很重要。",
+      "after": "为何要从源头减少溶剂需求。"
+    },
+    {
+      "sourceKey": "Year 1 investment includes equipment, installation and the first year of support. Years 2 and 3 include support only. Benefits are gross cash savings before these investment costs; staff capacity value is excluded. Values are undiscounted. The payback and NPV chart below shows the resulting net position.",
+      "before": "第 1 年投资包括设备、安装和首年支持。第 2 和第 3 年仅包括支持。收益为扣除这些投资成本前的现金毛节省额；不包括人员产能价值。数值未经折现。下方回收期与 NPV 图显示由此产生的净值。",
+      "after": "第 1 年投资包括设备、安装和首年支持。第 2 和第 3 年仅包括支持。收益为扣除这些投资成本前的现金毛节省额；不包括人员可用工时价值。数值未经折现。下方回收期与 NPV 图显示由此产生的净值。"
+    },
+    {
+      "sourceKey": "Your laboratory already defines acceptable analytical performance. Use those requirements to assess mobile-phase reuse for each candidate method.",
+      "before": "您的实验室已定义合格分析性能。使用这些要求评估各候选方法的流动相回用。",
+      "after": "您的实验室已明确可接受的分析性能。请依据这些要求，逐一评估候选方法是否适合流动相回用。"
+    },
+    {
+      "sourceKey": "annual preparation person-hours = person-hours per lab per operating week × labs × operating weeks/year. Hours released = baseline hours × the separate preparation-time reduction. Labour cost and capacity value = the relevant person-hours ÷ annual paid hours per analyst × annual salary. Three-year values = annual values × 3. Staff capacity value is excluded from material/disposal savings, cumulative cost charts and ROI.",
+      "before": "年度配制人时 = 每实验室每运行周人时 × 实验室数 × 运行周/年。释放工时 = 基线工时 × 独立配制时间减少比例。人工成本和产能价值 = 相关人时 ÷ 每位分析人员年度带薪工时 × 年薪。三年数值 = 年度数值 × 3。人员产能价值不计入材料/处置节省、累计成本图及 ROI。",
+      "after": "年度配制人时 = 每实验室每运行周人时 × 实验室数 × 运行周/年。释放工时 = 基线工时 × 独立配制时间减少比例。人工成本和产能价值 = 相关人时 ÷ 每位分析人员年度带薪工时 × 年薪。三年数值 = 年度数值 × 3。人员可用工时价值不计入材料/处置节省、累计成本图及 ROI。"
+    },
+    {
+      "sourceKey": "kg CO₂e per litre",
+      "before": "每升 kg CO₂e",
+      "after": "kg CO₂e/升"
+    },
+    {
+      "sourceKey": "· source vial",
+      "before": "· 源样品瓶",
+      "after": "· 原始样品瓶"
+    },
+    {
+      "sourceKey": "✓ Technical conclusion: analytical performance maintained",
+      "before": "✓ 技术结论：分析性能得到维持",
+      "after": "✓ 研究结论：在所评估的方法条件下，分析性能得到维持"
+    }
+  ],
+  "sourceAlignment": {
+    "1 labs": "1 个实验室",
+    "25 records paired with audit starts and finishes on 5 May 2026.": "25 条测量记录与审计追踪中 2026 年 5 月 5 日的测量开始和结束事件逐一匹配。",
+    "All 25 records are paired with audit starts and finishes. Record 9 retains a one-second difference: summary start 15:06:21; audit start 15:06:20.": "全部 25 条记录均与审计追踪中的测量开始和结束事件匹配。记录 9 保留了 1 秒差异：汇总开始时间 15:06:21；审计开始时间 15:06:20。",
+    "All labs use the same systems-per-lab count, operating schedule and per-system flow. Disposal cost avoided is calculated from prevented waste volume × disposal cost per litre. Preparation time is valued separately at your entered staff cost; it is not included in material and disposal savings. Equipment, service, consumables and implementation costs are not deducted, in the gross savings figures. The financial projection separately deducts equipment, installation and annual support to calculate net cash, ROI, payback and NPV.": "所有实验室采用相同的单实验室系统数量、运行安排和单系统流速。可避免的处置成本按减少的废液体积 × 每升处置成本计算。配制时间按您输入的人员成本单独估值，不计入材料和处置节省额。毛节省额未扣除设备、服务、耗材或实施费用。财务预测扣除您输入的设备、安装和年度支持费用，计算模型估算的净现金、ROI、投资回收期和 NPV。其他场地特定成本需另行评估。",
+    "Annual cost avoided": "预计每年可避免的成本",
+    "Both lines start after the upfront equipment and installation payment. Cash payback assumes savings accrue evenly through the year. NPV uses year-end cash flows discounted at 10%; segments join the annual valuation points. Staff capacity value is excluded from cash returns.": "两条曲线均从支付前期设备和安装费用后开始。现金投资回收期假设节省额在全年均匀产生。NPV 根据年末现金流按所选折现率计算（默认 10%）；线段连接年度估值点。人员可用工时价值不计入现金回报。",
+    "CO₂ reduction": "估算 CO₂e 减排量",
+    "CO₂:": "估算 CO₂e：",
+    "Conclusion · analytical performance maintained": "研究结论 · 在所评估的方法条件下，分析性能得到维持",
+    "Example opportunity—subject to validation at each site. The fixed example uses an 80% reduction assumption; 80%+ is not a measured purchasing result. Associated carbon estimates use supplied factors pending verification.": "固定示例假设新鲜流动相需求和废液量净减少 80%。这些属于规划假设，并非实测采购结果。相关碳排放估算采用所提供的因子，其适用性仍需核实。",
+    "Geopolitical tensions, conflict, changing trade policies and disruption to major shipping routes are making global supply chains more uncertain. Rerouting, volatile freight costs and unpredictable lead times make replenishment harder to plan.": "地缘政治紧张、冲突、贸易政策变化和主要航运路线中断，可能增加补货规划的难度。请结合您自己的供应商网络、运输路线和库存政策评估相关风险。",
+    "Hazardous waste prevented": "估算危险废液减少量",
+    "Maintain analytical results and process integrity as mobile phase is recycled.": "评估流动相回用时的分析性能和过程控制。",
+    "Maintain your analytical standards while reducing fresh mobile-phase preparation.": "依据您的分析要求，评估流动相回用。",
+    "One laboratory · measurable prevention over time": "一个实验室 · 随时间变化的模型减量估算",
+    "Price exposure is real. Lower demand limits the volume exposed.": "降低需求，可减少受价格变化影响的用量。",
+    "Prices exclude VAT. Support is €120 per month (€1,440 per year).": "参考价格不含增值税。默认支持服务费用为每月 €120（每年 €1,440）；请在您的情景中使用适用报价。",
+    "Projected financial results depend on your net material and waste reductions. The net cash, ROI and NPV rows deduct the entered equipment, installation and support costs. Gross savings rows and cumulative impact charts remain before investment costs.": "预测财务结果取决于材料和废液净减少量。净现金、ROI 和 NPV 行扣除输入的设备、安装和支持费用。毛节省额行和累计影响图仍为扣除投资费用前的数值。其他场地特定成本需另行评估。",
+    "ReSolve™ draws 0.4 W from the HPLC. Any electricity savings from reduced mobile-phase preparation remain to be measured.": "产品资料注明，ReSolve™ 从 HPLC 获取 0.4 W 电力。减少流动相配制可能带来的用电节省仍有待测量。",
+    "ReSolve™ recycles prepared mobile phase for reuse within isocratic HPLC workflows.": "ReSolve™ 将选定的配制流动相回流，在适用的等度 HPLC 工作流程中再次使用。",
+    "Recover the baseline.": "回流符合条件的基线区间流出液。",
+    "Divert the peaks.": "将峰区流出液分流至废液。",
+    "Reduce hazardous waste and CO₂ emissions. Capture the metrics across your labs.": "评估各实验室的危险废液减量潜力，并估算 CO₂e 减排量。",
+    "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.": "探索降低流动相成本的机会，并模拟对范围 3 排放的影响。",
+    "Reduce recurring laboratory costs, release analytical capacity and quantify waste and carbon reductions across your laboratory network.": "评估整个实验室网络的经常性成本、分析人员可用工时，以及潜在的废液和碳减排量。",
+    "Sequence 2 · 96 injections (Recycled)": "序列 2 · 96 次进样（回用）",
+    "The study reports equivalent chromatographic performance between the two sequences and no adverse impact from using the recycled mobile phase in Sequence 2.": "对于所评估的方法，研究报告两序列具有等效色谱性能，在序列 2 中使用回用流动相未产生不利影响。",
+    "Turn measured prevention into a business case.": "根据您实验室的假设构建商业论证。",
+    "Use your laboratory numbers, operating schedule and costs to model reduced solvent demand, cost avoided and CO₂ reduction over three years.": "使用实验室数量、运行安排和成本，模拟三年内新鲜流动相需求的减少量、可避免的成本及估算 CO₂e 减排量。",
+    "Validate this business case": "评审此商业论证",
+    "Validate this business case with Antech": "与 Antech 一起评审此商业论证",
+    "Waste prevented": "估算废液减少量",
+    "What the investment delivers": "您的情景估算结果",
+    "✓ Technical conclusion: analytical performance maintained": "✓ 研究结论：在所评估的方法条件下，分析性能得到维持",
+    "No difference in baseline noise/stability was observed. LC/MS found neither analyte in the recycled phase; the source reports waste-phase concentrations of 1,440 ng/mL paracetamol and 530 ng/mL ibuprofen.": "在所评估的方法条件下，未观察到基线噪声或稳定性差异。LC/MS 在回用流动相中未检出对乙酰氨基酚或布洛芬；报告未注明检出限。原始来源报告废液中对乙酰氨基酚浓度为 1,440 ng/mL，布洛芬为 530 ng/mL。"
+  },
+  "metadata": {
+    "title": "ReSolve™ | 等度 HPLC 流动相循环回用 | Antech",
+    "description": "了解 ReSolve™ 在适用等度 HPLC 方法中的流动相循环回用。查看分析证据，模拟成本与废液量，并讨论具体方法的适用性评估。"
+  },
+  "blocks": {
+    "Recover the baseline. Divert the peaks.": {
+      "text": "回流符合条件的基线区间流出液。{0}",
+      "slots": {
+        "0": "将峰区流出液分流至废液。"
+      }
+    }
+  },
+  "numericExceptions": [
+    {
+      "sourceKey": "Example opportunity—subject to validation at each site. The fixed example uses an 80% reduction assumption; 80%+ is not a measured purchasing result. Associated carbon estimates use supplied factors pending verification.",
+      "before": [
+        "80",
+        "80"
+      ],
+      "after": [
+        "80"
+      ],
+      "reason": "Intentional removal of unsupported 80%+ marketing promise/repeated claim; this is not a source measurement, model input or result."
+    },
+    {
+      "sourceKey": "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.",
+      "before": [
+        "80",
+        "3"
+      ],
+      "after": [
+        "3"
+      ],
+      "reason": "Intentional removal of unsupported 80%+ marketing promise/repeated claim; this is not a source measurement, model input or result."
+    }
+  ],
+  "checks": {
+    "all1429EntriesIndividuallyReadAgainstEnglishValues": true,
+    "sourceKeysUnchanged": true,
+    "sourceKeyCount": 1429,
+    "englishSemanticAlignmentsReviewed": 35,
+    "numericTokensPreservedAgainstOriginalLocaleExceptTwoEnglishClaimRemovals": true,
+    "numericChangesOnly": [
+      "Example opportunity—subject to validation at each site. The fixed example uses an 80% reduction assumption; 80%+ is not a measured purchasing result. Associated carbon estimates use supplied factors pending verification.",
+      "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions."
+    ],
+    "originalASCIINumeralsAndGroupingPreserved": true,
+    "unchangedExistingNumericDateLocalisation": "Existing Chinese numeric month and one-second wording retained; no new numeric exceptions added.",
+    "allSourceMeasurementsUnchanged": true,
+    "originalDOMSlotValidation": "tools/i18n_blocks.apply_blocks passed on site/resolve/index.html with English-document annotations; all original non-br child tags and attributes preserved exactly once.",
+    "wholeBlockSourceKeys": 4,
+    "wholeBlockInstances": 11,
+    "profileAssemblyReview": {
+      "quality": {
+        "headings": 19,
+        "textCharacters": 8383
+      },
+      "sustainability": {
+        "headings": 31,
+        "textCharacters": 3763
+      },
+      "procurement": {
+        "headings": 17,
+        "textCharacters": 2023
+      },
+      "supply-chain": {
+        "headings": 15,
+        "textCharacters": 1978
+      },
+      "value": {
+        "headings": 12,
+        "textCharacters": 2694
+      },
+      "research": {
+        "headings": 12,
+        "textCharacters": 2109
+      },
+      "reports": {
+        "headings": 4,
+        "textCharacters": 599
+      },
+      "across": {
+        "headings": 34,
+        "textCharacters": 6027
+      }
+    },
+    "formsReviewed": true,
+    "allSixSupplementalLabelsReviewed": true,
+    "SEOReviewed": true,
+    "methodSpecificEvidenceSeparateFromAnnualAssumptions": true,
+    "staffCapacitySeparateFromCashSavings": true,
+    "EURNoConversion": true,
+    "carbonEstimatesQualified": true,
+    "noPurificationClaim": true,
+    "noCertificationOrRegulatoryApprovalClaim": true,
+    "noBrowserOrProductionDeployment": true
+  },
+  "remainingReview": [
+    "AI-authored scientific and marketing language review; not certified native-speaker review or legal/regulatory approval.",
+    "Qualified native-speaking analytical chemist review remains advisable before production.",
+    "Source emission factors remain user-supplied modelling assumptions requiring verification; no independent footprint verification performed."
+  ],
+  "supplemental": {
+    "REUSE": "再使用"
+  }
+}
