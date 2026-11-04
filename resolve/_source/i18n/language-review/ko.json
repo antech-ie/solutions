@@ -966,41 +966,41 @@
     "Both lines start after the upfront equipment and installation payment. Cash payback assumes savings accrue evenly through the year. NPV uses year-end cash flows discounted at 10%; segments join the annual valuation points. Staff capacity value is excluded from cash returns.": "두 곡선은 초기 장비 및 설치 비용을 지급한 시점부터 시작합니다. 현금 기준 투자 회수 기간은 절감액이 연중 균등하게 발생한다고 가정합니다. NPV는 선택한 할인율(기본값 10%)을 연말 현금흐름에 적용하며, 선분은 각 연도의 평가점을 연결합니다. 확보된 업무 여력의 가치는 현금 수익에서 제외합니다.",
     "CO₂ reduction": "추정 CO₂e 감축량",
     "CO₂:": "추정 CO₂e:",
-    "Conclusion · analytical performance maintained": "연구 결론 · 평가한 분석법 조건에서 분석 성능 유지",
+    "Conclusion · analytical performance maintained": "연구 결과: 시험한 분석법에서 분석 성능 유지",
     "Example opportunity—subject to validation at each site. The fixed example uses an 80% reduction assumption; 80%+ is not a measured purchasing result. Associated carbon estimates use supplied factors pending verification.": "고정 예시에서는 새 이동상 수요와 폐액 발생량이 각각 순 80% 감소한다고 가정합니다. 이는 계획 수립을 위한 가정이며 실측 구매 결과가 아닙니다. 관련 탄소 추정에는 제공된 계수를 사용하며 해당 계수의 검증이 필요합니다.",
-    "Geopolitical tensions, conflict, changing trade policies and disruption to major shipping routes are making global supply chains more uncertain. Rerouting, volatile freight costs and unpredictable lead times make replenishment harder to plan.": "지정학적 긴장, 분쟁, 무역 정책 변화 및 주요 항로 차질로 인해 보충 계획 수립이 어려워질 수 있습니다. 자체 공급업체 네트워크, 운송 경로 및 재고 정책에서 관련 위험을 평가하세요.",
+    "Geopolitical tensions, conflict, changing trade policies and disruption to major shipping routes are making global supply chains more uncertain. Rerouting, volatile freight costs and unpredictable lead times make replenishment harder to plan.": "운송 차질, 무역 제한 및 납기 변동은 용매 공급에 부담을 줍니다. 시험 일정에 중요한 성분과 공급업체를 파악하세요.",
     "Hazardous waste prevented": "추정 유해 폐액 발생 감소량",
-    "Maintain analytical results and process integrity as mobile phase is recycled.": "이동상 재사용 시 분석 성능과 공정 관리 방안을 평가하세요.",
-    "Maintain your analytical standards while reducing fresh mobile-phase preparation.": "분석 요구사항에 따라 이동상 재사용의 적합성을 평가하세요.",
+    "Maintain analytical results and process integrity as mobile phase is recycled.": "이동상 재사용 시 분석 성능과 공정 관리 기준을 확인하세요.",
+    "Maintain your analytical standards while reducing fresh mobile-phase preparation.": "새 이동상은 더 적게. 분석 기준은 그대로.",
     "One laboratory · measurable prevention over time": "단일 실험실 · 시간에 따른 폐액 발생 감소 예측",
     "Price exposure is real. Lower demand limits the volume exposed.": "수요를 줄이면 가격 변동에 노출되는 물량도 줄어듭니다.",
     "Prices exclude VAT. Support is €120 per month (€1,440 per year).": "예시 가격에는 VAT가 포함되어 있지 않습니다. 기본 지원 비용은 월 €120(연 €1,440)입니다. 시나리오에는 실제 적용 견적을 사용하세요.",
     "Projected financial results depend on your net material and waste reductions. The net cash, ROI and NPV rows deduct the entered equipment, installation and support costs. Gross savings rows and cumulative impact charts remain before investment costs.": "예상 재무 결과는 재료와 폐액의 순감소량에 따라 달라집니다. 순현금, ROI 및 NPV 행에서는 입력한 장비, 설치 및 지원 비용을 차감합니다. 총절감액 행과 누적 효과 차트는 투자비 차감 전 수치를 보여줍니다. 그 밖의 사업장별 비용은 별도로 평가하세요.",
     "ReSolve™ draws 0.4 W from the HPLC. Any electricity savings from reduced mobile-phase preparation remain to be measured.": "제품 자료에 따르면 ReSolve™는 HPLC에서 0.4 W의 전력을 공급받습니다. 이동상 조제 감소에 따른 전력 절감량은 아직 측정이 필요합니다.",
     "ReSolve™ recycles prepared mobile phase for reuse within isocratic HPLC workflows.": "ReSolve™는 적합한 등용매 HPLC 워크플로에서 조제된 이동상 중 선택된 부분을 다시 사용할 수 있도록 되돌려 보냅니다.",
-    "Recover the baseline.": "재사용에 적합한 베이스라인 구간의 이동상을 되돌려 보내세요.",
+    "Recover the baseline.": "재사용에 적합한 피크 사이 구간의 이동상을 저장조로 보내세요.",
     "Divert the peaks.": "피크 분획은 폐액으로 보내세요.",
-    "Reduce hazardous waste and CO₂ emissions. Capture the metrics across your labs.": "실험실 전반의 유해 폐액 발생 감소 가능성을 평가하고 CO₂e 감축량을 추정하세요.",
-    "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.": "이동상 비용 절감 가능성을 살펴보고 스코프 3 영향을 모델링하세요.",
-    "Reduce recurring laboratory costs, release analytical capacity and quantify waste and carbon reductions across your laboratory network.": "실험실 네트워크 전반의 경상 비용, 분석 담당자의 업무 여력, 폐액 및 탄소 감축 가능성을 살펴보세요.",
+    "Reduce hazardous waste and CO₂ emissions. Capture the metrics across your labs.": "용매 폐액을 발생 단계에서 줄이세요.",
+    "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.": "새 이동상 수요를 줄이세요. 구매 비용을 낮추세요.",
+    "Reduce recurring laboratory costs, release analytical capacity and quantify waste and carbon reductions across your laboratory network.": "실험실별 운영 비용을 비교하세요. ReSolve의 투자 수익이 가장 높은 곳을 파악하고 평가 기간에 재료 사용량, 폐액량 및 분석 담당자 시간을 측정하세요.",
     "Sequence 2 · 96 injections (Recycled)": "시퀀스 2 · 96회 주입(재사용)",
     "The study reports equivalent chromatographic performance between the two sequences and no adverse impact from using the recycled mobile phase in Sequence 2.": "평가한 분석법에서 연구진은 두 시퀀스 간에 동등한 크로마토그래피 성능을 보고했으며, 시퀀스 2에서 재사용 이동상을 사용함에 따른 부정적인 영향은 관찰되지 않았다고 보고합니다.",
-    "Turn measured prevention into a business case.": "실험실의 가정을 바탕으로 사업성을 평가하세요.",
+    "Turn measured prevention into a business case.": "실험실의 투자 수익을 계산하세요.",
     "Use your laboratory numbers, operating schedule and costs to model reduced solvent demand, cost avoided and CO₂ reduction over three years.": "실험실 수, 운영 일정 및 비용을 입력하여 3년간의 새 이동상 수요 감소, 비용 절감액 및 추정 CO₂e 감축량을 모델링하세요.",
-    "Validate this business case": "사업성 평가 검토",
-    "Validate this business case with Antech": "Antech와 사업성 평가 검토",
+    "Validate this business case": "도입 투자안 검토",
+    "Validate this business case with Antech": "Antech와 도입 투자안을 논의하세요",
     "Waste prevented": "추정 폐액 발생 감소량",
-    "What the investment delivers": "시나리오의 예상 결과",
+    "What the investment delivers": "예상 절감액과 투자 수익",
     "✓ Technical conclusion: analytical performance maintained": "✓ 연구 결론: 평가한 분석법 조건에서 분석 성능 유지",
     "No difference in baseline noise/stability was observed. LC/MS found neither analyte in the recycled phase; the source reports waste-phase concentrations of 1,440 ng/mL paracetamol and 530 ng/mL ibuprofen.": "평가한 분석법에서는 베이스라인 노이즈나 안정성의 차이가 관찰되지 않았습니다. LC/MS 분석에서 재사용 이동상의 파라세타몰과 이부프로펜은 검출되지 않았으며, 보고서에는 검출한계가 명시되어 있지 않습니다. 원자료에 보고된 폐액 내 농도는 파라세타몰 1,440 ng/mL와 이부프로펜 530 ng/mL입니다."
   },
   "metadata": {
     "title": "ReSolve™ | 등용매 HPLC 이동상 순환 재사용 | Antech",
-    "description": "적합한 등용매 HPLC 분석법을 위한 ReSolve™ 이동상 순환 재사용을 살펴보세요. 분석 근거를 검토하고 비용과 폐액을 모델링하며 분석법 평가를 상담하세요."
+    "description": "ReSolve™로 등용매 HPLC의 이동상을 더 오래 사용하세요. 분석 결과와 운영 기록을 확인하고 새 이동상 사용량, 폐액 및 도입 비용을 계산하세요."
   },
   "blocks": {
     "Recover the baseline. Divert the peaks.": {
-      "text": "재사용에 적합한 베이스라인 구간의 이동상을 되돌려 보내세요. {0}",
+      "text": "재사용에 적합한 피크 사이 구간의 이동상을 저장조로 보내세요. {0}",
       "slots": {
         "0": "피크 분획은 폐액으로 보내세요."
       }
@@ -1037,6 +1037,12 @@
         "2": "ISO 14051",
         "3": "ISO 온실가스 표준"
       }
+    },
+    "See the signal. Follow the route.": {
+      "text": "이동상을 모니터링하세요. 회수 경로를 제어하세요."
+    },
+    "Real methods. Recovery data. Chromatograms.": {
+      "text": "PMBrc / SETU 평가 보고서를 읽어보세요"
     }
   },
   "numericExceptions": [
@@ -1100,5 +1106,66 @@
   "remainingReview": [
     "AI-authored language review does not constitute certified native, analytical validation, legal or regulatory approval.",
     "Final integrated browser/layout QA is owned by the parent team. Numeric presentation is handled centrally."
-  ]
+  ],
+  "hero": {
+    "prefix": "이동상을 ",
+    "emphasis": "더 오래 사용하세요.",
+    "suffix": ""
+  },
+  "editorialRevision": {
+    "date": "2026-11-04",
+    "englishCommit": "c410bca202bd0dfe4b2f46909e2c56055ddb6191",
+    "scope": "Korean only: latest English edition, eight profile introductions/CTAs, full catalog clarity review and PMBRC presentation.",
+    "changedCatalogEntries": 161,
+    "newEnglishKeyedRevisionsAligned": 94,
+    "updatedSourceAlignmentOverrides": 12,
+    "reviewedWholeCatalog": true,
+    "stableCatalogKeys": 1429,
+    "reviewedWholeBlockOverrides": [
+      "See the signal. Follow the route.",
+      "Recover the baseline. Divert the peaks.",
+      "Real methods. Recovery data. Chromatograms."
+    ],
+    "numericWordEquivalents": [
+      {
+        "sourceKey": "A fixed one-lab example over three years. Select Model Your Own Scenario to model your laboratories.",
+        "englishTokens": [],
+        "translatedTokens": [
+          "3"
+        ],
+        "meaning": "three years = 3 years",
+        "reason": "English three-year is rendered as standard Korean 3년; the scientific quantity is unchanged."
+      },
+      {
+        "sourceKey": "One example lab. See the difference over time.",
+        "englishTokens": [],
+        "translatedTokens": [
+          "3"
+        ],
+        "meaning": "three years = 3 years",
+        "reason": "English three-year is rendered as standard Korean 3년; the scientific quantity is unchanged."
+      }
+    ],
+    "checks": {
+      "completeCatalogRead": true,
+      "nonemptyTranslations": true,
+      "stableKeys": true,
+      "placeholderTokensMatchCurrentEnglish": true,
+      "allSourceAlignmentOverridesMatchCatalog": true,
+      "scientificMeasurementsPreserved": true,
+      "changedNumericTokensMatchEnglishExceptDocumentedWordEquivalents": true,
+      "EURUnchanged": true,
+      "measuredAndModelledSeparated": true,
+      "staffTimeExcludedFromCashSavings": true,
+      "wholeBlockSlotsRetained": true,
+      "effectiveWholeBlocksValidated": 10
+    },
+    "styleNotes": [
+      "Direct professional Korean CTAs and concise headings.",
+      "White paper rendered as 평가 보고서; detector trace as 검출기 신호.",
+      "Selected return/waste fractions are explicit; no purification or certification claim."
+    ],
+    "reviewType": "Dedicated AI-assisted Korean scientific and marketing editorial review; not certified native or regulatory approval.",
+    "unresolvedConcerns": []
+  }
 }

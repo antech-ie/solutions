@@ -786,12 +786,12 @@
     "Both lines start after the upfront equipment and installation payment. Cash payback assumes savings accrue evenly through the year. NPV uses year-end cash flows discounted at 10%; segments join the annual valuation points. Staff capacity value is excluded from cash returns.": "两条曲线均从支付前期设备和安装费用后开始。现金投资回收期假设节省额在全年均匀产生。NPV 根据年末现金流按所选折现率计算（默认 10%）；线段连接年度估值点。人员可用工时价值不计入现金回报。",
     "CO₂ reduction": "估算 CO₂e 减排量",
     "CO₂:": "估算 CO₂e：",
-    "Conclusion · analytical performance maintained": "研究结论 · 在所评估的方法条件下，分析性能得到维持",
+    "Conclusion · analytical performance maintained": "研究结果：受试方法的分析性能得到维持",
     "Example opportunity—subject to validation at each site. The fixed example uses an 80% reduction assumption; 80%+ is not a measured purchasing result. Associated carbon estimates use supplied factors pending verification.": "固定示例假设新鲜流动相需求和废液量净减少 80%。这些属于规划假设，并非实测采购结果。相关碳排放估算采用所提供的因子，其适用性仍需核实。",
-    "Geopolitical tensions, conflict, changing trade policies and disruption to major shipping routes are making global supply chains more uncertain. Rerouting, volatile freight costs and unpredictable lead times make replenishment harder to plan.": "地缘政治紧张、冲突、贸易政策变化和主要航运路线中断，可能增加补货规划的难度。请结合您自己的供应商网络、运输路线和库存政策评估相关风险。",
+    "Geopolitical tensions, conflict, changing trade policies and disruption to major shipping routes are making global supply chains more uncertain. Rerouting, volatile freight costs and unpredictable lead times make replenishment harder to plan.": "运输中断、贸易限制和交期变化给溶剂供应带来压力。明确哪些组分和供应商对您的检测安排最重要。",
     "Hazardous waste prevented": "估算危险废液减少量",
     "Maintain analytical results and process integrity as mobile phase is recycled.": "评估流动相回用时的分析性能和过程控制。",
-    "Maintain your analytical standards while reducing fresh mobile-phase preparation.": "依据您的分析要求，评估流动相回用。",
+    "Maintain your analytical standards while reducing fresh mobile-phase preparation.": "减少新鲜流动相用量，保持同样的分析标准。",
     "One laboratory · measurable prevention over time": "一个实验室 · 随时间变化的模型减量估算",
     "Price exposure is real. Lower demand limits the volume exposed.": "降低需求，可减少受价格变化影响的用量。",
     "Prices exclude VAT. Support is €120 per month (€1,440 per year).": "参考价格不含增值税。默认支持服务费用为每月 €120（每年 €1,440）；请在您的情景中使用适用报价。",
@@ -800,23 +800,23 @@
     "ReSolve™ recycles prepared mobile phase for reuse within isocratic HPLC workflows.": "ReSolve™ 将选定的配制流动相回流，在适用的等度 HPLC 工作流程中再次使用。",
     "Recover the baseline.": "回流符合条件的基线区间流出液。",
     "Divert the peaks.": "将峰区流出液分流至废液。",
-    "Reduce hazardous waste and CO₂ emissions. Capture the metrics across your labs.": "评估各实验室的危险废液减量潜力，并估算 CO₂e 减排量。",
-    "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.": "探索降低流动相成本的机会，并模拟对范围 3 排放的影响。",
-    "Reduce recurring laboratory costs, release analytical capacity and quantify waste and carbon reductions across your laboratory network.": "评估整个实验室网络的经常性成本、分析人员可用工时，以及潜在的废液和碳减排量。",
+    "Reduce hazardous waste and CO₂ emissions. Capture the metrics across your labs.": "从源头减少溶剂废液。",
+    "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.": "减少新鲜流动相需求，降低采购成本。",
+    "Reduce recurring laboratory costs, release analytical capacity and quantify waste and carbon reductions across your laboratory network.": "比较各实验室的运行成本，找出 ReSolve 投资回报最高的应用，再在评估期间实测材料消耗、废液量和分析人员工时。",
     "Sequence 2 · 96 injections (Recycled)": "序列 2 · 96 次进样（回用）",
     "The study reports equivalent chromatographic performance between the two sequences and no adverse impact from using the recycled mobile phase in Sequence 2.": "对于所评估的方法，研究报告两序列具有等效色谱性能，在序列 2 中使用回用流动相未产生不利影响。",
-    "Turn measured prevention into a business case.": "根据您实验室的假设构建商业论证。",
+    "Turn measured prevention into a business case.": "测算您实验室的投资回报。",
     "Use your laboratory numbers, operating schedule and costs to model reduced solvent demand, cost avoided and CO₂ reduction over three years.": "使用实验室数量、运行安排和成本，模拟三年内新鲜流动相需求的减少量、可避免的成本及估算 CO₂e 减排量。",
-    "Validate this business case": "评审此商业论证",
-    "Validate this business case with Antech": "与 Antech 一起评审此商业论证",
+    "Validate this business case": "评审投资分析",
+    "Validate this business case with Antech": "与 Antech 讨论投资方案",
     "Waste prevented": "估算废液减少量",
-    "What the investment delivers": "您的情景估算结果",
+    "What the investment delivers": "预计节省额与投资回报",
     "✓ Technical conclusion: analytical performance maintained": "✓ 研究结论：在所评估的方法条件下，分析性能得到维持",
     "No difference in baseline noise/stability was observed. LC/MS found neither analyte in the recycled phase; the source reports waste-phase concentrations of 1,440 ng/mL paracetamol and 530 ng/mL ibuprofen.": "在所评估的方法条件下，未观察到基线噪声或稳定性差异。LC/MS 在回用流动相中未检出对乙酰氨基酚或布洛芬；报告未注明检出限。原始来源报告废液中对乙酰氨基酚浓度为 1,440 ng/mL，布洛芬为 530 ng/mL。"
   },
   "metadata": {
     "title": "ReSolve™ | 等度 HPLC 流动相循环回用 | Antech",
-    "description": "了解 ReSolve™ 在适用等度 HPLC 方法中的流动相循环回用。查看分析证据，模拟成本与废液量，并讨论具体方法的适用性评估。"
+    "description": "用 ReSolve™ 回用等度 HPLC 流动相，减少新鲜材料消耗和废液。查看分析结果，测算成本与投资回报，规划您的实验室评估。"
   },
   "blocks": {
     "Recover the baseline. Divert the peaks.": {
@@ -824,6 +824,12 @@
       "slots": {
         "0": "将峰区流出液分流至废液。"
       }
+    },
+    "See the signal. Follow the route.": {
+      "text": "监测流动相，控制回流。"
+    },
+    "Real methods. Recovery data. Chromatograms.": {
+      "text": "阅读 PMBrc / SETU 评估报告"
     }
   },
   "numericExceptions": [
@@ -918,5 +924,41 @@
   ],
   "supplemental": {
     "REUSE": "再使用"
+  },
+  "hero": {
+    "prefix": "让流动相",
+    "emphasis": "使用更久。",
+    "suffix": ""
+  },
+  "editorialRevision": {
+    "date": "2026-11-04",
+    "englishBaseline": "c410bca202bd0dfe4b2f46909e2c56055ddb6191",
+    "scope": "Dedicated Simplified Chinese full-catalog scientific and marketing editorial refresh to the current English edition; all eight profile introductions, CTAs, reports and controls reviewed.",
+    "changedCatalogEntries": 195,
+    "latestEnglishEntriesAligned": 94,
+    "additionalClarityEdits": 101,
+    "updatedSourceAlignmentOverrides": 10,
+    "reviewedWholeBlockOverrides": [
+      "See the signal. Follow the route.",
+      "Recover the baseline. Divert the peaks.",
+      "Real methods. Recovery data. Chromatograms."
+    ],
+    "completeHero": "让流动相使用更久。",
+    "checks": {
+      "stableCatalogKeys": 1429,
+      "completeCatalogRead": true,
+      "changedNumericTokensMatchCurrentEnglish": true,
+      "changedPlaceholderTokensMatchCurrentEnglish": true,
+      "sourceAlignmentOverridesMatchCatalog": true,
+      "scientificEvidenceBoundariesPreserved": true,
+      "EURPreserved": true
+    },
+    "styleNotes": [
+      "Use 投资分析 for an investment case and 研究报告 for the scientific white paper.",
+      "Differentiate recorded report cases from calculator scenarios.",
+      "Use direct concise headings; retain isocratic scope, method validation and measured-versus-modelled boundaries."
+    ],
+    "reviewType": "Dedicated AI-assisted Simplified Chinese scientific and marketing editorial review; no claim of certified native or regulatory approval.",
+    "unresolvedConcerns": []
   }
 }

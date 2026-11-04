@@ -890,42 +890,42 @@
     "Both lines start after the upfront equipment and installation payment. Cash payback assumes savings accrue evenly through the year. NPV uses year-end cash flows discounted at 10%; segments join the annual valuation points. Staff capacity value is excluded from cash returns.": "Her iki çizgi, başlangıçtaki ekipman ve kurulum ödemesinden sonra başlar. Nakit geri ödeme hesabı, tasarrufların yıl boyunca eşit olarak biriktiğini varsayar. NBD, seçilen iskonto oranıyla (varsayılan %10) indirgenen yıl sonu nakit akışlarını kullanır; çizgi parçaları yıllık değerleme noktalarını birleştirir. Personel kapasitesinin değeri nakit getirilerine dahil edilmez.",
     "CO₂ reduction": "Tahmini CO₂e azalması",
     "CO₂:": "Tahmini CO₂e:",
-    "Conclusion · analytical performance maintained": "Çalışmanın sonucu · değerlendirilen metot koşullarında analitik performans korundu",
+    "Conclusion · analytical performance maintained": "Çalışma sonucu: test edilen metotta analitik performans korundu",
     "Example opportunity—subject to validation at each site. The fixed example uses an 80% reduction assumption; 80%+ is not a measured purchasing result. Associated carbon estimates use supplied factors pending verification.": "Sabit örnekte, taze mobil faz talebinde ve atıkta %80 net azalma varsayılmıştır. Bunlar ölçülen satın alma sonuçları değil, planlama varsayımlarıdır. İlgili karbon tahminleri, doğrulanması gereken ve kullanıcı tarafından sağlanan faktörlere dayanır.",
-    "Geopolitical tensions, conflict, changing trade policies and disruption to major shipping routes are making global supply chains more uncertain. Rerouting, volatile freight costs and unpredictable lead times make replenishment harder to plan.": "Jeopolitik gerilimler, çatışmalar, değişen ticaret politikaları ve ana deniz yollarındaki kesintiler stok yenileme planlamasını zorlaştırabilir. Kendi tedarikçi ağınızı, taşıma rotalarınızı ve stok politikanızı bu riskler açısından değerlendirin.",
+    "Geopolitical tensions, conflict, changing trade policies and disruption to major shipping routes are making global supply chains more uncertain. Rerouting, volatile freight costs and unpredictable lead times make replenishment harder to plan.": "Taşımacılık kesintileri, ticaret kısıtlamaları ve değişen teslim süreleri solvent tedarikini zorlaştırır. Test takviminiz için en önemli bileşenleri ve tedarikçileri belirleyin.",
     "Hazardous waste prevented": "Önlenen tahmini tehlikeli atık",
     "Maintain analytical results and process integrity as mobile phase is recycled.": "Mobil fazı yeniden kullanırken analitik performansı ve proses kontrollerini değerlendirin.",
-    "Maintain your analytical standards while reducing fresh mobile-phase preparation.": "Mobil fazın yeniden kullanımını analitik gerekliliklerinize göre değerlendirin.",
+    "Maintain your analytical standards while reducing fresh mobile-phase preparation.": "Daha az taze mobil faz. Aynı analitik standartlar.",
     "One laboratory · measurable prevention over time": "Bir laboratuvar · zaman içinde modellenen atık önleme",
     "Price exposure is real. Lower demand limits the volume exposed.": "Daha düşük talep, fiyat değişimlerinden etkilenen hacmi sınırlar.",
     "Prices exclude VAT. Support is €120 per month (€1,440 per year).": "Yaklaşık fiyatlara KDV dahil değildir. Varsayılan destek tutarı aylık €120 (yıllık €1,440) olarak alınmıştır; senaryonuzda geçerli fiyat teklifini kullanın.",
     "Projected financial results depend on your net material and waste reductions. The net cash, ROI and NPV rows deduct the entered equipment, installation and support costs. Gross savings rows and cumulative impact charts remain before investment costs.": "Öngörülen finansal sonuçlar, malzeme ve atıktaki net azalmanıza bağlıdır. Net nakit, yatırım getirisi ve NBD satırlarında girilen ekipman, kurulum ve destek maliyetleri düşülür. Brüt tasarruf satırları ve kümülatif etki grafikleri, yatırım maliyetleri düşülmeden önceki değerleri gösterir. Tesise özgü diğer maliyetleri ayrıca değerlendirin.",
     "ReSolve™ draws 0.4 W from the HPLC. Any electricity savings from reduced mobile-phase preparation remain to be measured.": "Ürün belgelerinde ReSolve™ sisteminin HPLC'den 0.4 W güç çektiği belirtilmektedir. Mobil faz hazırlığının azalmasından kaynaklanabilecek elektrik tasarrufları henüz ölçülmemiştir.",
     "ReSolve™ recycles prepared mobile phase for reuse within isocratic HPLC workflows.": "ReSolve™, uygun izokratik HPLC iş akışlarında yeniden kullanılmak üzere seçilen hazırlanmış mobil fazı sisteme geri döndürür.",
-    "Recover the baseline.": "Uygun baz çizgisi akışını geri döndürün.",
+    "Recover the baseline.": "Pikler arasındaki uygun akışı geri döndürün.",
     "Divert the peaks.": "Pik fraksiyonlarını atığa yönlendirin.",
-    "Reduce hazardous waste and CO₂ emissions. Capture the metrics across your labs.": "Laboratuvarlarınız genelinde tehlikeli atık önleme olanaklarını değerlendirin ve CO₂e azalmalarını tahmin edin.",
-    "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.": "Mobil faz maliyetlerini azaltma olanaklarını inceleyin ve Kapsam 3 etkisini modelleyin.",
-    "Reduce recurring laboratory costs, release analytical capacity and quantify waste and carbon reductions across your laboratory network.": "Laboratuvar ağınızdaki düzenli maliyetleri, analist kapasitesini ve olası atık ve karbon azalmalarını inceleyin.",
+    "Reduce hazardous waste and CO₂ emissions. Capture the metrics across your labs.": "Solvent atığını kaynağında azaltın.",
+    "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.": "Taze mobil faz talebini azaltın. Satın alma maliyetlerini düşürün.",
+    "Reduce recurring laboratory costs, release analytical capacity and quantify waste and carbon reductions across your laboratory network.": "Laboratuvarlarınızdaki işletme maliyetlerini karşılaştırın. ReSolve sisteminin en yüksek getiriyi sunduğu alanları belirleyin; ardından değerlendirme sırasında malzeme tüketimini, atığı ve analist süresini ölçün.",
     "Sequence 2 · 96 injections (Recycled)": "Sekans 2 · 96 enjeksiyon (geri dönüştürülmüş)",
     "The study reports equivalent chromatographic performance between the two sequences and no adverse impact from using the recycled mobile phase in Sequence 2.": "Çalışma, değerlendirilen metot için iki sekans arasında eşdeğer kromatografik performans olduğunu ve Sekans 2'de geri dönüştürülmüş mobil faz kullanımının olumsuz bir etkisinin gözlenmediğini bildirir.",
-    "Turn measured prevention into a business case.": "Laboratuvar varsayımlarınızdan yola çıkarak bir iş gerekçesi oluşturun.",
+    "Turn measured prevention into a business case.": "Laboratuvarınızın yatırım getirisini hesaplayın.",
     "Use your laboratory numbers, operating schedule and costs to model reduced solvent demand, cost avoided and CO₂ reduction over three years.": "Üç yılda taze mobil faz talebindeki azalmayı, önlenen maliyeti ve tahmini CO₂e azalmalarını modellemek için laboratuvar sayınızı, çalışma takviminizi ve maliyetlerinizi kullanın.",
-    "Validate this business case": "Bu iş gerekçesini inceleyin",
-    "Validate this business case with Antech": "Bu iş gerekçesini Antech ile inceleyin",
+    "Validate this business case": "Bu yatırım analizini inceleyin",
+    "Validate this business case with Antech": "Yatırım analizinizi Antech ile görüşün",
     "Waste prevented": "Önlenen tahmini atık",
-    "What the investment delivers": "Senaryonuzun tahmin ettiği sonuçlar",
+    "What the investment delivers": "Tahmini tasarrufunuz ve yatırım getiriniz",
     "✓ Technical conclusion: analytical performance maintained": "✓ Çalışmanın sonucu: değerlendirilen metot koşullarında analitik performans korundu",
     "No difference in baseline noise/stability was observed. LC/MS found neither analyte in the recycled phase; the source reports waste-phase concentrations of 1,440 ng/mL paracetamol and 530 ng/mL ibuprofen.": "Değerlendirilen metotta baz çizgisi gürültüsünde veya kararlılığında fark gözlenmemiştir. LC/MS ile geri dönüştürülmüş fazda parasetamol veya ibuprofen saptanmamıştır; raporda saptama sınırları belirtilmemiştir. Kaynak, atık fazda parasetamol konsantrasyonunu 1,440 ng/mL, ibuprofen konsantrasyonunu ise 530 ng/mL olarak bildirir."
   },
   "hero": {
     "prefix": "Mobil fazınızı ",
-    "emphasis": "kullanmaya devam edin.",
+    "emphasis": "daha uzun süre kullanın.",
     "suffix": ""
   },
   "metadata": {
     "title": "ReSolve™ | İzokratik HPLC için Mobil Faz Geri Dönüşümü | Antech",
-    "description": "Uygun izokratik HPLC metotlarında ReSolve™ ile mobil fazın yeniden kullanımını keşfedin. Analitik kanıtları inceleyin, maliyet ve atığı modelleyin; metot değerlendirmesini görüşün."
+    "description": "İzokratik HPLC için ReSolve™ ile mobil fazı yeniden kullanın. Analitik sonuçları inceleyin; malzeme tasarrufunu, atık azalmasını ve yatırım getirisini hesaplayın."
   },
   "supplemental": {
     "REDUCE": "AZALTIN",
@@ -940,7 +940,7 @@
       "text": "ReSolve sisteminin nasıl çalıştığını izleyin."
     },
     "Recover the baseline. Divert the peaks.": {
-      "text": "Uygun baz çizgisi akışını geri döndürün. {0}",
+      "text": "Pikler arasındaki uygun akışı geri döndürün. {0}",
       "slots": {
         "0": "Pik fraksiyonlarını atığa yönlendirin."
       }
@@ -961,7 +961,7 @@
       }
     },
     "Global trade context: UNCTAD, Review of Maritime Transport 2025 ↗ . Laboratory implications should be assessed against your own supply network.": {
-      "text": "Küresel ticaret bağlamı: {0}. Laboratuvar üzerindeki etkiler kendi tedarik ağınıza göre değerlendirilmelidir."
+      "text": "Küresel ticaret bağlamı: {0}. Laboratuvarınıza etkileri kendi tedarik ağınıza göre değerlendirin."
     },
     "EUR per tonne · values transcribed from the supplied CIRCULÉIRE slide citing Methanex. Methanex posted pricing . Commodity contract prices are not analytical-grade invoice prices and are not used in this calculator.": {
       "text": "Ton başına EUR · Methanex’e atıf yapan CIRCULÉIRE slaydından aktarılan değerler. {0}. Emtia sözleşme fiyatları analitik saflıktaki ürünlerin fatura fiyatları değildir ve bu hesaplayıcıda kullanılmaz.",
@@ -977,6 +977,12 @@
         "2": "ISO 14051",
         "3": "ISO sera gazı standartları"
       }
+    },
+    "See the signal. Follow the route.": {
+      "text": "Mobil fazınızı izleyin. Geri dönüşünü kontrol edin."
+    },
+    "Real methods. Recovery data. Chromatograms.": {
+      "text": "PMBrc / SETU değerlendirmesini okuyun"
     }
   },
   "numericExceptions": [
@@ -1047,5 +1053,41 @@
     "AI-authored Turkish scientific and marketing review; not certified native, legal or regulatory approval. Qualified native technical review remains advisable before production.",
     "Parent owns locale number presentation and integrated browser QA; no browser, shared files or production were changed."
   ],
-  "reviewBasis": "Full bilingual entry-by-entry review of all 1429 Turkish translations against final English values, both technical glossaries, all eight existing Turkish preview profiles, and assembled source DOM after applying the Turkish dictionary and complete-block overrides in memory. Headlines, inline grammar, supplemental labels, SEO, forms and scenario-report messages included."
+  "reviewBasis": "Full bilingual entry-by-entry review of all 1429 Turkish translations against final English values, both technical glossaries, all eight existing Turkish preview profiles, and assembled source DOM after applying the Turkish dictionary and complete-block overrides in memory. Headlines, inline grammar, supplemental labels, SEO, forms and scenario-report messages included.",
+  "editorialRevision": {
+    "date": "2026-11-04",
+    "englishCommit": "c410bca202bd0dfe4b2f46909e2c56055ddb6191",
+    "scope": "Turkish only: complete catalog clarity review and latest English edition, all eight profiles, PMBRC context and white-paper presentation.",
+    "changedCatalogEntries": 162,
+    "newEnglishKeyedRevisionsAligned": 94,
+    "additionalClarityEdits": 68,
+    "updatedSourceAlignmentOverrides": 11,
+    "reviewedWholeBlockOverrides": [
+      "See the signal. Follow the route.",
+      "Recover the baseline. Divert the peaks.",
+      "Real methods. Recovery data. Chromatograms.",
+      "Global trade context: UNCTAD, Review of Maritime Transport 2025 ↗ . Laboratory implications should be assessed against your own supply network."
+    ],
+    "styleNotes": [
+      "Natural professional Turkish and direct calls to action.",
+      "Yatırım analizi replaces literal iş gerekçesi where appropriate.",
+      "Pikler arasındaki uygun akış explains recoverable baseline flow without implying purification.",
+      "Two spelling errors corrected; customer evaluation labels distinguished from modelled planning scenarios."
+    ],
+    "checks": {
+      "stableCatalogKeys": 1429,
+      "completeCatalogRead": true,
+      "nonemptyTranslations": true,
+      "changedNumericTokensMatchCurrentEnglish": true,
+      "changedPlaceholderTokensMatchCurrentEnglish": true,
+      "sourceAlignmentOverridesMatchCatalog": true,
+      "EURUnchanged": true,
+      "methodSpecificMeasuredResultsSeparateFromPlanningAssumptions": true,
+      "staffCapacitySeparateFromCashSavings": true,
+      "allEffectiveBlocksValidatedAgainstOriginalMarkup": true,
+      "effectiveBlocks": 11
+    },
+    "reviewType": "Dedicated AI-assisted Turkish scientific and marketing editorial review; not certified native or regulatory approval.",
+    "unresolvedConcerns": []
+  }
 }

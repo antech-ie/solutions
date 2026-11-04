@@ -496,44 +496,50 @@
     "Both lines start after the upfront equipment and installation payment. Cash payback assumes savings accrue evenly through the year. NPV uses year-end cash flows discounted at 10%; segments join the annual valuation points. Staff capacity value is excluded from cash returns.": "दोनों रेखाएँ उपकरण और स्थापना के अग्रिम भुगतान के बाद शुरू होती हैं। नकदी के आधार पर निवेश-वसूली की गणना में माना जाता है कि बचत वर्षभर समान रूप से होती है। NPV के लिए वर्ष के अंत के नकदी प्रवाह पर चुनी गई छूट दर लागू होती है (डिफ़ॉल्ट 10%); रेखाखंड वार्षिक मूल्यांकन बिंदुओं को जोड़ते हैं। कर्मचारी क्षमता का मूल्य नकदी प्रतिफल में शामिल नहीं है।",
     "CO₂ reduction": "अनुमानित CO₂e कमी",
     "CO₂:": "अनुमानित CO₂e:",
-    "Conclusion · analytical performance maintained": "अध्ययन का निष्कर्ष · मूल्यांकित विधि की स्थितियों में विश्लेषणात्मक प्रदर्शन कायम रहा",
-    "Example opportunity—subject to validation at each site. The fixed example uses an 80% reduction assumption; 80%+ is not a measured purchasing result. Associated carbon estimates use supplied factors pending verification.": "इस निश्चित उदाहरण में ताज़े मोबाइल फेज़ की मांग और अपशिष्ट में 80% शुद्ध कमी मानी गई है। ये नियोजन की धारणाएँ हैं, खरीद के मापे गए परिणाम नहीं। संबंधित कार्बन अनुमानों में दिए गए कारक उपयोग होते हैं, जिनका सत्यापन आवश्यक है।",
-    "Geopolitical tensions, conflict, changing trade policies and disruption to major shipping routes are making global supply chains more uncertain. Rerouting, volatile freight costs and unpredictable lead times make replenishment harder to plan.": "भू-राजनीतिक तनाव, संघर्ष, बदलती व्यापार नीतियाँ और प्रमुख समुद्री मार्गों में व्यवधान के कारण दोबारा आपूर्ति की योजना बनाना कठिन हो सकता है। अपने आपूर्तिकर्ता नेटवर्क, परिवहन मार्गों और स्टॉक नीति में इन जोखिमों का आकलन करें।",
+    "Conclusion · analytical performance maintained": "अध्ययन का परिणाम: जाँची गई विधि में विश्लेषणात्मक प्रदर्शन कायम रहा",
+    "Example opportunity—subject to validation at each site. The fixed example uses an 80% reduction assumption; 80%+ is not a measured purchasing result. Associated carbon estimates use supplied factors pending verification.": "इस निश्चित उदाहरण में ताज़े मोबाइल फेज़ की मांग और अपशिष्ट में 80% शुद्ध कमी मानी गई है। ये योजना की धारणाएँ हैं, खरीद के मापे गए परिणाम नहीं। संबंधित कार्बन अनुमानों में दिए गए कारक उपयोग होते हैं, जिनका सत्यापन आवश्यक है।",
+    "Geopolitical tensions, conflict, changing trade policies and disruption to major shipping routes are making global supply chains more uncertain. Rerouting, volatile freight costs and unpredictable lead times make replenishment harder to plan.": "शिपिंग में व्यवधान, व्यापार प्रतिबंध और बदलते आपूर्ति समय से विलायकों की आपूर्ति पर दबाव पड़ता है। अपने परीक्षण कार्यक्रम के लिए सबसे ज़रूरी घटकों और आपूर्तिकर्ताओं को पहचानें।",
     "Hazardous waste prevented": "अनुमानित रोका गया खतरनाक अपशिष्ट",
     "Maintain analytical results and process integrity as mobile phase is recycled.": "मोबाइल फेज़ का पुनः उपयोग करते समय विश्लेषणात्मक प्रदर्शन और प्रक्रिया नियंत्रणों का आकलन करें।",
-    "Maintain your analytical standards while reducing fresh mobile-phase preparation.": "अपनी विश्लेषणात्मक आवश्यकताओं के अनुसार मोबाइल फेज़ के पुनः उपयोग का आकलन करें।",
+    "Maintain your analytical standards while reducing fresh mobile-phase preparation.": "ताज़ा मोबाइल फेज़ कम। विश्लेषणात्मक मानक वही।",
     "One laboratory · measurable prevention over time": "एक प्रयोगशाला · समय के साथ मॉडल के अनुसार रोकथाम",
     "Price exposure is real. Lower demand limits the volume exposed.": "कम मांग से कीमतों में बदलाव से प्रभावित होने वाली मात्रा सीमित होती है।",
     "Prices exclude VAT. Support is €120 per month (€1,440 per year).": "संकेतात्मक मूल्यों में VAT शामिल नहीं है। डिफ़ॉल्ट सहायता लागत €120 प्रति माह (€1,440 प्रति वर्ष) है; अपने परिदृश्य में लागू कोटेशन का उपयोग करें।",
     "Projected financial results depend on your net material and waste reductions. The net cash, ROI and NPV rows deduct the entered equipment, installation and support costs. Gross savings rows and cumulative impact charts remain before investment costs.": "अनुमानित वित्तीय परिणाम सामग्री और अपशिष्ट में आपकी शुद्ध कमी पर निर्भर हैं। शुद्ध नकदी, ROI और NPV की पंक्तियों में दर्ज उपकरण, स्थापना और सहायता की लागत घटाई जाती है। सकल बचत की पंक्तियाँ और संचयी प्रभाव के चार्ट निवेश लागत घटाने से पहले के मान दिखाते हैं। स्थल से जुड़ी किसी भी अन्य लागत का अलग से आकलन करें।",
     "ReSolve™ draws 0.4 W from the HPLC. Any electricity savings from reduced mobile-phase preparation remain to be measured.": "उत्पाद साहित्य के अनुसार ReSolve™ HPLC से 0.4 W विद्युत शक्ति लेता है। मोबाइल फेज़ की तैयारी कम होने से बिजली की किसी भी बचत को अभी मापा जाना बाकी है।",
     "ReSolve™ recycles prepared mobile phase for reuse within isocratic HPLC workflows.": "ReSolve™ उपयुक्त आइसोक्रेटिक HPLC वर्कफ़्लो में चयनित तैयार मोबाइल फेज़ को पुनः उपयोग के लिए वापस लौटाता है।",
-    "Recover the baseline.": "पात्र बेसलाइन प्रवाह वापस लौटाएँ।",
+    "Recover the baseline.": "पीक के बीच पुनः उपयोग योग्य प्रवाह लौटाएँ।",
     "Divert the peaks.": "पीक वाले अंशों को अपशिष्ट में भेजें।",
-    "Reduce hazardous waste and CO₂ emissions. Capture the metrics across your labs.": "अपनी सभी प्रयोगशालाओं में खतरनाक अपशिष्ट की रोकथाम का आकलन करें और CO₂e में कमी का अनुमान लगाएँ।",
-    "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.": "मोबाइल फेज़ की लागत घटाने की संभावनाएँ देखें और स्कोप 3 पर प्रभाव का मॉडल बनाएँ।",
-    "Reduce recurring laboratory costs, release analytical capacity and quantify waste and carbon reductions across your laboratory network.": "अपने प्रयोगशाला नेटवर्क में आवर्ती लागतों, विश्लेषकों की क्षमता और अपशिष्ट व कार्बन में संभावित कमी का आकलन करें।",
+    "Reduce hazardous waste and CO₂ emissions. Capture the metrics across your labs.": "विलायक अपशिष्ट को स्रोत पर ही घटाएँ।",
+    "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.": "ताज़े मोबाइल फेज़ की मांग घटाएँ। खरीद लागत कम करें।",
+    "Reduce recurring laboratory costs, release analytical capacity and quantify waste and carbon reductions across your laboratory network.": "अपनी प्रयोगशालाओं की संचालन लागतों की तुलना करें। देखें कि ReSolve कहाँ सबसे अच्छा प्रतिफल देता है। मूल्यांकन के दौरान सामग्री की खपत, अपशिष्ट और विश्लेषकों का समय मापें।",
     "Sequence 2 · 96 injections (Recycled)": "अनुक्रम 2 · 96 इंजेक्शन (पुनर्चक्रित)",
     "The study reports equivalent chromatographic performance between the two sequences and no adverse impact from using the recycled mobile phase in Sequence 2.": "मूल्यांकित विधि के लिए अध्ययन दोनों अनुक्रमों में तुलनीय क्रोमैटोग्राफिक प्रदर्शन और अनुक्रम 2 में पुनर्चक्रित मोबाइल फेज़ के उपयोग से कोई प्रतिकूल प्रभाव न होने की सूचना देता है।",
-    "Turn measured prevention into a business case.": "अपनी प्रयोगशाला की धारणाओं के आधार पर व्यावसायिक औचित्य तैयार करें।",
+    "Turn measured prevention into a business case.": "अपनी प्रयोगशाला के निवेश पर प्रतिफल की गणना करें।",
     "Use your laboratory numbers, operating schedule and costs to model reduced solvent demand, cost avoided and CO₂ reduction over three years.": "प्रयोगशालाओं की संख्या, संचालन समय-सारणी और लागतों के आधार पर तीन वर्षों में ताज़े मोबाइल फेज़ की कम मांग, टाली गई लागत और अनुमानित CO₂e कमी का मॉडल बनाएँ।",
-    "Validate this business case": "इस व्यावसायिक औचित्य की समीक्षा करें",
-    "Validate this business case with Antech": "Antech के साथ इस व्यावसायिक औचित्य की समीक्षा करें",
+    "Validate this business case": "इस निवेश विश्लेषण की समीक्षा करें",
+    "Validate this business case with Antech": "Antech के साथ अपने निवेश विश्लेषण पर चर्चा करें",
     "Waste prevented": "अनुमानित रोका गया अपशिष्ट",
-    "What the investment delivers": "आपके परिदृश्य के अनुमान",
+    "What the investment delivers": "आपकी अनुमानित बचत और निवेश पर प्रतिफल",
     "✓ Technical conclusion: analytical performance maintained": "✓ अध्ययन का निष्कर्ष: मूल्यांकित विधि की स्थितियों में विश्लेषणात्मक प्रदर्शन कायम रहा",
     "No difference in baseline noise/stability was observed. LC/MS found neither analyte in the recycled phase; the source reports waste-phase concentrations of 1,440 ng/mL paracetamol and 530 ng/mL ibuprofen.": "मूल्यांकित विधि में बेसलाइन शोर या स्थिरता में कोई अंतर नहीं देखा गया। LC/MS से पुनर्चक्रित फेज़ में पैरासिटामोल या आइबुप्रोफ़ेन का पता नहीं चला; रिपोर्ट में पहचान की सीमाएँ नहीं दी गई हैं। स्रोत के अनुसार अपशिष्ट फेज़ में पैरासिटामोल की सांद्रता 1,440 ng/mL और आइबुप्रोफ़ेन की सांद्रता 530 ng/mL थी।"
   },
   "metadata": {
     "title": "ReSolve™ | आइसोक्रेटिक HPLC में मोबाइल फेज़ का पुनर्चक्रण | Antech",
-    "description": "उपयुक्त आइसोक्रेटिक HPLC विधियों में ReSolve™ से मोबाइल फेज़ के पुनर्चक्रण को जानें। विश्लेषणात्मक साक्ष्य की समीक्षा करें, लागत और अपशिष्ट का मॉडल बनाएँ तथा विधि के आकलन पर चर्चा करें।"
+    "description": "आइसोक्रेटिक HPLC में ReSolve™ से मोबाइल फेज़ का दोबारा उपयोग करें। अध्ययन के परिणाम देखें, लागत और अपशिष्ट में कमी की गणना करें और अपनी प्रयोगशाला में मूल्यांकन की योजना बनाएँ।"
   },
   "blocks": {
     "Recover the baseline. Divert the peaks.": {
-      "text": "पात्र बेसलाइन प्रवाह वापस लौटाएँ। {0}",
+      "text": "पीक के बीच पुनः उपयोग योग्य प्रवाह लौटाएँ। {0}",
       "slots": {
         "0": "पीक वाले अंशों को अपशिष्ट में भेजें।"
       }
+    },
+    "See the signal. Follow the route.": {
+      "text": "अपने मोबाइल फेज़ की निगरानी करें। उसकी वापसी नियंत्रित करें।"
+    },
+    "Real methods. Recovery data. Chromatograms.": {
+      "text": "PMBrc / SETU की मूल्यांकन रिपोर्ट पढ़ें"
     }
   },
   "numericExceptions": [
@@ -608,5 +614,43 @@
     "supplemental": "All six Hindi supplemental labels reviewed and retained.",
     "blocks": "All four merged overrides applied in memory to original source DOM; every non-br original child slot occurs exactly once.",
     "dynamicFragments": "Reviewed cumulative-period labels, scenario prompts, ROI support/discount-rate fragments and result labels; revised fragments to assemble naturally in Hindi."
+  },
+  "hero": {
+    "prefix": "अपने मोबाइल फेज़ का ",
+    "emphasis": "अधिक समय तक उपयोग करें।",
+    "suffix": ""
+  },
+  "editorialRevision": {
+    "date": "2026-11-04",
+    "englishCommit": "c410bca202bd0dfe4b2f46909e2c56055ddb6191",
+    "scope": "Hindi only: current English edition, complete catalog clarity pass, all eight profile introductions and CTAs, whole headings, PMBRC context and white-paper presentation.",
+    "changedCatalogEntries": 164,
+    "latestEnglishRevisionsAligned": 94,
+    "updatedSourceAlignmentOverrides": 12,
+    "completeCatalogRead": true,
+    "reviewedWholeBlockOverrides": [
+      "See the signal. Follow the route.",
+      "Recover the baseline. Divert the peaks.",
+      "Real methods. Recovery data. Chromatograms."
+    ],
+    "checks": {
+      "stableCatalogKeys": 1429,
+      "numericTokensMatchCurrentEnglishForEveryChangedEntry": true,
+      "placeholderTokensPreserved": true,
+      "allSourceAlignmentOverridesMatchCatalog": true,
+      "wholeBlockSourcesAndInlineSlotsValidated": 6,
+      "EURUnchanged": true,
+      "methodSpecificEvidenceRetained": true,
+      "planningAssumptionsSeparateFromMeasuredRecovery": true,
+      "staffTimeSeparateFromCashSavings": true
+    },
+    "reviewType": "Dedicated AI-assisted Hindi pharmaceutical and marketing language review; not certified native or regulatory approval.",
+    "styleNotes": [
+      "Use clear Hindi familiar to pharmaceutical laboratory teams, retaining HPLC, QC, QA, EHS, ROI and NPV.",
+      "Use अध्ययन रिपोर्ट for white paper and निवेश विश्लेषण for business case.",
+      "Describe selected inter-peak flow directly instead of literal पात्र बेसलाइन प्रवाह.",
+      "Direct calls to action retain method validation and measured-versus-modelled distinctions."
+    ],
+    "unresolvedConcerns": []
   }
 }

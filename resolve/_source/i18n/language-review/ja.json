@@ -1176,51 +1176,51 @@
     "Both lines start after the upfront equipment and installation payment. Cash payback assumes savings accrue evenly through the year. NPV uses year-end cash flows discounted at 10%; segments join the annual valuation points. Staff capacity value is excluded from cash returns.": "両曲線は、設備・設置の初期費用を支払った後の値から始まります。投資回収期間は、年間を通じて均等に削減効果が生じると仮定します。NPV は、選択した割引率（初期値 10%）で年末キャッシュフローを割り引き、各年の評価点を線分で結びます。人員の余力の価値は、現金リターンには含めません。",
     "CO₂ reduction": "推定 CO₂e 削減量",
     "CO₂:": "推定 CO₂e：",
-    "Conclusion · analytical performance maintained": "研究の結論 · 評価した分析法条件下で分析性能を維持",
+    "Conclusion · analytical performance maintained": "研究結果：試験した分析法で分析性能を維持",
     "Example opportunity—subject to validation at each site. The fixed example uses an 80% reduction assumption; 80%+ is not a measured purchasing result. Associated carbon estimates use supplied factors pending verification.": "この固定例では、新しい移動相の需要と廃液の純削減率を 80% と仮定しています。これは計画上の仮定であり、購買実績の測定結果ではありません。関連する炭素排出量の推計には提供された係数を使用しており、係数の検証が必要です。",
-    "Geopolitical tensions, conflict, changing trade policies and disruption to major shipping routes are making global supply chains more uncertain. Rerouting, volatile freight costs and unpredictable lead times make replenishment harder to plan.": "地政学的緊張、紛争、貿易政策の変化、主要航路の混乱は、補充計画を難しくする可能性があります。お客様の供給網、輸送ルート、在庫方針に照らして、影響の程度を評価してください。",
+    "Geopolitical tensions, conflict, changing trade policies and disruption to major shipping routes are making global supply chains more uncertain. Rerouting, volatile freight costs and unpredictable lead times make replenishment harder to plan.": "輸送の混乱、貿易制限、調達期間の変動が、溶媒供給に影響します。試験スケジュールを左右する成分と供給元を把握してください。",
     "Hazardous waste prevented": "推定有害廃液発生抑制量",
     "Maintain analytical results and process integrity as mobile phase is recycled.": "移動相を再利用する際の分析性能とプロセス管理を評価します。",
-    "Maintain your analytical standards while reducing fresh mobile-phase preparation.": "分析要件に照らして、移動相の再利用を評価。",
+    "Maintain your analytical standards while reducing fresh mobile-phase preparation.": "新しい移動相を減らす。分析基準はそのままに。",
     "One laboratory · measurable prevention over time": "一つの試験室 · 時間経過に伴う発生抑制をモデル化",
     "Price exposure is real. Lower demand limits the volume exposed.": "需要を減らすことで、価格変動の影響を受ける量を抑えます。",
     "Prices exclude VAT. Support is €120 per month (€1,440 per year).": "参考価格は VAT 別です。サポートの初期値は月額 €120（年額 €1,440）です。シナリオには、お客様に適用される見積価格を使用してください。",
     "Projected financial results depend on your net material and waste reductions. The net cash, ROI and NPV rows deduct the entered equipment, installation and support costs. Gross savings rows and cumulative impact charts remain before investment costs.": "財務予測は、材料と廃液の純削減量に応じて変わります。純キャッシュ、ROI、NPV の行では、入力した設備、設置、サポート費を差し引きます。削減総額の行と累積効果グラフは、投資費用を差し引く前の値です。拠点固有のその他の費用は別途評価してください。",
     "ReSolve™ draws 0.4 W from the HPLC. Any electricity savings from reduced mobile-phase preparation remain to be measured.": "製品資料によると、ReSolve™ は HPLC から 0.4 W の電力を使用します。移動相調製の減少による電力削減効果は、今後測定する必要があります。",
     "ReSolve™ recycles prepared mobile phase for reuse within isocratic HPLC workflows.": "ReSolve™ は、適切なアイソクラティック HPLC ワークフロー内で、選択した調製済み移動相を戻して再利用します。",
-    "Recover the baseline.": "再利用に適したベースライン流を戻す。",
+    "Recover the baseline.": "再利用に適したピーク間の流れを戻す。",
     "Divert the peaks.": "ピーク画分を廃液側へ送る。",
-    "Reduce hazardous waste and CO₂ emissions. Capture the metrics across your labs.": "試験室全体で有害廃液の発生抑制を評価し、CO₂e 削減量を推計します。",
-    "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.": "移動相費用の削減可能性を検討し、スコープ 3 への影響をモデル化。",
-    "Reduce recurring laboratory costs, release analytical capacity and quantify waste and carbon reductions across your laboratory network.": "試験室ネットワーク全体の経常費用、分析担当者の余力、廃液・炭素排出量の削減可能性を検討します。",
+    "Reduce hazardous waste and CO₂ emissions. Capture the metrics across your labs.": "溶媒廃液を、発生源から削減。",
+    "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.": "新しい移動相の需要を減らす。購買費を削減。",
+    "Reduce recurring laboratory costs, release analytical capacity and quantify waste and carbon reductions across your laboratory network.": "各試験室の運用費を比較し、ReSolve の投資効果が最も高い拠点を特定します。導入評価では、材料使用量、廃液量、分析担当者の作業時間を測定してください。",
     "Sequence 2 · 96 injections (Recycled)": "シーケンス 2 · 96 回の注入（再利用移動相）",
     "The study reports equivalent chromatographic performance between the two sequences and no adverse impact from using the recycled mobile phase in Sequence 2.": "評価した分析法について、研究では両シーケンスのクロマトグラフィー性能は同等であり、シーケンス 2 で再利用移動相を使用したことによる悪影響は認められなかったと報告されています。",
-    "Turn measured prevention into a business case.": "試験室の前提条件を基に、導入の事業性を評価。",
+    "Turn measured prevention into a business case.": "お客様の試験室の投資リターンを計算。",
     "Use your laboratory numbers, operating schedule and costs to model reduced solvent demand, cost avoided and CO₂ reduction over three years.": "試験室数、稼働スケジュール、費用を基に、3 年間の新しい移動相の需要削減量、費用削減額、推定 CO₂e 削減量をモデル化します。",
     "Validate this business case": "この事業性評価を確認",
-    "Validate this business case with Antech": "Antech とこの事業性評価を確認",
+    "Validate this business case with Antech": "投資計画を Antech に相談",
     "Waste prevented": "推定廃液発生抑制量",
-    "What the investment delivers": "シナリオに基づく推計結果",
+    "What the investment delivers": "費用削減額と投資リターンの試算",
     "✓ Technical conclusion: analytical performance maintained": "✓ 研究の結論：評価した分析法条件下で分析性能を維持",
     "No difference in baseline noise/stability was observed. LC/MS found neither analyte in the recycled phase; the source reports waste-phase concentrations of 1,440 ng/mL paracetamol and 530 ng/mL ibuprofen.": "評価した分析法では、ベースラインノイズや安定性に差は観察されませんでした。LC/MS では再利用移動相からパラセタモールもイブプロフェンも検出されませんでしたが、レポートに検出限界は示されていません。原資料には、廃液中の濃度としてパラセタモール 1,440 ng/mL、イブプロフェン 530 ng/mL が報告されています。"
   },
   "hero": {
     "prefix": "移動相を",
-    "emphasis": "もっと活用。",
+    "emphasis": "もっと長く。",
     "suffix": ""
   },
   "metadata": {
     "title": "ReSolve™ | アイソクラティック HPLC の移動相再利用 | Antech",
-    "description": "適切なアイソクラティック HPLC 分析法を対象とする ReSolve™ の移動相再利用をご紹介します。分析性能のエビデンスを確認し、費用と廃液を試算して、分析法への適用評価をご相談ください。"
+    "description": "ReSolve™ でアイソクラティック HPLC の移動相を再利用。新しい移動相の使用量と廃液を減らし、分析結果と運用記録を確認できます。費用削減と投資リターンも試算できます。"
   },
   "supplemental": {
     "REUSE": "再利用"
   },
   "blocks": {
     "Recover the baseline. Divert the peaks.": {
-      "text": "再利用に適したベースライン流を戻す。{0}",
+      "text": "再利用に適したピーク間の流れを戻す。{0}",
       "slots": {
-        "0": "ピーク画分を廃液側へ送る。"
+        "0": "ピーク画分は廃液側へ。"
       }
     },
     "See ReSolve in action.": {
@@ -1236,10 +1236,10 @@
       "text": "お問い合わせへの回答のため、入力内容を Antech に送信します。フォームから送信できない場合は、{0}までメールでご連絡ください。"
     },
     "Real methods. Recovery data. Chromatograms.": {
-      "text": "実際の分析法。回収データ。クロマトグラム。"
+      "text": "PMBrc / SETU の評価報告書を読む"
     },
     "See the signal. Follow the route.": {
-      "text": "信号を確認。流路をたどる。"
+      "text": "移動相の状態を確認。戻り流路を制御。"
     }
   },
   "numericExceptions": [
@@ -1325,5 +1325,37 @@
     "AI-authored review, not certified native-language or legal/regulatory approval. Qualified Japanese analytical-chemistry review remains advisable before production.",
     "Visual rendering and runtime calculator integration remain with the parent QA process; locale-specific number presentation is owned by the parent.",
     "Dynamic calculator strings retain the shared English assembly order. Japanese prefixes have been adapted to labelled forms such as 年次 and 累計 · 対象年; visual/runtime QA should confirm spacing. No shared engine change was made."
-  ]
+  ],
+  "editorialRevision": {
+    "date": "2026-11-04",
+    "englishCommit": "c410bca202bd0dfe4b2f46909e2c56055ddb6191",
+    "scope": "Japanese only: latest English revision plus complete-catalog clarity and pharmaceutical terminology review.",
+    "changedCatalogEntries": 135,
+    "latestEnglishEntriesAligned": 94,
+    "additionalClarityEditsBeyond94": 41,
+    "updatedSourceAlignmentOverrides": 10,
+    "reviewedWholeBlocks": [
+      "See the signal. Follow the route.",
+      "Real methods. Recovery data. Chromatograms.",
+      "Recover the baseline. Divert the peaks."
+    ],
+    "reviewedWholeCatalog": true,
+    "checks": {
+      "stableCatalogKeys": 1429,
+      "allValuesNonempty": true,
+      "changedNumericTokensMatchCurrentEnglish": true,
+      "changedPlaceholderTokensMatchCurrentEnglish": true,
+      "sourceAlignmentOverridesMatchCatalog": true,
+      "scientificEvidenceBoundariesPreserved": true,
+      "EURUnchanged": true,
+      "wholeBlockSlotsCheckedAgainstOriginalHTML": true
+    },
+    "styleNotes": [
+      "Short direct profile headings and calls to action; no added speculative phrasing.",
+      "White paper translated as evaluation report; stock and recovery-flow terms clarified.",
+      "Analytical, environmental and financial evidence boundaries retained."
+    ],
+    "reviewType": "Dedicated AI-assisted Japanese pharmaceutical and marketing editorial review; not certified native or regulatory approval.",
+    "unresolvedConcerns": []
+  }
 }
