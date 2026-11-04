@@ -142,6 +142,47 @@ def polish_editorial(soup):
             link.string = label+' ↗'
 
 
+def locale_editorial(soup, locale):
+    """Apply the current presentation with a dedicated locale's reviewed copy."""
+    path = ROOT/'i18n/editorial-20261104'/f'{locale}.json'
+    if not path.exists():
+        return
+    record = json.loads(path.read_text(encoding='utf8'))
+    paragraphs = record['pmbrcParagraphs']
+    labels = record['pmbrcSourceLabels']
+    if len(paragraphs)!=2 or len(labels)!=2 or not all(
+        isinstance(value,str) and value.strip()
+        for value in [record['whitePaperTitle'],record['pmbrcHeading'],*paragraphs,*labels]
+    ):
+        raise ValueError(f'{locale}: complete reviewed PMBRC copy is required')
+    english_editorial(soup)
+    # The complete reviewed hero is already localized. Some languages share
+    # words with English; translating its separate emphasis nodes again can
+    # duplicate a noun (for example French "phase mobile mobile").
+    soup.select_one('#resolve-overview-title')['translate'] = 'no'
+    if locale in ['ja','zh-CN']:
+        heading=soup.select_one('#resolve-overview-title')
+        prefix=soup.new_tag('span',style='white-space:nowrap;color:inherit')
+        prefix.append(heading.contents[0].extract())
+        heading.insert(0,prefix)
+        heading.em['style'] = 'white-space:nowrap'
+    if locale == 'ko':
+        soup.select_one('#resolve-overview-title')['style'] = 'word-break:keep-all'
+    if locale == 'ar':
+        for measurement in soup.select('.analytical-kpis strong'):
+            if re.fullmatch(r'[\d.,]+\s*→\s*[\d.,]+\s*min',measurement.get_text()):
+                measurement['dir']='ltr'
+                measurement['style']='text-align:right;unicode-bidi:isolate'
+    for title in soup.select('#rv-paper-title-quality,#rv-paper-title-research'):
+        title.string = record['whitePaperTitle']
+    for context in soup.select('.rv-pmbrc-context'):
+        context.h3.string = record['pmbrcHeading']
+        for paragraph,value in zip(context.find_all('p',recursive=False)[:2],paragraphs):
+            paragraph.string = value
+        for link,label in zip(context.select('a'),labels):
+            link.string = label+' ↗'
+
+
 def shared_sources(soup, output):
     target = output / 'assets' / 'i18n'
     target.mkdir(parents=True, exist_ok=True)
@@ -317,6 +358,8 @@ def build(args):
             english_editorial(soup)
         elif locale=='pl':
             polish_editorial(soup)
+        else:
+            locale_editorial(soup,locale)
         if (resources / 'language-ui.js').exists():
             soup.body.append(soup.new_tag('script', src='/resolve/assets/i18n/language-ui.js'))
         version_resources(soup, output_root)

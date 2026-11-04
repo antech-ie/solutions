@@ -641,12 +641,12 @@
     "Both lines start after the upfront equipment and installation payment. Cash payback assumes savings accrue evenly through the year. NPV uses year-end cash flows discounted at 10%; segments join the annual valuation points. Staff capacity value is excluded from cash returns.": "Ambas líneas comienzan después del pago inicial del equipo y la instalación. El plazo de recuperación supone que los ahorros se generan de manera uniforme durante el año. El VAN utiliza flujos de caja al cierre de cada año con la tasa de descuento seleccionada (10% de forma predeterminada); los segmentos unen los puntos de valoración anual. El valor de la capacidad del personal se excluye de los retornos de caja.",
     "CO₂ reduction": "Reducción estimada de CO₂e",
     "CO₂:": "CO₂e estimado:",
-    "Conclusion · analytical performance maintained": "Conclusión del estudio · rendimiento analítico mantenido en las condiciones del método evaluado",
+    "Conclusion · analytical performance maintained": "Resultado del estudio: rendimiento analítico mantenido en el método ensayado",
     "Example opportunity—subject to validation at each site. The fixed example uses an 80% reduction assumption; 80%+ is not a measured purchasing result. Associated carbon estimates use supplied factors pending verification.": "El ejemplo fijo supone una reducción neta del 80% de la demanda de fase móvil fresca y de los residuos. Son hipótesis de planificación, no resultados medidos de compras. Las estimaciones de carbono asociadas utilizan factores facilitados que requieren verificación.",
-    "Geopolitical tensions, conflict, changing trade policies and disruption to major shipping routes are making global supply chains more uncertain. Rerouting, volatile freight costs and unpredictable lead times make replenishment harder to plan.": "Las tensiones geopolíticas, los conflictos, los cambios en las políticas comerciales y las interrupciones de las principales rutas marítimas pueden dificultar la planificación de la reposición. Evalúe la exposición de su propia red de proveedores, rutas de transporte y política de existencias.",
+    "Geopolitical tensions, conflict, changing trade policies and disruption to major shipping routes are making global supply chains more uncertain. Rerouting, volatile freight costs and unpredictable lead times make replenishment harder to plan.": "Las interrupciones del transporte, las restricciones comerciales y los cambios en los plazos de entrega presionan el suministro de disolventes. Identifique los componentes y proveedores clave para su programa de análisis.",
     "Hazardous waste prevented": "Estimación de residuos peligrosos evitados",
     "Maintain analytical results and process integrity as mobile phase is recycled.": "Evalúe el rendimiento analítico y los controles del proceso al reutilizar la fase móvil.",
-    "Maintain your analytical standards while reducing fresh mobile-phase preparation.": "Evalúe la reutilización de fase móvil frente a sus requisitos analíticos.",
+    "Maintain your analytical standards while reducing fresh mobile-phase preparation.": "Menos fase móvil fresca. Las mismas exigencias analíticas.",
     "One laboratory · measurable prevention over time": "Un laboratorio · prevención modelizada a lo largo del tiempo",
     "Price exposure is real. Lower demand limits the volume exposed.": "Una menor demanda limita el volumen expuesto a cambios de precios.",
     "Prices exclude VAT. Support is €120 per month (€1,440 per year).": "Los precios indicativos no incluyen IVA. La asistencia predeterminada es de €120 al mes (€1,440 al año); utilice en su escenario la oferta aplicable.",
@@ -655,27 +655,27 @@
     "ReSolve™ recycles prepared mobile phase for reuse within isocratic HPLC workflows.": "ReSolve™ devuelve una fracción seleccionada de la fase móvil preparada para reutilizarla en flujos de trabajo HPLC isocráticos adecuados.",
     "Recover the baseline.": "Devuelva el flujo de línea base apto para reutilización.",
     "Divert the peaks.": "Desvíe las fracciones de los picos a residuos.",
-    "Reduce hazardous waste and CO₂ emissions. Capture the metrics across your labs.": "Evalúe la prevención de residuos peligrosos y estime las reducciones de CO₂e en sus laboratorios.",
-    "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.": "Explore la reducción de costes de fase móvil y modele el impacto en el Alcance 3.",
-    "Reduce recurring laboratory costs, release analytical capacity and quantify waste and carbon reductions across your laboratory network.": "Explore los costes recurrentes, la capacidad de los analistas y las posibles reducciones de residuos y carbono en su red de laboratorios.",
+    "Reduce hazardous waste and CO₂ emissions. Capture the metrics across your labs.": "Reduzca los residuos de disolventes en origen.",
+    "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.": "Reduzca la demanda de fase móvil fresca. Baje los costes de compra.",
+    "Reduce recurring laboratory costs, release analytical capacity and quantify waste and carbon reductions across your laboratory network.": "Compare los costes operativos de sus laboratorios. Identifique dónde ofrece ReSolve el mayor retorno y mida el consumo de materiales, los residuos y el tiempo de los analistas durante la evaluación.",
     "Sequence 2 · 96 injections (Recycled)": "Secuencia 2 · 96 inyecciones (reciclada)",
     "The study reports equivalent chromatographic performance between the two sequences and no adverse impact from using the recycled mobile phase in Sequence 2.": "Para el método evaluado, el estudio comunica un rendimiento cromatográfico equivalente entre las dos secuencias y ningún efecto adverso por el uso de fase móvil reciclada en la secuencia 2.",
-    "Turn measured prevention into a business case.": "Elabore un caso de negocio a partir de las hipótesis de su laboratorio.",
+    "Turn measured prevention into a business case.": "Calcule el retorno para su laboratorio.",
     "Use your laboratory numbers, operating schedule and costs to model reduced solvent demand, cost avoided and CO₂ reduction over three years.": "Utilice el número de laboratorios, el horario operativo y los costes para modelizar una menor demanda de fase móvil fresca, el coste evitado y las reducciones estimadas de CO₂e en tres años.",
-    "Validate this business case": "Revise este caso de negocio",
-    "Validate this business case with Antech": "Revise este caso de negocio con Antech",
+    "Validate this business case": "Revise este análisis económico",
+    "Validate this business case with Antech": "Revise su propuesta de inversión con Antech",
     "Waste prevented": "Estimación de residuos evitados",
-    "What the investment delivers": "Qué estima su escenario",
+    "What the investment delivers": "Ahorro estimado y retorno de la inversión",
     "✓ Technical conclusion: analytical performance maintained": "✓ Conclusión del estudio: rendimiento analítico mantenido en las condiciones del método evaluado",
     "No difference in baseline noise/stability was observed. LC/MS found neither analyte in the recycled phase; the source reports waste-phase concentrations of 1,440 ng/mL paracetamol and 530 ng/mL ibuprofen.": "Para el método evaluado, no se observaron diferencias en el ruido ni en la estabilidad de la línea base. Mediante LC/MS no se detectó paracetamol ni ibuprofeno en la fase reciclada; el informe no especifica los límites de detección. La fuente comunica concentraciones en la fase residual de 1,440 ng/mL de paracetamol y 530 ng/mL de ibuprofeno."
   },
   "metadata": {
     "title": "ReSolve™ | Reciclaje de fase móvil en HPLC isocrática | Antech",
-    "description": "Explore el reciclaje de fase móvil con ReSolve™ para métodos HPLC isocráticos adecuados. Revise la evidencia analítica, modele costes y residuos y consulte la evaluación de su método."
+    "description": "Reduzca el consumo de fase móvil y los residuos con ReSolve™ para HPLC isocrática. Consulte los resultados analíticos y calcule el ahorro y el retorno para su laboratorio."
   },
   "blocks": {
     "Recover the baseline. Divert the peaks.": {
-      "text": "Devuelva el flujo de línea base apto para reutilización. {0}",
+      "text": "Devuelva al depósito el flujo entre picos apto para reutilizar. {0}",
       "slots": {
         "0": "Desvíe las fracciones de los picos a residuos."
       }
@@ -688,6 +688,15 @@
     },
     "Your details will be sent to Antech so we can respond to your enquiry. If the form fails, email info@antech.ie .": {
       "text": "Sus datos se enviarán a Antech para que podamos responder a su consulta. Si el formulario no funciona, escriba a {0}."
+    },
+    "See the signal. Follow the route.": {
+      "text": "Supervise su fase móvil. Controle su retorno."
+    },
+    "Real methods. Recovery data. Chromatograms.": {
+      "text": "Lea la evaluación de PMBrc / SETU"
+    },
+    "See ReSolve in action.": {
+      "text": "Vea ReSolve en acción."
     }
   },
   "numericExceptions": [
@@ -737,10 +746,86 @@
     "blockSlotCountsValidated": true
   },
   "remainingReview": [
-    "QA must rebuild the preview and check browser layout and live report runtime; this agent did not control the shared browser.",
-    "Existing preview mixes localized and original numeric separators in some scientific tables; original locale numeric tokens are deliberately preserved."
+    "Parent to build and inspect the Spanish page, responsive layouts, report runtime and original calculations before publication. No unresolved Spanish editorial issue."
   ],
   "limits": [
     "AI-authored review, not certified native translation or legal/regulatory approval."
-  ]
+  ],
+  "hero": {
+    "prefix": "Mantenga su fase móvil ",
+    "emphasis": "en uso.",
+    "suffix": ""
+  },
+  "currentEnglishSourceAlignments": {
+    "1 labs": "1 lab",
+    "25 records paired with audit starts and finishes on 5 May 2026.": "25 measurement records matched to start and finish events in the audit trail on 5 May 2026.",
+    "All 25 records are paired with audit starts and finishes. Record 9 retains a one-second difference: summary start 15:06:21; audit start 15:06:20.": "All 25 records are matched to measurement start and finish events in the audit trail. Record 9 retains a one-second difference: summary start 15:06:21; audit start 15:06:20.",
+    "All labs use the same systems-per-lab count, operating schedule and per-system flow. Disposal cost avoided is calculated from prevented waste volume × disposal cost per litre. Preparation time is valued separately at your entered staff cost; it is not included in material and disposal savings. Equipment, service, consumables and implementation costs are not deducted, in the gross savings figures. The financial projection separately deducts equipment, installation and annual support to calculate net cash, ROI, payback and NPV.": "All labs use the same systems-per-lab count, operating schedule and per-system flow. Disposal cost avoided is calculated from prevented waste volume × disposal cost per litre. Preparation time is valued separately at your entered staff cost; it is not included in material and disposal savings. Gross savings do not deduct equipment, service, consumables or implementation costs. The financial projection deducts the entered equipment, installation and annual support costs to calculate modelled net cash, ROI, payback and NPV. Assess any other site-specific costs separately.",
+    "Annual cost avoided": "Estimated annual cost avoided",
+    "Both lines start after the upfront equipment and installation payment. Cash payback assumes savings accrue evenly through the year. NPV uses year-end cash flows discounted at 10%; segments join the annual valuation points. Staff capacity value is excluded from cash returns.": "Both lines start after the upfront equipment and installation payment. Cash payback assumes savings accrue evenly through the year. NPV uses year-end cash flows at the selected discount rate (10% by default); segments join the annual valuation points. Staff capacity value is excluded from cash returns.",
+    "CO₂ reduction": "Estimated CO₂e reduction",
+    "CO₂:": "Estimated CO₂e:",
+    "Conclusion · analytical performance maintained": "Study result: analytical performance maintained in the tested method",
+    "Example opportunity—subject to validation at each site. The fixed example uses an 80% reduction assumption; 80%+ is not a measured purchasing result. Associated carbon estimates use supplied factors pending verification.": "The fixed example assumes an 80% net reduction in fresh mobile-phase demand and waste. These are planning assumptions, not measured purchasing outcomes. Associated carbon estimates use supplied factors that require verification.",
+    "Geopolitical tensions, conflict, changing trade policies and disruption to major shipping routes are making global supply chains more uncertain. Rerouting, volatile freight costs and unpredictable lead times make replenishment harder to plan.": "Shipping disruption, trade restrictions and changing lead times put pressure on solvent supply. Identify the ingredients and suppliers that matter most to your testing schedule.",
+    "Hazardous waste prevented": "Estimated hazardous waste prevented",
+    "Maintain analytical results and process integrity as mobile phase is recycled.": "Assess analytical performance and process controls when reusing mobile phase.",
+    "Maintain your analytical standards while reducing fresh mobile-phase preparation.": "Less fresh mobile phase. The same analytical standards.",
+    "One laboratory · measurable prevention over time": "One laboratory · modelled prevention over time",
+    "Price exposure is real. Lower demand limits the volume exposed.": "Lower demand limits the volume exposed to price changes.",
+    "Prices exclude VAT. Support is €120 per month (€1,440 per year).": "Indicative prices exclude VAT. Default support is €120 per month (€1,440 per year); use the applicable quotation in your scenario.",
+    "Projected financial results depend on your net material and waste reductions. The net cash, ROI and NPV rows deduct the entered equipment, installation and support costs. Gross savings rows and cumulative impact charts remain before investment costs.": "Projected financial results depend on your net material and waste reductions. The net cash, ROI and NPV rows deduct the entered equipment, installation and support costs. Gross savings rows and cumulative impact charts remain before investment costs. Assess any other site-specific costs separately.",
+    "ReSolve™ draws 0.4 W from the HPLC. Any electricity savings from reduced mobile-phase preparation remain to be measured.": "The product literature states that ReSolve™ draws 0.4 W from the HPLC. Any electricity savings from reduced mobile-phase preparation remain to be measured.",
+    "ReSolve™ recycles prepared mobile phase for reuse within isocratic HPLC workflows.": "ReSolve™ returns selected prepared mobile phase for reuse within suitable isocratic HPLC workflows.",
+    "Recover the baseline.": "Return eligible baseline flow.",
+    "Divert the peaks.": "Divert peak fractions to waste.",
+    "Reduce hazardous waste and CO₂ emissions. Capture the metrics across your labs.": "Reduce solvent waste at the source.",
+    "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.": "Cut fresh mobile-phase demand. Reduce purchasing costs.",
+    "Reduce recurring laboratory costs, release analytical capacity and quantify waste and carbon reductions across your laboratory network.": "Compare operating costs across your laboratories. Identify where ReSolve offers the strongest return, then measure material use, waste and analyst time during evaluation.",
+    "Sequence 2 · 96 injections (Recycled)": "Sequence 2 · 96 injections (recycled)",
+    "The study reports equivalent chromatographic performance between the two sequences and no adverse impact from using the recycled mobile phase in Sequence 2.": "For the evaluated method, the study reports equivalent chromatographic performance between the two sequences and no adverse impact from using the recycled mobile phase in Sequence 2.",
+    "Turn measured prevention into a business case.": "Calculate the return for your laboratory.",
+    "Use your laboratory numbers, operating schedule and costs to model reduced solvent demand, cost avoided and CO₂ reduction over three years.": "Use your laboratory numbers, operating schedule and costs to model lower fresh mobile-phase demand, cost avoided and estimated CO₂e reductions over three years.",
+    "Validate this business case": "Review this business case",
+    "Validate this business case with Antech": "Discuss your investment case with Antech",
+    "Waste prevented": "Estimated waste prevented",
+    "What the investment delivers": "Your estimated savings and investment return",
+    "✓ Technical conclusion: analytical performance maintained": "✓ Study conclusion: analytical performance maintained under the evaluated method conditions",
+    "No difference in baseline noise/stability was observed. LC/MS found neither analyte in the recycled phase; the source reports waste-phase concentrations of 1,440 ng/mL paracetamol and 530 ng/mL ibuprofen.": "For the evaluated method, no difference in baseline noise or stability was observed. LC/MS did not detect paracetamol or ibuprofen in the recycled phase; the report does not specify detection limits. The source reports waste-phase concentrations of 1,440 ng/mL paracetamol and 530 ng/mL ibuprofen."
+  },
+  "editorialRevision": {
+    "date": "2026-11-04",
+    "englishCommit": "c410bca202bd0dfe4b2f46909e2c56055ddb6191",
+    "scope": "Dedicated Spanish scientific and direct marketing review; latest English copy across eight profiles, overview, controller and white-paper headings, PMBRC context, enquiries and prominent supporting copy.",
+    "changedCatalogEntries": 155,
+    "updatedSourceAlignmentOverrides": 10,
+    "reviewedWholeBlockOverrides": [
+      "See the signal. Follow the route.",
+      "Recover the baseline. Divert the peaks.",
+      "Real methods. Recovery data. Chromatograms."
+    ],
+    "checks": {
+      "stableCatalogKeys": 1429,
+      "newEnglishKeyedRevisionsAligned": 94,
+      "nonemptyTranslations": true,
+      "currentEnglishReferenceAlignments": true,
+      "scientificNumericTokensMatchCurrentEnglish": true,
+      "placeholderTokensMatchCurrentEnglish": true,
+      "allSourceAlignmentOverridesMatchCatalog": true,
+      "completeCatalogRead": true,
+      "EURUnchanged": true,
+      "measuredResultsSeparateFromPlanningAssumptions": true,
+      "staffTimeSeparateFromCashSavings": true,
+      "wholeBlockSlotsRetained": true
+    },
+    "reviewType": "Dedicated AI-assisted Spanish scientific and marketing editorial review; not certified native or regulatory approval.",
+    "unresolvedConcerns": [],
+    "additionalClarityEditsBeyond94": 61,
+    "reviewedWholeCatalog": true,
+    "styleNotes": [
+      "Formal professional address retained consistently.",
+      "Literal business-case phrasing changed to análisis económico; white paper to informe técnico.",
+      "Clinical and chromatographic evidence limits preserved; direct CTAs replace vague introductory phrasing."
+    ]
+  }
 }

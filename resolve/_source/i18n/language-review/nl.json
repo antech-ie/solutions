@@ -1021,47 +1021,47 @@
     "1 labs": "1 lab",
     "25 records paired with audit starts and finishes on 5 May 2026.": "25 meetregistraties gekoppeld aan begin- en eindgebeurtenissen in de audittrail op 5 mei 2026.",
     "All 25 records are paired with audit starts and finishes. Record 9 retains a one-second difference: summary start 15:06:21; audit start 15:06:20.": "Alle 25 registraties zijn gekoppeld aan begin- en eindgebeurtenissen van metingen in de audittrail. Bij registratie 9 blijft een verschil van één seconde behouden: starttijd in de samenvatting 15:06:21; starttijd in de audittrail 15:06:20.",
-    "All labs use the same systems-per-lab count, operating schedule and per-system flow. Disposal cost avoided is calculated from prevented waste volume × disposal cost per litre. Preparation time is valued separately at your entered staff cost; it is not included in material and disposal savings. Equipment, service, consumables and implementation costs are not deducted, in the gross savings figures. The financial projection separately deducts equipment, installation and annual support to calculate net cash, ROI, payback and NPV.": "Alle labs gebruiken hetzelfde aantal systemen per lab, hetzelfde werkschema en hetzelfde debiet per systeem. Vermeden afvoerkosten worden berekend als voorkomen afvalvolume × afvoerkosten per liter. Bereidingstijd wordt afzonderlijk gewaardeerd tegen de ingevoerde personeelskosten en is niet inbegrepen in de materiaal- en afvoerbesparingen. Bij de brutobesparingen worden kosten voor apparatuur, service, verbruiksartikelen en implementatie niet afgetrokken. De financiële prognose trekt de ingevoerde kosten voor apparatuur, installatie en jaarlijkse ondersteuning af om de gemodelleerde netto kasstroom, ROI, terugverdientijd en NPV te berekenen. Beoordeel eventuele overige locatiespecifieke kosten afzonderlijk.",
+    "All labs use the same systems-per-lab count, operating schedule and per-system flow. Disposal cost avoided is calculated from prevented waste volume × disposal cost per litre. Preparation time is valued separately at your entered staff cost; it is not included in material and disposal savings. Equipment, service, consumables and implementation costs are not deducted, in the gross savings figures. The financial projection separately deducts equipment, installation and annual support to calculate net cash, ROI, payback and NPV.": "Alle labs gebruiken hetzelfde aantal systemen per lab, hetzelfde werkschema en hetzelfde debiet per systeem. Vermeden afvoerkosten worden berekend als vermeden afvalvolume × afvoerkosten per liter. Bereidingstijd wordt afzonderlijk gewaardeerd tegen de ingevoerde personeelskosten en is niet inbegrepen in de materiaal- en afvoerbesparingen. Bij de brutobesparingen worden kosten voor apparatuur, service, verbruiksartikelen en implementatie niet afgetrokken. De financiële prognose trekt de ingevoerde kosten voor apparatuur, installatie en jaarlijkse ondersteuning af om de gemodelleerde netto kasstroom, ROI, terugverdientijd en NPV te berekenen. Beoordeel eventuele overige locatiespecifieke kosten afzonderlijk.",
     "Annual cost avoided": "Geschatte vermeden jaarlijkse kosten",
     "Both lines start after the upfront equipment and installation payment. Cash payback assumes savings accrue evenly through the year. NPV uses year-end cash flows discounted at 10%; segments join the annual valuation points. Staff capacity value is excluded from cash returns.": "Beide lijnen beginnen na de initiële betaling voor apparatuur en installatie. De terugverdientijd gaat ervan uit dat de besparingen gelijkmatig over het jaar ontstaan. De NPV gebruikt kasstromen aan het jaareinde tegen de gekozen discontovoet (standaard 10%); de lijnsegmenten verbinden de jaarlijkse waarderingspunten. De waarde van personeelscapaciteit is uitgesloten van de financiële opbrengsten.",
     "CO₂ reduction": "Geschatte CO₂e-vermindering",
     "CO₂:": "Geschatte CO₂e:",
-    "Conclusion · analytical performance maintained": "Onderzoeksconclusie · analytische prestaties behouden onder de geëvalueerde methodecondities",
+    "Conclusion · analytical performance maintained": "Onderzoeksresultaat: analytische prestaties behouden bij de geteste methode",
     "Example opportunity—subject to validation at each site. The fixed example uses an 80% reduction assumption; 80%+ is not a measured purchasing result. Associated carbon estimates use supplied factors pending verification.": "Het vaste voorbeeld gaat uit van een nettovermindering van 80% in zowel de vraag naar verse mobiele fase als de hoeveelheid afval. Dit zijn planningsaannames, geen gemeten inkoopresultaten. De bijbehorende emissieschattingen gebruiken verstrekte factoren die nog moeten worden geverifieerd.",
-    "Geopolitical tensions, conflict, changing trade policies and disruption to major shipping routes are making global supply chains more uncertain. Rerouting, volatile freight costs and unpredictable lead times make replenishment harder to plan.": "Geopolitieke spanningen, conflicten, veranderend handelsbeleid en verstoringen op belangrijke scheepvaartroutes kunnen de bevoorradingsplanning bemoeilijken. Beoordeel de risico’s binnen uw eigen leveranciersnetwerk, transportroutes en voorraadbeleid.",
-    "Hazardous waste prevented": "Geschatte hoeveelheid voorkomen gevaarlijk afval",
+    "Geopolitical tensions, conflict, changing trade policies and disruption to major shipping routes are making global supply chains more uncertain. Rerouting, volatile freight costs and unpredictable lead times make replenishment harder to plan.": "Verstoringen in het scheepvaartverkeer, handelsbeperkingen en wisselende levertijden zetten de oplosmiddelvoorziening onder druk. Breng de ingrediënten en leveranciers in kaart die bepalend zijn voor uw analyseplanning.",
+    "Hazardous waste prevented": "Geschatte hoeveelheid vermeden gevaarlijk afval",
     "Maintain analytical results and process integrity as mobile phase is recycled.": "Beoordeel de analytische prestaties en procesbeheersing bij hergebruik van mobiele fase.",
-    "Maintain your analytical standards while reducing fresh mobile-phase preparation.": "Beoordeel hergebruik van mobiele fase aan de hand van uw analytische vereisten.",
+    "Maintain your analytical standards while reducing fresh mobile-phase preparation.": "Minder verse mobiele fase. Dezelfde analytische eisen.",
     "One laboratory · measurable prevention over time": "Eén laboratorium · gemodelleerde preventie in de tijd",
     "Price exposure is real. Lower demand limits the volume exposed.": "Minder vraag beperkt het volume dat aan prijswijzigingen blootstaat.",
     "Prices exclude VAT. Support is €120 per month (€1,440 per year).": "Indicatieve prijzen zijn exclusief btw. De standaardkosten voor ondersteuning zijn €120 per maand (€1,440 per jaar); gebruik de toepasselijke offerte in uw scenario.",
     "Projected financial results depend on your net material and waste reductions. The net cash, ROI and NPV rows deduct the entered equipment, installation and support costs. Gross savings rows and cumulative impact charts remain before investment costs.": "De financiële prognoses hangen af van uw netto materiaal- en afvalverminderingen. Bij de netto kasstroom, ROI en NPV worden de ingevoerde kosten voor apparatuur, installatie en ondersteuning afgetrokken. De brutobesparingen en cumulatieve effectgrafieken zijn berekend vóór aftrek van investeringskosten. Beoordeel eventuele overige locatiespecifieke kosten afzonderlijk.",
     "ReSolve™ draws 0.4 W from the HPLC. Any electricity savings from reduced mobile-phase preparation remain to be measured.": "Volgens de productdocumentatie neemt ReSolve™ 0.4 W af van de HPLC. Eventuele elektriciteitsbesparingen door minder bereiding van mobiele fase moeten nog worden gemeten.",
     "ReSolve™ recycles prepared mobile phase for reuse within isocratic HPLC workflows.": "ReSolve™ voert geselecteerde bereide mobiele fase terug voor hergebruik binnen geschikte isocratische HPLC-werkprocessen.",
-    "Recover the baseline.": "Voer geschikte basislijnstroom terug.",
+    "Recover the baseline.": "Voer geschikte mobiele fase tussen de pieken terug.",
     "Divert the peaks.": "Voer piekfracties af naar afval.",
-    "Reduce hazardous waste and CO₂ emissions. Capture the metrics across your labs.": "Beoordeel de preventie van gevaarlijk afval en schat CO₂e-verminderingen voor al uw labs.",
-    "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.": "Verken lagere kosten voor mobiele fase en modelleer het effect op Scope 3.",
-    "Reduce recurring laboratory costs, release analytical capacity and quantify waste and carbon reductions across your laboratory network.": "Verken terugkerende kosten, analistencapaciteit en mogelijke afval- en emissieverminderingen binnen uw laboratoriumnetwerk.",
+    "Reduce hazardous waste and CO₂ emissions. Capture the metrics across your labs.": "Verminder oplosmiddelafval bij de bron.",
+    "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.": "Verminder de vraag naar verse mobiele fase. Verlaag de inkoopkosten.",
+    "Reduce recurring laboratory costs, release analytical capacity and quantify waste and carbon reductions across your laboratory network.": "Vergelijk de bedrijfskosten van uw laboratoria. Bepaal waar ReSolve het hoogste rendement biedt en meet tijdens de evaluatie het materiaalverbruik, afval en de analistentijd.",
     "Sequence 2 · 96 injections (Recycled)": "Reeks 2 · 96 injecties (gerecycled)",
     "The study reports equivalent chromatographic performance between the two sequences and no adverse impact from using the recycled mobile phase in Sequence 2.": "Voor de geëvalueerde methode rapporteert het onderzoek gelijkwaardige chromatografische prestaties voor de twee reeksen en geen nadelig effect van het gebruik van gerecyclede mobiele fase in reeks 2.",
-    "Turn measured prevention into a business case.": "Bouw een businesscase op met de aannames voor uw laboratorium.",
+    "Turn measured prevention into a business case.": "Bereken het rendement voor uw laboratorium.",
     "Use your laboratory numbers, operating schedule and costs to model reduced solvent demand, cost avoided and CO₂ reduction over three years.": "Gebruik uw aantallen laboratoria, werkschema en kosten om over drie jaar een lagere vraag naar verse mobiele fase, vermeden kosten en geschatte CO₂e-verminderingen te modelleren.",
     "Validate this business case": "Beoordeel deze businesscase",
-    "Validate this business case with Antech": "Beoordeel deze businesscase met Antech",
-    "Waste prevented": "Geschatte hoeveelheid voorkomen afval",
-    "What the investment delivers": "Wat uw scenario schat",
+    "Validate this business case with Antech": "Bespreek uw investeringsberekening met Antech",
+    "Waste prevented": "Geschatte hoeveelheid vermeden afval",
+    "What the investment delivers": "Uw geschatte besparingen en investeringsrendement",
     "✓ Technical conclusion: analytical performance maintained": "✓ Onderzoeksconclusie: analytische prestaties behouden onder de geëvalueerde methodecondities",
     "No difference in baseline noise/stability was observed. LC/MS found neither analyte in the recycled phase; the source reports waste-phase concentrations of 1,440 ng/mL paracetamol and 530 ng/mL ibuprofen.": "Voor de geëvalueerde methode werd geen verschil in basislijnruis of stabiliteit waargenomen. Met LC/MS werd geen paracetamol of ibuprofen in de gerecyclede fase gedetecteerd; het rapport vermeldt geen detectiegrenzen. De bron vermeldt voor de afvalfase concentraties van 1,440 ng/mL paracetamol en 530 ng/mL ibuprofen."
   },
   "hero": {
-    "prefix": "Houd uw mobiele fase ",
-    "emphasis": "in gebruik.",
+    "prefix": "Gebruik uw mobiele fase ",
+    "emphasis": "langer.",
     "suffix": ""
   },
   "metadata": {
     "title": "ReSolve™ | Recycling van mobiele fase bij isocratische HPLC | Antech",
-    "description": "Verken recycling van mobiele fase met ReSolve™ voor geschikte isocratische HPLC-methoden. Beoordeel analytische gegevens, modelleer kosten en afval en bespreek uw methode."
+    "description": "Gebruik minder verse mobiele fase en produceer minder oplosmiddelafval met ReSolve voor isocratische HPLC. Bekijk de onderzoeksresultaten en bereken het rendement voor uw laboratorium."
   },
   "supplemental": {
     "REDUCE": "VERMINDEREN",
@@ -1073,7 +1073,7 @@
   },
   "blocks": {
     "Recover the baseline. Divert the peaks.": {
-      "text": "Voer geschikte basislijnstroom terug. {0}",
+      "text": "Voer geschikte mobiele fase tussen de pieken terug. {0}",
       "slots": {
         "0": "Voer piekfracties af naar afval."
       }
@@ -1098,6 +1098,12 @@
     },
     "Your details will be sent to Antech so we can respond to your enquiry. If the form fails, email info@antech.ie .": {
       "text": "Uw gegevens worden naar Antech gestuurd zodat wij uw aanvraag kunnen beantwoorden. Werkt het formulier niet, mail dan naar {0}."
+    },
+    "See the signal. Follow the route.": {
+      "text": "Bewak uw mobiele fase. Regel de terugvoer."
+    },
+    "Real methods. Recovery data. Chromatograms.": {
+      "text": "Lees de evaluatie van PMBrc / SETU"
     }
   },
   "numericExceptions": [
@@ -1118,10 +1124,8 @@
         "80",
         "3"
       ],
-      "after": [
-        "3"
-      ],
-      "reason": "Intentional removal of unsupported 80%+ marketing promise/repeated claim; this is not a source measurement, model input or result."
+      "after": [],
+      "reason": "Approved latest English replaces the unsupported 80%+ purchasing promise and Scope 3 headline with reduced fresh demand and purchasing cost; neither removed token is a scientific measurement or model input."
     }
   ],
   "checks": {
@@ -1152,5 +1156,29 @@
   "remainingReview": [
     "AI-authored review, not certified native-speaker or legal/regulatory approval. Production release should receive qualified Dutch technical-language review.",
     "Shared numeric presentation is managed centrally; source measurement strings and precision remain unchanged in this locale."
-  ]
+  ],
+  "editorialRevision": {
+    "date": "2026-11-04",
+    "englishBaseline": "c410bca202bd0dfe4b2f46909e2c56055ddb6191",
+    "scope": "Complete Dutch catalog review; latest English editorial copy, eight profile introductions/CTAs, scientific terminology, reports, form labels, hero, PMBRC context and white-paper presentation.",
+    "changedCatalogEntries": 147,
+    "latestEnglishRevisionsAligned": 94,
+    "updatedSourceAlignmentOverrides": 13,
+    "reviewedWholeBlockOverrides": [
+      "See the signal. Follow the route.",
+      "Real methods. Recovery data. Chromatograms.",
+      "Recover the baseline. Divert the peaks."
+    ],
+    "checks": {
+      "all1429StableKeysRetained": true,
+      "nonemptyValues": true,
+      "changedNumericTokensMatchCurrentEnglish": true,
+      "inlinePlaceholdersValidatedAgainstSourceDOM": true,
+      "EURUnchanged": true,
+      "isocraticScopeAndMethodSpecificEvidenceRetained": true,
+      "analystCapacitySeparateFromCashSavings": true
+    },
+    "reviewType": "Dedicated AI-assisted Dutch scientific and marketing editorial review; no claim of native certification.",
+    "unresolvedConcerns": []
+  }
 }
