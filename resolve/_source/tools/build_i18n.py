@@ -121,6 +121,27 @@ def english_editorial(soup):
         target.insert_after(context)
 
 
+def polish_editorial(soup):
+    """Apply the new English presentation to Polish with reviewed Polish copy only."""
+    path = ROOT/'i18n/polish-editorial-20261104.json'
+    if not path.exists():
+        return
+    record = json.loads(path.read_text(encoding='utf8'))
+    english_editorial(soup)
+    for title in soup.select('#rv-paper-title-quality,#rv-paper-title-research'):
+        title.string = record['whitePaperTitle']
+    paragraphs = record['pmbrcParagraphs']
+    labels = record['pmbrcSourceLabels']
+    if len(paragraphs)!=2 or len(labels)!=2:
+        raise ValueError('Polish PMBRC context requires two paragraphs and two source labels')
+    for context in soup.select('.rv-pmbrc-context'):
+        context.h3.string = record['pmbrcHeading']
+        for paragraph,value in zip(context.find_all('p',recursive=False)[:2],paragraphs):
+            paragraph.string = value
+        for link,label in zip(context.select('a'),labels):
+            link.string = label+' ↗'
+
+
 def shared_sources(soup, output):
     target = output / 'assets' / 'i18n'
     target.mkdir(parents=True, exist_ok=True)
@@ -294,6 +315,8 @@ def build(args):
             soup.head.append(soup.new_tag('script', src='/resolve/assets/i18n/'+name))
         if locale=='en':
             english_editorial(soup)
+        elif locale=='pl':
+            polish_editorial(soup)
         if (resources / 'language-ui.js').exists():
             soup.body.append(soup.new_tag('script', src='/resolve/assets/i18n/language-ui.js'))
         version_resources(soup, output_root)
