@@ -200,12 +200,12 @@
     "Both lines start after the upfront equipment and installation payment. Cash payback assumes savings accrue evenly through the year. NPV uses year-end cash flows discounted at 10%; segments join the annual valuation points. Staff capacity value is excluded from cash returns.": "Both lines start after the upfront equipment and installation payment. Cash payback assumes savings accrue evenly through the year. NPV uses year-end cash flows at the selected discount rate (10% by default); segments join the annual valuation points. Staff capacity value is excluded from cash returns.",
     "CO₂ reduction": "Estimated CO₂e reduction",
     "CO₂:": "Estimated CO₂e:",
-    "Conclusion · analytical performance maintained": "Study conclusion · analytical performance maintained under the evaluated method conditions",
+    "Conclusion · analytical performance maintained": "Study result: analytical performance maintained in the tested method",
     "Example opportunity—subject to validation at each site. The fixed example uses an 80% reduction assumption; 80%+ is not a measured purchasing result. Associated carbon estimates use supplied factors pending verification.": "The fixed example assumes an 80% net reduction in fresh mobile-phase demand and waste. These are planning assumptions, not measured purchasing outcomes. Associated carbon estimates use supplied factors that require verification.",
-    "Geopolitical tensions, conflict, changing trade policies and disruption to major shipping routes are making global supply chains more uncertain. Rerouting, volatile freight costs and unpredictable lead times make replenishment harder to plan.": "Geopolitical tensions, conflict, changing trade policies and disruption to major shipping routes can make replenishment harder to plan. Assess the exposure within your own supplier network, transport routes and stock policy.",
+    "Geopolitical tensions, conflict, changing trade policies and disruption to major shipping routes are making global supply chains more uncertain. Rerouting, volatile freight costs and unpredictable lead times make replenishment harder to plan.": "Shipping disruption, trade restrictions and changing lead times put pressure on solvent supply. Identify the ingredients and suppliers that matter most to your testing schedule.",
     "Hazardous waste prevented": "Estimated hazardous waste prevented",
     "Maintain analytical results and process integrity as mobile phase is recycled.": "Assess analytical performance and process controls when reusing mobile phase.",
-    "Maintain your analytical standards while reducing fresh mobile-phase preparation.": "Assess mobile-phase reuse against your analytical requirements.",
+    "Maintain your analytical standards while reducing fresh mobile-phase preparation.": "Less fresh mobile phase. The same analytical standards.",
     "One laboratory · measurable prevention over time": "One laboratory · modelled prevention over time",
     "Price exposure is real. Lower demand limits the volume exposed.": "Lower demand limits the volume exposed to price changes.",
     "Prices exclude VAT. Support is €120 per month (€1,440 per year).": "Indicative prices exclude VAT. Default support is €120 per month (€1,440 per year); use the applicable quotation in your scenario.",
@@ -214,17 +214,17 @@
     "ReSolve™ recycles prepared mobile phase for reuse within isocratic HPLC workflows.": "ReSolve™ returns selected prepared mobile phase for reuse within suitable isocratic HPLC workflows.",
     "Recover the baseline.": "Return eligible baseline flow.",
     "Divert the peaks.": "Divert peak fractions to waste.",
-    "Reduce hazardous waste and CO₂ emissions. Capture the metrics across your labs.": "Assess hazardous-waste prevention and estimate CO₂e reductions across your labs.",
-    "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.": "Explore lower mobile-phase costs and model the Scope 3 impact.",
-    "Reduce recurring laboratory costs, release analytical capacity and quantify waste and carbon reductions across your laboratory network.": "Explore recurring costs, analyst capacity and potential waste and carbon reductions across your laboratory network.",
+    "Reduce hazardous waste and CO₂ emissions. Capture the metrics across your labs.": "Reduce solvent waste at the source.",
+    "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions.": "Cut fresh mobile-phase demand. Reduce purchasing costs.",
+    "Reduce recurring laboratory costs, release analytical capacity and quantify waste and carbon reductions across your laboratory network.": "Compare operating costs across your laboratories. Identify where ReSolve offers the strongest return, then measure material use, waste and analyst time during evaluation.",
     "Sequence 2 · 96 injections (Recycled)": "Sequence 2 · 96 injections (recycled)",
     "The study reports equivalent chromatographic performance between the two sequences and no adverse impact from using the recycled mobile phase in Sequence 2.": "For the evaluated method, the study reports equivalent chromatographic performance between the two sequences and no adverse impact from using the recycled mobile phase in Sequence 2.",
-    "Turn measured prevention into a business case.": "Build a business case from your laboratory assumptions.",
+    "Turn measured prevention into a business case.": "Calculate the return for your laboratory.",
     "Use your laboratory numbers, operating schedule and costs to model reduced solvent demand, cost avoided and CO₂ reduction over three years.": "Use your laboratory numbers, operating schedule and costs to model lower fresh mobile-phase demand, cost avoided and estimated CO₂e reductions over three years.",
     "Validate this business case": "Review this business case",
-    "Validate this business case with Antech": "Review this business case with Antech",
+    "Validate this business case with Antech": "Discuss your investment case with Antech",
     "Waste prevented": "Estimated waste prevented",
-    "What the investment delivers": "What your scenario estimates",
+    "What the investment delivers": "Your estimated savings and investment return",
     "✓ Technical conclusion: analytical performance maintained": "✓ Study conclusion: analytical performance maintained under the evaluated method conditions",
     "No difference in baseline noise/stability was observed. LC/MS found neither analyte in the recycled phase; the source reports waste-phase concentrations of 1,440 ng/mL paracetamol and 530 ng/mL ibuprofen.": "For the evaluated method, no difference in baseline noise or stability was observed. LC/MS did not detect paracetamol or ibuprofen in the recycled phase; the report does not specify detection limits. The source reports waste-phase concentrations of 1,440 ng/mL paracetamol and 530 ng/mL ibuprofen."
   },
@@ -313,5 +313,6 @@
       "Analytical metrics andLC/MSnamedanalytenondetection retained",
       "NoLOD/LOQinvented; absenceofdetectablesignalnotabsenceofallcontaminants"
     ]
-  }
+  },
+  "editorialRevision": "4 November 2026: direct English marketing copy, with original scientific scope and evidence retained."
 }

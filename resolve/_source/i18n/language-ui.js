@@ -1,4 +1,4 @@
-/* The URL determines language. Stored preferences only control banner visibility. */
+/* The URL determines language. Visitors open the language panel when they need it. */
 (() => {
   'use strict';
   const preferenceKey = 'resolve.language.preference.v1';
@@ -32,9 +32,6 @@
       }).observe(brandBar);
     }
 
-    function storedPreference() {
-      try { return localStorage.getItem(preferenceKey); } catch (_) { return null; }
-    }
     function remember(value) {
       try { localStorage.setItem(preferenceKey, value); } catch (_) { /* URL navigation remains available. */ }
     }
@@ -48,16 +45,13 @@
     }
     function updateLinks() {
       const root = banner.dataset.resolveRoot || '/resolve/';
-      const hash = location.hash === '#rv-language-banner' ? '' : location.hash;
       cards.forEach(card => {
         const code = card.dataset.locale;
-        card.setAttribute('href', root + (code === 'en' ? '' : code.toLowerCase() + '/') + hash);
+        card.setAttribute('href', root + (code === 'en' ? '' : code.toLowerCase() + '/'));
       });
     }
     updateLinks();
-    const preference = storedPreference();
-    const knownPreference = cards.some(card => card.dataset.locale === preference);
-    expand(!knownPreference, false);
+    expand(false, false);
     toggle.addEventListener('click', () => {
       const opening = banner.hidden;
       expand(opening, opening);

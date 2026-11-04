@@ -94,6 +94,33 @@ def annotate_documents(soup):
         video.append(note)
 
 
+def english_editorial(soup):
+    """English-only presentation changes; original source and other translations are retained."""
+    record = ROOT/'i18n/english-editorial-20261104.json'
+    if not record.exists():
+        return
+    rows = json.loads(record.read_text(encoding='utf8'))['rows']
+    caption = soup.select_one('#resolve-overview figcaption')
+    if caption:
+        caption.decompose()
+    for title in soup.select('#rv-paper-title-quality,#rv-paper-title-research'):
+        title.clear();title.append('Read the PMBrc / SETU evaluation')
+    paragraphs = [r['changes'] for r in rows if r['section']=='PMBRC introduction in Quality and Research']
+    for selector in ['#view-quality .study-source-row', '#view-research .evidence-link-card']:
+        target=soup.select_one(selector)
+        if not target:raise ValueError('PMBRC introduction target missing: '+selector)
+        context=soup.new_tag('section',attrs={'class':'rv-pmbrc-context'})
+        heading=soup.new_tag('h3');heading.string='About PMBRC';context.append(heading)
+        for value in paragraphs:
+            paragraph=soup.new_tag('p');paragraph.string=value;context.append(paragraph)
+        sources=soup.new_tag('p',attrs={'class':'small'})
+        for index,(label,url) in enumerate([('About PMBRC','https://pmbrc.org/'),('Pharma Industry Award','https://research.setu.ie/en/prizes/research-and-development-achievement-award-pmbrc/')]):
+            if index:sources.append(' · ')
+            link=soup.new_tag('a',href=url,target='_blank',rel='noopener');link.string=label+' ↗';sources.append(link)
+        context.append(sources)
+        target.insert_after(context)
+
+
 def shared_sources(soup, output):
     target = output / 'assets' / 'i18n'
     target.mkdir(parents=True, exist_ok=True)
@@ -171,10 +198,13 @@ def build(args):
         if analytics:
             base.head.append(analytics.extract())
     resources = output / 'assets' / 'i18n'
-    for name in ['runtime.js', 'language-ui.js', 'language-ui.css', 'number-display.js', 'number-display.css', 'rtl.css']:
+    for name in ['runtime.js', 'language-ui.js', 'language-ui.css', 'number-display.js', 'number-display.css', 'rtl.css', 'startup.js']:
         path = ROOT / 'i18n' / name
         if path.exists():
             shutil.copy2(path, resources / name)
+    base.head.insert(0,base.new_tag('script',src='/resolve/assets/i18n/startup.js'))
+    base.select_one('#rv-language-banner')['hidden']=''
+    base.select_one('#rv-language-toggle')['aria-expanded']='false'
     for name in ['language-ui.css', 'number-display.css']:
         if (resources / name).exists():
             base.head.append(base.new_tag('link', rel='stylesheet', href='/resolve/assets/i18n/'+name))
@@ -262,6 +292,8 @@ def build(args):
         (resources / f'{locale}.js').write_text('window.ResolveLocale='+json.dumps(bundle, ensure_ascii=False).replace('</','<\\/')+';\n',encoding='utf-8')
         for name in [f'{locale}.js','number-display.js','runtime.js']:
             soup.head.append(soup.new_tag('script', src='/resolve/assets/i18n/'+name))
+        if locale=='en':
+            english_editorial(soup)
         if (resources / 'language-ui.js').exists():
             soup.body.append(soup.new_tag('script', src='/resolve/assets/i18n/language-ui.js'))
         version_resources(soup, output_root)

@@ -1,0 +1,793 @@
+{
+  "date": "2026-11-04",
+  "scope": "English copy only; shared start-at-top and collapsed language selector fixes apply to all routes.",
+  "rows": [
+    {
+      "section": "Introduction",
+      "original": "Recover suitable flow from isocratic HPLC runs. Put it back to use, with less fresh mobile phase to prepare and less liquid waste to manage.",
+      "changes": "Use less fresh mobile phase. Generate less solvent waste. ReSolve returns selected mobile phase to your reservoir during isocratic HPLC runs, ready for reuse.",
+      "keys": [
+        "Recover suitable flow from isocratic HPLC runs. Put it back to use, with less fresh mobile phase to prepare and less liquid waste to manage."
+      ]
+    },
+    {
+      "section": "Introduction",
+      "original": "For suitable isocratic methods. Method assessment, validation and agreed operating controls are required.",
+      "changes": "For isocratic HPLC methods, with method validation and operating controls agreed by your laboratory.",
+      "keys": [
+        "For suitable isocratic methods. Method assessment, validation and agreed operating controls are required."
+      ]
+    },
+    {
+      "section": "Introduction",
+      "original": "Scientific evidence, laboratory operations and the business case — together in one place.",
+      "changes": "Find the results, operating details and financial case that matter to your team.",
+      "keys": [
+        "Scientific evidence, laboratory operations and the business case — together in one place."
+      ]
+    },
+    {
+      "section": "Equipment and recovery principle",
+      "original": "See the signal.",
+      "changes": "Monitor your mobile phase.",
+      "keys": [
+        "See the signal."
+      ]
+    },
+    {
+      "section": "Equipment and recovery principle",
+      "original": "Follow the route.",
+      "changes": "Control its return.",
+      "keys": [
+        "Follow the route."
+      ]
+    },
+    {
+      "section": "Equipment and recovery principle",
+      "original": "The controller brings the detector trace and return/waste status into view, with operating records available for review alongside your method.",
+      "changes": "See the detector signal and valve status on the controller. Review operating records alongside your analytical results.",
+      "keys": [
+        "The controller brings the detector trace and return/waste status into view, with operating records available for review alongside your method."
+      ]
+    },
+    {
+      "section": "Equipment and recovery principle",
+      "original": "Illustrative controller display. Shown values are not recommended method settings.",
+      "changes": "Example controller screen. Use the settings approved for your method.",
+      "keys": [
+        "Illustrative controller display. Shown values are not recommended method settings."
+      ]
+    },
+    {
+      "section": "Equipment and recovery principle",
+      "original": "Explore the illustrated flow path from the brochure",
+      "changes": "View the recovery flow diagram",
+      "keys": [
+        "Explore the illustrated flow path from the brochure"
+      ]
+    },
+    {
+      "section": "Quality and laboratory operations",
+      "original": "Assess mobile-phase reuse against your analytical requirements.",
+      "changes": "Less fresh mobile phase. The same analytical standards.",
+      "keys": [
+        "Maintain your analytical standards while reducing fresh mobile-phase preparation."
+      ]
+    },
+    {
+      "section": "Quality and laboratory operations",
+      "original": "Evaluate the change against your existing method requirements: compare fresh and recycled mobile-phase results, then review the supporting records.",
+      "changes": "Put ReSolve to the test against your method. Compare fresh and recycled mobile phase using your existing acceptance criteria.",
+      "keys": [
+        "Evaluate the change against your existing method requirements: compare fresh and recycled mobile-phase results, then review the supporting records."
+      ]
+    },
+    {
+      "section": "Quality and laboratory operations",
+      "original": "What changes in the workflow",
+      "changes": "How ReSolve works",
+      "keys": [
+        "What changes in the workflow"
+      ]
+    },
+    {
+      "section": "Quality and laboratory operations",
+      "original": "These are the results of a PMBrc / SETU study evaluating ReSolve™, a system that recycles mobile phase during isocratic HPLC analysis. ReSolve™ diverts the detected analyte fractions to waste and returns the remaining mobile phase to the reservoir for reuse.",
+      "changes": "ReSolve™ recycles mobile phase during isocratic HPLC analysis. It sends detected analyte fractions to waste and returns selected flow to the reservoir. PMBrc / SETU tested its performance in the study below.",
+      "keys": [
+        "These are the results of a PMBrc / SETU study evaluating ReSolve™, a system that recycles mobile phase during isocratic HPLC analysis. ReSolve™ diverts the detected analyte fractions to waste and returns the remaining mobile phase to the reservoir for reuse."
+      ]
+    },
+    {
+      "section": "Quality and laboratory operations",
+      "original": "How the comparison was tested",
+      "changes": "The fresh versus recycled comparison",
+      "keys": [
+        "How the comparison was tested"
+      ]
+    },
+    {
+      "section": "Quality and laboratory operations",
+      "original": "The researchers ran a 96-injection sequence using virgin mobile phase, then repeated the same paracetamol and ibuprofen method using mobile phase recovered from that first sequence. The purpose was to establish whether recycled mobile phase maintained analytical performance.",
+      "changes": "Researchers ran a 96-injection sequence with fresh mobile phase, then repeated the paracetamol and ibuprofen method with mobile phase recovered from that sequence. They compared the analytical performance of both runs.",
+      "keys": [
+        "The researchers ran a 96-injection sequence using virgin mobile phase, then repeated the same paracetamol and ibuprofen method using mobile phase recovered from that first sequence. The purpose was to establish whether recycled mobile phase maintained analytical performance."
+      ]
+    },
+    {
+      "section": "Quality and laboratory operations",
+      "original": "What to look for in the results",
+      "changes": "Compare the analytical results",
+      "keys": [
+        "What to look for in the results"
+      ]
+    },
+    {
+      "section": "Quality and laboratory operations",
+      "original": "What this could change in your daily workload",
+      "changes": "Spend less time preparing mobile phase",
+      "keys": [
+        "What this could change in your daily workload"
+      ]
+    },
+    {
+      "section": "Quality and laboratory operations",
+      "original": "The analytical comparison addresses performance. The operational opportunity is less preparation, replenishment and handling; the effect on your workload should be measured in your laboratory.",
+      "changes": "Cut routine preparation, bottle changes and waste handling. Measure the time saved in your laboratory alongside the analytical comparison.",
+      "keys": [
+        "The analytical comparison addresses performance. The operational opportunity is less preparation, replenishment and handling; the effect on your workload should be measured in your laboratory."
+      ]
+    },
+    {
+      "section": "Quality and laboratory operations",
+      "original": "Your laboratory already defines acceptable analytical performance. Use those requirements to assess mobile-phase reuse for each candidate method.",
+      "changes": "Keep your existing acceptance criteria. Validate mobile-phase reuse against the standards your laboratory already requires.",
+      "keys": [
+        "Your laboratory already defines acceptable analytical performance. Use those requirements to assess mobile-phase reuse for each candidate method."
+      ]
+    },
+    {
+      "section": "Quality and laboratory operations",
+      "original": "A closer look at the recorded workflow.",
+      "changes": "See the controller and injection report",
+      "keys": [
+        "A closer look at the recorded workflow."
+      ]
+    },
+    {
+      "section": "Quality and laboratory operations",
+      "original": "The product brochure illustrates the detector display and an injection report. Use the original study and operational records below to assess the measured evidence.",
+      "changes": "View the controller screen and injection report from the product brochure. The original study and operating records follow below.",
+      "keys": [
+        "The product brochure illustrates the detector display and an injection report. Use the original study and operational records below to assess the measured evidence."
+      ]
+    },
+    {
+      "section": "Quality and laboratory operations",
+      "original": "Follow the recorded flow and injection history",
+      "changes": "Review the recorded recycling results",
+      "keys": [
+        "Follow the recorded flow and injection history"
+      ]
+    },
+    {
+      "section": "Quality and laboratory operations",
+      "original": "Evaluate a candidate method with Antech",
+      "changes": "Test ReSolve with your method",
+      "keys": [
+        "Evaluate a candidate method with Antech"
+      ]
+    },
+    {
+      "section": "Quality and laboratory operations",
+      "original": "Bring a candidate isocratic method, its mobile-phase composition and your existing acceptance criteria. Use these to agree the fresh-versus-recycled comparison and the records your team needs for its assessment.",
+      "changes": "Bring your isocratic method, mobile-phase composition and acceptance criteria. We’ll help you plan the fresh versus recycled comparison and agree the records your team needs.",
+      "keys": [
+        "Bring a candidate isocratic method, its mobile-phase composition and your existing acceptance criteria. Use these to agree the fresh-versus-recycled comparison and the records your team needs for its assessment."
+      ]
+    },
+    {
+      "section": "White paper in Quality and Research",
+      "original": "Explore how ReSolve was evaluated. The 24-page white paper brings together the experimental method, measured recovery and chromatographic results.",
+      "changes": "Read the full 24-page evaluation: the method, measured recovery, analytical results and original chromatograms.",
+      "keys": [
+        "Explore how ReSolve was evaluated. The 24-page white paper brings together the experimental method, measured recovery and chromatographic results."
+      ]
+    },
+    {
+      "section": "White paper in Quality and Research",
+      "original": "Look inside the white paper ↗",
+      "changes": "Preview the white paper ↗",
+      "keys": [
+        "Look inside the white paper ↗"
+      ]
+    },
+    {
+      "section": "Sustainability and EHS",
+      "original": "Assess hazardous-waste prevention and estimate CO₂e reductions across your labs.",
+      "changes": "Reduce solvent waste at the source.",
+      "keys": [
+        "Reduce hazardous waste and CO₂ emissions. Capture the metrics across your labs."
+      ]
+    },
+    {
+      "section": "Sustainability and EHS",
+      "original": "Recycle prepared mobile phase within isocratic HPLC workflows, with a clear evidence trail from laboratory activity to waste, cost and estimated carbon prevention.",
+      "changes": "Keep prepared mobile phase in use for longer. Track fresh material use and hazardous waste, then calculate the associated CO₂e savings.",
+      "keys": [
+        "Recycle prepared mobile phase within isocratic HPLC workflows, with a clear evidence trail from laboratory activity to waste, cost and estimated carbon prevention."
+      ]
+    },
+    {
+      "section": "Sustainability and EHS",
+      "original": "Connect laboratory reuse to your sustainability reporting.",
+      "changes": "Turn lower solvent use into measurable progress.",
+      "keys": [
+        "Connect laboratory reuse to your sustainability reporting."
+      ]
+    },
+    {
+      "section": "Sustainability and EHS",
+      "original": "Reusing prepared mobile phase can reduce the ingredients your laboratories purchase and the hazardous waste they send for treatment. Track those changes against your baseline, then translate verified reductions into estimated CO₂e.",
+      "changes": "Buy less fresh material and send less solvent waste for treatment. Compare measured consumption and waste with your baseline, then calculate CO₂e using the relevant emission factors.",
+      "keys": [
+        "Reusing prepared mobile phase can reduce the ingredients your laboratories purchase and the hazardous waste they send for treatment. Track those changes against your baseline, then translate verified reductions into estimated CO₂e."
+      ]
+    },
+    {
+      "section": "Sustainability and EHS",
+      "original": "Make the carbon contribution visible.",
+      "changes": "Calculate the associated CO₂e reduction.",
+      "keys": [
+        "Make the carbon contribution visible."
+      ]
+    },
+    {
+      "section": "Sustainability and EHS",
+      "original": "Count the handling avoided.",
+      "changes": "Track fewer bottle changes and waste transfers.",
+      "keys": [
+        "Count the handling avoided."
+      ]
+    },
+    {
+      "section": "Sustainability and EHS",
+      "original": "Circularity starts at the point of use.",
+      "changes": "Reuse mobile phase in your laboratory",
+      "keys": [
+        "Circularity starts at the point of use."
+      ]
+    },
+    {
+      "section": "Sustainability and EHS",
+      "original": "ReSolve™ recycles prepared mobile phase within the isocratic HPLC workflow. The circular opportunity is to reduce fresh input and prevent hazardous waste while maintaining the analytical requirements of the method.",
+      "changes": "ReSolve™ recycles prepared mobile phase within the isocratic HPLC workflow. Reduce fresh input and solvent waste while meeting your method’s analytical requirements.",
+      "keys": [
+        "ReSolve™ recycles prepared mobile phase within the isocratic HPLC workflow. The circular opportunity is to reduce fresh input and prevent hazardous waste while maintaining the analytical requirements of the method."
+      ]
+    },
+    {
+      "section": "Sustainability and EHS",
+      "original": "Circularity is also a business decision.",
+      "changes": "Lower consumption reduces operating costs",
+      "keys": [
+        "Circularity is also a business decision."
+      ]
+    },
+    {
+      "section": "Sustainability and EHS",
+      "original": "Lower material demand can reduce purchasing exposure, ease replenishment pressure and free preparation time. The value spans sustainability, supply chain, procurement and laboratory operations.",
+      "changes": "Lower consumption means less material to buy, replenish and prepare. Use the same measured reductions in your environmental and financial reporting.",
+      "keys": [
+        "Lower material demand can reduce purchasing exposure, ease replenishment pressure and free preparation time. The value spans sustainability, supply chain, procurement and laboratory operations."
+      ]
+    },
+    {
+      "section": "Sustainability and EHS",
+      "original": "Why solvent prevention matters.",
+      "changes": "Why reducing solvent waste matters",
+      "keys": [
+        "Why solvent prevention matters."
+      ]
+    },
+    {
+      "section": "Sustainability and EHS",
+      "original": "Solvent waste is a material issue at sector level. The laboratory opportunity should be measured at the laboratory boundary, rather than inferred from national manufacturing totals.",
+      "changes": "Solvents are a major hazardous-waste stream in Ireland. Use the national figures for context and your laboratory’s own material balance to measure its contribution.",
+      "keys": [
+        "Solvent waste is a material issue at sector level. The laboratory opportunity should be measured at the laboratory boundary, rather than inferred from national manufacturing totals."
+      ]
+    },
+    {
+      "section": "Sustainability and EHS",
+      "original": "Build the evidence around your methods",
+      "changes": "Measure the reduction in your laboratory",
+      "keys": [
+        "Build the evidence around your methods"
+      ]
+    },
+    {
+      "section": "Sustainability and EHS",
+      "original": "Agree baseline consumption, waste boundaries and the records needed to demonstrate prevention.",
+      "changes": "Record current consumption and waste, agree the measurement period, and compare the same analytical workload with ReSolve.",
+      "keys": [
+        "Agree baseline consumption, waste boundaries and the records needed to demonstrate prevention."
+      ]
+    },
+    {
+      "section": "Shared planning examples",
+      "original": "One example lab. See the difference over time.",
+      "changes": "See the three-year laboratory example",
+      "keys": [
+        "One example lab. See the difference over time."
+      ]
+    },
+    {
+      "section": "Shared planning examples",
+      "original": "A fixed one-lab example over three years. Select Model Your Own Scenario to model your laboratories.",
+      "changes": "View the three-year estimate for one laboratory, or select Model Your Own Scenario to enter your own figures.",
+      "keys": [
+        "A fixed one-lab example over three years. Select Model Your Own Scenario to model your laboratories."
+      ]
+    },
+    {
+      "section": "Procurement",
+      "original": "Explore lower mobile-phase costs and model the Scope 3 impact.",
+      "changes": "Cut fresh mobile-phase demand. Reduce purchasing costs.",
+      "keys": [
+        "Reduce lab solvent costs by 80%+ whilst lowering Scope 3 emissions."
+      ]
+    },
+    {
+      "section": "Procurement",
+      "original": "Assess changes in prepared mobile-phase demand, material spend and supply requirements using verified operating data.",
+      "changes": "Build the purchasing case with your laboratory’s consumption, ingredient costs and operating data.",
+      "keys": [
+        "Assess changes in prepared mobile-phase demand, material spend and supply requirements using verified operating data."
+      ]
+    },
+    {
+      "section": "Procurement",
+      "original": "Lower demand. A clearer purchasing case.",
+      "changes": "Buy less fresh mobile phase",
+      "keys": [
+        "Lower demand. A clearer purchasing case."
+      ]
+    },
+    {
+      "section": "Procurement",
+      "original": "Focus on the purchases that can actually change",
+      "changes": "Identify the purchases you can reduce",
+      "keys": [
+        "Focus on the purchases that can actually change"
+      ]
+    },
+    {
+      "section": "Procurement",
+      "original": "Commercial fit",
+      "changes": "Equipment and service costs",
+      "keys": [
+        "Commercial fit"
+      ]
+    },
+    {
+      "section": "Procurement",
+      "original": "Confirm service, consumables, implementation and contract terms. Support the investment owner with a transparent cost base.",
+      "changes": "Include equipment, installation, service and consumables in the investment case. Confirm prices and contract terms with Antech.",
+      "keys": [
+        "Confirm service, consumables, implementation and contract terms. Support the investment owner with a transparent cost base."
+      ]
+    },
+    {
+      "section": "Procurement",
+      "original": "Wider value to describe separately",
+      "changes": "Account for handling and delivery changes",
+      "keys": [
+        "Wider value to describe separately"
+      ]
+    },
+    {
+      "section": "Procurement",
+      "original": "Connect demand prevention to purchasing",
+      "changes": "Build your purchasing case with Antech",
+      "keys": [
+        "Connect demand prevention to purchasing"
+      ]
+    },
+    {
+      "section": "Procurement",
+      "original": "Review the workflow assumptions and commercial requirements with Antech.",
+      "changes": "Review your laboratory demand, equipment requirements and full operating costs with Antech.",
+      "keys": [
+        "Review the workflow assumptions and commercial requirements with Antech."
+      ]
+    },
+    {
+      "section": "Supply chain",
+      "original": "Help insulate your labs against solvent price volatility and supply disruption.",
+      "changes": "Make your solvent stocks go further.",
+      "keys": [
+        "Help insulate your labs against solvent price volatility and supply disruption."
+      ]
+    },
+    {
+      "section": "Supply chain",
+      "original": "Reduce reliance on fresh solvent to limit exposure to price increases, make existing stocks last longer and support testing continuity when deliveries become less predictable.",
+      "changes": "Use less fresh solvent in approved isocratic methods. Lower consumption stretches usable stock and reduces the volume you need to replenish.",
+      "keys": [
+        "Reduce reliance on fresh solvent to limit exposure to price increases, make existing stocks last longer and support testing continuity when deliveries become less predictable."
+      ]
+    },
+    {
+      "section": "Supply chain",
+      "original": "Build resilience as supply chains become harder to predict",
+      "changes": "Keep testing when deliveries are delayed",
+      "keys": [
+        "Build resilience as supply chains become harder to predict"
+      ]
+    },
+    {
+      "section": "Supply chain",
+      "original": "Geopolitical tensions, conflict, changing trade policies and disruption to major shipping routes can make replenishment harder to plan. Assess the exposure within your own supplier network, transport routes and stock policy.",
+      "changes": "Shipping disruption, trade restrictions and changing lead times put pressure on solvent supply. Identify the ingredients and suppliers that matter most to your testing schedule.",
+      "keys": [
+        "Geopolitical tensions, conflict, changing trade policies and disruption to major shipping routes are making global supply chains more uncertain. Rerouting, volatile freight costs and unpredictable lead times make replenishment harder to plan."
+      ]
+    },
+    {
+      "section": "Supply chain",
+      "original": "Less fresh-solvent demand. Less exposure to price and supply pressure.",
+      "changes": "Lower consumption reduces replenishment pressure",
+      "keys": [
+        "Less fresh-solvent demand. Less exposure to price and supply pressure."
+      ]
+    },
+    {
+      "section": "Supply chain",
+      "original": "ReSolve™ can reduce fresh mobile-phase demand within approved isocratic HPLC workflows. Purchasing less fresh solvent reduces the volume exposed to price increases, while lower consumption can help usable stocks support testing for longer between deliveries. The protection depends on measured demand reduction, supplier terms and stock policy; it does not eliminate price or supply risk.",
+      "changes": "ReSolve™ reduces reliance on fresh mobile phase in suitable, approved isocratic methods. Lower consumption reduces the quantity exposed to price increases and helps usable stock last longer. Base your stock policy on measured demand, expiry dates and supplier lead times.",
+      "keys": [
+        "ReSolve™ can reduce fresh mobile-phase demand within approved isocratic HPLC workflows. Purchasing less fresh solvent reduces the volume exposed to price increases, while lower consumption can help usable stocks support testing for longer between deliveries. The protection depends on measured demand reduction, supplier terms and stock policy; it does not eliminate price or supply risk."
+      ]
+    },
+    {
+      "section": "Supply chain",
+      "original": "Availability can depend on markets beyond the laboratory.",
+      "changes": "Solvent supply depends on wider markets",
+      "keys": [
+        "Availability can depend on markets beyond the laboratory."
+      ]
+    },
+    {
+      "section": "Supply chain",
+      "original": "Make the continuity case measurable",
+      "changes": "Measure stock coverage and replenishment",
+      "keys": [
+        "Make the continuity case measurable"
+      ]
+    },
+    {
+      "section": "Supply chain",
+      "original": "Build resilience with clear operating controls",
+      "changes": "Plan for reliable laboratory operation",
+      "keys": [
+        "Build resilience with clear operating controls"
+      ]
+    },
+    {
+      "section": "Supply chain",
+      "original": "Assess the opportunity across your laboratories",
+      "changes": "Calculate the demand reduction across your laboratories",
+      "keys": [
+        "Assess the opportunity across your laboratories"
+      ]
+    },
+    {
+      "section": "Supply chain",
+      "original": "Use your laboratory numbers and operating schedule to model the demand change. Then combine the results with your inventory, lead-time and service-level data to assess the supply-chain benefit.",
+      "changes": "Calculate the demand change using your laboratory numbers and operating schedule. Combine it with stock levels, lead times and service requirements to set your replenishment plan.",
+      "keys": [
+        "Use your laboratory numbers and operating schedule to model the demand change. Then combine the results with your inventory, lead-time and service-level data to assess the supply-chain benefit."
+      ]
+    },
+    {
+      "section": "Organisational value",
+      "original": "Reduce material demand. Build value across your organisation.",
+      "changes": "Lower laboratory consumption. Strengthen the business case.",
+      "keys": [
+        "Reduce material demand. Build value across your organisation."
+      ]
+    },
+    {
+      "section": "Organisational value",
+      "original": "Connect analytical integrity, laboratory capacity, cost, supply resilience and circularity in one evidence-led business case.",
+      "changes": "Bring Quality, laboratory operations, EHS, purchasing and finance together around the same consumption data and costs.",
+      "keys": [
+        "Connect analytical integrity, laboratory capacity, cost, supply resilience and circularity in one evidence-led business case."
+      ]
+    },
+    {
+      "section": "Organisational value",
+      "original": "Primary = a direct benefit or decision interest. Shared = a supporting interest. This is a discussion map, not a prescribed ownership model.",
+      "changes": "Primary marks a direct benefit or decision responsibility. Shared marks a supporting role. Assign ownership to suit your organisation.",
+      "keys": [
+        "Primary = a direct benefit or decision interest. Shared = a supporting interest. This is a discussion map, not a prescribed ownership model."
+      ]
+    },
+    {
+      "section": "Organisational value",
+      "original": "GHG and ISO alignment · turn results into evidence",
+      "changes": "Use the results in GHG and ISO reporting",
+      "keys": [
+        "GHG and ISO alignment · turn results into evidence"
+      ]
+    },
+    {
+      "section": "Organisational value",
+      "original": "Build one business case, together.",
+      "changes": "Build one business case across your teams",
+      "keys": [
+        "Build one business case, together."
+      ]
+    },
+    {
+      "section": "Organisational value",
+      "original": "Connect the decision makers.",
+      "changes": "Agree ownership and avoid double counting.",
+      "keys": [
+        "Connect the decision makers."
+      ]
+    },
+    {
+      "section": "Organisational value",
+      "original": "Give the investment decision a shared, reviewable evidence base.",
+      "changes": "Support the investment decision with agreed methods, measured results and costs.",
+      "keys": [
+        "Give the investment decision a shared, reviewable evidence base."
+      ]
+    },
+    {
+      "section": "Research and evidence",
+      "original": "Analytical results. Recorded recycling. Supporting evidence.",
+      "changes": "See the results behind ReSolve.",
+      "keys": [
+        "Analytical results. Recorded recycling. Supporting evidence."
+      ]
+    },
+    {
+      "section": "Research and evidence",
+      "original": "Study findings, chromatographic comparisons and instrument records from evaluated isocratic HPLC workflows.",
+      "changes": "Compare fresh and recycled mobile phase. Review the original chromatograms, measured volumes and operating records.",
+      "keys": [
+        "Study findings, chromatographic comparisons and instrument records from evaluated isocratic HPLC workflows."
+      ]
+    },
+    {
+      "section": "Research and evidence",
+      "original": "The results and the records",
+      "changes": "Independent study and operating results",
+      "keys": [
+        "The results and the records"
+      ]
+    },
+    {
+      "section": "Research and evidence",
+      "original": "This section brings together the evidence behind ReSolve™: the PMBrc / SETU comparison of virgin and recycled mobile phase, original chromatograms, and a separate 98-injection operational record.",
+      "changes": "Read the PMBrc / SETU fresh versus recycled comparison, inspect the original chromatograms, and explore a separate 98-injection operating record.",
+      "keys": [
+        "This section brings together the evidence behind ReSolve™: the PMBrc / SETU comparison of virgin and recycled mobile phase, original chromatograms, and a separate 98-injection operational record."
+      ]
+    },
+    {
+      "section": "Research and evidence",
+      "original": "The study shows analytical performance for the evaluated method. The operational records show measured recycling activity and traceability. Explore the results and original source material below.",
+      "changes": "The study reports analytical performance for the tested method. The operating records document recycling volumes and events. Open the source documents to review each result.",
+      "keys": [
+        "The study shows analytical performance for the evaluated method. The operational records show measured recycling activity and traceability. Explore the results and original source material below."
+      ]
+    },
+    {
+      "section": "Research and evidence",
+      "original": "Study conclusion · analytical performance maintained under the evaluated method conditions",
+      "changes": "Study result: analytical performance maintained in the tested method",
+      "keys": [
+        "Conclusion · analytical performance maintained"
+      ]
+    },
+    {
+      "section": "Research and evidence",
+      "original": "Explore ReSolve™ for your laboratory",
+      "changes": "Bring ReSolve to your laboratory",
+      "keys": [
+        "Explore ReSolve™ for your laboratory"
+      ]
+    },
+    {
+      "section": "Client scenario reports",
+      "original": "Explore four evaluation reports, including the independent SETU study and anonymised client records.",
+      "changes": "Read four evaluation reports, including the independent SETU study and anonymised client operating records.",
+      "keys": [
+        "Explore four evaluation reports, including the independent SETU study and anonymised client records."
+      ]
+    },
+    {
+      "section": "Client scenario reports",
+      "original": "Explore the recorded results and supporting evidence from four evaluations.",
+      "changes": "Open each report to review its results, operating records and source evidence.",
+      "keys": [
+        "Explore the recorded results and supporting evidence from four evaluations."
+      ]
+    },
+    {
+      "section": "Calculator and business case",
+      "original": "Build a business case from your laboratory assumptions.",
+      "changes": "Calculate the return for your laboratory.",
+      "keys": [
+        "Turn measured prevention into a business case."
+      ]
+    },
+    {
+      "section": "Calculator and business case",
+      "original": "Start with prepared mobile-phase material cost avoided; assess capacity, handling and wider benefits alongside the full cost of adoption.",
+      "changes": "Enter your workload and costs to estimate material savings, waste reduction and investment payback. Review analyst time separately from cash savings.",
+      "keys": [
+        "Start with prepared mobile-phase material cost avoided; assess capacity, handling and wider benefits alongside the full cost of adoption."
+      ]
+    },
+    {
+      "section": "Calculator and business case",
+      "original": "Enter the number of labs, systems per lab and operating details to estimate prepared mobile-phase material cost avoided. Then explore the value for each persona.",
+      "changes": "Enter your laboratory numbers, HPLC workload and costs. Compare current consumption with your ReSolve scenario and calculate the investment return.",
+      "keys": [
+        "Enter the number of labs, systems per lab and operating details to estimate prepared mobile-phase material cost avoided. Then explore the value for each persona."
+      ]
+    },
+    {
+      "section": "Calculator and business case",
+      "original": "Build the current picture",
+      "changes": "Enter your current costs and workload",
+      "keys": [
+        "Build the current picture"
+      ]
+    },
+    {
+      "section": "Calculator and business case",
+      "original": "Enter preparation costs and people time, then your laboratory workload and disposal costs.",
+      "changes": "Enter material costs, preparation time, HPLC operating hours and waste-disposal charges.",
+      "keys": [
+        "Enter preparation costs and people time, then your laboratory workload and disposal costs."
+      ]
+    },
+    {
+      "section": "Calculator and business case",
+      "original": "People time · mobile-phase preparation",
+      "changes": "Staff time for mobile-phase preparation",
+      "keys": [
+        "People time · mobile-phase preparation"
+      ]
+    },
+    {
+      "section": "Calculator and business case",
+      "original": "People time released",
+      "changes": "Analyst hours released",
+      "keys": [
+        "People time released"
+      ]
+    },
+    {
+      "section": "Calculator and business case",
+      "original": "What your scenario estimates",
+      "changes": "Your estimated savings and investment return",
+      "keys": [
+        "What the investment delivers"
+      ]
+    },
+    {
+      "section": "Calculator and business case",
+      "original": "Additional benefits to assess at your site",
+      "changes": "Measure the wider operating benefits",
+      "keys": [
+        "Additional benefits to assess at your site"
+      ]
+    },
+    {
+      "section": "Calculator and business case",
+      "original": "Explore recurring costs, analyst capacity and potential waste and carbon reductions across your laboratory network.",
+      "changes": "Compare operating costs across your laboratories. Identify where ReSolve offers the strongest return, then measure material use, waste and analyst time during evaluation.",
+      "keys": [
+        "Reduce recurring laboratory costs, release analytical capacity and quantify waste and carbon reductions across your laboratory network."
+      ]
+    },
+    {
+      "section": "Calculator and business case",
+      "original": "More time for higher-value analytical work",
+      "changes": "More analyst time for testing and development",
+      "keys": [
+        "More time for higher-value analytical work"
+      ]
+    },
+    {
+      "section": "Calculator and business case",
+      "original": "Review this business case with Antech",
+      "changes": "Discuss your investment case with Antech",
+      "keys": [
+        "Validate this business case with Antech"
+      ]
+    },
+    {
+      "section": "Calculator and business case",
+      "original": "Review your methods, assumptions and implementation with Antech.",
+      "changes": "Check method suitability, confirm equipment and support costs, and plan your laboratory evaluation with Antech.",
+      "keys": [
+        "Review your methods, assumptions and implementation with Antech."
+      ]
+    },
+    {
+      "section": "Video resources and enquiry",
+      "original": "A closer look at ReSolve.",
+      "changes": "ReSolve equipment and downloads",
+      "keys": [
+        "A closer look at ReSolve."
+      ]
+    },
+    {
+      "section": "Video resources and enquiry",
+      "original": "Review the installation, controller and source literature alongside your own method requirements.",
+      "changes": "View the installation and controller, then download the study and product brochures.",
+      "keys": [
+        "Review the installation, controller and source literature alongside your own method requirements."
+      ]
+    },
+    {
+      "section": "Video resources and enquiry",
+      "original": "Bring your HPLC setup, mobile phase and workload. We’ll help you plan the evaluation.",
+      "changes": "Tell us about your HPLC systems, methods and workload. We’ll help you plan a ReSolve evaluation.",
+      "keys": [
+        "Bring your HPLC setup, mobile phase and workload. We’ll help you plan the evaluation."
+      ]
+    },
+    {
+      "section": "Video resources and enquiry",
+      "original": "Tell us about your laboratory and what you would like to achieve.",
+      "changes": "Tell us about your HPLC methods and the results you want to achieve.",
+      "keys": [
+        "Tell us about your laboratory and what you would like to achieve."
+      ]
+    },
+    {
+      "section": "Introduction",
+      "original": "MORE USE FROM EVERY SUITABLE PREPARATION Purposeful recovery. Method-specific evidence.",
+      "changes": "Removed the caption beneath the main laboratory photograph."
+    },
+    {
+      "section": "White paper in Quality and Research",
+      "original": "Real methods. Recovery data. Chromatograms.",
+      "changes": "Read the PMBrc / SETU evaluation"
+    },
+    {
+      "section": "PMBRC introduction in Quality and Research",
+      "original": "No explanation of PMBRC beneath its logo.",
+      "changes": "PMBRC is the Pharmaceutical and Molecular Biotechnology Research Centre at South East Technological University in Waterford. Part of the Enterprise Ireland Technology Gateway Network, it gives pharmaceutical and healthcare companies access to specialist researchers, analytical facilities and applied R&D."
+    },
+    {
+      "section": "PMBRC introduction in Quality and Research",
+      "original": "No explanation of its role in Irish pharmaceutical industry.",
+      "changes": "Its work supports Ireland’s pharmaceutical industry through contract analysis, feasibility studies and collaborative research, including pharmaceutical analysis, formulation and drug delivery. PMBRC received the Research and Development Achievement Award at the 2017 Pharma Industry Awards."
+    },
+    {
+      "section": "Opening behaviour and language selector",
+      "original": "Opening a language page or a shared profile link can scroll directly to the selected profile.",
+      "changes": "Every fresh page load starts at the top of the website. Profile buttons and section links continue to navigate after the page opens."
+    },
+    {
+      "section": "Opening behaviour and language selector",
+      "original": "The language panel opens automatically for new visitors, and language links carry the current profile anchor.",
+      "changes": "The language panel starts collapsed on every visit. Visitors open it with the Language button. Language links open the beginning of the chosen language page."
+    }
+  ],
+  "pmbrcSources": [
+    "https://pmbrc.org/",
+    "https://www.setu.ie/research-innovation/industry-supports/technology-gateways",
+    "https://research.setu.ie/en/prizes/research-and-development-achievement-award-pmbrc/"
+  ]
+}
