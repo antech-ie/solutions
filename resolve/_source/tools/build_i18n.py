@@ -287,7 +287,7 @@ def build(args):
     # Shared images, PDFs, styles and presentation script are copied once.
     if (source/'assets').resolve() != (output/'assets').resolve():
         shutil.copytree(source / 'assets', output / 'assets', dirs_exist_ok=True)
-    for name in ['legacy.css', 'redesign.css', 'redesign.js']:
+    for name in ['legacy.css', 'redesign.css', 'redesign.js', 'enquiry.js']:
         if (source/name).resolve() != (output/name).resolve():
             shutil.copy2(source / name, output / name)
     # Presentation artwork URLs are the only runtime-created relative resource URLs.
