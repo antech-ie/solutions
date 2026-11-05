@@ -1,4 +1,6 @@
-/* English layout annotations: concise opening and four native disclosure panels. */
+/* English layout annotations: concise opening and native disclosure panels. */
+#resolve-site figcaption{display:none!important}
+#resolve-site #resolve-principle .rv-process-heading{grid-template-columns:1fr}
 #resolve-site #resolve-overview{padding-top:36px!important;padding-bottom:28px!important}
 #resolve-site .rv-perspectives-hub{padding-top:0!important}
 #resolve-site #view-quality>section.rv-collapsible{padding:12px 0!important;border-bottom:0!important}
