@@ -939,7 +939,7 @@
   "Recorded waste volume and estimated mass": "Recorded waste volume and estimated mass",
   "Records 1-25 from a 98-injection run on 5-6 May 2026, using an Agilent 1260 DAD system. The selected records cover 13:19:03 to 18:52:31 on 5 May.": "Records 1-25 from a 98-injection run on 5-6 May 2026, using an Agilent 1260 DAD system. The selected records cover 13:19:03 to 18:52:31 on 5 May.",
   "Records 1-25. Hover over a bar for the recycled volume.": "Records 1-25. Hover over a bar for the recycled volume.",
-  "Recover suitable flow from isocratic HPLC runs. Put it back to use, with less fresh mobile phase to prepare and less liquid waste to manage.": "Use less fresh mobile phase. Generate less solvent waste. ReSolve returns selected mobile phase to your reservoir during isocratic HPLC runs, ready for reuse.",
+  "Recover suitable flow from isocratic HPLC runs. Put it back to use, with less fresh mobile phase to prepare and less liquid waste to manage.": "Less fresh mobile phase. Less solvent waste. ReSolve recovers mobile phase for reuse in isocratic HPLC.",
   "Recover the baseline.": "Return eligible baseline flow.",
   "Recovered phase": "Recovered phase",
   "Recovery data.": "Recovery data.",
