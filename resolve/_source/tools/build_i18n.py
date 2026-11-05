@@ -191,10 +191,19 @@ def english_quality_layout(soup):
     link=soup.select_one('#resolve-overview .rv-overview-copy > a.rv-text-link')
     if link:
         link.decompose()
+    for selector in ['#resolve-overview .rv-suitability','#resolve-principle .rv-process-heading > p']:
+        element=soup.select_one(selector)
+        if element:
+            element.decompose()
+    title=soup.select_one('#resolve-principle-title')
+    for text in list(title.find_all(string=True)):
+        if 'Return eligible baseline flow.' in str(text):
+            text.replace_with(str(text).replace('Return eligible baseline flow.','Return baseline flow.'))
     targets=[
         '#view-quality > section.quality-study:first-child',
         '#view-quality > section.setu-section-one',
         '#quality-analytical-checks',
+        '#quality-audit-extract',
         '#quality-evidence',
     ]
     for selector in targets:
