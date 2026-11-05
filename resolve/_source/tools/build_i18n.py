@@ -183,6 +183,40 @@ def locale_editorial(soup, locale):
             link.string = label+' ↗'
 
 
+def english_quality_layout(soup):
+    """Apply the English browser annotations without changing other locale routes."""
+    stylesheet=ROOT/'i18n/english-quality-layout-20261105.css'
+    if not stylesheet.exists():
+        return
+    link=soup.select_one('#resolve-overview .rv-overview-copy > a.rv-text-link')
+    if link:
+        link.decompose()
+    targets=[
+        '#view-quality > section.quality-study:first-child',
+        '#view-quality > section.setu-section-one',
+        '#quality-analytical-checks',
+        '#quality-evidence',
+    ]
+    for selector in targets:
+        section=soup.select_one(selector)
+        if not section:
+            raise ValueError('English dropdown target missing: '+selector)
+        band=section.find('div',class_='quality-panel-band',recursive=False)
+        if not band:
+            raise ValueError('English dropdown heading missing: '+selector)
+        section['class']=section.get('class',[])+['rv-collapsible']
+        details=soup.new_tag('details',attrs={'class':'rv-quality-dropdown'})
+        band.extract();band.name='summary'
+        details.append(band)
+        body=soup.new_tag('div',attrs={'class':'rv-quality-dropdown-body'})
+        for child in list(section.contents):
+            body.append(child.extract())
+        details.append(body);section.append(details)
+    style=soup.new_tag('style',id='resolve-english-quality-layout')
+    style.string=stylesheet.read_text(encoding='utf8')
+    soup.head.append(style)
+
+
 def shared_sources(soup, output):
     target = output / 'assets' / 'i18n'
     target.mkdir(parents=True, exist_ok=True)
@@ -356,6 +390,7 @@ def build(args):
             soup.head.append(soup.new_tag('script', src='/resolve/assets/i18n/'+name))
         if locale=='en':
             english_editorial(soup)
+            english_quality_layout(soup)
         elif locale=='pl':
             polish_editorial(soup)
         else:
