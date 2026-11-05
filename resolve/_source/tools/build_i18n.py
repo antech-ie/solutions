@@ -221,6 +221,18 @@ def english_quality_layout(soup):
         for child in list(section.contents):
             body.append(child.extract())
         details.append(body);section.append(details)
+    principle=soup.select_one('#resolve-principle')
+    details=soup.new_tag('details',attrs={'class':'rv-quality-dropdown rv-principle-dropdown'})
+    summary=soup.new_tag('summary',attrs={'class':'quality-panel-band'})
+    summary.string='The recovery principle'
+    details.append(summary)
+    body=soup.new_tag('div',attrs={'class':'rv-quality-dropdown-body'})
+    for child in list(principle.contents):
+        body.append(child.extract())
+    eyebrow=body.select_one('.rv-process-heading .eyebrow')
+    if eyebrow:
+        eyebrow.decompose()
+    details.append(body);principle.append(details)
     style=soup.new_tag('style',id='resolve-english-quality-layout')
     style.string=stylesheet.read_text(encoding='utf8')
     soup.head.append(style)
