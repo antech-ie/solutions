@@ -188,6 +188,22 @@ def english_quality_layout(soup):
     stylesheet=ROOT/'i18n/english-quality-layout-20261105.css'
     if not stylesheet.exists():
         return
+    for selector in [
+        '.rv-perspectives-hub > p',
+        '#rv-white-paper-quality .rv-paper-scope',
+        '#view-quality .rv-brochure-records p.small',
+        '#shared-value-figures > p',
+        '#shared-value-alignment > p:first-of-type',
+    ]:
+        element=soup.select_one(selector)
+        if not element:
+            raise ValueError('English copy-removal target missing: '+selector)
+        element.decompose()
+    heading_script=ROOT/'i18n/english-quality-heading-20261105.js'
+    if heading_script.exists():
+        script=soup.new_tag('script',id='resolve-english-heading-lines')
+        script.string=heading_script.read_text(encoding='utf8')
+        soup.body.append(script)
     link=soup.select_one('#resolve-overview .rv-overview-copy > a.rv-text-link')
     if link:
         link.decompose()
