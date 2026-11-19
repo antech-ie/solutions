@@ -4,7 +4,7 @@ const reSolveAssets = {
   installed: "./assets/resolve-installed.jpg",
   screen: "./assets/resolve-screen.jpg",
   flow: "./assets/resolve-flow.png",
-  wordmark: "./assets/resolve-wordmark.png",
+  wordmark: "./assets/eic/resolve-brand.svg",
   brochure: "./assets/resolve-brochure.pdf",
   demo: "./virtual-demo/index.html",
   evaluation: "https://antech.ie/wp-content/uploads/2026/07/ReSolve_PMBrc-Study-HPLC_Validation_Report-Rev-4.0-Final-BM-22072026.pdf",
@@ -117,26 +117,24 @@ function home() {
   return `
     <section class="hero launch-hero">
       <div>
-        <span class="eyebrow">Sustainable laboratory solutions</span>
-        <h1>Smarter labs.<br><em>Less waste.</em></h1>
-        <p>Explore practical ways to cut waste, use resources more efficiently and manage the cost of running an analytical laboratory.</p>
+        <img class="hero-wordmark" src="${reSolveAssets.wordmark}" width="320" height="99" alt="ReSolve by Antech">
+        <h1>Smarter laboratories.<br><em>Lower costs. Less waste. Less&nbsp;CO₂.</em></h1>
+        <p>See where your lab can reduce reliance on fresh solvent, free up analyst time and measure the impact. Start with ReSolve mobile-phase recovery for compatible HPLC methods.</p>
         <div class="buttons">
           <a class="button primary" href="#/solutions">Explore solutions</a>
-          <a class="button outline" href="#/examples">Browse examples</a>
+          <a class="button outline" href="#/resolve">Discover ReSolve</a>
         </div>
-        <a class="original-review-link" href="./original/index.html">View the original prototype</a>
       </div>
       <figure class="hero-picture">
-        <img class="hero-illustration" src="./assets/lab-resource-roadmap.webp" width="1536" height="1024" alt="Two lab workers flank circular green arrows around a flask, with water and energy symbols" fetchpriority="high">
+        <img class="hero-illustration" src="./assets/eic/laboratory-cover.webp" width="1136" height="1286" alt="Laboratory analyst operating a touchscreen beside an HPLC system" fetchpriority="high">
       </figure>
     </section>
     <nav class="outcomes home-priorities" aria-label="Laboratory priorities">
-      <div><a href="#/solvent-waste"><span>Waste</span><strong>Reduce laboratory waste</strong></a></div>
-      <div><a href="#/resource-efficiency"><span>Resources</span><strong>Use materials and energy efficiently</strong></a></div>
-      <div><a href="#/operating-costs"><span>Cost</span><strong>Identify operating costs</strong></a></div>
-      <div><a href="#/reporting"><span>Reporting</span><strong>Measure and document progress</strong></a></div>
+      <div><a href="#/operating-costs"><span>Cost</span><strong>Reduce recurring operating costs</strong></a></div>
+      <div><a href="#/circularity"><span>Circularity</span><strong>Recover and reuse resources</strong></a></div>
+      <div><a href="#/solvent-supply"><span>Supply chain</span><strong>Reduce exposure to solvent supply and price shocks</strong></a></div>
+      <div><a href="#/reporting"><span>Emissions</span><strong>Measure waste and carbon impact</strong></a></div>
     </nav>
-    ${featuredExamplesSection("Where could your lab save resources?", "See how three different approaches work and what you can measure before making a change.")}
     <section class="section home-feature" aria-labelledby="featured-tech-heading">
       <img class="home-feature-photo" src="${reSolveAssets.laboratory}" width="1500" height="1125" alt="ReSolve fitted to an HPLC system on a laboratory bench" loading="lazy">
       <div>
@@ -145,10 +143,10 @@ function home() {
         <p>Explore mobile-phase recovery for suitable isocratic HPLC methods.</p>
       </div>
       <div class="product-links">
-        <a class="button" href="#/resolve">View product</a>
-        <a class="button light" href="${reSolveAssets.demo}">Open virtual demo</a>
+        <a class="button" href="#/resolve">See how ReSolve works</a>
       </div>
     </section>
+    ${featuredExamplesSection("Where could your lab save resources?", "See how three different approaches work and what you can measure before making a change.")}
     <section class="section photo-cta">
       <figure>
         <!-- Photograph by Jahra Tasfia Reza, Pexels photo 39901214. -->
@@ -169,9 +167,10 @@ function productsPage() {
       <div class="products-header">
         <div>
           <span class="eyebrow">Products and equipment</span>
-          <h1>Products for more resource-efficient labs.</h1>
-          <p>${esc(productContent.products.intro)}</p>
-          <a class="button primary" href="#/catalog">Browse the catalogue</a>
+          <h1>Laboratory products and equipment</h1>
+          <p>Explore ReSolve, Antech’s solvent recovery system, and compare independent equipment and consumables by application.</p>
+          <a class="button primary" href="#/resolve">View ReSolve</a>
+          <a class="button outline" href="#/catalog">Browse the catalogue</a>
         </div>
         <figure class="products-hero-photo">
           <!-- Photograph by Ludovic Delot, Pexels photo 18471479. -->
@@ -205,12 +204,23 @@ function productsPage() {
 function resolveProduct() {
   const content = productContent.resolve;
   const actions = `<div class="product-links">
-    <a class="button primary" href="${reSolveAssets.demo}">Launch virtual demo</a>
+    <a class="button primary" href="#/contact">Discuss your application</a>
     <a class="button light" href="${reSolveAssets.brochure}">Product brochure (PDF)</a>
-    <a class="text-link" href="#/contact">Discuss your application</a>
   </div>`;
   return editorialHero("resolve", content.intro, {label: "Antech product", actions}) + `
     <div class="page-body editorial-body">
+      <section class="recovery-explainer" aria-labelledby="recovery-heading">
+        <figure>
+          <img src="./assets/eic/mobile-phase-recovery.png" width="4185" height="3078" alt="HPLC flow diagram and chromatogram showing the route back to the reservoir and the route to waste during peaks" loading="lazy" decoding="async">
+          <figcaption><a href="./assets/eic/mobile-phase-recovery.png">Open the full-size flow diagram</a></figcaption>
+        </figure>
+        <div class="recovery-explainer-copy">
+          <h2 id="recovery-heading">How ReSolve recovers mobile phase</h2>
+          <p>ReSolve reads the detector signal during a compatible isocratic HPLC run. It sends the stream to waste during designated peak windows and returns eligible mobile phase to the reservoir between those windows.</p>
+          <p>Assess method suitability and agree the required quality checks before using recovered mobile phase.</p>
+          <a class="text-link" href="${reSolveAssets.demo}">Open the virtual demo</a>
+        </div>
+      </section>
       ${editorialPanels("resolve", content.sections)}
       ${editorialSources(content.sources)}
     </div>
@@ -222,7 +232,7 @@ function catalogueFeature() {
     <article class="catalogue-feature">
       <div>
         <span class="eyebrow">Antech product</span>
-        <img class="resolve-wordmark" src="${reSolveAssets.wordmark}" width="1144" height="1144" alt="ReSolve HPLC Solvent Recycler">
+        <img class="resolve-wordmark" src="${reSolveAssets.wordmark}" width="320" height="99" alt="ReSolve by Antech">
         <h2>ReSolve solvent recovery</h2>
         <p>ReSolve reads the HPLC detector signal and routes mobile phase to the reservoir or to waste. Review instrument and method fit for your isocratic workflow.</p>
         <div class="product-links">

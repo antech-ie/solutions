@@ -1,10 +1,13 @@
 const applicationRecommendations = {
-  "operating-costs": ["reporting", "example-freezer", "resolve"],
-  "solvent-waste": ["resolve", "qc", "reporting"],
+  "operating-costs": ["solvent-supply", "reporting", "resolve"],
+  "solvent-waste": ["resolve", "circularity", "reporting"],
+  circularity: ["resolve", "solvent-waste", "reporting"],
+  "solvent-supply": ["operating-costs", "procurement", "resolve"],
+  "method-consistency": ["qc", "qa", "resolve"],
   "resource-efficiency": ["example-findenser", "example-freezer", "operations"],
   plastics: ["example-refills", "example-tipnovus", "example-biobased"],
   reporting: ["sustainability", "operations", "example-act"],
-  productivity: ["operations", "example-coldstorage", "procurement"],
+  productivity: ["operations", "method-consistency", "qc"],
   qc: ["qa", "solvent-waste", "resolve"],
   qa: ["qc", "pharma", "reporting"],
   procurement: ["example-act", "example-refills", "operating-costs"],
@@ -161,7 +164,7 @@ function editorialOverviewSections(id) {
 }
 
 function solutionsOverview() {
-  return editorialHero("solutions", "Explore practical ways to reduce resource use, measure progress and assess options for your laboratory application.", {label: "Laboratory solutions"}) + `
+  return editorialHero("solutions", "Start with a laboratory priority. Find what to measure, what to review with your team and which technologies may suit your workflow.", {label: "Laboratory solutions"}) + `
     <div class="page-body editorial-body">
       ${groups.solutions.groups.map(([label, ids]) => `<section class="related editorial-related"><h2>${esc(label)}</h2>
         <div class="cards">${ids.map(solutionOverviewCard).join("")}</div>

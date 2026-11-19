@@ -266,6 +266,12 @@ const sectionContent = {
   },
   "who-we-are": {
     intro: "Meet Antech Solutions, the Waterford-based analytical instrumentation business behind ReSolve.",
+    team: [
+      {name: "Richard", role: "Marketing and sales", image: "richard.webp", detail: "Leads sales and develops distributor channels."},
+      {name: "Dermot", role: "Development", image: "dermot.webp", detail: "Leads product development and manufacturing."},
+      {name: "Joe", role: "Implementation", image: "joe.webp", detail: "Leads installation, qualification, validation and technical support."},
+      {name: "Paddy", role: "Administration", image: "paddy.webp", detail: "Coordinates administration and project reporting."},
+    ],
     sections: [
       {title: "Analytical instruments and support", body: "Founded in 2000, Antech supplies analytical equipment including Raman and near-infrared instrumentation. The company publishes separate information about its instrument service and support plans."},
       {title: "A starting point for laboratory efficiency", body: "On Resolved Labs, Antech’s ReSolve system sits alongside practical guides and independent examples. The product pages identify who supplies each technology and link to the source behind it."},
@@ -339,8 +345,20 @@ function sectionPage(id) {
       `<a class="button ${index === 0 ? "primary" : "light"}" href="${esc(url)}">${esc(title)}</a>`).join("")}</div>`
     : "";
   const cardGroups = content.groups || (content.related ? [{title: "Explore related resources", ids: content.related}] : []);
+  const team = content.team ? `<section class="team-section" aria-labelledby="team-heading">
+    <h2 id="team-heading">ReSolve leadership</h2>
+    <ul class="team-grid">
+      ${content.team.map(({name, role, image, detail}) => `<li>
+        <div class="team-portrait"><img src="./assets/eic/${esc(image)}" alt="" loading="lazy" decoding="async"></div>
+        <h3>${esc(name)}</h3>
+        <p class="team-role">${esc(role)}</p>
+        <p>${esc(detail)}</p>
+      </li>`).join("")}
+    </ul>
+  </section>` : "";
   return editorialHero(id, content.intro, {title: content.title || titles[id] || groups[id]?.title, label, actions, parent}) + `
     <div class="page-body editorial-body">
+      ${team}
       ${editorialPanels(id, content.sections)}
       ${cardGroups.map(group => `<section class="related editorial-related">
         <h2>${esc(group.title)}</h2><div class="cards">${group.ids.map(sectionCard).join("")}</div>

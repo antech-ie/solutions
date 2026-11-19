@@ -82,6 +82,10 @@ const solutionContent = {
         body: "Pick one process, such as an HPLC instrument group or a bank of freezers. Bring together purchasing records, waste collection charges, electricity data and completed work. Mark where a shared bill or meter needs an allocation and document how you made it.",
       },
       {
+        title: "Test the effect of rising solvent prices",
+        body: "Estimate annual spending at today’s price per litre and at a higher price based on your purchasing history or supplier quotes. Compare the scenarios at your current fresh-solvent demand and at the lower demand you could achieve on eligible methods.",
+      },
+      {
         title: "Compare costs over the equipment’s working life",
         body: "Estimate purchase, installation, consumables, servicing and disposal over the same period for each option. For cold storage, compare energy figures on a consistent test basis and check that capacity and operating temperature match your needs.",
       },
@@ -91,6 +95,48 @@ const solutionContent = {
       },
     ],
     sources: [solutionSources.freezerComparison, solutionSources.labEfficiency],
+  },
+  circularity: {
+    intro: "Improve laboratory circularity by recovering useful materials and measuring how much fresh material and waste the change actually avoids.",
+    sections: [
+      {
+        title: "Identify a stream worth recovering",
+        body: "Record what the lab buys and discards. Begin with one well-defined stream, such as mobile phase from a compatible isocratic HPLC method, and keep wash and disposal streams separate in the baseline.",
+      },
+      {
+        title: "Measure reuse and its effects",
+        body: "Track litres purchased, recovered and sent to waste over comparable workloads. Use appropriate factors for solvent production, transport and disposal if you estimate CO₂e, and account for any additional energy or materials involved in recovery.",
+      },
+    ],
+    sources: [solutionSources.solventRecovery, solutionSources.emissionsInventory],
+  },
+  "solvent-supply": {
+    intro: "Reduce reliance on fresh solvent and understand what shortages, longer lead times and price increases would mean for routine testing.",
+    sections: [
+      {
+        title: "Measure exposure by solvent and grade",
+        body: "List the grades your lab relies on, its approved suppliers, typical lead times and usable stock. Relate expected deliveries and drawdown to scheduled runs to see where testing would be most exposed.",
+      },
+      {
+        title: "Compare ways to reduce fresh-solvent demand",
+        body: "Model the effect of a delayed shipment or a price increase using local purchasing data. For suitable isocratic methods, estimate the demand that verified recovery could avoid while allowing for the volume the lab still needs to buy.",
+      },
+    ],
+    sources: [solutionSources.solventRecovery, solutionSources.labEfficiency],
+  },
+  "method-consistency": {
+    intro: "Understand where mobile-phase variation enters your HPLC workflow and what to check before changing how solvent is prepared or reused.",
+    sections: [
+      {
+        title: "Trace preparation and use",
+        body: "Review preparation records, solvent lots, hold times and the composition and pH specified by the approved method. Compare these records with retention time, system suitability and repeat runs to identify patterns worth investigating.",
+      },
+      {
+        title: "Agree how to check a change",
+        body: "Work with the method owner and quality team to set acceptance criteria and compare representative runs. Assess reuse for compatible isocratic methods under your own quality procedures.",
+      },
+    ],
+    sources: [solutionSources.procedureValidation, solutionSources.procedureDevelopment, solutionSources.solventRecovery],
   },
   "solvent-waste": {
     intro: "Trace how solvents enter the lab, where methods use them and what reaches waste collection. That baseline helps identify where to reduce use or assess recovery.",
@@ -165,11 +211,11 @@ const solutionContent = {
     sources: [solutionSources.emissionsInventory, solutionSources.purchasedEnergy, solutionSources.benchmark],
   },
   productivity: {
-    intro: "Find the steps that delay accepted work, then test changes that free up analyst time and instrument capacity.",
+    intro: "Find where analysts spend hands-on time and where waiting or repeated work reduces laboratory throughput.",
     sections: [
       {
         title: "Track the work from receipt to review",
-        body: "Follow a typical batch through sample receipt, preparation, instrument time and result review. Note how often an analyst waits for a shared instrument or searches for a stored sample. Separate waiting time from hands-on time so the intervention addresses the right bottleneck.",
+        body: "Follow a batch through sample receipt, mobile-phase preparation, instrument setup, testing and result review. Track analyst time spent preparing solvent, changing bottles and managing waste. Separate hands-on time from waiting so the team can identify the biggest bottleneck.",
       },
       {
         title: "Trial one operational change",
