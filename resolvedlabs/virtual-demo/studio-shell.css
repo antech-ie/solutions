@@ -1,0 +1,23 @@
+.studio-return {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: .5rem 1rem;
+  padding: .625rem clamp(1rem, 4vw, 3rem);
+  color: #fff;
+  background: #113329;
+  font: 700 .875rem/1.45 Arial, sans-serif;
+}
+
+.studio-return a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: .2em;
+}
+
+.studio-return a:hover { color: #ffb77c; }
+
+.studio-return a:focus-visible {
+  outline: 2px solid #ffb77c;
+  outline-offset: 4px;
+}

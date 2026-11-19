@@ -1,0 +1,84 @@
+[
+  {
+    "id": "pmbrc-validation",
+    "title": "PMBrc / SETU performance evaluation",
+    "category": "Independent evidence",
+    "type": "PDF",
+    "description": "Independent PMBrc / SETU study reporting 94.5% recovery and comparable chromatographic performance for the evaluated isocratic method.",
+    "sourceDate": "2026-07-22",
+    "sourcePages": "Study design pp. 5–6; recovery p. 7; performance pp. 8–9; report example p. 11.",
+    "caveats": [
+      "Two 96-injection sequences using paracetamol and ibuprofen; recovered mobile phase from the first sequence was reused in the second.",
+      "Volumes registered by ReSolve. LC/MS detection limits and formal equivalence margins are not stated in the report."
+    ],
+    "thumbnail": "./library/pmbrc-evidence-07.png",
+    "url": "./library/pmbrc-validation-july-2026.pdf"
+  },
+  {
+    "id": "pmbrc-summary",
+    "title": "PMBrc evaluation: results and boundaries",
+    "category": "Evidence summary",
+    "type": "PDF",
+    "description": "A concise two-page account of recovery, chromatographic response and the independent study results.",
+    "sourceDate": null,
+    "sourcePages": "2 pages, based on report BM22072026 dated 22 July 2026.",
+    "caveats": [
+      "The all-to-waste comparison is calculated from detector throughput. Preparation, wash and flush solvents are outside that comparison."
+    ],
+    "url": "./library/pmbrc-evaluation-summary.pdf"
+  },
+  {
+    "id": "user-manual",
+    "title": "ReSolve user manual — Rev 1.0",
+    "category": "Operation and reporting",
+    "type": "PDF",
+    "description": "The complete reference for ReSolve operation, peak detection, diversion timing and reporting workflows.",
+    "sourceDate": null,
+    "sourcePages": "Mechanism pp. 10–13; reporting and configuration pp. 28–37; 38 pages total.",
+    "caveats": [
+      "Manufacturer operating documentation, ReSUM Rev 1.0."
+    ],
+    "url": "./library/resolve-user-manual-rev1.pdf"
+  },
+  {
+    "id": "brochure",
+    "title": "ReSolve product brochure — Rev 2",
+    "category": "Product material",
+    "type": "PDF",
+    "description": "Antech’s original product overview: selective recovery, laboratory benefits, operating concept and technical specifications.",
+    "sourceDate": null,
+    "sourcePages": "4 pages; operating concept p. 2; specifications p. 4.",
+    "caveats": [
+      "Original Rev 2 product collateral. The final PMBrc report supplies the study-specific performance figures."
+    ],
+    "url": "./library/resolve-brochure-rev2.pdf"
+  },
+  {
+    "id": "sustainability-whitepaper",
+    "title": "Regulatory and sustainability white paper",
+    "category": "Evaluation framework",
+    "type": "PDF",
+    "description": "Antech’s business and sustainability case for mobile-phase recovery, with an evidence summary and transparent savings calculations.",
+    "sourceDate": "2026-09-30",
+    "sourcePages": "Evidence p. 3; proposed qualification framework p. 4; savings boundaries p. 5; 6 pages total.",
+    "caveats": [
+      "September 2026 edition. External references retain their original publication status.",
+      "The paper separates recovered throughput, fresh-solvent purchasing and net operating benefit."
+    ],
+    "url": "./library/resolve-regulatory-sustainability-whitepaper.pdf"
+  },
+  {
+    "id": "sample-injection-report",
+    "title": "Illustrative injection report",
+    "category": "Report example",
+    "type": "PDF",
+    "description": "An original example showing method settings, waste-event windows, collected volumes and the chromatogram together.",
+    "sourceDate": "2025-01-08",
+    "sourcePages": "1 page; date shown is the example injection date.",
+    "caveats": [
+      "Illustrative ABC Pharma report dated 8 January 2025; the displayed 80% recovery belongs to this example."
+    ],
+    "thumbnail": "./library/injection-example-1.png",
+    "url": "./library/resolve-example-injection-report.pdf"
+  }
+]
