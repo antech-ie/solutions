@@ -407,7 +407,7 @@ function renderAssets(n){
 function renderHplc(n){
  const b=getScopeBatches(n.id).filter(filterText).sort((a,b)=>b.date.localeCompare(a.date)),globalVol=sums(getScopeBatches('enterprise')).volume;
  $('explorerTitle').textContent=n.name+' · Batch history';$('explorerSubtitle').textContent=`${n.model} · ${n.status} · ${n.usage} · ${n.pm}`;$('rowLabel').textContent=b.length+' batches';
- const rows=b.map(x=>`<tr class="click" data-open="${x.id}"><td><span class="table-link">${x.name}</span><div class="row-sub">${x.date}</div></td><td>${x.product}</td><td>${x.method}</td><td>${mixes[x.mi].short}</td><td class="number">${x.count}</td><td class="number">${fmt(x.total/1000)} L</td><td class="number">${pct(globalVol?x.total/1000/globalVol*100:0)}</td><td class="number">${fmt(x.reuse/1000)} L</td><td class="number">${pct(100*x.reuse/x.total)}</td><td class="number">${eur(x.unitCost)}/L</td><td class="number">${eur(x.reuse/1000*x.unitCost)}</td><td class="right row-go">›</td></tr>`).join('');
+ const rows=b.map(x=>`<tr class="click" data-open="${x.id}"><td><span class="table-link">${x.name}</span><div class="row-sub">${x.date}</div></td><td>${x.product}</td><td>${x.method}</td><td>${mixes[x.mi].short}</td><td class="number">${x.count}</td><td class="number">${units(x.total/1000)}</td><td class="number">${pct(globalVol?x.total/1000/globalVol*100:0)}</td><td class="number">${units(x.reuse/1000)}</td><td class="number">${pct(100*x.reuse/x.total)}</td><td class="number">${eur(x.unitCost)}/L</td><td class="number">${eur(x.reuse/1000*x.unitCost)}</td><td class="right row-go">›</td></tr>`).join('');
  $('explorerContent').innerHTML=tableWrapper(['Batch / date','Product','Method','Mobile phase','Injections','Mobile phase L','% enterprise','Recycled L','% recycled','Phase cost','Cost avoided*',''],rows);$('recordCount').textContent=`${b.length} batch records across 2020–2026`;attachOpen($('explorerContent'));
 }
 function batchTabs(){return [['routing','Injection routing'],['report','Injection report'],['records','Source record'],['audit','Injection audit trail'],['cost','Mobile phase & cost']].map(([x,l])=>`<button class="${state.batchTab===x?'active':''}" data-tab="${x}">${l}</button>`).join('')}
@@ -615,7 +615,7 @@ const childLevel = {enterprise:'country',country:'site',site:'lab'};
 const displayName = n => n.level === 'enterprise' ? 'Enterprise' : n.name;
 const locationName = n => lineage(n).filter(x => x.level !== 'enterprise').map(displayName).join(' / ');
 const money = n => '€' + fmt(n);
-const units = n => fmt(n) + ' L';
+const units = n => n > 0 && n < 1 ? fmt(n * 1000) + ' mL' : fmt(n) + ' L';
 const scopeNode = () => lineage(getNode()).filter(n => orgLabel[n.level]).at(-1) || nodes.enterprise;
 const roleTab = {'QC / Quality':'explorer','Sustainability / ESG':'explorer','Finance':'rollout',
   'Procurement':'procurement','Supply Chain':'supply','Operations':'fleet','Systems Support':'support','Strategy':'rollout'};
@@ -894,6 +894,7 @@ function metricValue(key,value) {
   if (value === null || value === undefined) return '—';
   const [,unit] = metricDefinitions[key];
   if (unit === '%') return pct(value);
+  if (unit === 'L') return units(value);
   if (unit === '€') return money(value);
   if (unit === '€/L') return money(value) + '/L';
   return unit ? fmt(value) + ' ' + unit : fmt(value);
