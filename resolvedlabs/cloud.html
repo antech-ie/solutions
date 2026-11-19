@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="en-IE">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Explore site, instrument and run-level solvent recovery in the ReSolve Cloud portfolio demo.">
+  <title>ReSolve Cloud | Solvent recovery portfolio</title>
+  <link rel="stylesheet" href="./brand.css">
+  <link rel="stylesheet" href="./cloud.css">
+  <script src="./cloud.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#portfolio">Skip to portfolio</a>
+  <header class="app-header">
+    <div class="app-shell header-inner">
+      <a class="wordmark" href="./" aria-label="Resolved Labs website">
+        <span class="brand-mark"><img src="./assets/resolve-logo.png" width="1144" height="1144" alt=""></span>
+        <span>ReSolve <strong>Cloud</strong></span>
+      </a>
+      <nav class="header-nav" aria-label="Analytics navigation">
+        <a href="#portfolio">Portfolio</a>
+        <a href="#records">Run records</a>
+      </nav>
+      <a class="back-link" href="./">Resolved Labs</a>
+    </div>
+  </header>
+
+  <main class="app-shell" id="portfolio">
+    <section class="intro" aria-labelledby="portfolio-heading">
+      <div class="intro-copy">
+        <span class="demo-badge" id="snapshot-date">Demo data</span>
+        <h1 id="portfolio-heading">Solvent recovery portfolio</h1>
+        <p>See where mobile phase is being recovered and which labs need a closer look.</p>
+        <button class="button button-dark" id="export" type="button">Download records CSV</button>
+      </div>
+      <figure class="intro-media">
+        <img src="./assets/resolve-laboratory.webp" width="1500" height="1125" alt="ReSolve solvent recovery controller mounted on an HPLC instrument">
+        <figcaption>ReSolve on an HPLC instrument</figcaption>
+      </figure>
+    </section>
+
+    <div class="filters" aria-label="Portfolio filters">
+      <label for="period">Period
+        <select id="period">
+          <option value="30">Last 30 days</option>
+          <option value="90" selected>Last 90 days</option>
+          <option value="180">Last 180 days</option>
+        </select>
+      </label>
+      <label for="site">Site
+        <select id="site"><option value="">All sites</option></select>
+      </label>
+      <label for="instrument">Instrument
+        <select id="instrument"><option value="">All instruments</option></select>
+      </label>
+      <button id="reset" class="text-button" type="button" hidden>Clear selection</button>
+      <span id="date-range" class="date-range"></span>
+    </div>
+
+    <section aria-label="Portfolio metrics" class="metric-grid" id="metrics"></section>
+    <p id="selection-status" class="sr-only" role="status"></p>
+
+    <div class="details-grid">
+      <section class="panel trend" aria-labelledby="trend-heading">
+        <header class="panel-heading">
+          <div>
+            <h2 id="trend-heading">Solvent routing over time</h2>
+            <p>Recorded mobile phase volumes by reporting period.</p>
+          </div>
+        </header>
+        <div class="trend-legend">
+          <span><i class="return-key"></i> Returned to reservoir</span>
+          <span><i class="waste-key"></i> Routed to waste</span>
+        </div>
+        <div id="chart" class="chart"></div>
+        <div id="chart-summary" class="chart-summary">Focus or select a bar to see its volume.</div>
+      </section>
+
+      <section class="panel attention" aria-labelledby="attention-heading">
+        <header class="panel-heading">
+          <div>
+            <h2 id="attention-heading">Needs review</h2>
+            <p>Reporting gaps and recovery changes.</p>
+          </div>
+          <span id="issue-count" class="count-badge"></span>
+        </header>
+        <div id="insights" class="insights"></div>
+      </section>
+    </div>
+
+    <section class="panel" id="comparison" aria-labelledby="comparison-heading">
+      <header class="panel-heading">
+        <div>
+          <h2 id="comparison-heading">Site comparison</h2>
+          <p id="comparison-note">Select a site to inspect its instruments.</p>
+        </div>
+        <button type="button" id="definitions-open" class="text-button">Metric definitions</button>
+      </header>
+      <div class="table-wrap" tabindex="0" role="region" aria-labelledby="comparison-heading">
+        <table class="metrics-table">
+          <thead>
+            <tr><th scope="col" id="compare-first">Site</th><th scope="col">Recovered</th><th scope="col">Recovery rate</th><th scope="col">Routed to waste</th><th scope="col">Reporting</th></tr>
+          </thead>
+          <tbody id="comparison-rows"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="panel" id="records" aria-labelledby="records-heading">
+      <header class="panel-heading">
+        <div>
+          <h2 id="records-heading">Run records</h2>
+          <p id="record-description">Select a record to see its volume balance.</p>
+        </div>
+      </header>
+      <div class="table-wrap" tabindex="0" role="region" aria-labelledby="records-heading">
+        <table class="records-table">
+          <thead>
+            <tr><th scope="col">Sequence / date</th><th scope="col">Site / instrument</th><th scope="col">Injections</th><th scope="col">Processed</th><th scope="col">Recovered</th><th scope="col">Routed to waste</th></tr>
+          </thead>
+          <tbody id="record-rows"></tbody>
+        </table>
+      </div>
+      <div class="pager" id="pager" hidden>
+        <span id="record-range"></span>
+        <button class="button" id="prev" type="button">Previous</button>
+        <button class="button" id="next" type="button">Next</button>
+      </div>
+    </section>
+
+    <footer class="workspace-footer">
+      <p>This preview uses fictional sites and simulated run records. Recorded volumes reflect solvent routing. Purchase and CO₂e avoided require separate verified inputs.</p>
+      <img src="./assets/antech-orange.png" alt="Antech" loading="lazy">
+    </footer>
+  </main>
+
+  <dialog id="definitions" aria-labelledby="definitions-heading">
+    <header class="dialog-heading">
+      <h2 id="definitions-heading">Metric definitions</h2>
+      <form method="dialog"><button class="button" type="submit">Close</button></form>
+    </header>
+    <dl>
+      <dt>Solvent recovered</dt>
+      <dd>Sum of mobile phase returned to the reservoir in the selected records.</dd>
+      <dt>Recovery rate</dt>
+      <dd>Returned volume divided by processed volume across all selected records. This weights each record by the volume it processed.</dd>
+      <dt>Liquid routed to waste</dt>
+      <dd>Sum of mobile phase diverted to waste. Within each record, returned and diverted volumes add up to the processed volume.</dd>
+      <dt>Reporting instruments</dt>
+      <dd>Instruments with at least one record in the latest seven days of the selected period, divided by the instruments in scope. The demo includes 18 instruments across four sites.</dd>
+      <dt>Change versus prior period</dt>
+      <dd>Compares the selection with the preceding window of equal length. Recovery-rate changes are shown in percentage points. The demo flags a drop of three percentage points or more for review.</dd>
+    </dl>
+  </dialog>
+
+  <dialog id="run" aria-labelledby="run-heading">
+    <header class="dialog-heading">
+      <h2 id="run-heading">Sequence details</h2>
+      <form method="dialog"><button class="button" type="submit">Close</button></form>
+    </header>
+    <div id="run-details"></div>
+  </dialog>
+</body>
+</html>

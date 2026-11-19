@@ -1,0 +1,31 @@
+1
+00:00:00,000 --> 00:00:18,264
+Welcome to ReSolve Studio. See how Antech keeps mobile phase in use for longer, with selective recovery after the detector. Follow the complete HPLC journey, from sample injection to the signal, valve and collection bottles.
+
+2
+00:00:19,064 --> 00:00:35,480
+The autosampler draws a small sample into the needle. This begins the HPLC journey. Once the sample enters the mobile phase, the column separates its components, creating the peak zones that ReSolve will follow.
+
+3
+00:00:36,280 --> 00:00:54,880
+As the first component reaches the detector, the signal rises. ReSolve recognises the elution event and prepares to divert that fraction. The chromatogram, controller and valve now work together, making the recovery decision visible as it happens.
+
+4
+00:00:55,680 --> 00:01:11,592
+Now follow the orange path. The valve directs the selected peak fraction to waste, with transit delay aligning the switch to the arriving liquid. The waste bottle and collection totals show exactly where the flow goes.
+
+5
+00:01:12,392 --> 00:01:30,896
+Once the peak passes, the extra waste margin allows time for tailing. Recovery then resumes, returning selected baseline flow to the reservoir. That is the core opportunity: keep usable mobile phase in circulation and send less to waste.
+
+6
+00:01:31,696 --> 00:01:48,304
+Here comes the second component. ReSolve follows the changing detector signal and responds again. Explore different peak shapes, detection settings and tubing delays in the studio, and see how the routing changes throughout the run.
+
+7
+00:01:49,104 --> 00:02:10,272
+Compare the collection totals. All-to-waste sends the full processed flow to disposal. Selective recovery returns part of that flow to the reservoir. The savings calculator brings this opportunity into a business case, combining workload, solvent prices and operating costs.
+
+8
+00:02:11,072 --> 00:02:34,496
+PMBrc reported 94.5 percent recovery in each of two 96-injection sequences for its tested isocratic method, with comparable chromatography using recovered mobile phase. Explore the original report and Antech tools in the knowledge library. ReSolve helps laboratories get more from their mobile phase.
